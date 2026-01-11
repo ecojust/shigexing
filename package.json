@@ -1,5 +1,5 @@
 {
-  "name": "shigexing",
+  "name": "tauri-app",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -7,28 +7,18 @@
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
-    "tauri": "tauri",
-    "b": "yarn tauri build",
-    "d": "yarn tauri dev",
-    "a": "yarn tauri android dev",
-    "i": "yarn tauri ios dev"
+    "tauri": "tauri"
   },
   "dependencies": {
-    "@tauri-apps/api": "^2.9.1",
-    "@tauri-apps/plugin-fs": "^2.4.2",
-    "@tauri-apps/plugin-opener": "^2",
-    "dayjs": "^1.11.18",
-    "element-plus": "^2.11.1",
-    "randomize": "^0.0.4",
     "vue": "^3.5.13",
-    "vue-router": "4"
+    "@tauri-apps/api": "^2",
+    "@tauri-apps/plugin-opener": "^2"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^2",
     "@vitejs/plugin-vue": "^5.2.1",
-    "less": "^4.4.1",
     "typescript": "~5.6.2",
     "vite": "^6.0.3",
-    "vue-tsc": "^2.1.10"
+    "vue-tsc": "^2.1.10",
+    "@tauri-apps/cli": "^2"
   }
 }
