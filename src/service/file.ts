@@ -4,7 +4,6 @@ import {
   mkdir,
   readDir,
   BaseDirectory,
-  DirEntry,
   remove,
 } from "@tauri-apps/plugin-fs";
 import { IResult } from "./interface";
