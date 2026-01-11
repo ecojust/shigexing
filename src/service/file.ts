@@ -81,8 +81,8 @@ export default class File {
     }
   }
 
-  static async _readDir(dir: string): Promise<Array<DirEntry>> {
-    let entries: Array<DirEntry> = [];
+  static async _readDir(dir: string): Promise<Array<any>> {
+    let entries: Array<any> = [];
     try {
       const res = await readDir(dir, {
         baseDir: this.baseDir,
