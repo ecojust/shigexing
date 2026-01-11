@@ -1,12 +1,12 @@
-<script setup lang="ts">
-// 路由应用的主入口
-</script>
-
 <template>
   <div id="app">
     <router-view />
   </div>
 </template>
+
+<script setup lang="ts">
+// 路由应用的主入口
+</script>
 
 <style>
 :root {
