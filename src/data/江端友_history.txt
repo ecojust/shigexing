@@ -1,0 +1,48 @@
+
+-----title
+开封 (出生地)
+-----detail
+<div class='label1' id='2df561e063734f8380aab19cc0451c7b_label'><a href='javascript: DetailSwitch("2df561e063734f8380aab19cc0451c7b");'><span id='2df561e063734f8380aab19cc0451c7b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1126')">1085-1126年</a>，1-42岁</div><div id='2df561e063734f8380aab19cc0451c7b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')">1085年</a>　出生？<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1116')">1086-1116年</a>　居开封陈留。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1117')">1117年</a>　居开封陈留。与晁说之有诗唱和。江端友原韵不存。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1124')">1118-1124年</a>　居开封陈留。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>　居开封陈留，王铚与之有诗唱和。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>　居开封陈留，张元干与之有诗唱和。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>　在开封。以吴敏荐召见，为承务郎，赐进士出身，诸王宫教授。<br /></div>
+-----end
+
+
+
+-----title
+福州
+-----detail
+<div class='label1' id='24cb56ea25584c1f949f2ee40aefecd0_label'><a href='javascript: DetailSwitch("24cb56ea25584c1f949f2ee40aefecd0");'><span id='24cb56ea25584c1f949f2ee40aefecd0_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1129')">1127-1129年</a>，43-45岁</div><div id='24cb56ea25584c1f949f2ee40aefecd0' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年8月</a>　在福州，遣兵部员外郎江端友等抚谕闽、浙、湖、广、江、淮、京东西诸路，及体访官吏贪廉、军民利病。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年11月7日</a>　在福州，为张元干题跋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>　在福州。<br /></div>
+-----end
+
+
+
+-----title
+桐庐
+-----detail
+<div class='label1' id='fa71a41860004843b14b7720c872cece_label'><a href='javascript: DetailSwitch("fa71a41860004843b14b7720c872cece");'><span id='fa71a41860004843b14b7720c872cece_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1131')">1130-1131年</a>，46-47岁</div><div id='fa71a41860004843b14b7720c872cece' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年秋</a>　在桐庐县鸬鹚源，秋刘一止次韵江端友。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')">1131年</a>　在桐庐县鸬鹚源，与刘一止、沈与求等归依在此隐居的方允迪，年初金人焚临安，秋他们同避难于此。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='d7fe811646d64c9895fe6fdb462774ae_label'><a href='javascript: DetailSwitch("d7fe811646d64c9895fe6fdb462774ae");'><span id='d7fe811646d64c9895fe6fdb462774ae_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年</a>，48岁</div><div id='d7fe811646d64c9895fe6fdb462774ae' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年</a>　在临安，时员外郎江端友请营宗庙，议者非之，以为国家期于恢复，不常厥居，胜非方主和议，遂白上营宗庙于临安。<br /></div>
+-----end
+
+
+
+-----title
+温州
+-----detail
+<div class='label1' id='8c8beceaca594a0ebc8a1eb4c71cc69c_label'><a href='javascript: DetailSwitch("8c8beceaca594a0ebc8a1eb4c71cc69c");'><span id='8c8beceaca594a0ebc8a1eb4c71cc69c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1134')">1133-1134年</a>，49-50岁</div><div id='8c8beceaca594a0ebc8a1eb4c71cc69c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年</a>　在温州。主管江州崇道观。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年</a>　卒于温州。<br /></div>
+-----end
+
+
+
+-----title
+雁荡山
+-----detail
+null
+-----end
+
+

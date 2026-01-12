@@ -1,0 +1,40 @@
+
+-----title
+杭州（临安） (出生地)
+-----detail
+<div class='label1' id='6fbebae9e918479eb5dbb82ca1b0a4b5_label'><a href='javascript: DetailSwitch("6fbebae9e918479eb5dbb82ca1b0a4b5");'><span id='6fbebae9e918479eb5dbb82ca1b0a4b5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1247')">1201-1247年</a>，1-47岁</div><div id='6fbebae9e918479eb5dbb82ca1b0a4b5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年</a>　约生于本年。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1207')">1202-1207年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')">1208年</a>　当在临安上小学，拜见史弥远，史弥远以为远器。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1213')">1209-1213年</a>　当在临安上小学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年</a>　本年当小学卒业。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1232')">1215-1232年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1233')">1233年</a>　杨赞官阶已至朝请郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1234&endYear=1241')">1234-1241年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1242&endYear=1244')">1242-1244年</a>　本年或为太常寺太社令。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1245&endYear=1247')">1245-1247年</a>　本年或为临安府通判。<br /></div><div class='label1' id='fe3f17e9b4644ae5af2550da801c4e28_label'><a href='javascript: DetailSwitch("fe3f17e9b4644ae5af2550da801c4e28");'><span id='fe3f17e9b4644ae5af2550da801c4e28_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1267')">1257-1267年</a>，57-67岁</div><div id='fe3f17e9b4644ae5af2550da801c4e28' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1257')">1257年</a>　杨缵或任司农少卿，主盟的西湖吟社开始活动。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1258&endYear=1259')">1258-1259年</a>　杨缵或任司农少卿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1262')">1260-1262年</a>　本年或任两浙东路安抚使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1263&endYear=1263')">1263年</a>　或居临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1264&endYear=1264')">1264年</a>　率吟社诸友西湖赋词。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1265&endYear=1266')">1265-1266年</a>　或居临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1267&endYear=1267')">1267年</a>　杨缵之女进封淑妃。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1267&endYear=1267')">1267年6月3日</a>　卒，西湖吟社活动结束。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1267&endYear=1267')">1267年</a>　赠少师。<br /></div>
+-----end
+
+
+
+-----title
+江阴
+-----detail
+<div class='label1' id='b3b010ab0652421488a1a99e9b661e26_label'><a href='javascript: DetailSwitch("b3b010ab0652421488a1a99e9b661e26");'><span id='b3b010ab0652421488a1a99e9b661e26_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1248&endYear=1253')">1248-1253年</a>，48-53岁</div><div id='b3b010ab0652421488a1a99e9b661e26' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1248&endYear=1248')">1248年</a>　以朝奉大夫直敷文阁知江阴军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1253')">1249-1253年</a>　本年或以朝奉大夫直敷文阁知江阴军。<br /></div>
+-----end
+
+
+
+-----title
+湖州（安吉）
+-----detail
+<div class='label1' id='a3aa8f76df834086a22a714cedc2e002_label'><a href='javascript: DetailSwitch("a3aa8f76df834086a22a714cedc2e002");'><span id='a3aa8f76df834086a22a714cedc2e002_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1254&endYear=1256')">1254-1256年</a>，54-56岁</div><div id='a3aa8f76df834086a22a714cedc2e002' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1254&endYear=1254')">1254年</a>　知安吉州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1255&endYear=1256')">1255-1256年</a>　本年或知安吉州。<br /></div>
+-----end
+
+
+
+-----title
+西湖
+-----detail
+null
+-----end
+
+
+
+-----title
+西湖
+-----detail
+null
+-----end
+
+

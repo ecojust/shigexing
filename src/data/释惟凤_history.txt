@@ -1,0 +1,56 @@
+
+-----title
+都江堰 (出生地)
+-----detail
+<div class='label1' id='002ea948a19a4c34ab1ba59efd5cb163_label'><a href='javascript: DetailSwitch("002ea948a19a4c34ab1ba59efd5cb163");'><span id='002ea948a19a4c34ab1ba59efd5cb163_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=980&endYear=980')">980年</a>，出生</div><div id='002ea948a19a4c34ab1ba59efd5cb163' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=980&endYear=980')">980年</a>　约于本年，出生于青城。<br /></div>
+-----end
+
+
+
+-----title
+永济
+-----detail
+<div class='label1' id='083a148056174d3591142b4127c56392_label'><a href='javascript: DetailSwitch("083a148056174d3591142b4127c56392");'><span id='083a148056174d3591142b4127c56392_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=996&endYear=996')">996年</a>，17岁</div><div id='083a148056174d3591142b4127c56392' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=996&endYear=996')">996年</a>　约于本年秋，在河中府，有诗。作品：留题河中柴给事望云亭。<span class='inlineComment2'>（此诗见《九僧诗》）</span><div id='poem_238204' class='_poem'><div id='poem_title_238204' class='poemTitle showDetail'><a href='/Writing/238204?labeling=true' target='_blank'>留题河中柴给事望云亭</a><span class='authorDate'>（996年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(33780, "宋", "释惟凤", "poem_title_238204")'>释惟凤</a></span><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_238204_comment'></div><div class='poemContent' id='poem_content_238204'><div class='poemSentence' id='poem_sentence_0_238204'>郡闲思退隐，嘉致望云秋。<div id='poem_sentence_0_238204_comment'></div></div><div class='poemSentence' id='poem_sentence_1_238204'>旧客容谁访，新诗许我留。<div id='poem_sentence_1_238204_comment'></div></div><div class='poemSentence' id='poem_sentence_2_238204'>棋窗寒日短，琴幌夜灯幽。<div id='poem_sentence_2_238204_comment'></div></div><div class='poemSentence' id='poem_sentence_3_238204'>青琐无归梦，期僧话沃洲。<div id='poem_sentence_3_238204_comment'></div></div><div class='poemSentence' id='poem_sentence_4_238204'></div><div id='poem_sentence_4_238204_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='aebd7124ad384d26ab6fbe646ecdcea8_label'><a href='javascript: DetailSwitch("aebd7124ad384d26ab6fbe646ecdcea8");'><span id='aebd7124ad384d26ab6fbe646ecdcea8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1005')">1002-1005年</a>，23-26岁</div><div id='aebd7124ad384d26ab6fbe646ecdcea8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')">1002年</a>　约于本年，至京师。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1005')">1003-1005年</a>　本年，居京师。<br /></div><div class='label1' id='9f4017a718d4414a9a2aded60ed8fc57_label'><a href='javascript: DetailSwitch("9f4017a718d4414a9a2aded60ed8fc57");'><span id='9f4017a718d4414a9a2aded60ed8fc57_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')">1007年</a>，28岁</div><div id='9f4017a718d4414a9a2aded60ed8fc57' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')">1007年</a>　约于本年，自关中返京师。<br /></div>
+-----end
+
+
+
+-----title
+西安
+-----detail
+<div class='label1' id='4c4efe3936644d09bc37d05a228f714d_label'><a href='javascript: DetailSwitch("4c4efe3936644d09bc37d05a228f714d");'><span id='4c4efe3936644d09bc37d05a228f714d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1006&endYear=1006')">1006年</a>，27岁</div><div id='4c4efe3936644d09bc37d05a228f714d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1006&endYear=1006')">1006年</a>　约于本年，游终南山，谒种放。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='23d669ba6a9b459fb66863edcf27f256_label'><a href='javascript: DetailSwitch("23d669ba6a9b459fb66863edcf27f256");'><span id='23d669ba6a9b459fb66863edcf27f256_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1015&endYear=1015')">1015年</a>，36岁</div><div id='23d669ba6a9b459fb66863edcf27f256' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1015&endYear=1015')">1015年</a>　本年，至杭州，与智圆交游。<br /></div><div class='label1' id='36a4b2bbc5434bbfaccd1f95f768e432_label'><a href='javascript: DetailSwitch("36a4b2bbc5434bbfaccd1f95f768e432");'><span id='36a4b2bbc5434bbfaccd1f95f768e432_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')">1021年</a>，42岁</div><div id='36a4b2bbc5434bbfaccd1f95f768e432' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')">1021年3月</a>　三月，至杭州，拜访王随、智圆等人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')">1021年</a>　夏，再至孤山，拜访林逋、智圆。<br /></div>
+-----end
+
+
+
+-----title
+宁波
+-----detail
+<div class='label1' id='ce302017230941e4a538ad75697c4e88_label'><a href='javascript: DetailSwitch("ce302017230941e4a538ad75697c4e88");'><span id='ce302017230941e4a538ad75697c4e88_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1016&endYear=1016')">1016年</a>，37岁</div><div id='ce302017230941e4a538ad75697c4e88' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1016&endYear=1016')">1016年</a>　本年，回四明。<br /></div><div class='label1' id='63a127f92c144c779d50a30cc44096d1_label'><a href='javascript: DetailSwitch("63a127f92c144c779d50a30cc44096d1");'><span id='63a127f92c144c779d50a30cc44096d1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')">1021年</a>，42岁</div><div id='63a127f92c144c779d50a30cc44096d1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1021&endYear=1021')">1021年</a>　秋，自杭州归四明。<br /></div>
+-----end
+
+
+
+-----title
+终南山
+-----detail
+null
+-----end
+
+

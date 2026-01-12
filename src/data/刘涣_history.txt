@@ -1,0 +1,168 @@
+
+-----title
+保定 (出生地)
+-----detail
+<div class='label1' id='b21c5d4a587b4c20bd23a22d8ca7a154_label'><a href='javascript: DetailSwitch("b21c5d4a587b4c20bd23a22d8ca7a154");'><span id='b21c5d4a587b4c20bd23a22d8ca7a154_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=997&endYear=1027')">997-1027年</a>，1-31岁</div><div id='b21c5d4a587b4c20bd23a22d8ca7a154' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=997&endYear=997')">997年</a>　刘涣生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=998&endYear=1027')">998-1027年</a>　少年居乡。<br /></div><div class='label1' id='62cf56f89b2948cb9f8b6b36acdfb68d_label'><a href='javascript: DetailSwitch("62cf56f89b2948cb9f8b6b36acdfb68d");'><span id='62cf56f89b2948cb9f8b6b36acdfb68d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')">1044年</a>，48岁</div><div id='62cf56f89b2948cb9f8b6b36acdfb68d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')">1044年八月癸丑</a>　工部郎中、直昭文馆、知沧州刘涣为吉州刺史、知保州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')">1044年八月</a>　到任月余，遇云翼军士叛乱，涣械其首恶诛之，一军帖然。<br /></div><div class='label1' id='f2e1fbcaaee54bef82e5167c47627089_label'><a href='javascript: DetailSwitch("f2e1fbcaaee54bef82e5167c47627089");'><span id='f2e1fbcaaee54bef82e5167c47627089_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1078')">1071-1078年</a>，75-82岁</div><div id='f2e1fbcaaee54bef82e5167c47627089' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')">1071年十二月乙卯</a>　以工部侍郎致仕，退居乡里。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1077')">1072-1077年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')">1078年八月乙卯</a>　卒。<br /></div>
+-----end
+
+
+
+-----title
+太原
+-----detail
+<div class='label1' id='d92fb98388a249a5a7e1c9f1459cf5e5_label'><a href='javascript: DetailSwitch("d92fb98388a249a5a7e1c9f1459cf5e5");'><span id='d92fb98388a249a5a7e1c9f1459cf5e5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1030')">1028-1030年</a>，32-34岁</div><div id='d92fb98388a249a5a7e1c9f1459cf5e5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')">1028年秋七月乙巳</a>　父刘文质卒，诏厚赐其家，录其三子，刘涣以父任为将作监主簿，监并州仓。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1029&endYear=1030')">1029-1030年</a>　将作监主簿，监并州仓。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='5a3effec4279423992ad322fcee23eca_label'><a href='javascript: DetailSwitch("5a3effec4279423992ad322fcee23eca");'><span id='5a3effec4279423992ad322fcee23eca_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1033')">1031-1033年</a>，35-37岁</div><div id='5a3effec4279423992ad322fcee23eca' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1031')">1031年十二月</a>　以奉礼郎，上书庄献太后，请还政，险被黥面流配白州，后因吕夷简、薛奎进谏得免。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1032&endYear=1032')">1032年</a>　在京为大理评事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年十一月戊寅</a>　迁左正言。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年十二月乙卯</a>　仁宗亲政，擢右正言。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年十二月</a>　郭后废，与孔道辅、范仲淹等伏阙争之，皆罚金。<br /></div>
+-----end
+
+
+
+-----title
+磁县
+-----detail
+<div class='label1' id='ac8b08fc55a04947b71c06ffe5011951_label'><a href='javascript: DetailSwitch("ac8b08fc55a04947b71c06ffe5011951");'><span id='ac8b08fc55a04947b71c06ffe5011951_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1034')">1034年</a>，38岁</div><div id='ac8b08fc55a04947b71c06ffe5011951' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1034')">1034年三月癸未</a>　以走马承受张丞震弹劾其并州“与营妓游”事，降殿中丞，通判磁州。<br /></div>
+-----end
+
+
+
+-----title
+左权
+-----detail
+<div class='label1' id='5b0938161e2045748cdc269fdded1001_label'><a href='javascript: DetailSwitch("5b0938161e2045748cdc269fdded1001");'><span id='5b0938161e2045748cdc269fdded1001_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1039')">1034-1039年</a>，38-43岁</div><div id='5b0938161e2045748cdc269fdded1001' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1034')">1034年三月后</a>　寻知辽州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1035&endYear=1039')">1035-1039年</a>　辽州知州任上。<br /></div>
+-----end
+
+
+
+-----title
+陇西
+-----detail
+<div class='label1' id='cb6ea1dd3df74e9cb2d39fe788bc4cf3_label'><a href='javascript: DetailSwitch("cb6ea1dd3df74e9cb2d39fe788bc4cf3");'><span id='cb6ea1dd3df74e9cb2d39fe788bc4cf3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>，44岁</div><div id='cb6ea1dd3df74e9cb2d39fe788bc4cf3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>　出古渭州。<br /></div>
+-----end
+
+
+
+-----title
+临夏州
+-----detail
+<div class='label1' id='a523487c2a6d4a7395c1321a3c3a919b_label'><a href='javascript: DetailSwitch("a523487c2a6d4a7395c1321a3c3a919b");'><span id='a523487c2a6d4a7395c1321a3c3a919b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>，44岁</div><div id='a523487c2a6d4a7395c1321a3c3a919b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>　循木邦山至河州国门寺。<br /></div>
+-----end
+
+
+
+-----title
+贵德
+-----detail
+<div class='label1' id='77147016422b4a4987a4880049fc4116_label'><a href='javascript: DetailSwitch("77147016422b4a4987a4880049fc4116");'><span id='77147016422b4a4987a4880049fc4116_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>，44岁</div><div id='77147016422b4a4987a4880049fc4116' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>　绝河，逾廓州。<br /></div>
+-----end
+
+
+
+-----title
+西宁
+-----detail
+<div class='label1' id='987a3ee6cc034407bb90a39cf86aed25_label'><a href='javascript: DetailSwitch("987a3ee6cc034407bb90a39cf86aed25");'><span id='987a3ee6cc034407bb90a39cf86aed25_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>，44岁</div><div id='987a3ee6cc034407bb90a39cf86aed25' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>　抵青唐城，谕使唃厮啰出兵西夏，受唃厮啰礼遇，然终不能有大功。作品：《刘氏西行录》<br /></div><div class='label1' id='08231874c08f41b087ed0a091f273648_label'><a href='javascript: DetailSwitch("08231874c08f41b087ed0a091f273648");'><span id='08231874c08f41b087ed0a091f273648_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年</a>，57岁</div><div id='08231874c08f41b087ed0a091f273648' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年三月丁巳</a>　官秦凤路部署，领兵讨青唐族羌。<br /></div><div class='label1' id='3be1f5007e594cc0bc8e244405507a38_label'><a href='javascript: DetailSwitch("3be1f5007e594cc0bc8e244405507a38");'><span id='3be1f5007e594cc0bc8e244405507a38_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年</a>，57岁</div><div id='3be1f5007e594cc0bc8e244405507a38' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年闰七月庚辰</a>　捕讨青唐吐蕃。<br /></div>
+-----end
+
+
+
+-----title
+沧州
+-----detail
+<div class='label1' id='c92bd9fae6004c508f1f10f9a5aa71e6_label'><a href='javascript: DetailSwitch("c92bd9fae6004c508f1f10f9a5aa71e6");'><span id='c92bd9fae6004c508f1f10f9a5aa71e6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')">1043年</a>，47岁</div><div id='c92bd9fae6004c508f1f10f9a5aa71e6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')">1043年八月癸亥</a>　以工部郎中知沧州，因刺逃兵被转运使以为恣暴降职。<br /></div>
+-----end
+
+
+
+-----title
+威海
+-----detail
+<div class='label1' id='51d9503b219d48d78df4d4cdf70e9e0d_label'><a href='javascript: DetailSwitch("51d9503b219d48d78df4d4cdf70e9e0d");'><span id='51d9503b219d48d78df4d4cdf70e9e0d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1046')">1045-1046年</a>，49-50岁</div><div id='51d9503b219d48d78df4d4cdf70e9e0d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')">1045年五月丁丑</a>　知登州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')">1045年</a>　任上修缮船备，多设方略以防备海贼，获仁宗手诏褒奖。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')">1046年五月壬辰</a>　以知登州、吉州刺史兼青州路都监。<br /></div>
+-----end
+
+
+
+-----title
+邢台
+-----detail
+<div class='label1' id='0037a8f23658457491c4a28ee6819e6d_label'><a href='javascript: DetailSwitch("0037a8f23658457491c4a28ee6819e6d");'><span id='0037a8f23658457491c4a28ee6819e6d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')">1047年</a>，51岁</div><div id='0037a8f23658457491c4a28ee6819e6d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')">1047年</a>　知刑州。<br /></div>
+-----end
+
+
+
+-----title
+濮阳
+-----detail
+<div class='label1' id='f26e45f6dfef45e996465f45b65b629b_label'><a href='javascript: DetailSwitch("f26e45f6dfef45e996465f45b65b629b");'><span id='f26e45f6dfef45e996465f45b65b629b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')">1052年</a>，56岁</div><div id='f26e45f6dfef45e996465f45b65b629b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')">1052年</a>　知开德府。<br /></div><div class='label1' id='d3b09ef84b1d4e2daa47e148ba5eb01d_label'><a href='javascript: DetailSwitch("d3b09ef84b1d4e2daa47e148ba5eb01d");'><span id='d3b09ef84b1d4e2daa47e148ba5eb01d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')">1071年</a>，75岁</div><div id='d3b09ef84b1d4e2daa47e148ba5eb01d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')">1071年六月庚申</a>　改知澶州。<br /></div>
+-----end
+
+
+
+-----title
+平凉
+-----detail
+<div class='label1' id='721d536e79ee46adb4d60501d72cd246_label'><a href='javascript: DetailSwitch("721d536e79ee46adb4d60501d72cd246");'><span id='721d536e79ee46adb4d60501d72cd246_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年</a>，57岁</div><div id='721d536e79ee46adb4d60501d72cd246' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年三月壬戌</a>　奉诏招抚古渭州蕃部，毋得轻战。<br /></div><div class='label1' id='0a22e2960c6c48798571d38d37717096_label'><a href='javascript: DetailSwitch("0a22e2960c6c48798571d38d37717096");'><span id='0a22e2960c6c48798571d38d37717096_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年</a>，57岁</div><div id='0a22e2960c6c48798571d38d37717096' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年闰七月辛巳</a>　自泽州团练使迁防御使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年八月辛酉</a>　奉诏每半年一巡古渭寨，以抚缉蕃部。<br /></div>
+-----end
+
+
+
+-----title
+清河
+-----detail
+<div class='label1' id='bad24deb75ca439ebc5fa2e373e18a50_label'><a href='javascript: DetailSwitch("bad24deb75ca439ebc5fa2e373e18a50");'><span id='bad24deb75ca439ebc5fa2e373e18a50_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')">1054年</a>，58岁</div><div id='bad24deb75ca439ebc5fa2e373e18a50' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')">1054年</a>　知恩州。<br /></div>
+-----end
+
+
+
+-----title
+正定
+-----detail
+<div class='label1' id='f6396045dbae4a8fba2b5c2f844d4a54_label'><a href='javascript: DetailSwitch("f6396045dbae4a8fba2b5c2f844d4a54");'><span id='f6396045dbae4a8fba2b5c2f844d4a54_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1055')">1055年</a>，59岁</div><div id='f6396045dbae4a8fba2b5c2f844d4a54' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1055')">1055年</a>　任真定路总管。<br /></div>
+-----end
+
+
+
+-----title
+赣州
+-----detail
+<div class='label1' id='ba4ac9d90f2343798f73de1ecad9c523_label'><a href='javascript: DetailSwitch("ba4ac9d90f2343798f73de1ecad9c523");'><span id='ba4ac9d90f2343798f73de1ecad9c523_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1059')">1056-1059年</a>，60-63岁</div><div id='ba4ac9d90f2343798f73de1ecad9c523' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1059')">1056-1059年</a>　于虔州任观察使。<br /></div>
+-----end
+
+
+
+-----title
+定州
+-----detail
+<div class='label1' id='cf6ddea1940e4a7d9cf02ff9f1675826_label'><a href='javascript: DetailSwitch("cf6ddea1940e4a7d9cf02ff9f1675826");'><span id='cf6ddea1940e4a7d9cf02ff9f1675826_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')">1060年</a>，64岁</div><div id='cf6ddea1940e4a7d9cf02ff9f1675826' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')">1060年六月</a>　官定州路副都部署，镇宁军留后。<br /></div>
+-----end
+
+
+
+-----title
+冀州
+-----detail
+<div class='label1' id='1e89227b2c314380b4f904d871ba1484_label'><a href='javascript: DetailSwitch("1e89227b2c314380b4f904d871ba1484");'><span id='1e89227b2c314380b4f904d871ba1484_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1070')">1061-1070年</a>，65-74岁</div><div id='1e89227b2c314380b4f904d871ba1484' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1070')">1061-1070年</a>　知冀州、真定路总管。<br /></div>
+-----end
+
+
+
+-----title
+泾川
+-----detail
+<div class='label1' id='0552707c78a849fa9278d58dd460d2c4_label'><a href='javascript: DetailSwitch("0552707c78a849fa9278d58dd460d2c4");'><span id='0552707c78a849fa9278d58dd460d2c4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')">1071年</a>，75岁</div><div id='0552707c78a849fa9278d58dd460d2c4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')">1071年五月前</a>　再知泾州，任上因“曲加谄奉”内臣王正中被司马光参奏。<br /></div>
+-----end
+
+
+
+-----title
+青唐城
+-----detail
+null
+-----end
+
+

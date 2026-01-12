@@ -1,0 +1,80 @@
+
+-----title
+成都（华阳） (出生地)
+-----detail
+<div class='label1' id='7c878c9390874bd7b0a13f7419d75f1c_label'><a href='javascript: DetailSwitch("7c878c9390874bd7b0a13f7419d75f1c");'><span id='7c878c9390874bd7b0a13f7419d75f1c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1080')">1062-1080年</a>，1-19岁</div><div id='7c878c9390874bd7b0a13f7419d75f1c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')">1062年</a>　出身蜀中富家。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1079')">1063-1079年</a>　在蜀中。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')">1080年</a>　慷慨使财，出手阔绰，磊落任气，流落市井。<br /></div><div class='label1' id='572147a35aef4d9d8a9d68fa85249363_label'><a href='javascript: DetailSwitch("572147a35aef4d9d8a9d68fa85249363");'><span id='572147a35aef4d9d8a9d68fa85249363_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')">1086年</a>，25岁</div><div id='572147a35aef4d9d8a9d68fa85249363' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')">1086年</a>　匿于邻郡为园丁，因技痒难忍，题诗于亭壁，主人擅识人，认为他非此中人，赠金遣去。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='eee37c8a4dff4cdcba421512823bd5eb_label'><a href='javascript: DetailSwitch("eee37c8a4dff4cdcba421512823bd5eb");'><span id='eee37c8a4dff4cdcba421512823bd5eb_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')">1081年</a>，20岁</div><div id='eee37c8a4dff4cdcba421512823bd5eb' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')">1081年</a>　折节读书，以成都第二名荐送。<br /></div><div class='label1' id='d302c85bd33240679a52e5f5462926d9_label'><a href='javascript: DetailSwitch("d302c85bd33240679a52e5f5462926d9");'><span id='d302c85bd33240679a52e5f5462926d9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1108')">1107-1108年</a>，46-47岁</div><div id='d302c85bd33240679a52e5f5462926d9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')">1107年</a>　因告发张怀素案而立功，授供备库副使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1108&endYear=1108')">1108年</a>　任供备库副使。<br /></div>
+-----end
+
+
+
+-----title
+绍兴
+-----detail
+<div class='label1' id='0e705d7897b84455a317448acc2bb397_label'><a href='javascript: DetailSwitch("0e705d7897b84455a317448acc2bb397");'><span id='0e705d7897b84455a317448acc2bb397_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1099')">1096-1099年</a>，35-38岁</div><div id='0e705d7897b84455a317448acc2bb397' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1096')">1096年</a>　易容乔装为方外士，投越州知府翟思，翟思爱其书法精绝即留之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')">1097年</a>　翟思之子翟汝文见他面相清炯，眸子锐烁，定非常人，又得知他习《易》、《书》，出题试之，果然经学高妙通脱，遂敬待之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1098')">1098年</a>　翟氏归镇江，范寥安置在州学，并给其师钱百千急需，并嘱咐老师不要一次全部给他，以免他胡乱使钱。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')">1099年</a>　范寥离州学出游。翟思得教授书云:“自范之留，一学之士为之不宁，已付百千与之去，不知所之矣。”<br /></div>
+-----end
+
+
+
+-----title
+南京（建康）
+-----detail
+<div class='label1' id='1232cf6a15d948c2a1485511d79afb1d_label'><a href='javascript: DetailSwitch("1232cf6a15d948c2a1485511d79afb1d");'><span id='1232cf6a15d948c2a1485511d79afb1d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')">1103年</a>，42岁</div><div id='1232cf6a15d948c2a1485511d79afb1d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')">1103年</a>　客居建康。<br /></div>
+-----end
+
+
+
+-----title
+镇江（丹阳）
+-----detail
+<div class='label1' id='acffa5cdc742409f9a94b255e40dd57f_label'><a href='javascript: DetailSwitch("acffa5cdc742409f9a94b255e40dd57f");'><span id='acffa5cdc742409f9a94b255e40dd57f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1104')">1104年</a>，43岁</div><div id='acffa5cdc742409f9a94b255e40dd57f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1104')">1104年</a>　翟思死。范寥突然造访，嚎哭大坳于灵前，翟家为其诚意所感，厚待之。明日夙兴，范寥悄然携卷灵前黄白器皿倏逝，携之前往宜州。<br /></div><div class='label1' id='9d959224a7e24da38d7611951248d5a6_label'><a href='javascript: DetailSwitch("9d959224a7e24da38d7611951248d5a6");'><span id='9d959224a7e24da38d7611951248d5a6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')">1106年</a>，45岁</div><div id='9d959224a7e24da38d7611951248d5a6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')">1106年</a>　无路费，至镇江府学内舍生汤东野家中，汤母给钱一万，范寥顺利到开封。<br /></div>
+-----end
+
+
+
+-----title
+宜州（龙水）
+-----detail
+<div class='label1' id='f566a776cda94797a84da4d217cb17e8_label'><a href='javascript: DetailSwitch("f566a776cda94797a84da4d217cb17e8");'><span id='f566a776cda94797a84da4d217cb17e8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年</a>，44岁</div><div id='f566a776cda94797a84da4d217cb17e8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年3月14日</a>　溯大江，历谧浦，舍舟于洞庭，取道荆湘，以趋八桂，至乙酉三月十四日，始达宜州，访黄庭坚。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年5月7日</a>　范寥与黄庭坚一起搬到宜州城楼上居住，终日陪侍在黄庭坚左右。作品：从庭坚城南晚望诗。<div id='poem_759823' class='_poem'><div id='poem_title_759823' class='poemTitle showDetail'><a href='/Writing/759823?labeling=true' target='_blank'>从庭坚城南晚望</a><span class='authorDate'>（1105年5月7日）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31522, "宋", "范寥", "poem_title_759823")'>范寥</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_759823_comment'></div><div class='poemContent' id='poem_content_759823'><div class='poemSentence' id='poem_sentence_0_759823'>此邦虽在牂牁南，更远不离天地间。<div id='poem_sentence_0_759823_comment'></div></div><div class='poemSentence' id='poem_sentence_1_759823'>人生随处皆可乐，为报中原秪如昨。<div id='poem_sentence_1_759823_comment'></div></div><div class='poemSentence' id='poem_sentence_2_759823'></div><div id='poem_sentence_2_759823_comment'></div></div><div class='poemNote' id='poem_note_759823'><span class='label'>注：</span>录自《京口耆旧传》。<br /></div><div id='poem_note_759823_comment'></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年6月16日</a>　黄庭坚与范寥等人有龙隐洞之游。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年9月30日</a>　黄庭坚病逝，范寥独自为之办理后事。<br /></div>
+-----end
+
+
+
+-----title
+句容
+-----detail
+<div class='label1' id='ccdf443d091c40da8384b7a123e72e94_label'><a href='javascript: DetailSwitch("ccdf443d091c40da8384b7a123e72e94");'><span id='ccdf443d091c40da8384b7a123e72e94_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')">1106年</a>，45岁</div><div id='ccdf443d091c40da8384b7a123e72e94' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>又往茅山，投靠道人张怀素。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>张怀素与吴储、吴侔进行谋逆计划，范寥决计至京师告发张怀素。<br /></div>
+-----end
+
+
+
+-----title
+许昌
+-----detail
+<div class='label1' id='d2de79df224d415fa1249515fe265786_label'><a href='javascript: DetailSwitch("d2de79df224d415fa1249515fe265786");'><span id='d2de79df224d415fa1249515fe265786_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1110')">1109-1110年</a>，48-49岁</div><div id='d2de79df224d415fa1249515fe265786' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1110')">1109-1110年</a>　任颍昌府兵马钤辖。<br /></div>
+-----end
+
+
+
+-----title
+菏泽
+-----detail
+<div class='label1' id='dcb3c7f75d66408185600e808ba2ecad_label'><a href='javascript: DetailSwitch("dcb3c7f75d66408185600e808ba2ecad");'><span id='dcb3c7f75d66408185600e808ba2ecad_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1118')">1111-1118年</a>，50-57岁</div><div id='dcb3c7f75d66408185600e808ba2ecad' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1111')">1111年</a>　政和年间，还曾在曹州为官，吕本中有诗《次韵答曹州同官兼简范寥信中》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1112&endYear=1116')">1112-1116年</a>　或在曹州为官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1118')">1117-1118年</a>　不详。<br /></div>
+-----end
+
+
+
+-----title
+茅山
+-----detail
+null
+-----end
+
+

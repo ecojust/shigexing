@@ -1,0 +1,104 @@
+
+-----title
+宜兴 (出生地)
+-----detail
+<div class='label1' id='1458016f3b7047dbb6109888131a43f7_label'><a href='javascript: DetailSwitch("1458016f3b7047dbb6109888131a43f7");'><span id='1458016f3b7047dbb6109888131a43f7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1117')">1098-1117年</a>，1-20岁</div><div id='1458016f3b7047dbb6109888131a43f7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1098')">1098年9月19日</a>　是年生于故乡宜兴。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')">1099年</a>　少年居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')">1100年</a>　大母黄太夫人卒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1102')">1101-1102年</a>　少年居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')">1103年</a>　仲弟萃生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1104')">1104年</a>　入塾读书。大父南岩公卒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1107')">1105-1107年</a>　读书私塾。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1108&endYear=1108')">1108年</a>　受业蒋敬叔先生门。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1110')">1109-1110年</a>　居乡求学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1111')">1111年</a>　善属文，名闻于时。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1112&endYear=1112')">1112年</a>　居乡求学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1113&endYear=1113')">1113年</a>　从唐彦思先生受学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')">1114年</a>　居乡求学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')">1115年</a>　居乡求学，唐彦思先生登进士第。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1117')">1116-1117年</a>　居乡求学。<br /></div><div class='label1' id='24ffee3ab57b46e78f7ddf9e09c74225_label'><a href='javascript: DetailSwitch("24ffee3ab57b46e78f7ddf9e09c74225");'><span id='24ffee3ab57b46e78f7ddf9e09c74225_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1142')">1140-1142年</a>，43-45岁</div><div id='24ffee3ab57b46e78f7ddf9e09c74225' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年</a>　郊恩，复直秘阁，告归。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年</a>　长子枞生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')">1141年</a>　倡议建岳飞生祠于英烈庙。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年2月</a>　起知湖州。<br /></div><div class='label1' id='44b7e04f01664847b1fd160bb2b9ac11_label'><a href='javascript: DetailSwitch("44b7e04f01664847b1fd160bb2b9ac11");'><span id='44b7e04f01664847b1fd160bb2b9ac11_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1154')">1144-1154年</a>，47-57岁</div><div id='44b7e04f01664847b1fd160bb2b9ac11' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')">1144年2月</a>　落职主管台州崇道观，屏居乡闾。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')">1145年</a>　居家养亲，极孝。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')">1145年</a>　省孝侯墓。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')">1145年</a>　是年，三子栋生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')">1146年</a>　母王太夫人卒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　居家丁母忧。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年</a>　累赠少师、朝奉郎、赐绯鱼袋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年</a>　父卒，丁父忧。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年12月</a>　合葬考妣于岊山之阳。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1150')">1149-1150年</a>　守制庐墓。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')">1151年</a>　创建孝侯祠于国山。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1152')">1152年4月</a>　孝侯祠落成，蒋芾撰记。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1152')">1152年</a>　著《圣传录》一卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1152&endYear=1152')">1152年</a>　是年，四子林生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')">1153年</a>　纂辑家乘。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')">1154年</a>　谱牒成，延张九成为序。<br /></div><div class='label1' id='021887dbffe4434e8a41dd1059236643_label'><a href='javascript: DetailSwitch("021887dbffe4434e8a41dd1059236643");'><span id='021887dbffe4434e8a41dd1059236643_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')">1158年</a>，61岁</div><div id='021887dbffe4434e8a41dd1059236643' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')">1158年3月</a>　起知抚州。引疾，改提举江州太平兴国宫。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')">1158年10月</a>　直龙图阁，知太平州。<br /></div><div class='label1' id='1f7adeef935640c4a8e69fede6731536_label'><a href='javascript: DetailSwitch("1f7adeef935640c4a8e69fede6731536");'><span id='1f7adeef935640c4a8e69fede6731536_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1166')">1164-1166年</a>，67-69岁</div><div id='1f7adeef935640c4a8e69fede6731536' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年闰11月</a>　除资政殿大学士、提举临安洞宵宫。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>　孙大本生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>　奏请以广福寺为先父坟刹，报可。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>　孙大直生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')">1166年</a>　仲子楷补授临安县县丞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')">1166年</a>　隐士赵九龄来访。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')">1166年</a>　孙大猷生。<br /></div><div class='label1' id='85226f55a022408f8c8bad5a10dfdbf8_label'><a href='javascript: DetailSwitch("85226f55a022408f8c8bad5a10dfdbf8");'><span id='85226f55a022408f8c8bad5a10dfdbf8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1175')">1170-1175年</a>，73-卒后1年</div><div id='85226f55a022408f8c8bad5a10dfdbf8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　以大学士致仕。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　夫人李氏卒，封同安郡夫人、累赠魏国夫人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　致仕闲居。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>　少宗伯周必大来访。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>　宣教郎、临安县令仲子楷卒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>　孙大仁生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')">1173年</a>　置义田。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年1月12日</a>　薨于里第。赠正奉大夫，累赠太傅。赠毗陵郡开国侯。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')">1175年1月</a>　葬于邑东清泉乡梅林之原。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='8634b3af54d447da891d4c3ee6b0d033_label'><a href='javascript: DetailSwitch("8634b3af54d447da891d4c3ee6b0d033");'><span id='8634b3af54d447da891d4c3ee6b0d033_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1124')">1118-1124年</a>，21-27岁</div><div id='8634b3af54d447da891d4c3ee6b0d033' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年</a>　自乡校移籍京师。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1119&endYear=1123')">1119-1123年</a>　在京求学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')">1124年3月</a>　廷试，中沈晦榜进士甲科。<br /></div>
+-----end
+
+
+
+-----title
+广德
+-----detail
+<div class='label1' id='4a7039758faf4a97ad00f0d6d8467350_label'><a href='javascript: DetailSwitch("4a7039758faf4a97ad00f0d6d8467350");'><span id='4a7039758faf4a97ad00f0d6d8467350_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>，28岁</div><div id='4a7039758faf4a97ad00f0d6d8467350' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>　任广德推官。<br /></div>
+-----end
+
+
+
+-----title
+歙县
+-----detail
+<div class='label1' id='2f0292e33b7045efb6006391581374eb_label'><a href='javascript: DetailSwitch("2f0292e33b7045efb6006391581374eb");'><span id='2f0292e33b7045efb6006391581374eb_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1134')">1126-1134年</a>，29-37岁</div><div id='2f0292e33b7045efb6006391581374eb' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>　上登极，覃恩授文林郎，调徽州军事推官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1130')">1127-1130年</a>　在徽州推官任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')">1131年</a>　与判官同摄郡事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年</a>　请除浮税。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年</a>　改通直郎、临安府教授，未赴。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年</a>　摄郡事。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='72e3c2810ec745028baa44e1d3026c29_label'><a href='javascript: DetailSwitch("72e3c2810ec745028baa44e1d3026c29");'><span id='72e3c2810ec745028baa44e1d3026c29_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1139')">1135-1139年</a>，38-42岁</div><div id='72e3c2810ec745028baa44e1d3026c29' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年4月</a>　除监察御史。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年10月</a>　进殿中侍御史。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')">1136年2月</a>　除司农少卿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')">1137年</a>　除直秘阁、知信州，未之任。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年</a>　改湖南提点刑狱事，皆不就。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年2月</a>　除太常少卿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年5月</a>　复除殿中侍御史。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年8月</a>　改起居郎。<br /></div><div class='label1' id='8319f49455234a94988a373d914bfc93_label'><a href='javascript: DetailSwitch("8319f49455234a94988a373d914bfc93");'><span id='8319f49455234a94988a373d914bfc93_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1157')">1156-1157年</a>，59-60岁</div><div id='8319f49455234a94988a373d914bfc93' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1156')">1156年1月</a>　过阙，除礼部侍郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1156')">1156年4月</a>　兼国子祭酒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')">1157年2月</a>　兼权给事中。<br /></div><div class='label1' id='7b359fa9b0df403690eb5fc631ebc26d_label'><a href='javascript: DetailSwitch("7b359fa9b0df403690eb5fc631ebc26d");'><span id='7b359fa9b0df403690eb5fc631ebc26d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1164')">1162-1164年</a>，65-67岁</div><div id='7b359fa9b0df403690eb5fc631ebc26d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年7月</a>　被召，除兵部侍郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年9月</a>　兼权侍讲，授朝散大夫。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年</a>　孙大辨生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年2月</a>　同知贡举。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年3月</a>　兼权户部侍郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年6月</a>　奉诏以左中大夫参知政事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年</a>　奉给四世诰命。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年9月</a>　兼权知枢密院事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年</a>　孙大壮、大中生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年3月</a>　乞罢，不许。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年4月</a>　荐李浩、龚茂良为言官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年9月</a>　奏复胡铨官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年10月</a>　权知枢密院事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年11月</a>　奏请免郊，诏从之。<br /></div>
+-----end
+
+
+
+-----title
+南昌
+-----detail
+<div class='label1' id='5ba1835423824c29ab3f863b28a19809_label'><a href='javascript: DetailSwitch("5ba1835423824c29ab3f863b28a19809");'><span id='5ba1835423824c29ab3f863b28a19809_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年</a>，42岁</div><div id='5ba1835423824c29ab3f863b28a19809' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年12月</a>　主管洪州玉龙观。<br /></div>
+-----end
+
+
+
+-----title
+湖州
+-----detail
+<div class='label1' id='8519c3c7382542eb867c78e4d1e5e5de_label'><a href='javascript: DetailSwitch("8519c3c7382542eb867c78e4d1e5e5de");'><span id='8519c3c7382542eb867c78e4d1e5e5de_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1143')">1142-1143年</a>，45-46岁</div><div id='8519c3c7382542eb867c78e4d1e5e5de' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年4月</a>　到任湖州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年</a>　次子楷生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')">1143年1月</a>　移知平江府。<br /></div>
+-----end
+
+
+
+-----title
+苏州
+-----detail
+<div class='label1' id='09773533c38740e89e8028a41d764785_label'><a href='javascript: DetailSwitch("09773533c38740e89e8028a41d764785");'><span id='09773533c38740e89e8028a41d764785_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')">1143年</a>，46岁</div><div id='09773533c38740e89e8028a41d764785' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')">1143年2月</a>　到任平江府。任上多惠政。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')">1143年11月</a>　以郊恩赐绯鱼。<br /></div>
+-----end
+
+
+
+-----title
+绍兴
+-----detail
+<div class='label1' id='549b4256badb45e283577cfd85e41b68_label'><a href='javascript: DetailSwitch("549b4256badb45e283577cfd85e41b68");'><span id='549b4256badb45e283577cfd85e41b68_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')">1155年</a>，58岁</div><div id='549b4256badb45e283577cfd85e41b68' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')">1155年12月</a>　复直秘阁，知绍兴府。<br /></div>
+-----end
+
+
+
+-----title
+上饶
+-----detail
+<div class='label1' id='7b0d5aebab6f4491a172941e83388c70_label'><a href='javascript: DetailSwitch("7b0d5aebab6f4491a172941e83388c70");'><span id='7b0d5aebab6f4491a172941e83388c70_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')">1157年</a>，60岁</div><div id='7b0d5aebab6f4491a172941e83388c70' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')">1157年3月</a>　出知信州。<br /></div>
+-----end
+
+
+
+-----title
+当涂
+-----detail
+<div class='label1' id='603a38def76f4fb685b4c7782e2724a8_label'><a href='javascript: DetailSwitch("603a38def76f4fb685b4c7782e2724a8");'><span id='603a38def76f4fb685b4c7782e2724a8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1160')">1159-1160年</a>，62-63岁</div><div id='603a38def76f4fb685b4c7782e2724a8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')">1159年2月</a>　到任太平州，修治圩堤，民赖以济。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')">1159年10月</a>　浚河便民。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')">1160年8月</a>　进集英殿修撰、敷文阁待制。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')">1160年10月</a>　移知婺州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')">1160年</a>　孙大年生。<br /></div>
+-----end
+
+
+
+-----title
+金华
+-----detail
+<div class='label1' id='64a53c517ddc40b0988756f5c36e6d34_label'><a href='javascript: DetailSwitch("64a53c517ddc40b0988756f5c36e6d34");'><span id='64a53c517ddc40b0988756f5c36e6d34_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1162')">1161-1162年</a>，64-65岁</div><div id='64a53c517ddc40b0988756f5c36e6d34' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')">1161年1月</a>　到任婺州，鼓励开垦荒野，得田数千顷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年</a>　在知婺州任上。<br /></div>
+-----end
+
+
+
+-----title
+泉州
+-----detail
+<div class='label1' id='8e204ef40c784475a1dfa9b5ac9dec97_label'><a href='javascript: DetailSwitch("8e204ef40c784475a1dfa9b5ac9dec97");'><span id='8e204ef40c784475a1dfa9b5ac9dec97_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1169')">1167-1169年</a>，70-72岁</div><div id='8e204ef40c784475a1dfa9b5ac9dec97' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1167')">1167年3月</a>　起知泉州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')">1168年</a>　在知泉州任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>　在知泉州任上。长子枞卒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>　在知泉州任上。孙大昌生。<br /></div>
+-----end
+
+

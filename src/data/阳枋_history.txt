@@ -1,0 +1,170 @@
+
+-----title
+铜梁 (出生地)
+-----detail
+<div class='label1' id='c07de4621d3549efae5ce10bb5206a84_label'><a href='javascript: DetailSwitch("c07de4621d3549efae5ce10bb5206a84");'><span id='c07de4621d3549efae5ce10bb5206a84_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1195')">1187-1195年</a>，1-9岁</div><div id='c07de4621d3549efae5ce10bb5206a84' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')">1187年9月7日</a>　是年九月初七出生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1188')">1188年</a>　抓周，公惟取墨。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1189&endYear=1189')">1189年</a>　少居家乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')">1190年</a>　俨然成人，得父授书，过目不忘。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1191')">1191年</a>　邻舍焚，举家往救，独留顾家。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')">1192年</a>　少居家乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')">1193年</a>　诵九经。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')">1194年</a>　能属文。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')">1195年</a>　九经诵毕，皆能强记。<br /></div><div class='label1' id='0a54f55c2b2a4abba58ed7d11f902cfd_label'><a href='javascript: DetailSwitch("0a54f55c2b2a4abba58ed7d11f902cfd");'><span id='0a54f55c2b2a4abba58ed7d11f902cfd_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>，12岁</div><div id='0a54f55c2b2a4abba58ed7d11f902cfd' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>　是岁应举，试《仁人用国日明论》<br /></div><div class='label1' id='83a1ad520a5e44b0be6fcdb0cb18e4e7_label'><a href='javascript: DetailSwitch("83a1ad520a5e44b0be6fcdb0cb18e4e7");'><span id='83a1ad520a5e44b0be6fcdb0cb18e4e7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年</a>，16岁</div><div id='83a1ad520a5e44b0be6fcdb0cb18e4e7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年</a>　奉父命师从陈用庚、度正。<br /></div><div class='label1' id='092dce3728c84b86b1cad3a4ed9ca8ac_label'><a href='javascript: DetailSwitch("092dce3728c84b86b1cad3a4ed9ca8ac");'><span id='092dce3728c84b86b1cad3a4ed9ca8ac_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1207')">1204-1207年</a>，18-21岁</div><div id='092dce3728c84b86b1cad3a4ed9ca8ac' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')">1204年12月6日</a>　父故去，扶护归乡。问礼于度正，贸居室以葬父，读《礼》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1206')">1205-1206年</a>　于家乡守丧。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')">1207年</a>　除丧，为兄侍疾。<br /></div><div class='label1' id='cb068a1331924c9ab237a0f93c66e774_label'><a href='javascript: DetailSwitch("cb068a1331924c9ab237a0f93c66e774");'><span id='cb068a1331924c9ab237a0f93c66e774_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1225')">1213-1225年</a>，27-39岁</div><div id='cb068a1331924c9ab237a0f93c66e774' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年</a>　娶张氏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年</a>　奉养母亲。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年</a>　不详。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1216')">1216年</a>　应乡举。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1217&endYear=1217')">1217年</a>　长子少箕生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1218&endYear=1218')">1218年</a>　乡党赞颂事亲孝敬，可为子弟法且，及门从㳺者众。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1219&endYear=1219')">1219年</a>　母亲病笃，乞求减寿为母增寿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1219&endYear=1219')">1219年</a>　是岁，呼盗入门避虎，盗惭谢而去。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1220&endYear=1220')">1220年</a>　引弟阳房、族侄阳岊共叩理学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1222&endYear=1222')">1222年</a>　季子炎卯生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1225&endYear=1225')">1225年2月18日</a>　母卒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1225&endYear=1225')">1225年</a>　夏，葬母于父之北。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1225&endYear=1225')">1225年</a>　秋九月，兄同父卒，悲号心悸。<br /></div><div class='label1' id='9bcd389b3d3c4fce8b31803371b46d33_label'><a href='javascript: DetailSwitch("9bcd389b3d3c4fce8b31803371b46d33");'><span id='9bcd389b3d3c4fce8b31803371b46d33_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1231')">1229-1231年</a>，43-45岁</div><div id='9bcd389b3d3c4fce8b31803371b46d33' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1229')">1229年</a>　有得于师傅，退居家山。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1230&endYear=1230')">1230年</a>　有及门从游者，教之熟读《论语》、《孟子》、《中庸》、《大学》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')">1231年</a>　编类《文公语录》、四书。<br /></div><div class='label1' id='bc48389e0989402cb9894c5c2d277b76_label'><a href='javascript: DetailSwitch("bc48389e0989402cb9894c5c2d277b76");'><span id='bc48389e0989402cb9894c5c2d277b76_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1236')">1235-1236年</a>，49-50岁</div><div id='bc48389e0989402cb9894c5c2d277b76' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1235')">1235年</a>　度正卒，与弟侄含敛心丧三年。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1236&endYear=1236')">1236年</a>　与弟侄告别朱熹弟子叶味道、徐侨、郭友仁、赵师恕等人。<br /></div><div class='label1' id='a98019611ca049848d81c7b354b782f8_label'><a href='javascript: DetailSwitch("a98019611ca049848d81c7b354b782f8");'><span id='a98019611ca049848d81c7b354b782f8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1243&endYear=1244')">1243-1244年</a>，57-58岁</div><div id='a98019611ca049848d81c7b354b782f8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1243&endYear=1243')">1243年</a>　与友人宋寿卿、陈希舜、罗东父、向从道、黄叔高、阳房、阳岊、王南运乡里推行《吕氏乡约》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')">1244年</a>　夫人张氏卒。<br /></div><div class='label1' id='9647f7c2cd6e4785916cd3802b506573_label'><a href='javascript: DetailSwitch("9647f7c2cd6e4785916cd3802b506573");'><span id='9647f7c2cd6e4785916cd3802b506573_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1265&endYear=1268')">1265-1268年</a>，79-82岁</div><div id='9647f7c2cd6e4785916cd3802b506573' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1265&endYear=1265')">1265年</a>　自夷陵还蜀，改葬张氏于荆州白水。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1266&endYear=1266')">1266年</a>　玩《大学》、《易》本义。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1266&endYear=1266')">1266年</a>　加朝散大夫，命子。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1267&endYear=1267')">1267年</a>　秋分，书《未济》示子。作品：《庆制阃开州宁西之捷》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1268&endYear=1268')">1268年</a>　病逝，家人将其与妻子张氏合葬于江陵府松滋县。<br /></div>
+-----end
+
+
+
+-----title
+南江
+-----detail
+<div class='label1' id='bbce6deabb0a42a998a457fb920c2d0d_label'><a href='javascript: DetailSwitch("bbce6deabb0a42a998a457fb920c2d0d");'><span id='bbce6deabb0a42a998a457fb920c2d0d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1197')">1196-1197年</a>，10-11岁</div><div id='bbce6deabb0a42a998a457fb920c2d0d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1197')">1196-1197年</a>　随父转任巴州。<br /></div>
+-----end
+
+
+
+-----title
+南川
+-----detail
+<div class='label1' id='d4db3b8af7d64705bf7f12fb10a26a42_label'><a href='javascript: DetailSwitch("d4db3b8af7d64705bf7f12fb10a26a42");'><span id='d4db3b8af7d64705bf7f12fb10a26a42_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1201')">1199-1201年</a>，13-15岁</div><div id='d4db3b8af7d64705bf7f12fb10a26a42' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1200')">1199-1200年</a>　随父转任南平军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年</a>　淹贯经史。<br /></div><div class='label1' id='10574f8db9e3498ca6313dfebd9db703_label'><a href='javascript: DetailSwitch("10574f8db9e3498ca6313dfebd9db703");'><span id='10574f8db9e3498ca6313dfebd9db703_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')">1203年</a>，17岁</div><div id='10574f8db9e3498ca6313dfebd9db703' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')">1203年</a>　居于南川。作品：《题南平万山亭》、《南川观江涨》<br /></div><div class='label1' id='b7e13e8e177a4a0c86ea4508326b40e1_label'><a href='javascript: DetailSwitch("b7e13e8e177a4a0c86ea4508326b40e1");'><span id='b7e13e8e177a4a0c86ea4508326b40e1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')">1238年</a>，52岁</div><div id='b7e13e8e177a4a0c86ea4508326b40e1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')">1238年</a>　避地南川，讲学自乐，集《晦翁诗谱》<br /></div>
+-----end
+
+
+
+-----title
+成都
+-----detail
+<div class='label1' id='36a893ccd11c4ce5873c3e9a04f6f3ca_label'><a href='javascript: DetailSwitch("36a893ccd11c4ce5873c3e9a04f6f3ca");'><span id='36a893ccd11c4ce5873c3e9a04f6f3ca_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1210')">1208-1210年</a>，22-24岁</div><div id='36a893ccd11c4ce5873c3e9a04f6f3ca' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')">1208年</a>　束书游石室。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1210')">1210年</a>　游学成都府学，继续求业于度正。<br /></div>
+-----end
+
+
+
+-----title
+涪陵
+-----detail
+<div class='label1' id='726a310563cb4587b252b773630ef60b_label'><a href='javascript: DetailSwitch("726a310563cb4587b252b773630ef60b");'><span id='726a310563cb4587b252b773630ef60b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')">1228年</a>，42岁</div><div id='726a310563cb4587b252b773630ef60b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')">1228年</a>　偕弟阳房、族侄阳岊学于㬊渊。<br /></div><div class='label1' id='a268d89210934af3b64a5917c304e7f1_label'><a href='javascript: DetailSwitch("a268d89210934af3b64a5917c304e7f1");'><span id='a268d89210934af3b64a5917c304e7f1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1251&endYear=1251')">1251年</a>，65岁</div><div id='a268d89210934af3b64a5917c304e7f1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1251&endYear=1251')">1251年</a>　去官，冬十一月，知州李震午邀公于道，遂主教涪陵北岩书院，士子信从者众。<br /></div><div class='label1' id='cf303557c2334aaa8b6bf26f42ad30fa_label'><a href='javascript: DetailSwitch("cf303557c2334aaa8b6bf26f42ad30fa");'><span id='cf303557c2334aaa8b6bf26f42ad30fa_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')">1256年</a>，70岁</div><div id='cf303557c2334aaa8b6bf26f42ad30fa' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')">1256年</a>　就养涪陵。<br /></div><div class='label1' id='559b811571ca4b80a002d835dc115f5d_label'><a href='javascript: DetailSwitch("559b811571ca4b80a002d835dc115f5d");'><span id='559b811571ca4b80a002d835dc115f5d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1258&endYear=1258')">1258年</a>，72岁</div><div id='559b811571ca4b80a002d835dc115f5d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1258&endYear=1258')">1258年</a>　就养涪陵。<br /></div>
+-----end
+
+
+
+-----title
+遂宁
+-----detail
+<div class='label1' id='b5a098c4585f442bad6a76447b4a6133_label'><a href='javascript: DetailSwitch("b5a098c4585f442bad6a76447b4a6133");'><span id='b5a098c4585f442bad6a76447b4a6133_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1233')">1232-1233年</a>，46-47岁</div><div id='b5a098c4585f442bad6a76447b4a6133' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1232')">1232年</a>　携二子游遂宁，在遂宁明善堂，与魏了翁门人严师夔等人讲论易图象
+数。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1233&endYear=1233')">1233年6月</a>　在武信，与好友罗东父、宋寿卿，偕门人讲学于巴岳精舍。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='390f4e4e67614efd9893a9e7034698b0_label'><a href='javascript: DetailSwitch("390f4e4e67614efd9893a9e7034698b0");'><span id='390f4e4e67614efd9893a9e7034698b0_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1235')">1235年</a>，49岁</div><div id='390f4e4e67614efd9893a9e7034698b0' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1235&endYear=1235')">1235年</a>　赴京师，请教于朱熹门人徐侨。<br /></div><div class='label1' id='bcd1eac0fd06486291c183fa68ad8263_label'><a href='javascript: DetailSwitch("bcd1eac0fd06486291c183fa68ad8263");'><span id='bcd1eac0fd06486291c183fa68ad8263_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1246&endYear=1246')">1246年</a>，60岁</div><div id='bcd1eac0fd06486291c183fa68ad8263' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>携子炎卯入对，会弟阳房于临安，不胜其乐。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>与文考功活庵论《易》，有《十二卦网罟书契》及《咸九四屈伸相感》等说。<br /></div>
+-----end
+
+
+
+-----title
+遵义
+-----detail
+<div class='label1' id='5528e8b5b6bc415ca9140f255e8d0adc_label'><a href='javascript: DetailSwitch("5528e8b5b6bc415ca9140f255e8d0adc");'><span id='5528e8b5b6bc415ca9140f255e8d0adc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')">1237年</a>，51岁</div><div id='5528e8b5b6bc415ca9140f255e8d0adc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1237&endYear=1237')">1237年</a>　因蒙古攻蜀，避地夜郎。作品：《云山》<br /></div><div class='label1' id='7fa80e8920fe48dfb9a7eb181144831e_label'><a href='javascript: DetailSwitch("7fa80e8920fe48dfb9a7eb181144831e");'><span id='7fa80e8920fe48dfb9a7eb181144831e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')">1241年</a>，55岁</div><div id='7fa80e8920fe48dfb9a7eb181144831e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')">1241年</a>　赐同进士出身，避地夜郎。<br /></div>
+-----end
+
+
+
+-----title
+江津
+-----detail
+<div class='label1' id='cc34f13c5dd847f1a40115114142fee3_label'><a href='javascript: DetailSwitch("cc34f13c5dd847f1a40115114142fee3");'><span id='cc34f13c5dd847f1a40115114142fee3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')">1239年</a>，53岁</div><div id='cc34f13c5dd847f1a40115114142fee3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')">1239年</a>　避地清溪。作品：《雪中约舍弟》<br /></div>
+-----end
+
+
+
+-----title
+乐山
+-----detail
+<div class='label1' id='51bf30c2ab25451791743044c0d8b399_label'><a href='javascript: DetailSwitch("51bf30c2ab25451791743044c0d8b399");'><span id='51bf30c2ab25451791743044c0d8b399_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')">1240年</a>，54岁</div><div id='51bf30c2ab25451791743044c0d8b399' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')">1240年</a>　赴嘉定奏名。<br /></div><div class='label1' id='b0f5870ca6d34a24b83331dc0ddcfe85_label'><a href='javascript: DetailSwitch("b0f5870ca6d34a24b83331dc0ddcfe85");'><span id='b0f5870ca6d34a24b83331dc0ddcfe85_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1255&endYear=1255')">1255年</a>，69岁</div><div id='b0f5870ca6d34a24b83331dc0ddcfe85' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1255&endYear=1255')">1255年</a>　就养嘉定，与文云山、黄应凤、赵明远、王钝斋，讲洛中真率会。<br /></div>
+-----end
+
+
+
+-----title
+泸州
+-----detail
+<div class='label1' id='59d38c512733469ea57819f0f2c0fbd6_label'><a href='javascript: DetailSwitch("59d38c512733469ea57819f0f2c0fbd6");'><span id='59d38c512733469ea57819f0f2c0fbd6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1242&endYear=1242')">1242年</a>，56岁</div><div id='59d38c512733469ea57819f0f2c0fbd6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1242&endYear=1242')">1242年</a>　避地泸南，深入蛮夷之境，袖中惟《易本
+义》一编。<br /></div>
+-----end
+
+
+
+-----title
+广安
+-----detail
+<div class='label1' id='7e9d068c4c704b9ca49a014781aa395a_label'><a href='javascript: DetailSwitch("7e9d068c4c704b9ca49a014781aa395a");'><span id='7e9d068c4c704b9ca49a014781aa395a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')">1244年</a>，58岁</div><div id='7e9d068c4c704b9ca49a014781aa395a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')">1244年</a>　是岁，受新任四川安抚制置使余玠之邀以昌州酒税之职分教广安，，写 《上广安赵守弭旱十事》进献，与杨直卿论《先天图》，手编《伊洛心传录》作品：《五载弹冠尚觉忙》<br /></div>
+-----end
+
+
+
+-----title
+巫溪
+-----detail
+<div class='label1' id='ca24d2e062dd413182fdec41f20760f9_label'><a href='javascript: DetailSwitch("ca24d2e062dd413182fdec41f20760f9");'><span id='ca24d2e062dd413182fdec41f20760f9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1245&endYear=1245')">1245年</a>，59岁</div><div id='ca24d2e062dd413182fdec41f20760f9' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>摄大宁秋官，赵汝廪延公讲《易》，帅子弟请问尊礼。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>是岁著《本草集方》作品：《昌溪即事》<br /></div>
+-----end
+
+
+
+-----title
+九江
+-----detail
+<div class='label1' id='97046a9216854ac586b335c9cc1e4df5_label'><a href='javascript: DetailSwitch("97046a9216854ac586b335c9cc1e4df5");'><span id='97046a9216854ac586b335c9cc1e4df5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1247&endYear=1247')">1247年</a>，61岁</div><div id='97046a9216854ac586b335c9cc1e4df5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1247&endYear=1247')">1247年</a>　辞白鹿书院。<br /></div>
+-----end
+
+
+
+-----title
+彭水
+-----detail
+<div class='label1' id='64ed97745d6b4a129f9247091056c1e9_label'><a href='javascript: DetailSwitch("64ed97745d6b4a129f9247091056c1e9");'><span id='64ed97745d6b4a129f9247091056c1e9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1248&endYear=1248')">1248年</a>，62岁</div><div id='64ed97745d6b4a129f9247091056c1e9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1248&endYear=1248')">1248年10月</a>　到任绍庆府学教授。<br /></div>
+-----end
+
+
+
+-----title
+奉节
+-----detail
+<div class='label1' id='c3d6fe9142ab4f64ad534e172b19a4fe_label'><a href='javascript: DetailSwitch("c3d6fe9142ab4f64ad534e172b19a4fe");'><span id='c3d6fe9142ab4f64ad534e172b19a4fe_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1250')">1249-1250年</a>，63-64岁</div><div id='c3d6fe9142ab4f64ad534e172b19a4fe' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1249')">1249年</a>　秋，充省试别院考官，辞亲民官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1249&endYear=1249')">1249年</a>　编类《武泰志》，跋朱熹《启蒙》后卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1250&endYear=1250')">1250年</a>　编类朱熹《易》<br /></div><div class='label1' id='cd6a579c8ca14e4792dfc72e7f458073_label'><a href='javascript: DetailSwitch("cd6a579c8ca14e4792dfc72e7f458073");'><span id='cd6a579c8ca14e4792dfc72e7f458073_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1251&endYear=1254')">1251-1254年</a>，65-68岁</div><div id='cd6a579c8ca14e4792dfc72e7f458073' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1251&endYear=1251')">1251年</a>　考功郎中文云山、利漕黄循斋、制参赵明远，以明新职教之任邀公，公固辞，就养于夔州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1252&endYear=1252')">1252年</a>　李侯卓率子弟，请问，公一本程朱之学，疏为卦义，曰《易学正说》作品：《读易书怀》、《少年看花行寄示谊儒侄》<div id='poem_98593' class='_poem'><div id='poem_title_98593' class='poemTitle showDetail'><a href='/Writing/98593?labeling=true' target='_blank'>读易书怀</a><span class='authorDate'>（1252年）</span><span class='poemAuthor'><span class='inlineComment1'> 南宋 · </span><a href='javascript: ShowPoemAuthorProfile(34576, "南宋", "阳枋", "poem_title_98593")'>阳枋</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_98593_comment'></div><div class='poemContent' id='poem_content_98593'><div class='poemSentence' id='poem_sentence_0_98593'>家家住坐长安道，日问长安何草草。<div id='poem_sentence_0_98593_comment'></div></div><div class='poemSentence' id='poem_sentence_1_98593'>春到骊山渭水深，拂石临流苦不早。<div id='poem_sentence_1_98593_comment'></div></div><div class='poemSentence' id='poem_sentence_2_98593'>万户千门镇日开，无边风月随人好。<div id='poem_sentence_2_98593_comment'></div></div><div class='poemSentence' id='poem_sentence_3_98593'>满城花柳断莺肠，芳菲易歇天难老。<div id='poem_sentence_3_98593_comment'></div></div><div class='poemSentence' id='poem_sentence_4_98593'></div><div id='poem_sentence_4_98593_comment'></div></div></div><div id='poem_98612' class='_poem'><div id='poem_title_98612' class='poemTitle showDetail'><a href='/Writing/98612?labeling=true' target='_blank'>少年看花行寄示谊儒侄</a><span class='authorDate'>（1252年）</span><span class='poemAuthor'><span class='inlineComment1'> 南宋 · </span><a href='javascript: ShowPoemAuthorProfile(34576, "南宋", "阳枋", "poem_title_98612")'>阳枋</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_98612_comment'></div><div class='poemContent' id='poem_content_98612'><div class='poemSentence' id='poem_sentence_0_98612'>少年看花日千遭，黄金买笑侠气豪。<div id='poem_sentence_0_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_1_98612'>盏斟西凉绿蒲萄，燕歌赵舞纷绮罗。<div id='poem_sentence_1_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_2_98612'>插花上马玉颜酡，鞭马如风花底过。<div id='poem_sentence_2_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_3_98612'>九天阊阖手可摩，扬眉不怕金吾诃。<div id='poem_sentence_3_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_4_98612'>杜鹃一声啼山阿，门掩绿苔愁秦娥。<div id='poem_sentence_4_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_5_98612'>春树红颜能几何，万里封侯成蹉跎。<div id='poem_sentence_5_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_6_98612'>河南布衣正婆娑，却笑因风想玉珂。<div id='poem_sentence_6_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_7_98612'>未肯岩前扪翠萝，商丘不唱采芝歌。<div id='poem_sentence_7_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_8_98612'>独深于易如邹轲，紫阳真人声相和。<div id='poem_sentence_8_98612_comment'></div></div><div class='poemSentence' id='poem_sentence_9_98612'>莲荡归来扬其波，我傍梅花读遗书，不知纷纷坐久落花多。</div><div id='poem_sentence_9_98612_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1253&endYear=1253')">1253年</a>　与魏了翁门人税与权论《易学启蒙小传》，与袁鼎东论进学，与赵汝廪论《易》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1254&endYear=1254')">1254年</a>　赐六品章服，涪教阙员，固辞。<br /></div>
+-----end
+
+
+
+-----title
+重庆
+-----detail
+<div class='label1' id='f2b7bbeaa57542968d58166e9654293f_label'><a href='javascript: DetailSwitch("f2b7bbeaa57542968d58166e9654293f");'><span id='f2b7bbeaa57542968d58166e9654293f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1257')">1257年</a>，71岁</div><div id='f2b7bbeaa57542968d58166e9654293f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1257')">1257年</a>　与阳明夫论阴阳消长，与宋寿卿合乡士就渝，讲明乡约。<br /></div>
+-----end
+
+
+
+-----title
+江陵
+-----detail
+<div class='label1' id='ff5b4927d2d3483ab76fb858c20359d3_label'><a href='javascript: DetailSwitch("ff5b4927d2d3483ab76fb858c20359d3");'><span id='ff5b4927d2d3483ab76fb858c20359d3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1259&endYear=1261')">1259-1261年</a>，73-75岁</div><div id='ff5b4927d2d3483ab76fb858c20359d3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1259&endYear=1259')">1259年</a>　夏，携子孙就居荆州白水镇，朝廷加恩，父为宣义郎，母为孺人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1260')">1260年</a>　赐爵一级，加朝奉郎，又以阳炎卯升朝遇大礼，加朝散郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1260')">1260年9月</a>　九月，因疮卧病，脱发落齿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1261&endYear=1261')">1261年</a>　长男阳少箕、从子阳昂皆奏名，书戒诸子。<br /></div>
+-----end
+
+
+
+-----title
+宜昌
+-----detail
+<div class='label1' id='3991c727d17a4d0c8bc946c653ebcb07_label'><a href='javascript: DetailSwitch("3991c727d17a4d0c8bc946c653ebcb07");'><span id='3991c727d17a4d0c8bc946c653ebcb07_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1262&endYear=1262')">1262年</a>，76岁</div><div id='3991c727d17a4d0c8bc946c653ebcb07' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1262&endYear=1262')">1262年</a>　就养于峡州至喜亭，与亲朋讲学不倦。作品：《与赵传之书》<div id='poem_1305002' class='_poem'><div id='poem_title_1305002' class='poemTitle showDetail'><a href='/Writing/1305002?labeling=true' target='_blank'>与赵传之书</a><span class='authorDate'>（1262年）</span><span class='poemAuthor'><span class='inlineComment1'> 南宋 · </span><a href='javascript: ShowPoemAuthorProfile(34576, "南宋", "阳枋", "poem_title_1305002")'>阳枋</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1305002_comment'></div><div class='poemContent' id='poem_content_1305002'><div class='articleSentence' id='poem_sentence_0_1305002'>来谕云学问是静中涵养为第一义，令人竟日欣然。<div class='inline' id='poem_sentence_0_1305002_comment'></div>此便是文公「静观灵台妙，万化从此出」的气象。<div class='inline' id='poem_sentence_1_1305002_comment'></div>贤友识见广大，自得已深，云胡不喜！<div class='inline' id='poem_sentence_2_1305002_comment'></div>但又云：「体验省察，随所发处，逐件整顿，则临事读书，都觉有力」。<div class='inline' id='poem_sentence_3_1305002_comment'></div>如此却是涵养而后体认，意似倒些。<div class='inline' id='poem_sentence_4_1305002_comment'></div>所谓圣人将许大始终万物着在《艮》卦上，以静为本，动为用，恐着在两字未莹。<div class='inline' id='poem_sentence_5_1305002_comment'></div>八卦之义，皆是自然，不待圣人安排。<div class='inline' id='poem_sentence_6_1305002_comment'></div>然终万物处，亦不都是静，煞有作用在，自出《震》至成《艮》，都是运动流转，无一时停息。<div class='inline' id='poem_sentence_7_1305002_comment'></div>如秋敛冬藏，看他敛藏亦多，少用功着力。<div class='inline' id='poem_sentence_8_1305002_comment'></div>所以圣人言贞固足以干事，干是十分用力。<div class='inline' id='poem_sentence_9_1305002_comment'></div>在《艮》是时止时行，动静不失，然后其道光明，静中元有动也。<div class='inline' id='poem_sentence_10_1305002_comment'></div>夫子仕止久速，便是如此。<div class='inline' id='poem_sentence_11_1305002_comment'></div>前贤以明镜止水比圣人，他终万物，始万物，便去了寂然不动之心，毕竟形容不尽。<div class='inline' id='poem_sentence_12_1305002_comment'></div>贤友言屈伸至崇德数语，某都要如此看，高意以为如何？<div class='inline' id='poem_sentence_13_1305002_comment'></div>文公赐祖师帖中语，贤友看得甚好，足见大有长进矣。<div class='inline' id='poem_sentence_14_1305002_comment'></div>某老矣，掩门兀坐，于十二时中，观三百八十四爻，焜耀流转，就其间求乾健不息之理，而捉摸不得，徒切浩叹而已。<div class='inline' id='poem_sentence_15_1305002_comment'></div>圣人径庭，远不可到。</div><div id='poem_sentence_16_1305002_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+桃源
+-----detail
+<div class='label1' id='490b1625cd08495e880887f99aff45c3_label'><a href='javascript: DetailSwitch("490b1625cd08495e880887f99aff45c3");'><span id='490b1625cd08495e880887f99aff45c3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1263&endYear=1264')">1263-1264年</a>，77-78岁</div><div id='490b1625cd08495e880887f99aff45c3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1263&endYear=1263')">1263年</a>　就养桃源广溪。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1264&endYear=1264')">1264年</a>　加朝奉大夫，教子《家训》<br /></div>
+-----end
+
+
+
+-----title
+至喜亭
+-----detail
+null
+-----end
+
+

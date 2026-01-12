@@ -1,0 +1,104 @@
+
+-----title
+高安 (出生地)
+-----detail
+<div class='label1' id='d5b509a9f78e4af599ebf017ebfa3674_label'><a href='javascript: DetailSwitch("d5b509a9f78e4af599ebf017ebfa3674");'><span id='d5b509a9f78e4af599ebf017ebfa3674_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1032&endYear=1046')">1032-1046年</a>，1-15岁</div><div id='d5b509a9f78e4af599ebf017ebfa3674' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1032&endYear=1032')">1032年</a>　本年，刘恕生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1034')">1033-1034年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1035&endYear=1035')">1035年</a>　年四岁，坐客有言孔子无兄弟者，恕应声答曰：以其兄之子妻之，一坐惊异。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1043')">1036-1043年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')">1044年</a>　年十三，欲应制科，从人假汉、唐书，阅月，皆归之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1046')">1045-1046年</a>　居乡。<br /></div><div class='label1' id='29a9b976e3ac4edba7d2af427be1565f_label'><a href='javascript: DetailSwitch("29a9b976e3ac4edba7d2af427be1565f");'><span id='29a9b976e3ac4edba7d2af427be1565f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1078')">1076-1078年</a>，45-47岁</div><div id='29a9b976e3ac4edba7d2af427be1565f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')">1076年</a>　未至家，母寿安县君钱氏卒，俄得风疾，抱病作《通鉴前纪》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1078')">1077-1078年</a>　抱病修《资治通鉴》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')">1078年8月</a>　八月，编定《资治通鉴前纪》，更曰《外纪》，共十卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1078')">1078年9月29日</a>　九月戊戌（二十九日），刘恕卒。<br /></div>
+-----end
+
+
+
+-----title
+颍上
+-----detail
+<div class='label1' id='75acc91085f4466ca98f4b61628b948e_label'><a href='javascript: DetailSwitch("75acc91085f4466ca98f4b61628b948e");'><span id='75acc91085f4466ca98f4b61628b948e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1048')">1047-1048年</a>，16-17岁</div><div id='75acc91085f4466ca98f4b61628b948e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')">1047年</a>　父刘涣为颍上令，刘恕随父居颍上时曾诣前丞相知颍州晏殊，问晏殊以事，反复诘难，殊不能对。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1047')">1047年</a>　与刘攽定交。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')">1048年</a>　随父居颍上。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='57ce96f3b3c145659c3bf9c8fb9436ee_label'><a href='javascript: DetailSwitch("57ce96f3b3c145659c3bf9c8fb9436ee");'><span id='57ce96f3b3c145659c3bf9c8fb9436ee_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')">1049年</a>，18岁</div><div id='57ce96f3b3c145659c3bf9c8fb9436ee' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>是年，刘恕中冯京榜进士，再应诏试经义说书，皆第一，但因年未弱冠，尚不得授官。始与司马光相识，<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>刘恕及第后刘敞有诗《送刘先辈恕》诗相赠。<br /></div><div class='label1' id='6aa4925f567546f287befed6d910b47a_label'><a href='javascript: DetailSwitch("6aa4925f567546f287befed6d910b47a");'><span id='6aa4925f567546f287befed6d910b47a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')">1061年</a>，30岁</div><div id='6aa4925f567546f287befed6d910b47a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')">1061年8月</a>　八月庚申，诏三馆秘阁校宋、齐、梁、陈、后魏、后周、北齐七史书，刘恕与刘攽、范祖禹等负责校《后魏书》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')">1061年</a>　是年刘恕与苏辙相识于汴京。<br /></div><div class='label1' id='c606360e646344298c139eed90ae52f1_label'><a href='javascript: DetailSwitch("c606360e646344298c139eed90ae52f1");'><span id='c606360e646344298c139eed90ae52f1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')">1063年</a>，32岁</div><div id='c606360e646344298c139eed90ae52f1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')">1063年</a>　与司马光论撰编年史事。<br /></div><div class='label1' id='c6e889d4378a44d6853b5c690dbdc2c3_label'><a href='javascript: DetailSwitch("c6e889d4378a44d6853b5c690dbdc2c3");'><span id='c6e889d4378a44d6853b5c690dbdc2c3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1070')">1066-1070年</a>，35-39岁</div><div id='c6e889d4378a44d6853b5c690dbdc2c3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1066')">1066年4月18日</a>　四月十八日，诏命司马光续成《资治通鉴》，且许自择英才，置局同文院。司马光荐刘恕同预编修，刘恕因此迁著作佐郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')">1067年</a>　刘恕等上所述校《后魏书》，其中有叙目录一文。作品：《叙目录》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1068')">1068年</a>　刘恕在汴京修《资治通鉴》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')">1069年2月</a>　二月，王安石创制置三司条例司，议行新法，欲以刘恕修三司条例，刘恕与之意见相左，固辞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')">1069年</a>　与张耒相识。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')">1070年2月</a>　在汴京修《资治通鉴》，被王安石指与刘攽、苏轼、苏辙同为司马光之党羽。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')">1070年9月</a>　九月癸丑，司马光出知永兴军，恕即奏乞监南康军酒，得之，诏许即官下编修，改秘书丞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')">1070年</a>　刘恕归南康前得苏轼、苏辙以诗相赠。<br /></div>
+-----end
+
+
+
+-----title
+巨鹿
+-----detail
+<div class='label1' id='f2017331d347468a9b80f7a13e81ce63_label'><a href='javascript: DetailSwitch("f2017331d347468a9b80f7a13e81ce63");'><span id='f2017331d347468a9b80f7a13e81ce63_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1054')">1051-1054年</a>，20-23岁</div><div id='f2017331d347468a9b80f7a13e81ce63' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')">1051年</a>　释褐为邢州钜鹿主簿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1053')">1052-1053年</a>　任钜鹿主簿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')">1054年</a>　高阳帅陈升之召至府，重礼之，使讲《春秋》，晏殊亲率官属往听。<br /></div>
+-----end
+
+
+
+-----title
+安泽
+-----detail
+<div class='label1' id='9f46a560cf064da598c7bcd3fd783460_label'><a href='javascript: DetailSwitch("9f46a560cf064da598c7bcd3fd783460");'><span id='9f46a560cf064da598c7bcd3fd783460_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1057')">1054-1057年</a>，23-26岁</div><div id='9f46a560cf064da598c7bcd3fd783460' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')">1054年</a>　迁晋州和川令。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1057')">1055-1057年</a>　任和川令。<br /></div>
+-----end
+
+
+
+-----title
+亳州
+-----detail
+<div class='label1' id='9a1f718e103e49a29d7c53f64279f72c_label'><a href='javascript: DetailSwitch("9a1f718e103e49a29d7c53f64279f72c");'><span id='9a1f718e103e49a29d7c53f64279f72c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')">1063年</a>，32岁</div><div id='9a1f718e103e49a29d7c53f64279f72c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')">1063年</a>　刘恕至宋敏求家观书。<br /></div>
+-----end
+
+
+
+-----title
+桂林
+-----detail
+<div class='label1' id='09cc8f850c2e418fb66ab1762a4b41b3_label'><a href='javascript: DetailSwitch("09cc8f850c2e418fb66ab1762a4b41b3");'><span id='09cc8f850c2e418fb66ab1762a4b41b3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')">1065年</a>，34岁</div><div id='09cc8f850c2e418fb66ab1762a4b41b3' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>三月，广西转运使知桂州陆诜奏以刘恕掌机宜，刘恕以此迁翁源县令。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>三月，刘恕与陆诜、余藻等会于伏波岩。<br /></div>
+-----end
+
+
+
+-----title
+星子
+-----detail
+<div class='label1' id='49d136284e244401b2b191ff1d86a148_label'><a href='javascript: DetailSwitch("49d136284e244401b2b191ff1d86a148");'><span id='49d136284e244401b2b191ff1d86a148_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1073')">1071-1073年</a>，40-42岁</div><div id='49d136284e244401b2b191ff1d86a148' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')">1071年</a>　在南康军酒监任内修《资治通鉴》，拟作《通鉴前后纪》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')">1071年</a>　是年，与苏轼、司马光有书信往来。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')">1072年</a>　在南康军酒监任内修《资治通鉴》，得陈舜俞赠诗《赠刘道原》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')">1072年</a>　在南康军酒监任内，作《寄张师民》诗。<span class='inlineComment2'>（诗已佚。）</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')">1072年</a>　在南康军酒监任内，作《咏史》诗。<span class='inlineComment2'>（诗已佚。）</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1073')">1073年</a>　在南康修《资治通鉴》，与苏轼有诗唱和。<br /></div><div class='label1' id='a45091e42fca47c8a0e5a775d80bb0ee_label'><a href='javascript: DetailSwitch("a45091e42fca47c8a0e5a775d80bb0ee");'><span id='a45091e42fca47c8a0e5a775d80bb0ee_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')">1075年</a>，44岁</div><div id='a45091e42fca47c8a0e5a775d80bb0ee' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1075&endYear=1075')">1075年</a>　在南康修《资治通鉴》<br /></div>
+-----end
+
+
+
+-----title
+镇江
+-----detail
+<div class='label1' id='68dcef1db2a945cca28695081f8c09f3_label'><a href='javascript: DetailSwitch("68dcef1db2a945cca28695081f8c09f3");'><span id='68dcef1db2a945cca28695081f8c09f3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')">1074年</a>，43岁</div><div id='68dcef1db2a945cca28695081f8c09f3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1074&endYear=1074')">1074年</a>　春夏间，至京口与苏轼会面。<br /></div>
+-----end
+
+
+
+-----title
+洛阳
+-----detail
+<div class='label1' id='77fe517577df4f40b3963d3d21b161b1_label'><a href='javascript: DetailSwitch("77fe517577df4f40b3963d3d21b161b1");'><span id='77fe517577df4f40b3963d3d21b161b1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')">1076年</a>，45岁</div><div id='77fe517577df4f40b3963d3d21b161b1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')">1076年</a>　至洛阳，与司马光议修书事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')">1076年10月</a>　十月，自洛阳南归。<br /></div>
+-----end
+
+
+
+-----title
+扬州
+-----detail
+<div class='label1' id='6b354b258077466b8ce7e7f9f2896190_label'><a href='javascript: DetailSwitch("6b354b258077466b8ce7e7f9f2896190");'><span id='6b354b258077466b8ce7e7f9f2896190_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')">1076年</a>，45岁</div><div id='6b354b258077466b8ce7e7f9f2896190' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')">1076年</a>　经淮南访晁端彦，而后返庐山。<br /></div>
+-----end
+
+
+
+-----title
+伏波岩
+-----detail
+null
+-----end
+
+
+
+-----title
+庐山
+-----detail
+null
+-----end
+
+

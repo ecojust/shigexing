@@ -1,0 +1,24 @@
+
+-----title
+金华 (出生地)
+-----detail
+<div class='label1' id='11caef4ae2754860b4185b6e421d13e2_label'><a href='javascript: DetailSwitch("11caef4ae2754860b4185b6e421d13e2");'><span id='11caef4ae2754860b4185b6e421d13e2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=980&endYear=980')">980年</a>，出生</div><div id='11caef4ae2754860b4185b6e421d13e2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=980&endYear=980')">980年</a>　约于本年，出生于金华。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='41425bb560f84db188afe0bdb47211ef_label'><a href='javascript: DetailSwitch("41425bb560f84db188afe0bdb47211ef");'><span id='41425bb560f84db188afe0bdb47211ef_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1004')">1002-1004年</a>，23-25岁</div><div id='41425bb560f84db188afe0bdb47211ef' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')">1002年</a>　约于本年，至京师。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1004')">1003-1004年</a>　本年，居京师。<br /></div>
+-----end
+
+
+
+-----title
+长兴
+-----detail
+<div class='label1' id='2231ee7e95dc42bd953ba3d84d5c3732_label'><a href='javascript: DetailSwitch("2231ee7e95dc42bd953ba3d84d5c3732");'><span id='2231ee7e95dc42bd953ba3d84d5c3732_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1049')">1034-1049年</a>，55-70岁</div><div id='2231ee7e95dc42bd953ba3d84d5c3732' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1034')">1034年</a>　本年，居吴山解空院。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1035&endYear=1035')">1035年</a>　本年，居吴山解空院，收净端为徒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1049')">1036-1049年</a>　本年，居吴山解空院。<br /></div>
+-----end
+
+

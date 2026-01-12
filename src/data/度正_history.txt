@@ -1,0 +1,89 @@
+
+-----title
+宜昌（夷陵）
+-----detail
+<div class='label1' id='a2c6c954a2ad46b0bb0aa6f1cdaed59e_label'><a href='javascript: DetailSwitch("a2c6c954a2ad46b0bb0aa6f1cdaed59e");'><span id='a2c6c954a2ad46b0bb0aa6f1cdaed59e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')">1190年</a>，25岁</div><div id='a2c6c954a2ad46b0bb0aa6f1cdaed59e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')">1190年</a>　大约本年，殿试结束后归蜀,途经夷陵，与族人度伯兼相遇，二人交流学习心得，一起讲说郭雍所解《论语》，临走前，度伯兼又将问学于郭雍时的《易》《中庸》笔记送给度正，此事便成为度正接受程氏理学的契机。<br /></div>
+-----end
+
+
+
+-----title
+资中（盘石）
+-----detail
+<div class='label1' id='dfd3b4d174264cbf9e3f564f1508768a_label'><a href='javascript: DetailSwitch("dfd3b4d174264cbf9e3f564f1508768a");'><span id='dfd3b4d174264cbf9e3f564f1508768a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1193')">1190-1193年</a>，25-28岁</div><div id='dfd3b4d174264cbf9e3f564f1508768a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')">1190年</a>　大约本年，授资州司户参军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1191')">1191年</a>　本年在资州司户参军任上，著名川籍学者刘光祖到潼川府出任本路转运判官，度正前往拜访，从此结下师生之谊。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1191')">1191年</a>　本年在资州司户参军任上，将自己刊印的著作托人转赠刘光祖。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1192')">1192年</a>　本年在资州司户参军任上，主持本州科举发解试。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')">1193年</a>　本年或在资州司户参军任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')">1193年</a>　本年或在资州司户参军任上，将自己刊印的著作托人转赠刘光祖。<br /></div>
+-----end
+
+
+
+-----title
+潼南（遂宁）
+-----detail
+<div class='label1' id='d48e1ce2d03445f2b9e2dbb194ae8998_label'><a href='javascript: DetailSwitch("d48e1ce2d03445f2b9e2dbb194ae8998");'><span id='d48e1ce2d03445f2b9e2dbb194ae8998_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1196')">1194-1196年</a>，29-31岁</div><div id='d48e1ce2d03445f2b9e2dbb194ae8998' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')">1194年</a>　大约本年，转遂宁府司户参军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')">1195年</a>　本年在遂宁府司户参军任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')">1196年1月4日</a>　正月四日，在遂宁府司户参军任上，友人王世垕来访，出伊川先生手状一幅。手状乃得自傅光家，原主人为大夫公傅耆，度正将伊川先生手状恭敬收拾，交还王君，并请他带话给遂宁傅家，希望他们好好珍藏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')">1196年</a>　秋，在遂宁府司户参军任上，傅光写来书信，表示十分感谢度正的提警，必当好好保存诸先生的手泽，且将傅家珍存的《谢傅伯成手谒》赠与度正。度正在入藏伊川帖后当即作跋。作品：《跋伊川先生帖后》<span class='inlineComment2'>（99。）</span><div id='poem_1292799' class='_poem'><div id='poem_title_1292799' class='poemTitle showDetail'><a href='/Writing/1292799?labeling=true' target='_blank'>跋伊川先生帖后</a><span class='authorDate'>（1196年）</span><span class='poemAuthor'><span class='inlineComment1'> 南宋 · </span><a href='javascript: ShowPoemAuthorProfile(25224, "南宋", "度正", "poem_title_1292799")'>度正</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1292799_comment'></div><div class='poemContent' id='poem_content_1292799'><div class='articleSentence' id='poem_sentence_0_1292799'>正为遂宁户掾，友人王君世垕数数为正言，城西傅君光家藏先正韩、范诸公手迹甚富。<div class='inline' id='poem_sentence_0_1292799_comment'></div>乃祖大夫公嘉祐初实见濂溪周先生于合阳，求教，先生手书《家人》、《艮》、《遇》等说赠之。<div class='inline' id='poem_sentence_1_1292799_comment'></div>其后程太中公知汉州，大夫公时为邑西川，又得交伊川兄弟间，手笔相问，往往皆在。<div class='inline' id='poem_sentence_2_1292799_comment'></div>正每见王君，必悉意咨恳，属以访求周、程诸先生手迹。<div class='inline' id='poem_sentence_3_1292799_comment'></div>庆元二年正月四日，王君忽自山中来谒，讲礼已，袖出伊川先生手状一幅，徐加考订，殆先生入蜀时笔也。<div class='inline' id='poem_sentence_4_1292799_comment'></div>大夫公集以为日记册。<div class='inline' id='poem_sentence_5_1292799_comment'></div>此板起六日，终七月十六日，内载王氏父子、吕氏兄弟迁擢，盖熙宁间日报，作细字，背面皆满，先生字处阙之，独得不谩。<div class='inline' id='poem_sentence_6_1292799_comment'></div>又问濂溪书，曰亡矣。<div class='inline' id='poem_sentence_7_1292799_comment'></div>正且悲且喜，谓王君曰：「正不敏，读诸先生遗书，学其学，求其道，今十馀年矣。<div class='inline' id='poem_sentence_8_1292799_comment'></div>每见当时一事一物，如南国之棠，曲阜之履，旁皇不忍去之也。<div class='inline' id='poem_sentence_9_1292799_comment'></div>今此纸幸脱于败烂之中，然诸先生所以开示后世者，世方以为奇货，安知叔孙武叔辈见之不遂投之水火耶？<div class='inline' id='poem_sentence_10_1292799_comment'></div>为我谢傅君，正奉藏之，俾勿坏」。<div class='inline' id='poem_sentence_11_1292799_comment'></div>其年秋，傅君来，言曰：「先生之书，谨如命」。<div class='inline' id='poem_sentence_12_1292799_comment'></div>大夫公讳耆，字伯寿，名在元符党籍。<div class='inline' id='poem_sentence_13_1292799_comment'></div>光字用之，世垕字叔载。<div class='inline' id='poem_sentence_14_1292799_comment'></div>后学乐活度正谨书。</div><div id='poem_sentence_15_1292799_comment'></div></div></div><br /></div><div class='label1' id='de8691baae554bdea7661f6ff56be8ce_label'><a href='javascript: DetailSwitch("de8691baae554bdea7661f6ff56be8ce");'><span id='de8691baae554bdea7661f6ff56be8ce_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年</a>，48岁</div><div id='de8691baae554bdea7661f6ff56be8ce' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年</a>　本年之前，接到遂宁傅氏的正式邀请，到傅家一览前贤遗迹。此次访问，收获甚大，不仅见到了濂溪真迹《贺傅伯成手谒》，而且见到了傅家总集《傅氏家集》和傅耆专著的《长庆集》，从《傅氏家集》中得知濂溪先生曾创作有《姤说》《同人说》二文，抄录《长庆集》并辑出六封书信及二首傅耆唱和濂溪的诗歌，准备将它们全部刊入正在编纂的《元公周先生濂溪集》中。具体时间不详，姑系于此。<br /></div>
+-----end
+
+
+
+-----title
+建阳
+-----detail
+<div class='label1' id='042c6d00a617428495ab2eb3dff7cc37_label'><a href='javascript: DetailSwitch("042c6d00a617428495ab2eb3dff7cc37");'><span id='042c6d00a617428495ab2eb3dff7cc37_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年</a>，32岁</div><div id='042c6d00a617428495ab2eb3dff7cc37' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年</a>　本年离家远行，亲至福建拜见朱熹。时把持朝政的韩侘冑及其党羽掀起了一场反对理学的“伪学党禁”运动，也称“庆元党禁”，度正不计利害，义无反顾地前往问学，朱熹为此深为感动。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年7月27日</a>　七月二十二日，在福建，将伊川《谢傅伯成手谒》呈请自己的老师晦庵先生朱熹鉴赏，朱子当即挥毫题跋。<br /></div>
+-----end
+
+
+
+-----title
+杭州（临安）
+-----detail
+<div class='label1' id='3aded1388783433fa8b1b32ef0be333f_label'><a href='javascript: DetailSwitch("3aded1388783433fa8b1b32ef0be333f");'><span id='3aded1388783433fa8b1b32ef0be333f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年</a>，32岁</div><div id='3aded1388783433fa8b1b32ef0be333f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年</a>　本年离家远行，拜访朱熹，顺便到临安拜谒宰相京镗。<br /></div><div class='label1' id='8c8c4b831ac943088abc9273035952dd_label'><a href='javascript: DetailSwitch("8c8c4b831ac943088abc9273035952dd");'><span id='8c8c4b831ac943088abc9273035952dd_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1226&endYear=1234')">1226-1234年</a>，61-69岁</div><div id='8c8c4b831ac943088abc9273035952dd' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1226&endYear=1226')">1226年</a>　奉诏入朝，至临安，出任国子监丞，结束了他近十五年的四川地方官生涯。此次升迁，得到以前的上司、朱熹另一门人曹彦约的上疏推荐。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1226&endYear=1226')">1226年</a>　本年在临安国子监丞任上，时金国境内的土匪李全归顺宋廷，上书力陈李全将来必反。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1227&endYear=1227')">1227年</a>　本年在临安国子监丞任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1228&endYear=1228')">1228年</a>　大约本年，在临安，转任军器监丞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1229&endYear=1229')">1229年</a>　本年在临安军器监丞任上，建议加强州
+县政治,劝理宗躬行节俭。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1230&endYear=1230')">1230年</a>　本年或仍在临安军器监丞任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')">1231年9月</a>　九月，在临安太常少卿任上，时太庙发生火灾，事后重修，上书提出修缮意见。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1231&endYear=1231')">1231年</a>　在临安太常少卿任上，时蒙古大军陈兵蜀口，他建议理宗选将练兵，预为防备，理宗于是任命李埴为四川制置使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1232&endYear=1233')">1232-1233年</a>　在临安，权礼部侍郎兼侍右郎官，兼同修国史、实录院同修撰。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1234&endYear=1234')">1234年</a>　大约本年，在临安，任礼部侍郎，并兼任侍读，与同门叶味道一起为理宗讲授经学。<br /></div>
+-----end
+
+
+
+-----title
+广元（绵谷）
+-----detail
+<div class='label1' id='e1672bc4b25b4401a44a741bc290971b_label'><a href='javascript: DetailSwitch("e1672bc4b25b4401a44a741bc290971b");'><span id='e1672bc4b25b4401a44a741bc290971b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1199')">1197-1199年</a>，32-34岁</div><div id='e1672bc4b25b4401a44a741bc290971b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年</a>　本年得利州教授一职。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>　本年在利州教授任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>　本年在利州教授任上，不避嫌疑，迎接恩师刘光祖，时刘光祖因庆元党禁触犯当权派，被贬官房州，途经利州时，利州官员都避嫌不敢送迎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>　本年在利州教授任上，将自己刊印的著作托人转赠刘光祖。<br /></div>
+-----end
+
+
+
+-----title
+成都（成都府）
+-----detail
+<div class='label1' id='bcebe8f26eec44b99d8a9da87767c31c_label'><a href='javascript: DetailSwitch("bcebe8f26eec44b99d8a9da87767c31c");'><span id='bcebe8f26eec44b99d8a9da87767c31c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1211')">1208-1211年</a>，43-46岁</div><div id='bcebe8f26eec44b99d8a9da87767c31c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')">1208年</a>　本年得四川制置使吴猎推荐，出任成都府学教授。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')">1208年</a>　本年或在成都府学教授任上，与蜀中理学集大成者的著名学者魏了翁在成都相见，向魏了翁提出刊行朱子《语录》的建议。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')">1209年</a>　本年或在成都府学教授任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')">1209年</a>　在利州、成都府等地教授任上时，阳枋、赵景纬从之学，具体时间、地点不详，姑系于此。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1210')">1210年</a>　本年初，度正升任通直郎、知成都府华阳县，结束了近二十年的幕职州县官生涯，进入京朝官行列。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1210')">1210年4月</a>　四月，在成都府华阳县知县任上，吴猎奉召还朝，离任前向朝廷推荐蜀士六人，其他几人都得到朝廷的升迁，惟独度正例外，因有人重提度正当年求学朱熹门下之事,攻击他心术不正。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')">1211年</a>　本年在成都府华阳县知县任上。<br /></div>
+-----end
+
+
+
+-----title
+乐山（龙游）
+-----detail
+<div class='label1' id='095d7e3b7d8a41f5b9a48e86dae17e84_label'><a href='javascript: DetailSwitch("095d7e3b7d8a41f5b9a48e86dae17e84");'><span id='095d7e3b7d8a41f5b9a48e86dae17e84_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1213')">1212-1213年</a>，47-48岁</div><div id='095d7e3b7d8a41f5b9a48e86dae17e84' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1212')">1212年</a>　本年由华阳知县升任通判嘉定府。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年</a>　本年在嘉定府通判任上。<br /></div><div class='label1' id='d27f04484ac44fbbb83417e876ca5240_label'><a href='javascript: DetailSwitch("d27f04484ac44fbbb83417e876ca5240");'><span id='d27f04484ac44fbbb83417e876ca5240_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1215')">1214-1215年</a>，49-50岁</div><div id='d27f04484ac44fbbb83417e876ca5240' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1215')">1214-1215年</a>　本年在嘉定府通判任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年</a>　嘉定五年至八年,在嘉定府通判任上,刊刻《朱子语录》<br /></div>
+-----end
+
+
+
+-----title
+金堂
+-----detail
+<div class='label1' id='2479995cd9474e978cb4fac4a27d92f5_label'><a href='javascript: DetailSwitch("2479995cd9474e978cb4fac4a27d92f5");'><span id='2479995cd9474e978cb4fac4a27d92f5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1219')">1216-1219年</a>，51-54岁</div><div id='2479995cd9474e978cb4fac4a27d92f5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1216')">1216年</a>　本年擢知怀安军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1217&endYear=1218')">1217-1218年</a>　本年在知怀安军任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1219&endYear=1219')">1219年</a>　本年冬，邸吏报至，知重庆军府事。<br /></div>
+-----end
+
+
+
+-----title
+重庆（巴县）
+-----detail
+<div class='label1' id='fef3d2a8980a4dc3881e023259b3d17b_label'><a href='javascript: DetailSwitch("fef3d2a8980a4dc3881e023259b3d17b");'><span id='fef3d2a8980a4dc3881e023259b3d17b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1220&endYear=1225')">1220-1225年</a>，55-60岁</div><div id='fef3d2a8980a4dc3881e023259b3d17b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1220&endYear=1220')">1220年</a>　本年在知重庆军府事任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1221')">1221年</a>　本年在知重庆军府事任上，兼领夔州路提点刑狱。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1221&endYear=1221')">1221年</a>　本年在知重庆军府事任上，兼领夔州路提点刑狱。经过二十多年努力，终于撰成《周子年谱》一书和《元公周先生濂溪集》的编撰。<span class='inlineComment2'>（36。）</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1222&endYear=1225')">1222-1225年</a>　本年在知重庆军府事任上，兼领夔州路提点刑狱。<br /></div>
+-----end
+
+
+
+-----title
+铜梁（巴川）
+-----detail
+<div class='label1' id='e7bbf091f2724dcfbcf68249323dacb9_label'><a href='javascript: DetailSwitch("e7bbf091f2724dcfbcf68249323dacb9");'><span id='e7bbf091f2724dcfbcf68249323dacb9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=-100000&endYear=-100000')">年份未详</a>，年龄未详</div><div id='e7bbf091f2724dcfbcf68249323dacb9' class='detail'>年份未详　卒后，葬于家乡合州巴川县龙潭子。<br /></div>
+-----end
+
+

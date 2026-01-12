@@ -1,0 +1,32 @@
+
+-----title
+赣县 (出生地)
+-----detail
+<div class='label1' id='b4ce93ae10ac4266be54bc37c7f9af4f_label'><a href='javascript: DetailSwitch("b4ce93ae10ac4266be54bc37c7f9af4f");'><span id='b4ce93ae10ac4266be54bc37c7f9af4f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1103')">1084-1103年</a>，1-20岁</div><div id='b4ce93ae10ac4266be54bc37c7f9af4f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')">1084年</a>　出生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1102')">1085-1102年</a>　居乡赣县。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')">1103年</a>　居乡赣县。以兄弼恩荫授将仕郎。<br /></div><div class='label1' id='a77f63c672fd477f9cdae23b1664a844_label'><a href='javascript: DetailSwitch("a77f63c672fd477f9cdae23b1664a844");'><span id='a77f63c672fd477f9cdae23b1664a844_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1123')">1121-1123年</a>，38-40岁</div><div id='a77f63c672fd477f9cdae23b1664a844' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1123')">1121-1123年</a>　居乡赣县，丁内艰。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='36f32ba381b74ffe9e052530235ba160_label'><a href='javascript: DetailSwitch("36f32ba381b74ffe9e052530235ba160");'><span id='36f32ba381b74ffe9e052530235ba160_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1117')">1104-1117年</a>，21-34岁</div><div id='36f32ba381b74ffe9e052530235ba160' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1109')">1104-1109年</a>　在开封。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')">1110年</a>　在开封。大观年间铨试礼部。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1114')">1111-1114年</a>　在开封。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')">1115年</a>　在开封，赐上舍出身。为宣义郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')">1116年</a>　在开封，入秘书为校书郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1117')">1117年</a>　在开封，林灵素作《神霄录》，朝士争趋之，曾几与李纲、傅崧卿称疾不往视，曾几出为应天少尹。<br /></div><div class='label1' id='bddb2fc427a349aa92bdf04550d6c979_label'><a href='javascript: DetailSwitch("bddb2fc427a349aa92bdf04550d6c979");'><span id='bddb2fc427a349aa92bdf04550d6c979_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1125')">1124-1125年</a>，41-42岁</div><div id='bddb2fc427a349aa92bdf04550d6c979' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')">1124年</a>　在开封，丁内艰服除，主管内外宗室财用。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>　在开封，主管内外宗室财用。<br /></div>
+-----end
+
+
+
+-----title
+商丘（谷熟）
+-----detail
+<div class='label1' id='6e39a7c892f643fd98d039e2bd605ca6_label'><a href='javascript: DetailSwitch("6e39a7c892f643fd98d039e2bd605ca6");'><span id='6e39a7c892f643fd98d039e2bd605ca6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1120')">1118-1120年</a>，35-37岁</div><div id='6e39a7c892f643fd98d039e2bd605ca6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1120')">1118-1120年</a>　在应天少尹任。<br /></div>
+-----end
+
+
+
+-----title
+扬州（江都）
+-----detail
+<div class='label1' id='b33a8010eeb04eccaeb7538bf2725d3b_label'><a href='javascript: DetailSwitch("b33a8010eeb04eccaeb7538bf2725d3b");'><span id='b33a8010eeb04eccaeb7538bf2725d3b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1127')">1126-1127年</a>，43-44岁</div><div id='b33a8010eeb04eccaeb7538bf2725d3b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1127')">1126-1127年</a>　在扬州。提举淮东路茶盐公事。<br /></div>
+-----end
+
+

@@ -1,0 +1,40 @@
+
+-----title
+湖州
+-----detail
+<div class='label1' id='56682771f9744f1ab87c782fe6054fd8_label'><a href='javascript: DetailSwitch("56682771f9744f1ab87c782fe6054fd8");'><span id='56682771f9744f1ab87c782fe6054fd8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')">1161年</a>，27岁</div><div id='56682771f9744f1ab87c782fe6054fd8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')">1161年</a>　是年，自吴兴寄诗张孝祥。<br /></div>
+-----end
+
+
+
+-----title
+当涂
+-----detail
+<div class='label1' id='b1d9f5b8593e4902ab1cfc1c53778983_label'><a href='javascript: DetailSwitch("b1d9f5b8593e4902ab1cfc1c53778983");'><span id='b1d9f5b8593e4902ab1cfc1c53778983_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>，31岁</div><div id='b1d9f5b8593e4902ab1cfc1c53778983' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>　是年，在太平州任州学教授。<br /></div>
+-----end
+
+
+
+-----title
+常州
+-----detail
+<div class='label1' id='81292140cc19487cb7cafbc84ab890d3_label'><a href='javascript: DetailSwitch("81292140cc19487cb7cafbc84ab890d3");'><span id='81292140cc19487cb7cafbc84ab890d3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>，36岁</div><div id='81292140cc19487cb7cafbc84ab890d3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　在常州任州学教授。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='be8e023cf84f44299e8f4925b28e9b23_label'><a href='javascript: DetailSwitch("be8e023cf84f44299e8f4925b28e9b23");'><span id='be8e023cf84f44299e8f4925b28e9b23_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1174')">1171-1174年</a>，37-40岁</div><div id='be8e023cf84f44299e8f4925b28e9b23' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　在临安曾任秘书省正字。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>　在临安，为国子录。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>　淳熙初，在临安任枢密院编修官。<br /></div>
+-----end
+
+
+
+-----title
+九江
+-----detail
+<div class='label1' id='20ee3326049d4da4b910149363239da3_label'><a href='javascript: DetailSwitch("20ee3326049d4da4b910149363239da3");'><span id='20ee3326049d4da4b910149363239da3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')">1193年</a>，59岁</div><div id='20ee3326049d4da4b910149363239da3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')">1193年</a>　是年，知江州。杨万里有书信问候。<br /></div>
+-----end
+
+

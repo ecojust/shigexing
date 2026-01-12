@@ -1,0 +1,56 @@
+
+-----title
+兰溪 (出生地)
+-----detail
+<div class='label1' id='b1569ed0b4644162b2733b61917bc5ac_label'><a href='javascript: DetailSwitch("b1569ed0b4644162b2733b61917bc5ac");'><span id='b1569ed0b4644162b2733b61917bc5ac_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，出生</div><div id='b1569ed0b4644162b2733b61917bc5ac' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a><br /></div><div class='label1' id='656ae73a600e4c3dbccc058b369f0ec9_label'><a href='javascript: DetailSwitch("656ae73a600e4c3dbccc058b369f0ec9");'><span id='656ae73a600e4c3dbccc058b369f0ec9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>，44岁</div><div id='656ae73a600e4c3dbccc058b369f0ec9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年9月</a>　与韩元吉、韩淲、吕祖谦、曾正中同游兰溪栖真院灵洞并题名。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='51c76a183320400ebb872a92a25c8fde_label'><a href='javascript: DetailSwitch("51c76a183320400ebb872a92a25c8fde");'><span id='51c76a183320400ebb872a92a25c8fde_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1142')">1140-1142年</a>，15-17岁</div><div id='51c76a183320400ebb872a92a25c8fde' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年</a>　与陆游、叶黯、陈悫等同应科举，交游密切。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')">1141年</a><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年</a>　入太学，与李冲、詹左、张相、林光朝同学。<br /></div><div class='label1' id='e5b4455adb864986b7475ee410ca8c43_label'><a href='javascript: DetailSwitch("e5b4455adb864986b7475ee410ca8c43");'><span id='e5b4455adb864986b7475ee410ca8c43_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')">1154年</a>，29岁</div><div id='e5b4455adb864986b7475ee410ca8c43' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1154&endYear=1154')">1154年</a>　登进士第。<br /></div><div class='label1' id='d7e9b0b507b944a8910dd2834d9f22a2_label'><a href='javascript: DetailSwitch("d7e9b0b507b944a8910dd2834d9f22a2");'><span id='d7e9b0b507b944a8910dd2834d9f22a2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1168')">1165-1168年</a>，40-43岁</div><div id='d7e9b0b507b944a8910dd2834d9f22a2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>　为左宣教郎、太学录，被命点检国子监试卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')">1166年12月</a>　为秘书省正字。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1168')">1167-1168年</a>　为校书郎。<br /></div><div class='label1' id='30dd131a498b4383a668633e6431604e_label'><a href='javascript: DetailSwitch("30dd131a498b4383a668633e6431604e");'><span id='30dd131a498b4383a668633e6431604e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1178')">1176-1178年</a>，51-53岁</div><div id='30dd131a498b4383a668633e6431604e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')">1176年2月</a>　礼部员外郎任上，主持考试。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')">1176年8月</a>　周必大跋其所藏欧阳修书帖。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年7月</a>　以礼部员外郎兼国史院编修官，本年袁说友曾观其所藏定武本《兰亭序》帖。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年8月5日</a>　主持考试。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年9月</a>　任军器监。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1178')">1178年5月</a>　以起居舍人兼国史院编修。卒于任上。<br /></div>
+-----end
+
+
+
+-----title
+湖州
+-----detail
+<div class='label1' id='9b3f0cec43ba46159ef39226d1747fc6_label'><a href='javascript: DetailSwitch("9b3f0cec43ba46159ef39226d1747fc6");'><span id='9b3f0cec43ba46159ef39226d1747fc6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年</a>，23岁</div><div id='9b3f0cec43ba46159ef39226d1747fc6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年</a>　在湖州识韩元吉，此后在太学又数与韩元吉交游。<br /></div>
+-----end
+
+
+
+-----title
+福建
+-----detail
+<div class='label1' id='38ce1131812843aab449d1011af9089f_label'><a href='javascript: DetailSwitch("38ce1131812843aab449d1011af9089f");'><span id='38ce1131812843aab449d1011af9089f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1158')">1156-1158年</a>，31-33岁</div><div id='38ce1131812843aab449d1011af9089f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1156')">1156年</a>　往福建某地任主簿类文书官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')">1157年</a>　在福建某地任主簿类文书官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')">1158年</a>　在福建某地任主簿类文书官，与韩元吉相遇于闽中。<br /></div>
+-----end
+
+
+
+-----title
+韶关
+-----detail
+<div class='label1' id='bdbbdb6f834e4986a86347241c146581_label'><a href='javascript: DetailSwitch("bdbbdb6f834e4986a86347241c146581");'><span id='bdbbdb6f834e4986a86347241c146581_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>，44岁</div><div id='bdbbdb6f834e4986a86347241c146581' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>　知广东韶州。<br /></div>
+-----end
+
+
+
+-----title
+德庆
+-----detail
+<div class='label1' id='a71bea7ba04845a3822bd549c3a32bd7_label'><a href='javascript: DetailSwitch("a71bea7ba04845a3822bd549c3a32bd7");'><span id='a71bea7ba04845a3822bd549c3a32bd7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1173')">1170-1173年</a>，45-48岁</div><div id='a71bea7ba04845a3822bd549c3a32bd7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　知晋康郡（南康州）<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　知晋康郡任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>　知晋康郡任上，有诗。作品：《岭南鞭春》<div id='poem_174249' class='_poem'><div id='poem_title_174249' class='poemTitle showDetail'><a href='/Writing/174249?labeling=true' target='_blank'>岭南鞭春</a><span class='authorDate'>（1172年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31562, "宋", "范端臣", "poem_title_174249")'>范端臣</a></span><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_174249_comment'></div><div class='poemContent' id='poem_content_174249'><div class='poemSentence' id='poem_sentence_0_174249'>一辞湖上月，三见岭南春。<div id='poem_sentence_0_174249_comment'></div></div><div class='poemSentence' id='poem_sentence_1_174249'>怪鸟呼如鬼，痴猿立似人。<div id='poem_sentence_1_174249_comment'></div></div><div class='poemSentence' id='poem_sentence_2_174249'>蛮商通海舶，渔户杂江滨。<div id='poem_sentence_2_174249_comment'></div></div><div class='poemSentence' id='poem_sentence_3_174249'>尚有鞭牛扑，纷拿起路尘。<div id='poem_sentence_3_174249_comment'></div></div><div class='poemSentence' id='poem_sentence_4_174249'></div><div id='poem_sentence_4_174249_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')">1173年</a>　晋康任满出岭北归，过江西叫岩，题诗。作品：《题游叫岩》<div id='poem_174246' class='_poem'><div id='poem_title_174246' class='poemTitle showDetail'><a href='/Writing/174246?labeling=true' target='_blank'>题游叫岩</a><span class='authorDate'>（1173年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31562, "宋", "范端臣", "poem_title_174246")'>范端臣</a></span><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_174246_comment'></div><div class='poemContent' id='poem_content_174246'><div class='poemSentence' id='poem_sentence_0_174246'>溪心碛石圆如磨，岩腹精庐冷似冰。<div id='poem_sentence_0_174246_comment'></div></div><div class='poemSentence' id='poem_sentence_1_174246'>弭楫来游冲夜雨，翛然一叟对孤僧<sup class='reference inlineComment2'>⑴</sup>。<div id='poem_sentence_1_174246_comment'></div></div><div class='poemSentence' id='poem_sentence_2_174246'></div><div id='poem_sentence_2_174246_comment'></div></div><div class='poemNote' id='poem_note_174246'><div class='inline1'><div id='poem_sentence_1_174246_0'>⑴ 宋赵蕃《淳熙稿》卷一九《游叫岩用范元卿自普康归日留题韵》注引</div></div></div><div id='poem_note_174246_comment'></div></div><br /></div>
+-----end
+
+
+
+-----title
+九江
+-----detail
+<div class='label1' id='98b696c3164a476082e69cace7824739_label'><a href='javascript: DetailSwitch("98b696c3164a476082e69cace7824739");'><span id='98b696c3164a476082e69cace7824739_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')">1175年</a>，50岁</div><div id='98b696c3164a476082e69cace7824739' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')">1175年</a>　知江州。八月，韩元吉跋其所藏欧阳修书帖。<br /></div>
+-----end
+
+

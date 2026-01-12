@@ -1,0 +1,112 @@
+
+-----title
+长乐 (出生地)
+-----detail
+<div class='label1' id='b3b455151f4c4076bd3fd90bd01db118_label'><a href='javascript: DetailSwitch("b3b455151f4c4076bd3fd90bd01db118");'><span id='b3b455151f4c4076bd3fd90bd01db118_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')">1121年</a>，出生</div><div id='b3b455151f4c4076bd3fd90bd01db118' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')">1121年</a>　在家乡长乐家居？约生于本年，本表所标年岁均为虚拟数，非实数。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='4b3d91cc5b99418fa8674406a8f49927_label'><a href='javascript: DetailSwitch("4b3d91cc5b99418fa8674406a8f49927");'><span id='4b3d91cc5b99418fa8674406a8f49927_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')">1151年</a>，31岁</div><div id='4b3d91cc5b99418fa8674406a8f49927' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')">1151年</a>　中赵逵榜进士第，注仙居主簿。<br /></div>
+-----end
+
+
+
+-----title
+仙居
+-----detail
+<div class='label1' id='0cdf7563a31b4f9c902568cd210925e6_label'><a href='javascript: DetailSwitch("0cdf7563a31b4f9c902568cd210925e6");'><span id='0cdf7563a31b4f9c902568cd210925e6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')">1151年</a>，31岁</div><div id='0cdf7563a31b4f9c902568cd210925e6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')">1151年</a>　任仙居尉兼主簿。重修应瑞侯庙。<br /></div>
+-----end
+
+
+
+-----title
+武冈
+-----detail
+<div class='label1' id='400150d629a1414fbba137fe9e0a47e1_label'><a href='javascript: DetailSwitch("400150d629a1414fbba137fe9e0a47e1");'><span id='400150d629a1414fbba137fe9e0a47e1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')">1161年</a>，41岁</div><div id='400150d629a1414fbba137fe9e0a47e1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')">1161年</a>　在武冈使幕任判官。<br /></div><div class='label1' id='2b83a1b022be48ae9df68e8f94035b2f_label'><a href='javascript: DetailSwitch("2b83a1b022be48ae9df68e8f94035b2f");'><span id='2b83a1b022be48ae9df68e8f94035b2f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年</a>，43岁</div><div id='2b83a1b022be48ae9df68e8f94035b2f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年</a>　在武冈使幕任判官，杨万里于零陵有诗寄之。<br /></div>
+-----end
+
+
+
+-----title
+零陵（永州）
+-----detail
+<div class='label1' id='eb0b266a307d432fbe62fe39a3300acc_label'><a href='javascript: DetailSwitch("eb0b266a307d432fbe62fe39a3300acc");'><span id='eb0b266a307d432fbe62fe39a3300acc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年</a>，42岁</div><div id='eb0b266a307d432fbe62fe39a3300acc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年</a>　夏日，初识杨万里于零陵，有诗赠别之。作品：《赠别杨县丞廷秀》<span class='inlineComment2'>（《〈千岩摘稿〉序》原作已佚。）</span><br /></div>
+-----end
+
+
+
+-----title
+龙川（循州）
+-----detail
+<div class='label1' id='64ad87734b134e6dbe0fc3d7e4ee10d0_label'><a href='javascript: DetailSwitch("64ad87734b134e6dbe0fc3d7e4ee10d0");'><span id='64ad87734b134e6dbe0fc3d7e4ee10d0_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')">1176年</a>，56岁</div><div id='64ad87734b134e6dbe0fc3d7e4ee10d0' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')">1176年</a>　在龙川任县丞。<br /></div><div class='label1' id='711abf63fb874551ac32815bf637f225_label'><a href='javascript: DetailSwitch("711abf63fb874551ac32815bf637f225");'><span id='711abf63fb874551ac32815bf637f225_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年</a>，57岁</div><div id='711abf63fb874551ac32815bf637f225' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年</a>　在龙川任县丞。<br /></div><div class='label1' id='9c30c913eefd40c68c12f18853f74a20_label'><a href='javascript: DetailSwitch("9c30c913eefd40c68c12f18853f74a20");'><span id='9c30c913eefd40c68c12f18853f74a20_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1179')">1178-1179年</a>，58-59岁</div><div id='9c30c913eefd40c68c12f18853f74a20' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1179')">1178-1179年</a>　在龙川任县丞。<br /></div>
+-----end
+
+
+
+-----title
+宜兴
+-----detail
+<div class='label1' id='2af97d6c89c0412f8c0af78ce9ca5134_label'><a href='javascript: DetailSwitch("2af97d6c89c0412f8c0af78ce9ca5134");'><span id='2af97d6c89c0412f8c0af78ce9ca5134_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')">1176年</a>，56岁</div><div id='2af97d6c89c0412f8c0af78ce9ca5134' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')">1176年9月10日</a>　九月十日，过宜兴，记重修周将军庙事。作品：《重修周将军庙记》<span class='inlineComment2'>（《重修周将军庙记》）</span><div id='poem_1268225' class='_poem'><div id='poem_title_1268225' class='poemTitle showDetail'><a href='/Writing/1268225?labeling=true' target='_blank'>重修英列庙记</a><span class='authorDate'>（淳熙三年九月）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31647, "宋", "萧德藻", "poem_title_1268225")'>萧德藻</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1268225_comment'></div><div class='poemContent' id='poem_content_1268225'><div class='articleSentence' id='poem_sentence_0_1268225'>侯庙食本末，厥既有考，不复枝出。<div class='inline' id='poem_sentence_0_1268225_comment'></div>吴兴沈德远言：「乾道八年夏，自枢密院检详去国，屏居家山之斗堂。<div class='inline' id='poem_sentence_1_1268225_comment'></div>十一月望，拜守秀州命。<div class='inline' id='poem_sentence_2_1268225_comment'></div>越三夕，梦谒侯庙，周视壁间，画列宿天人及斩蛟象。<div class='inline' id='poem_sentence_3_1268225_comment'></div>寤而思之，独宜兴人庙侯耳，非吾新命之地，且平时足迹未尝至，意念亦不及此，胡为乎神交其间哉？<div class='inline' id='poem_sentence_4_1268225_comment'></div>已而改命守常州，十二月入对便殿，即之官。<div class='inline' id='poem_sentence_5_1268225_comment'></div>道松江，振风驱湖，浪砉𭓢十，陆漫沟塍，高下汹斗，声撼云空，碎舟荡骸者相属。<div class='inline' id='poem_sentence_6_1268225_comment'></div>吾舟亦败，□营有祷焉。<div class='inline' id='poem_sentence_7_1268225_comment'></div>举室数十口、常之吏卒一百辈跃出惊波中，相与保道旁草舍，幸皆无苦。<div class='inline' id='poem_sentence_8_1268225_comment'></div>既至常，延见吏属，从容问宜兴长吴千乘侯庙壁画，略如吾梦中所见，且言庙久不缮理。<div class='inline' id='poem_sentence_9_1268225_comment'></div>乃以二十万钱授千乘，俾归新之。<div class='inline' id='poem_sentence_10_1268225_comment'></div>邑人相劝，输财力乐成。<div class='inline' id='poem_sentence_11_1268225_comment'></div>不踰□，轮焉奂焉。<div class='inline' id='poem_sentence_12_1268225_comment'></div>益张厥灵，益久厥声」。<div class='inline' id='poem_sentence_13_1268225_comment'></div>庙之复盛骪折盖如此。<div class='inline' id='poem_sentence_14_1268225_comment'></div>方欲伐石大书，□迁太府少卿、总领淮东军马钱粮，遂不果。<div class='inline' id='poem_sentence_15_1268225_comment'></div>后二年，德藻故人丹丘陈时中为常州。<div class='inline' id='poem_sentence_16_1268225_comment'></div>德藻过焉，因道德远语。<div class='inline' id='poem_sentence_17_1268225_comment'></div>时中曰：「德远若有待也。<div class='inline' id='poem_sentence_18_1268225_comment'></div>吾常多侯，子遂书此，吾为子碑之」。<div class='inline' id='poem_sentence_19_1268225_comment'></div>德藻惟前事虽似涉神怪，然忠义之气在□□中，常独皦然于汗漫不可测知之际，同焉者应，不问今古，若阳隧之召火，方诸之召水，端倪了不容□□。<div class='inline' id='poem_sentence_20_1268225_comment'></div>少时里居，搏蛟虎如轹虮虱，盖世俗所喜道者，此在圣人之门，其犹有贬焉。<div class='inline' id='poem_sentence_21_1268225_comment'></div>晋惠帝朝为何等时，侯官中执法，击司马□不少贷。<div class='inline' id='poem_sentence_22_1268225_comment'></div>寻隶肜为将，讨齐万年。<div class='inline' id='poem_sentence_23_1268225_comment'></div>侯顾不知肜之将逞憾也哉？<div class='inline' id='poem_sentence_24_1268225_comment'></div>自常情言之，死君命固其分，死大臣怨容可自列；<div class='inline' id='poem_sentence_25_1268225_comment'></div>侯以肜借君命，置我于死地，所借者我所当死也，尚何辞？<div class='inline' id='poem_sentence_26_1268225_comment'></div>以寡敌众，矢殚弦绝，蹈白刃，义不还□。<div class='inline' id='poem_sentence_27_1268225_comment'></div>英烈凛□，跛蹩为奋。<div class='inline' id='poem_sentence_28_1268225_comment'></div>郑伯有冯三世卿族，其精爽犹足以动国人，侯忠义贯幽明，能感发其类于百世之下，理固应耳，吾乃今有虞于二君子哉！<div class='inline' id='poem_sentence_29_1268225_comment'></div>德远名祖德，时中名庸。<div class='inline' id='poem_sentence_30_1268225_comment'></div>淳熙三年九月十日，长乐萧德藻记，浚仪赵伯津书。</div><div id='poem_sentence_31_1268225_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+上饶
+-----detail
+<div class='label1' id='4d45df3347d5465bbdf16afd4db2e021_label'><a href='javascript: DetailSwitch("4d45df3347d5465bbdf16afd4db2e021");'><span id='4d45df3347d5465bbdf16afd4db2e021_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年</a>，57岁</div><div id='4d45df3347d5465bbdf16afd4db2e021' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年</a>　夏日，在上饶西郊，遇之官毗陵的杨万里。<br /></div>
+-----end
+
+
+
+-----title
+吉水（吉州）
+-----detail
+<div class='label1' id='19909ee2087e429eba828fc2d1c7c27d_label'><a href='javascript: DetailSwitch("19909ee2087e429eba828fc2d1c7c27d");'><span id='19909ee2087e429eba828fc2d1c7c27d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')">1179年</a>，59岁</div><div id='19909ee2087e429eba828fc2d1c7c27d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')">1179年</a>　官满归，拜访家居之杨万里。<br /></div>
+-----end
+
+
+
+-----title
+湖州
+-----detail
+<div class='label1' id='7b0f8ec3dd11481e835d0ffdc19cfcb3_label'><a href='javascript: DetailSwitch("7b0f8ec3dd11481e835d0ffdc19cfcb3");'><span id='7b0f8ec3dd11481e835d0ffdc19cfcb3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')">1181年</a>，61岁</div><div id='7b0f8ec3dd11481e835d0ffdc19cfcb3' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>在湖州任参议官，记重修永宁仓事。作品：《重修永宁仓记》<span class='inlineComment2'>（原作已佚。）</span><br /><span style='margin: 0 0.5em; color: gray;'>▪</span>在湖州任参议官，为苏轼祠堂作记。作品：《东坡先生祠堂记》<span class='inlineComment2'>（原作已佚。）</span><br /></div><div class='label1' id='9c8a413779404419aa293e04339f018a_label'><a href='javascript: DetailSwitch("9c8a413779404419aa293e04339f018a");'><span id='9c8a413779404419aa293e04339f018a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')">1186年</a>，66岁</div><div id='9c8a413779404419aa293e04339f018a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')">1186年</a>　冬日，自湖湘罢官，携姜夔同归湖州。<br /></div><div class='label1' id='66cee99b433b4e078caef42277ed5686_label'><a href='javascript: DetailSwitch("66cee99b433b4e078caef42277ed5686");'><span id='66cee99b433b4e078caef42277ed5686_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1195')">1190-1195年</a>，70-75岁</div><div id='66cee99b433b4e078caef42277ed5686' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')">1190年11月</a>　病中家居湖州，侄婿姜夔与友人徐彻欲来拜访。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')">1195年</a>　其子为池州监酒税，上任途中，舟次湖州城，与其友人虞俦聚会。<br /></div>
+-----end
+
+
+
+-----title
+江陵（江陵府）
+-----detail
+<div class='label1' id='97525fea49f34248ab6bf074c311cedd_label'><a href='javascript: DetailSwitch("97525fea49f34248ab6bf074c311cedd");'><span id='97525fea49f34248ab6bf074c311cedd_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')">1185年</a>，65岁</div><div id='97525fea49f34248ab6bf074c311cedd' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')">1185年</a>　在湖北任参议官。<br /></div>
+-----end
+
+
+
+-----title
+夷陵
+-----detail
+<div class='label1' id='a6a7708ed06c4113b05e049b74454063_label'><a href='javascript: DetailSwitch("a6a7708ed06c4113b05e049b74454063");'><span id='a6a7708ed06c4113b05e049b74454063_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')">1187年</a>，67岁</div><div id='a6a7708ed06c4113b05e049b74454063' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')">1187年</a>　在夷陵任太守。<br /></div>
+-----end
+
+
+
+-----title
+德清
+-----detail
+<div class='label1' id='b5028735881d4cd7ab1b8cbe0af3e58e_label'><a href='javascript: DetailSwitch("b5028735881d4cd7ab1b8cbe0af3e58e");'><span id='b5028735881d4cd7ab1b8cbe0af3e58e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1188')">1188年</a>，68岁</div><div id='b5028735881d4cd7ab1b8cbe0af3e58e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1188')">1188年</a>　武康巨室闻人观国、观时作大成殿，造四斋，其为记。作品：《宋重建县学记》<br /></div>
+-----end
+
+
+
+-----title
+应瑞侯庙
+-----detail
+null
+-----end
+
+

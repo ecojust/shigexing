@@ -1,0 +1,96 @@
+
+-----title
+建湖 (出生地)
+-----detail
+<div class='label1' id='488ccb20c2b24304a195538fb7d34bc6_label'><a href='javascript: DetailSwitch("488ccb20c2b24304a195538fb7d34bc6");'><span id='488ccb20c2b24304a195538fb7d34bc6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1239')">1238-1239年</a>，1-2岁</div><div id='488ccb20c2b24304a195538fb7d34bc6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1238&endYear=1238')">1238年10月3日</a>　陆秀夫生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1239&endYear=1239')">1239年</a>　随父居。<br /></div>
+-----end
+
+
+
+-----title
+镇江
+-----detail
+<div class='label1' id='ae9b416466904c3db7f91834fbff2323_label'><a href='javascript: DetailSwitch("ae9b416466904c3db7f91834fbff2323");'><span id='ae9b416466904c3db7f91834fbff2323_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1254')">1240-1254年</a>，3-17岁</div><div id='ae9b416466904c3db7f91834fbff2323' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1240&endYear=1240')">1240年</a>　随父居。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1241&endYear=1241')">1241年</a>　随父徙家京口。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1242&endYear=1243')">1242-1243年</a>　随父居。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1244&endYear=1244')">1244年</a>　入塾读书，从其乡人孟先生学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1245&endYear=1251')">1245-1251年</a>　读书乡里。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1252&endYear=1252')">1252年</a>　应科举，得贡补太学牒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1252&endYear=1252')">1252年</a>　得朱熹《编正孝经刊误跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1253&endYear=1253')">1253年</a>　读书鹤林寺，有诗。<div id='poem_143270' class='_poem'><div id='poem_title_143270' class='poemTitle showDetail'><a href='/Writing/143270?labeling=true' target='_blank'>鹤林寺</a><span class='authorDate'>（1253年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋末元初 · </span><a href='javascript: ShowPoemAuthorProfile(34600, "宋末元初", "陆秀夫", "poem_title_143270")'>陆秀夫</a></span><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_143270_comment'></div><div class='poemContent' id='poem_content_143270'><div class='poemSentence' id='poem_sentence_0_143270'>岁月未可尽，朝昏屡不眠。<div id='poem_sentence_0_143270_comment'></div></div><div class='poemSentence' id='poem_sentence_1_143270'>窗前多古木，床上半残编。<div id='poem_sentence_1_143270_comment'></div></div><div class='poemSentence' id='poem_sentence_2_143270'>放犊饮溪水，助僧耕种<sup class='reference inlineComment2'>⑴</sup>田。<div id='poem_sentence_2_143270_comment'></div></div><div class='poemSentence' id='poem_sentence_3_143270'>寺门久断扫，分食愧农贤<span class='inlineComment2'>（清高德贵乾隆《镇江府志》卷五一）</span>。<div id='poem_sentence_3_143270_comment'></div></div><div class='poemSentence' id='poem_sentence_4_143270'></div><div id='poem_sentence_4_143270_comment'></div></div><div class='poemNote' id='poem_note_143270'><div class='inline1'><div id='poem_sentence_2_143270_0'>⑴ 清光绪《丹徒县志》卷四九作秫</div></div></div><div id='poem_note_143270_comment'></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1254&endYear=1254')">1254年</a>　不详。<br /></div><div class='label1' id='59da454b1d5b4920b96952f6eb69b1b2_label'><a href='javascript: DetailSwitch("59da454b1d5b4920b96952f6eb69b1b2");'><span id='59da454b1d5b4920b96952f6eb69b1b2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1259')">1256-1259年</a>，19-22岁</div><div id='59da454b1d5b4920b96952f6eb69b1b2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')">1256年</a>　章琰以兄之孙子妻公。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')">1256年</a>　后章氏故，继配赵氏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1257&endYear=1257')">1257年</a>　李庭芝闻陆秀夫才名，聘请其入幕主管文字工作。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1258&endYear=1258')">1258年</a>　才思清丽，一时文人少能及之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1259&endYear=1259')">1259年</a>　朝廷命李庭芝主管两淮制置使事，陆秀夫随李过江，镇守扬州。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='b950567f35424cc99ede93d25e60123c_label'><a href='javascript: DetailSwitch("b950567f35424cc99ede93d25e60123c");'><span id='b950567f35424cc99ede93d25e60123c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1255&endYear=1256')">1255-1256年</a>，18-19岁</div><div id='b950567f35424cc99ede93d25e60123c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1255&endYear=1255')">1255年</a>　魁省元。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')">1256年</a>　科甲进士，与文天祥、谢枋得同榜，妻章氏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1256&endYear=1256')">1256年</a>　登科二甲第二十七名进士。<br /></div><div class='label1' id='9a3eaab4a6884b0a83a6e204d2e263cd_label'><a href='javascript: DetailSwitch("9a3eaab4a6884b0a83a6e204d2e263cd");'><span id='9a3eaab4a6884b0a83a6e204d2e263cd_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1274&endYear=1274')">1274年</a>，37岁</div><div id='9a3eaab4a6884b0a83a6e204d2e263cd' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1274&endYear=1274')">1274年</a>　公随李庭芝赴京朝圣，留京任职，掌管文思院。<br /></div>
+-----end
+
+
+
+-----title
+扬州
+-----detail
+<div class='label1' id='4aa55b3fcc4645a8899b4a19f176d088_label'><a href='javascript: DetailSwitch("4aa55b3fcc4645a8899b4a19f176d088");'><span id='4aa55b3fcc4645a8899b4a19f176d088_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1269')">1260-1269年</a>，23-32岁</div><div id='4aa55b3fcc4645a8899b4a19f176d088' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1260&endYear=1260')">1260年</a>　入李庭芝幕，代草《失襄阳谢放罪表》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1261&endYear=1261')">1261年</a>　幕府工作。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1262&endYear=1262')">1262年</a>　长子繇生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1263&endYear=1265')">1263-1265年</a>　幕府工作。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1266&endYear=1266')">1266年</a>　或有三迁至主管机宜文字。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1267&endYear=1267')">1267年</a>　幕府工作，李庭芝愈加器重。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1268&endYear=1268')">1268年</a>　幕府工作。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1269&endYear=1269')">1269年</a>　成《广陵牡丹诗卷》，李庭芝为两淮制置大使，兼知扬州。<br /></div><div class='label1' id='7df25208bb834c93990dfc791e3c1c1e_label'><a href='javascript: DetailSwitch("7df25208bb834c93990dfc791e3c1c1e");'><span id='7df25208bb834c93990dfc791e3c1c1e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1274&endYear=1275')">1274-1275年</a>，37-38岁</div><div id='7df25208bb834c93990dfc791e3c1c1e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1274&endYear=1274')">1274年</a>　重返扬州，为李庭芝参议官，兼淮南东路的典刑狱公事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1274&endYear=1274')">1274年</a>　李庭芝为淮东制使，擢公为参议官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1275&endYear=1275')">1275年</a>　除司农寺丞，累擢至宗正少卿，兼权起居舍人。<br /></div>
+-----end
+
+
+
+-----title
+襄阳
+-----detail
+<div class='label1' id='ecad5326587249c3a0afbf8075a29c86_label'><a href='javascript: DetailSwitch("ecad5326587249c3a0afbf8075a29c86");'><span id='ecad5326587249c3a0afbf8075a29c86_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1269&endYear=1273')">1269-1273年</a>，32-36岁</div><div id='ecad5326587249c3a0afbf8075a29c86' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1269&endYear=1269')">1269年1月</a>　李庭芝为京湖制置大使，随军参议。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1269&endYear=1269')">1269年12月</a>　纳室倪氏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1270&endYear=1270')">1270年</a>　三子八郎生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1271&endYear=1271')">1271年</a>　公应乡人赵潜之请，作《丹阳馆记》<div id='poem_1320542' class='_poem'><div id='poem_title_1320542' class='poemTitle showDetail'><a href='/Writing/1320542?labeling=true' target='_blank'>丹阳馆记</a><span class='authorDate'>（1271年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋末元初 · </span><a href='javascript: ShowPoemAuthorProfile(34600, "宋末元初", "陆秀夫", "poem_title_1320542")'>陆秀夫</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1320542_comment'></div><div class='poemContent' id='poem_content_1320542'><div class='articleSentence' id='poem_sentence_0_1320542'>丹阳馆之所始无可考。<div class='inline' id='poem_sentence_0_1320542_comment'></div>按郡志，绍兴十四年朝廷命守臣郑滋建之，于时和议计成，馆是用作。<div class='inline' id='poem_sentence_1_1320542_comment'></div>中门南向，接送伴使在东馆，客使在西馆。<div class='inline' id='poem_sentence_2_1320542_comment'></div>厥后凡奉法衔命者皆馆焉，部使者亦如之，在都国诸邑为特钜。<div class='inline' id='poem_sentence_3_1320542_comment'></div>屋与岁陈，廪廪将压，于是百二十有六年矣。<div class='inline' id='poem_sentence_4_1320542_comment'></div>咸淳五年冬，长沙赵公以外司农典刑，顾谓：「是邦江淮闽浙之所交也，四海宾客之所合也，轺车驿骑之所会也，而舍于隶人，不亦羞当世之士乎」？<div class='inline' id='poem_sentence_5_1320542_comment'></div>七年春，乃一大修之，悉撤其旧而新是图。<div class='inline' id='poem_sentence_6_1320542_comment'></div>木甓瓦石，厥材孔良，孔惠孔时，役不告劳。<div class='inline' id='poem_sentence_7_1320542_comment'></div>暨讫工，功与创略等，而其钜也加于昔。<div class='inline' id='poem_sentence_8_1320542_comment'></div>落成，驰书秀夫曰：「子之居是邦也，盍记诸」？<div class='inline' id='poem_sentence_9_1320542_comment'></div>窃尝稽之《周官》，里有市，市有候馆，馆有积。<div class='inline' id='poem_sentence_10_1320542_comment'></div>嗟夫，此王者之政也！<div class='inline' id='poem_sentence_11_1320542_comment'></div>晋文公崇大诸侯之馆，犹汲汲焉缮修是务。<div class='inline' id='poem_sentence_12_1320542_comment'></div>褒城驿甲天下，才几何时，庭除芜，堂庑残，过者太息。<div class='inline' id='poem_sentence_13_1320542_comment'></div>今州县皆驿。<div class='inline' id='poem_sentence_14_1320542_comment'></div>夫以古人则视馆如寝，后世则视州县如驿，盖学之不讲，而吏道之衰也久矣。<div class='inline' id='poem_sentence_15_1320542_comment'></div>公共工于兹，能以达之，廉以奉之，心休而力有馀，兹馆固举废之一事。<div class='inline' id='poem_sentence_16_1320542_comment'></div>于乎！<div class='inline' id='poem_sentence_17_1320542_comment'></div>古之所以创，中之所以弊，今之所以修，其可以弗记？<div class='inline' id='poem_sentence_18_1320542_comment'></div>公名潜，字元晋，忠靖公之子，忠肃公之孙。<div class='inline' id='poem_sentence_19_1320542_comment'></div>忠肃师张宣公，渊源所渐，有自来矣。<div class='inline' id='poem_sentence_20_1320542_comment'></div>奉议郎、宜特差充京湖制置大使主管机宜文字陆秀夫记。</div><div id='poem_sentence_21_1320542_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1272&endYear=1272')">1272年</a>　四子九郎生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1273&endYear=1273')">1273年</a>　李庭芝投闲，出李幕，著《庄子评》<br /></div>
+-----end
+
+
+
+-----title
+福州
+-----detail
+<div class='label1' id='3a292733af3a4260b3fdfae2ad294a8f_label'><a href='javascript: DetailSwitch("3a292733af3a4260b3fdfae2ad294a8f");'><span id='3a292733af3a4260b3fdfae2ad294a8f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1275&endYear=1275')">1275年</a>，38岁</div><div id='3a292733af3a4260b3fdfae2ad294a8f' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>与张世杰、陈宜中相与立益王于福州，进端明殿学士、签书枢密院事。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>以礼部侍郎赴元营谈和，怒斥伯颜。<br /></div>
+-----end
+
+
+
+-----title
+温州
+-----detail
+<div class='label1' id='1c0fbf94a67144699ccb0b495a9e44a2_label'><a href='javascript: DetailSwitch("1c0fbf94a67144699ccb0b495a9e44a2");'><span id='1c0fbf94a67144699ccb0b495a9e44a2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')">1276年</a>，39岁</div><div id='1c0fbf94a67144699ccb0b495a9e44a2' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>至温州，奉益王为都元帅，公为直学士院，代王起草《授文天祥通议大夫、右丞相兼枢密使都督诸路兵马诏》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>五月后为端帝景炎元年。<br /></div>
+-----end
+
+
+
+-----title
+潮州
+-----detail
+<div class='label1' id='42ac19b066774e84a15e8069158857e5_label'><a href='javascript: DetailSwitch("42ac19b066774e84a15e8069158857e5");'><span id='42ac19b066774e84a15e8069158857e5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1277')">1276-1277年</a>，39-40岁</div><div id='42ac19b066774e84a15e8069158857e5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')">1276年6月</a>　受陈宜中弹劾，罢公直学士院，谪居于潮州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')">1276年</a>　友人陈经国、许君辅、周裕、方宝印为公择地沙冈港口，立学士馆以讲学。垦荒地百余亩以赡口。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')">1276年</a>　周裕以女妻公长子繇。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')">1276年</a>　著《编正[孝经]刊误跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')">1277年</a>　公闻陈文龙被俘，致陈文龙书。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')">1277年</a>　公由潮州返，同签书枢密院事，离潮时，留太夫人、繇夫妇、九郎等于潮州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')">1277年</a>　公娶蔡曰忠之女蔡荔娘为侧室。<br /></div>
+-----end
+
+
+
+-----title
+珠海
+-----detail
+<div class='label1' id='686555bd9a6e444987850ef61c22d584_label'><a href='javascript: DetailSwitch("686555bd9a6e444987850ef61c22d584");'><span id='686555bd9a6e444987850ef61c22d584_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1277')">1277年</a>，40岁</div><div id='686555bd9a6e444987850ef61c22d584' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>元军袭浅湾，陆秀夫等奉帝走井澳（大横琴岛）<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>元军袭井澳，公等又奉帝奔谢女峡(小横琴岛）<br /></div>
+-----end
+
+
+
+-----title
+硇洲
+-----detail
+<div class='label1' id='6ca1f83dc9514230998fc66efe9780c8_label'><a href='javascript: DetailSwitch("6ca1f83dc9514230998fc66efe9780c8");'><span id='6ca1f83dc9514230998fc66efe9780c8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')">1278年</a>，41岁</div><div id='6ca1f83dc9514230998fc66efe9780c8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')">1278年</a>　景炎帝迁往硐州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')">1278年5月</a>　四月，景炎帝崩，公立卫王为帝，改元帝昺祥兴元年。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')">1278年5月</a>　草《景炎皇帝遗诏》、《祥兴皇帝登宝位诏》<br /></div>
+-----end
+
+
+
+-----title
+江门
+-----detail
+<div class='label1' id='a0ddc9e4353449fb9b822e8f94decfc3_label'><a href='javascript: DetailSwitch("a0ddc9e4353449fb9b822e8f94decfc3");'><span id='a0ddc9e4353449fb9b822e8f94decfc3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1279')">1278-1279年</a>，41-42岁</div><div id='a0ddc9e4353449fb9b822e8f94decfc3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')">1278年6月</a>　拥帝迁厓山，为左丞相，与张世杰共秉政，日书《大学章句》劝讲。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')">1278年</a>　文天祥兵败，公又代王拟《奖谕文天祥诏》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1278&endYear=1278')">1278年12月</a>　著《二帝信录》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1279&endYear=1279')">1279年</a>　公仗剑驱其妻子入海。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1279&endYear=1279')">1279年2月6日</a>　二月六日，厓山陷，公朝服负帝投海而死，宋亡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1279&endYear=1279')">1279年</a>　七日后尸浮海上，渔人葬其遗体于厓山以北青径口（清门）<br /></div>
+-----end
+
+
+
+-----title
+鹤林寺
+-----detail
+null
+-----end
+
+

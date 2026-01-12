@@ -1,0 +1,64 @@
+
+-----title
+杭州（临安） (出生地)
+-----detail
+<div class='label1' id='b613b6ce783c43be9a8d354c7c9080de_label'><a href='javascript: DetailSwitch("b613b6ce783c43be9a8d354c7c9080de");'><span id='b613b6ce783c43be9a8d354c7c9080de_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1254&endYear=1290')">1254-1290年</a>，1-37岁</div><div id='b613b6ce783c43be9a8d354c7c9080de' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1254&endYear=1254')">1254年</a>　端临生。父马廷鸾33岁。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1255&endYear=1267')">1255-1267年</a>　居临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1268&endYear=1268')">1268年</a>　曹泾进士及第，廷鸾曾召置西席，以教端临兄弟。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1269&endYear=1271')">1269-1271年</a>　居临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1272&endYear=1272')">1272年</a>　端临以荫补承事郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1272&endYear=1272')">1272年</a>　端临兄弟应试，廷鸾作诗励之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1273&endYear=1273')">1273年</a>　端临漕试第一。以父辞相位，未试京师。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1274&endYear=1275')">1274-1275年</a>　居临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1276&endYear=1276')">1276年</a>　宋亡，端临以父疾为由，不复出仕，隐居教授，远近师之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1277&endYear=1279')">1277-1279年</a>　临安隐居教授。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1279&endYear=1279')">1279年</a>　马廷鸾作启，为次男端临求婚于昌江李氏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1280&endYear=1284')">1280-1284年</a>　临安隐居教授。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1285&endYear=1285')">1285年</a>　端临约于此年开始著《文献通考》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1286&endYear=1286')">1286年</a>　临安隐居教授。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1287&endYear=1287')">1287年</a>　留梦炎为元吏部尚书，招马端临，端临以父老辞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1288&endYear=1288')">1288年</a>　端临岳父李雷应卒，端临求父廷鸾为作墓志铭。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1289&endYear=1289')">1289年</a>　父马廷鸾卒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1290&endYear=1290')">1290年</a>　临安隐居教授。<br /></div><div class='label1' id='230fd01198c64abf90ca4d36d66ec9b7_label'><a href='javascript: DetailSwitch("230fd01198c64abf90ca4d36d66ec9b7");'><span id='230fd01198c64abf90ca4d36d66ec9b7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1324&endYear=1324')">1324年</a>，71岁</div><div id='230fd01198c64abf90ca4d36d66ec9b7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1324&endYear=1324')">1324年</a>　《文献通考》刊竣于杭州路仁和县西湖书院（宋杭州府儒学），江浙等处儒学提举余谦《序记》<br /></div>
+-----end
+
+
+
+-----title
+慈溪
+-----detail
+<div class='label1' id='6293ec039f2d462a9d094ca563c51616_label'><a href='javascript: DetailSwitch("6293ec039f2d462a9d094ca563c51616");'><span id='6293ec039f2d462a9d094ca563c51616_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1291&endYear=1306')">1291-1306年</a>，38-53岁</div><div id='6293ec039f2d462a9d094ca563c51616' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1291&endYear=1291')">1291年</a>　端临服阕，起为慈湖书院山长。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1292&endYear=1306')">1292-1306年</a>　任慈湖书院山长。<br /></div>
+-----end
+
+
+
+-----title
+乐平
+-----detail
+<div class='label1' id='470668ea9a2f430497b254042c8f3df6_label'><a href='javascript: DetailSwitch("470668ea9a2f430497b254042c8f3df6");'><span id='470668ea9a2f430497b254042c8f3df6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1307&endYear=1316')">1307-1316年</a>，54-63岁</div><div id='470668ea9a2f430497b254042c8f3df6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1307&endYear=1307')">1307年</a>　端临归教于乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1307&endYear=1307')">1307年</a>　端临著《文献通考》成，凡三百四十八卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1308&endYear=1308')">1308年</a>　李谨思作《文献通考》序。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1309&endYear=1316')">1309-1316年</a>　端临归教于乡里。<br /></div><div class='label1' id='4efc6bf950ef4a73b3b10956f92c29ab_label'><a href='javascript: DetailSwitch("4efc6bf950ef4a73b3b10956f92c29ab");'><span id='4efc6bf950ef4a73b3b10956f92c29ab_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1324&endYear=1324')">1324年</a>，71岁</div><div id='4efc6bf950ef4a73b3b10956f92c29ab' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1324&endYear=1324')">1324年</a>　端临卒于家，葬于乐平县城东南十五里处虎山。<br /></div>
+-----end
+
+
+
+-----title
+衢州
+-----detail
+<div class='label1' id='273f10a283894d5994654e71d8021900_label'><a href='javascript: DetailSwitch("273f10a283894d5994654e71d8021900");'><span id='273f10a283894d5994654e71d8021900_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1318&endYear=1318')">1318年</a>，65岁</div><div id='273f10a283894d5994654e71d8021900' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1318&endYear=1318')">1318年</a>　端临起为衢州路柯山书院山长。<br /></div>
+-----end
+
+
+
+-----title
+鄱阳（饶州）
+-----detail
+<div class='label1' id='a608087f4f694eeda7dd431313048986_label'><a href='javascript: DetailSwitch("a608087f4f694eeda7dd431313048986");'><span id='a608087f4f694eeda7dd431313048986_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1318&endYear=1322')">1318-1322年</a>，65-69岁</div><div id='a608087f4f694eeda7dd431313048986' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1318&endYear=1318')">1318年12月18日</a>　王寿衍访贤至饶州路，路儒学杨教授以马端临为荐。饶州路儒学教授将马端临所誊《文献通考》序目三本，分别呈上行省、集贤院、王寿衍。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1319&endYear=1319')">1319年4月</a>　王寿衍奏上《文献通考》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1319&endYear=1319')">1319年</a>　马端临亲带文稿赴饶州路钞正，上于行省，省上之礼部、翰林国史院校勘，请以本省教育费用资助雕版。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1319&endYear=1319')">1319年</a>　同行校勘者，尚有端临子马志仁、甥许贵山。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1320&endYear=1321')">1320-1321年</a>　在饶州路钞正《文献通考》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1322&endYear=1322')">1322年6月</a>　元英宗诏饶州路官府资助刊刻《文献通考》<br /></div>
+-----end
+
+
+
+-----title
+台州
+-----detail
+<div class='label1' id='c4e2fb0ab1234301ad1a129e948720ab_label'><a href='javascript: DetailSwitch("c4e2fb0ab1234301ad1a129e948720ab");'><span id='c4e2fb0ab1234301ad1a129e948720ab_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1323&endYear=1323')">1323年</a>，70岁</div><div id='c4e2fb0ab1234301ad1a129e948720ab' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1323&endYear=1323')">1323年3月</a>　端临升台州路学教授。三月，以年老辞归。<br /></div>
+-----end
+
+
+
+-----title
+西湖
+-----detail
+null
+-----end
+
+
+
+-----title
+烂柯山
+-----detail
+null
+-----end
+
+

@@ -1,0 +1,88 @@
+
+-----title
+长兴 (出生地)
+-----detail
+<div class='label1' id='4c067498a33b4302a14f5cb5a2e4f47d_label'><a href='javascript: DetailSwitch("4c067498a33b4302a14f5cb5a2e4f47d");'><span id='4c067498a33b4302a14f5cb5a2e4f47d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1192')">1164-1192年</a>，1-29岁</div><div id='4c067498a33b4302a14f5cb5a2e4f47d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年6月17日</a>　施宿生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1192')">1174-1192年</a>　家居。<br /></div><div class='label1' id='af92028ca2294518b6f32ab438cbe347_label'><a href='javascript: DetailSwitch("af92028ca2294518b6f32ab438cbe347");'><span id='af92028ca2294518b6f32ab438cbe347_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')">1194年</a>，31岁</div><div id='af92028ca2294518b6f32ab438cbe347' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')">1194年</a>　家居。<br /></div><div class='label1' id='94e27ff71eb649138a0beb4c33b79991_label'><a href='javascript: DetailSwitch("94e27ff71eb649138a0beb4c33b79991");'><span id='94e27ff71eb649138a0beb4c33b79991_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>，36岁</div><div id='94e27ff71eb649138a0beb4c33b79991' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>　迁绍兴通判，入对，途次长兴，时太府卿詹体仁罢官居苕霅，为作《定武兰亭第四跋》<br /></div><div class='label1' id='87fa440ae1be407bb9384cdf12d270e0_label'><a href='javascript: DetailSwitch("87fa440ae1be407bb9384cdf12d270e0");'><span id='87fa440ae1be407bb9384cdf12d270e0_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1221')">1214-1221年</a>，51-58岁</div><div id='87fa440ae1be407bb9384cdf12d270e0' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年</a>　罢淮东提举司，归长兴。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1217')">1215-1217年</a>　家居。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1218&endYear=1218')">1218年9月9日</a>　家居，以所藏《定武兰亭贴》归同郡向氏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1219&endYear=1221')">1219-1221年</a>　家居。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='b23b279a228c4e1c92c77f99c9b98911_label'><a href='javascript: DetailSwitch("b23b279a228c4e1c92c77f99c9b98911");'><span id='b23b279a228c4e1c92c77f99c9b98911_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')">1193年</a>，30岁</div><div id='b23b279a228c4e1c92c77f99c9b98911' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')">1193年5月6日</a>　登陈亮榜进士。<br /></div><div class='label1' id='c71d091b05ab4c71a80a3a9b6e85f54f_label'><a href='javascript: DetailSwitch("c71d091b05ab4c71a80a3a9b6e85f54f");'><span id='c71d091b05ab4c71a80a3a9b6e85f54f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')">1195年</a>，32岁</div><div id='c71d091b05ab4c71a80a3a9b6e85f54f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')">1195年</a>　初仕少府监丞。<br /></div><div class='label1' id='2f17b7b03b8243379f3c7609c03a0789_label'><a href='javascript: DetailSwitch("2f17b7b03b8243379f3c7609c03a0789");'><span id='2f17b7b03b8243379f3c7609c03a0789_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年</a>，39岁</div><div id='2f17b7b03b8243379f3c7609c03a0789' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年4月24日</a>　与常褚、徐似道游西湖之张园，同观《定武兰亭贴》，作《第八跋》作品：《定武兰亭第八跋》<span class='inlineComment2'>（桑世昌《兰亭续考》，浙江人民美术出版社2013年版。）</span><br /></div><div class='label1' id='edbe48f8a5af4f1b80e1be8dda7e170c_label'><a href='javascript: DetailSwitch("edbe48f8a5af4f1b80e1be8dda7e170c");'><span id='edbe48f8a5af4f1b80e1be8dda7e170c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1208')">1205-1208年</a>，42-45岁</div><div id='edbe48f8a5af4f1b80e1be8dda7e170c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')">1205年</a>　入朝任职。在盱眙日，尝得东平康师孟所刻《二苏帖》，又得楼钥寄赠东坡《行香子词》墨本。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')">1206年</a>　在京任职.朝散郎，直秘阁。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')">1207年1月15日</a>　倪思为作《定武兰亭帖第十一跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')">1208年</a>　在京任职。<br /></div>
+-----end
+
+
+
+-----title
+余姚
+-----detail
+<div class='label1' id='d23801d146094cdc8689ee04e7909460_label'><a href='javascript: DetailSwitch("d23801d146094cdc8689ee04e7909460");'><span id='d23801d146094cdc8689ee04e7909460_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1198')">1196-1198年</a>，33-35岁</div><div id='d23801d146094cdc8689ee04e7909460' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')">1196年3月</a>　掌越州余姚县事，与孙应时定交。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')">1196年</a>　冬，筑海堤四万二千余尺，用其租入随时补缺，自是邑无海患。落成高风阁。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1196&endYear=1196')">1196年10月</a>　楼钥过余姚，为施宿题《墓田丙舍帖》石刻，并及所藏诸帖。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年</a>　在余姚县任。刻苏东坡墨迹于石。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年</a>　秋末，以新刻拓本寄孙应时。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>　在余姚县任。<br /></div><div class='label1' id='4c72f42add714165bc8fb3adcfe0cca1_label'><a href='javascript: DetailSwitch("4c72f42add714165bc8fb3adcfe0cca1");'><span id='4c72f42add714165bc8fb3adcfe0cca1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>，36岁</div><div id='4c72f42add714165bc8fb3adcfe0cca1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>　知余姚县事。修复烛溪湖石闸；修建学宫及廨宇，并置赡书之田。<br /></div><div class='label1' id='fc7cca938a064539acdbc5548da97850_label'><a href='javascript: DetailSwitch("fc7cca938a064539acdbc5548da97850");'><span id='fc7cca938a064539acdbc5548da97850_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1222&endYear=1222')">1222年</a>，59岁</div><div id='fc7cca938a064539acdbc5548da97850' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1222&endYear=1222')">1222年</a>　避寿至余姚，遂卜居焉。宿之事迹可考者，尽于是年，泰州之民既祀而祷之，宿或逝世于本年。<br /></div>
+-----end
+
+
+
+-----title
+绍兴
+-----detail
+<div class='label1' id='f81697a28f4c4f26abf0e5e0ed898d9c_label'><a href='javascript: DetailSwitch("f81697a28f4c4f26abf0e5e0ed898d9c");'><span id='f81697a28f4c4f26abf0e5e0ed898d9c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>，35岁</div><div id='f81697a28f4c4f26abf0e5e0ed898d9c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>　春至会稽，与新任郡守耿延年共襄山陵事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年3月1日</a>　权攒大行太皇太后梓宫于永思陵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年3月3日</a>　施宿与宗室赵师夏及会稽丞詹阜民修禊于兰亭，施宿出《定武兰亭帖》同观，为书《定武兰亭贴第三跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>　孙应时于常熟赠施宿书，极颂政绩，自叹弗如。<br /></div><div class='label1' id='eb2aa5146813439e8eb97ea626234070_label'><a href='javascript: DetailSwitch("eb2aa5146813439e8eb97ea626234070");'><span id='eb2aa5146813439e8eb97ea626234070_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1202')">1200-1202年</a>，37-39岁</div><div id='eb2aa5146813439e8eb97ea626234070' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')">1200年</a>　至绍兴通判任，撰《会稽志》二十卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')">1200年</a>　访禹庙没字碑，作碑谱。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')">1200年</a>　又得《康希铣碑》残石于民间，陷寘府治厅壁。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')">1200年9月9日</a>　陆游观施宿所藏帖，为作《定武兰亭第五跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')">1200年11月1日</a>　陆游为施宿作《东方画赞跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')">1200年</a>　又《跋东坡帖》，谓施宿当求善工坚石刻之，与成都《西楼之帖》并传天下。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年3月16日</a>　陆游至柯桥迎其子子布东还，宿往谒，游与同食野菜，赋二绝句，又为题所藏杨补之画梅。作品：《食野菜》（野蔌山蔬次第尝）<span class='inlineComment2'>（陆游《剑南诗稿》，上海古籍出版社2005年版。）</span><div id='poem_144737' class='_poem'><div id='poem_title_144737' class='poemTitle showDetail'><a href='/Writing/144737?labeling=true' target='_blank'>食野菜二首<span style='margin: 0 0.5em'> 其一 </span></a><span class='authorDate'>（1201年3月）</span><span class='poemAuthor'><span class='inlineComment1'> 南宋 · </span><a href='javascript: ShowPoemAuthorProfile(34522, "南宋", "陆游", "poem_title_144737")'>陆游</a></span><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_144737_comment'></div><div class='poemContent' id='poem_content_144737'><div class='poemSentence' id='poem_sentence_0_144737'>野蔌山蔬次第尝，超然气压太官羊。<div id='poem_sentence_0_144737_comment'></div></div><div class='poemSentence' id='poem_sentence_1_144737'>放翁此意君知否，要配吴粳晓甑香。<div id='poem_sentence_1_144737_comment'></div></div><div class='poemSentence' id='poem_sentence_2_144737'></div><div id='poem_sentence_2_144737_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年8月8日</a>　太常少卿陈谠以永佑山陵使至越，宿泰宁寺齐宫，施宿前往佐鉴献礼，共读《定武兰亭》，陈谠为作《第六跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年8月10日</a>　提刑曾焕与宿朝夕过从，为作《定武兰亭第七跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年</a>　通判署便厅南有小圃，宿建堂其中，郡守袁说友题其扁曰桂堂。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年12月22日</a>　《会稽志》告成，陆游为之序。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年1月5日</a>　在绍兴通判任，陆游为作《注东坡诗序》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年1月</a>　宿罢绍兴通判入都，陆游赋诗赠行。<br /></div>
+-----end
+
+
+
+-----title
+苏州
+-----detail
+<div class='label1' id='236b5672fed64c02a9e0995558452cc7_label'><a href='javascript: DetailSwitch("236b5672fed64c02a9e0995558452cc7");'><span id='236b5672fed64c02a9e0995558452cc7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年</a>，39岁</div><div id='236b5672fed64c02a9e0995558452cc7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年11月</a>　奉命知盱眙军事，冬至后五日携二弟寅、宏行次姑苏，与林成季、周南、朱鼐、赵汝谠、朱元纮、滕宬别于虎丘，同观书画，作《定武兰亭贴第九跋》<br /></div>
+-----end
+
+
+
+-----title
+盱眙
+-----detail
+<div class='label1' id='665a7f775f594c65b05a616fc1afc5f4_label'><a href='javascript: DetailSwitch("665a7f775f594c65b05a616fc1afc5f4");'><span id='665a7f775f594c65b05a616fc1afc5f4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1204')">1202-1204年</a>，39-41岁</div><div id='665a7f775f594c65b05a616fc1afc5f4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年</a>　冬至后十六日，至盱眙军任。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1203&endYear=1203')">1203年9月</a>　在盱眙任，与王璆、陈朴、周篪同登第一山玻璃泉，题名刻石。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')">1204年7月21日</a>　礼部尚书张嗣古、广州观察使陈焕至盱眙与宿同登第一山，题名刻石，嗣古为宿作《定武兰亭帖第十跋》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')">1204年</a>　宿建翠屏堂于南山，请记于陆游。<br /></div><div class='label1' id='18716bfff8d944ec8402b19d29b5a3cd_label'><a href='javascript: DetailSwitch("18716bfff8d944ec8402b19d29b5a3cd");'><span id='18716bfff8d944ec8402b19d29b5a3cd_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年</a>，50岁</div><div id='18716bfff8d944ec8402b19d29b5a3cd' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年10月</a>　宿与真德秀、李埴、任希夷同登盱眙玻璃泉，作《定武兰亭贴第十三跋》<br /></div>
+-----end
+
+
+
+-----title
+仪征（真州）
+-----detail
+<div class='label1' id='c4efacec9cc74272937efa82725ad69b_label'><a href='javascript: DetailSwitch("c4efacec9cc74272937efa82725ad69b");'><span id='c4efacec9cc74272937efa82725ad69b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1211')">1209-1211年</a>，46-48岁</div><div id='c4efacec9cc74272937efa82725ad69b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')">1209年</a>　以直秘阁除江淮发运判官。江淮发运司在真州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1211')">1210-1211年</a>　官江淮发运判官。<br /></div>
+-----end
+
+
+
+-----title
+泰州
+-----detail
+<div class='label1' id='45439189818c4a7999a74d49d8657386_label'><a href='javascript: DetailSwitch("45439189818c4a7999a74d49d8657386");'><span id='45439189818c4a7999a74d49d8657386_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1213')">1212-1213年</a>，49-50岁</div><div id='45439189818c4a7999a74d49d8657386' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1212')">1212年</a>　以江淮发运判官迁提举淮东常平司，并提举茶盐事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1212')">1212年</a>　朝廷以泰州城垣久废，历任州守寡救，乃委宿修筑泰州城垣。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年</a>　提举淮东常平茶盐事，修筑泰州城垣工竣，视旧增五之一；复建惠民仓、惠民药局，加惠元元，无所不至。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年</a>　又撰《大观法帖总释》二卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年</a>　刻《石鼓诅楚音》一卷，后附《朝那碑》及《周穆王吉日癸巳文》<br /></div>
+-----end
+
+
+
+-----title
+虎丘
+-----detail
+null
+-----end
+
+
+
+-----title
+玻璃泉
+-----detail
+null
+-----end
+
+
+
+-----title
+翠屏堂
+-----detail
+null
+-----end
+
+

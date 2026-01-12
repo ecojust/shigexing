@@ -1,0 +1,24 @@
+
+-----title
+襄阳
+-----detail
+<div class='label1' id='26c981edb74345489f2b28f749a4c22e_label'><a href='javascript: DetailSwitch("26c981edb74345489f2b28f749a4c22e");'><span id='26c981edb74345489f2b28f749a4c22e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')">1050年</a>，21岁</div><div id='26c981edb74345489f2b28f749a4c22e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')">1050年</a>　此前已毛诗及第登科，因行为不检未即时授官，至此方授乾德县尉之初官。<br /></div>
+-----end
+
+
+
+-----title
+湖州
+-----detail
+<div class='label1' id='6cc81e4a87914d09900860eda03fb093_label'><a href='javascript: DetailSwitch("6cc81e4a87914d09900860eda03fb093");'><span id='6cc81e4a87914d09900860eda03fb093_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')">1099年</a>，70岁</div><div id='6cc81e4a87914d09900860eda03fb093' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1099&endYear=1099')">1099年</a>　与毛滂（时知武康县）在湖州僧舍对饮，毛滂为此作《摊声浣溪沙》（雨色流香绕坐中）<br /></div>
+-----end
+
+
+
+-----title
+金华
+-----detail
+<div class='label1' id='367b136ee4d04860b8c8361b8df76f70_label'><a href='javascript: DetailSwitch("367b136ee4d04860b8c8361b8df76f70");'><span id='367b136ee4d04860b8c8361b8df76f70_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')">1100年</a>，71岁</div><div id='367b136ee4d04860b8c8361b8df76f70' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')">1100年</a>　解除知婺州之职，继任者为毕从周。<br /></div>
+-----end
+
+

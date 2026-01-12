@@ -1,0 +1,168 @@
+
+-----title
+闻喜 (出生地)
+-----detail
+<div class='label1' id='11ae6c5209074fcd9d33c442c6ffc372_label'><a href='javascript: DetailSwitch("11ae6c5209074fcd9d33c442c6ffc372");'><span id='11ae6c5209074fcd9d33c442c6ffc372_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1105')">1085-1105年</a>，1-21岁</div><div id='11ae6c5209074fcd9d33c442c6ffc372' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')">1085年1月5日</a>　出生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1087')">1086-1087年</a>　居乡闻喜。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')">1088年</a>　四岁而孤，母樊氏躬自训导。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1104')">1089-1104年</a>　居乡闻喜。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年</a>　乡里首荐。<br /></div><div class='label1' id='02b73619e58d4c0ab4ad5b5af0fcea65_label'><a href='javascript: DetailSwitch("02b73619e58d4c0ab4ad5b5af0fcea65");'><span id='02b73619e58d4c0ab4ad5b5af0fcea65_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1122')">1120-1122年</a>，36-38岁</div><div id='02b73619e58d4c0ab4ad5b5af0fcea65' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1122')">1120-1122年</a>　居乡闻喜，丁秦国太夫人樊氏忧。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='1f0bdcbb363847359902aa9bede424ab_label'><a href='javascript: DetailSwitch("1f0bdcbb363847359902aa9bede424ab");'><span id='1f0bdcbb363847359902aa9bede424ab_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1107')">1106-1107年</a>，22-23岁</div><div id='1f0bdcbb363847359902aa9bede424ab' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')">1106年</a>　在开封，中进士。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1107&endYear=1107')">1107年</a>　或在开封。<br /></div>
+-----end
+
+
+
+-----title
+两当
+-----detail
+<div class='label1' id='8ff5bc9ef5b144b1aa7e6e648883964f_label'><a href='javascript: DetailSwitch("8ff5bc9ef5b144b1aa7e6e648883964f");'><span id='8ff5bc9ef5b144b1aa7e6e648883964f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1108&endYear=1110')">1108-1110年</a>，24-26岁</div><div id='8ff5bc9ef5b144b1aa7e6e648883964f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1108&endYear=1108')">1108年</a>　或在两当，中进士后初调凤州两当尉。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1109')">1109年</a>　在两当尉任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')">1110年</a>　在两当尉任满。<br /></div>
+-----end
+
+
+
+-----title
+岷县
+-----detail
+<div class='label1' id='0cefafc0cb3b4dc790b26b10f52b43d0_label'><a href='javascript: DetailSwitch("0cefafc0cb3b4dc790b26b10f52b43d0");'><span id='0cefafc0cb3b4dc790b26b10f52b43d0_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1113')">1111-1113年</a>，27-29岁</div><div id='0cefafc0cb3b4dc790b26b10f52b43d0' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1113')">1111-1113年</a>　在岷州任长道尉，以劳改京秩。<br /></div>
+-----end
+
+
+
+-----title
+韩城
+-----detail
+<div class='label1' id='39c2729183d048a3bcfb88baabf5870c_label'><a href='javascript: DetailSwitch("39c2729183d048a3bcfb88baabf5870c");'><span id='39c2729183d048a3bcfb88baabf5870c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1116')">1114-1116年</a>，30-32岁</div><div id='39c2729183d048a3bcfb88baabf5870c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')">1114年</a>　调同州户曹次。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1116')">1115-1116年</a>　在同州户曹次任。<br /></div>
+-----end
+
+
+
+-----title
+永济
+-----detail
+<div class='label1' id='ddf5b241d08b4eb090c0743164df08fb_label'><a href='javascript: DetailSwitch("ddf5b241d08b4eb090c0743164df08fb");'><span id='ddf5b241d08b4eb090c0743164df08fb_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1119')">1117-1119年</a>，33-35岁</div><div id='ddf5b241d08b4eb090c0743164df08fb' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1119')">1117-1119年</a>　任河中府河东县丞。<br /></div>
+-----end
+
+
+
+-----title
+洛阳
+-----detail
+<div class='label1' id='b1c48255a15d4304869db00b1e94daef_label'><a href='javascript: DetailSwitch("b1c48255a15d4304869db00b1e94daef");'><span id='b1c48255a15d4304869db00b1e94daef_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1126')">1123-1126年</a>，39-42岁</div><div id='b1c48255a15d4304869db00b1e94daef' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>　服阕，调河南府洛阳县。在洛阳。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1125')">1124-1125年</a>　在河南府洛阳县。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>　在开封。宰相吴敏知其能，擢为开封士曹。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='74aa6f91afdf434a9dc7734f35683a09_label'><a href='javascript: DetailSwitch("74aa6f91afdf434a9dc7734f35683a09");'><span id='74aa6f91afdf434a9dc7734f35683a09_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1128')">1127-1128年</a>，43-44岁</div><div id='74aa6f91afdf434a9dc7734f35683a09' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年秋</a>　沿檄南渡，寓居杭州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>　或寓居杭州。<br /></div><div class='label1' id='71c55b2873cd4b44b7d27e22a22008da_label'><a href='javascript: DetailSwitch("71c55b2873cd4b44b7d27e22a22008da");'><span id='71c55b2873cd4b44b7d27e22a22008da_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>，45岁</div><div id='71c55b2873cd4b44b7d27e22a22008da' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年4月13日</a>　至行在所杭州，除司勲员外郎。<br /></div><div class='label1' id='61bce98c895941418222f9cb3292024d_label'><a href='javascript: DetailSwitch("61bce98c895941418222f9cb3292024d");'><span id='61bce98c895941418222f9cb3292024d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年</a>，50岁</div><div id='61bce98c895941418222f9cb3292024d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年1月</a>　召至行在临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年3月</a>　在临安，除太中大夫、参知政事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年4月</a>　在临安，荐岳飞守襄阳。徐俯与鼎论事，言者以鼎为是，徐俯去。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年8月</a>　在临安。除知枢密院事，充川陕宣抚使，寻改都督川、陕、荆、襄军马。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年9月</a>　在临安。充明堂大礼使。<br /></div>
+-----end
+
+
+
+-----title
+衢州
+-----detail
+<div class='label1' id='cfad1a741d284fa79e67a47a26d9260d_label'><a href='javascript: DetailSwitch("cfad1a741d284fa79e67a47a26d9260d");'><span id='cfad1a741d284fa79e67a47a26d9260d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>，45岁</div><div id='cfad1a741d284fa79e67a47a26d9260d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年3月</a>　迁居衢州。<br /></div>
+-----end
+
+
+
+-----title
+南京
+-----detail
+<div class='label1' id='f7c315c12a0c4cfb8478e8ee4c723e6e_label'><a href='javascript: DetailSwitch("f7c315c12a0c4cfb8478e8ee4c723e6e");'><span id='f7c315c12a0c4cfb8478e8ee4c723e6e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>，45岁</div><div id='f7c315c12a0c4cfb8478e8ee4c723e6e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年5月</a>　从驾还建康，对于普宁寺行宫。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年6月</a>　在建康，除左司谏。上书《论时政得失》。高宗纳鼎言，罢王安石陪享神宗庙庭。<div id='poem_1232362' class='_poem'><div id='poem_title_1232362' class='poemTitle showDetail'><a href='/Writing/1232362?labeling=true' target='_blank'>论时政得失疏<sup class='reference inlineComment2'>①</sup></a><span class='authorDate'>（1129年6月）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(32920, "宋", "赵鼎", "poem_title_1232362")'>赵鼎</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1232362_comment'></div><div class='titleComment'><div class='inline1'><div id='poem_title_1232362_0'>① 原注：日历并《扈从录》载：建炎三年六月初三日，奉圣旨，以久雨多寒，召郎官以上赴都堂条具时政得失，可以收人心、召和气、弭天变者。吕颐浩奏之，令实封以闻。</div></div></div><div class='poemContent' id='poem_content_1232362'><div class='articleSentence' id='poem_sentence_0_1232362'>臣闻雨旸寒暑过差之节，系之阴阳逆顺盛衰之理，《春秋》、《洪范》之所纪，汉诸儒之论，载之详矣，臣不暇推證，有勤圣览。<div class='inline' id='poem_sentence_0_1232362_comment'></div>臣窃谓久雨多寒，阴沴之候，其应则兵祸不解，民心离散，小人道长也。<div class='inline' id='poem_sentence_1_1232362_comment'></div>臣尝求其致之之说，敢献于陛下。<div class='inline' id='poem_sentence_2_1232362_comment'></div>窃惟祖宗之有天下也，历五季兵火之馀，险阻艰难，皆目击而身蹈之，故其建立足以垂法万世。<div class='inline' id='poem_sentence_3_1232362_comment'></div>以圣继圣，至于仁宗四十馀年，号称极治，子孙守而勿失，复何加焉？<div class='inline' id='poem_sentence_4_1232362_comment'></div>厄运所钟，社稷不幸，乃有王安石者用事于熙宁之间，以一己之私，拂中外之意，巧增缘饰，肆为纷更，祖宗之法，扫地殆尽，于是天下始多事，而生民病矣。<div class='inline' id='poem_sentence_5_1232362_comment'></div>假辟国之谋，造作边患；<div class='inline' id='poem_sentence_6_1232362_comment'></div>兴理财之政，困穷民力；<div class='inline' id='poem_sentence_7_1232362_comment'></div>设虚无之学，败坏人材；<div class='inline' id='poem_sentence_8_1232362_comment'></div>奖小人，抑君子，塞言路，喜奸谀，扇为刻薄轻浮之俗，日入于乱。<div class='inline' id='poem_sentence_9_1232362_comment'></div>赖宣仁垂帘，深鉴其害，首因改元，昭著至意，所行者仁宗之法，所用者仁宗之人。<div class='inline' id='poem_sentence_10_1232362_comment'></div>涵养十年，民瘼小愈。<div class='inline' id='poem_sentence_11_1232362_comment'></div>夫何治世之日少，乱世之日多，复有蔡京者崛起于崇宁之初，窃尧舜孝悌之说，托绍述熙丰之名，毕力一心，祖述安石，以安石之政，敷衍枝蔓，浩然无涯，至于不可限极而后已。<div class='inline' id='poem_sentence_12_1232362_comment'></div>兵连祸结，外侮交乘，二圣北辕，朝廷南渡，则安石辟国之谋，而蔡京祖述渎武之患也。<div class='inline' id='poem_sentence_13_1232362_comment'></div>繁文酷吏，上下相绳，鞭挞追呼，农亩失业，则安石理财之政，而蔡京祖述厚歛之患也。<div class='inline' id='poem_sentence_14_1232362_comment'></div>侥冒躐进，依阿取容，当官有营私之心，而临难无仗节之义，此又安石败坏人材之科，而蔡京祖述宾兴贤能之患也。<div class='inline' id='poem_sentence_15_1232362_comment'></div>渎武而兵祸不解，厚歛而民心离散，至于宾兴贤能之弊，则习为软熟柔佞之资，无复礼义廉耻之节，士风彫丧，君子道消矣。<div class='inline' id='poem_sentence_16_1232362_comment'></div>故凡今日之患始于安石，成于蔡京，自馀童贯、王黼辈曾何足道。<div class='inline' id='poem_sentence_17_1232362_comment'></div>今贯、黼已诛，而安石未贬，犹得配享庙廷；<div class='inline' id='poem_sentence_18_1232362_comment'></div>蔡京未族，而子孙饱食安坐。<div class='inline' id='poem_sentence_19_1232362_comment'></div>臣谓时政阙失无大于此者，其欲收人心，召和气，乌可得哉！<div class='inline' id='poem_sentence_20_1232362_comment'></div>故于陛下播越之中，示此阴沴之戒。<div class='inline' id='poem_sentence_21_1232362_comment'></div>天之警悟，不啻谆谆之告，冀陛下知其所自，痛惩而亟革之也。<div class='inline' id='poem_sentence_22_1232362_comment'></div>伏睹近降赦文，遵用嘉祐敕令，周恤党臣之家，是将以元祐为法，而有意乎仁宗之治矣。<div class='inline' id='poem_sentence_23_1232362_comment'></div>呜呼，无聊憔悴之民，兹亦有少安之渐乎！<div class='inline' id='poem_sentence_24_1232362_comment'></div>然而德意未敷，天灾未弭者，以政令未归于一致，风俗犹裂于多岐。<div class='inline' id='poem_sentence_25_1232362_comment'></div>谈诗书、陈治乱者，非安石之学，则蔡京之人也。<div class='inline' id='poem_sentence_26_1232362_comment'></div>遗患流毒，浸淫人间，牢不可破，甚于胶漆。<div class='inline' id='poem_sentence_27_1232362_comment'></div>徒使陛下焦心劳思，孜孜访问，虽日下求言之诏，是诚何补风俗之难移？<div class='inline' id='poem_sentence_28_1232362_comment'></div>从古所患，唯陛下明于听览，果于取舍。<div class='inline' id='poem_sentence_29_1232362_comment'></div>其或中外臣寮因事奏请，有涉于安石、蔡京之遗意者，皆不利社稷之人，愿明正典刑，播告天下，使四方万里之远，皆知陛下用心所向，庶几变之有渐。<div class='inline' id='poem_sentence_30_1232362_comment'></div>此风一变，然后可以言治，其他细故不足为陛下陈之。</div><div id='poem_sentence_31_1232362_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年7月</a>　在建康，改殿中侍御史。<br /></div><div class='label1' id='b71118d53760491abb89b3d273a0849d_label'><a href='javascript: DetailSwitch("b71118d53760491abb89b3d273a0849d");'><span id='b71118d53760491abb89b3d273a0849d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年</a>，48岁</div><div id='b71118d53760491abb89b3d273a0849d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年10月</a>　除知平江府，道改江东安抚大使、知建康府，节制庐、寿军马。<br /></div><div class='label1' id='717c48fe6ebb410bbda88dcacd8a43a8_label'><a href='javascript: DetailSwitch("717c48fe6ebb410bbda88dcacd8a43a8");'><span id='717c48fe6ebb410bbda88dcacd8a43a8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1138')">1137-1138年</a>，53-54岁</div><div id='717c48fe6ebb410bbda88dcacd8a43a8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')">1137年10月</a>　在建康。张浚遭贬，赵鼎再三为之开陈。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年9月</a>　在建康。《哲宗实录》书成，授特进。吕本中草授特进制并以此被罢职。<br /></div>
+-----end
+
+
+
+-----title
+苏州
+-----detail
+<div class='label1' id='a1decc79cbee465fb80a4b2a8466d6ac_label'><a href='javascript: DetailSwitch("a1decc79cbee465fb80a4b2a8466d6ac");'><span id='a1decc79cbee465fb80a4b2a8466d6ac_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>，45岁</div><div id='a1decc79cbee465fb80a4b2a8466d6ac' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年8月</a>　从驾平江。<br /></div><div class='label1' id='b98a625e928e45068df6584ec9969806_label'><a href='javascript: DetailSwitch("b98a625e928e45068df6584ec9969806");'><span id='b98a625e928e45068df6584ec9969806_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1136')">1134-1136年</a>，50-52岁</div><div id='b98a625e928e45068df6584ec9969806' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年10月</a>　扈从亲征驻平江。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年10月</a>　力荐张浚于朝。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年2月</a>　迁左仆射兼枢密使，都督诸路军马、监修国史。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年闰2月</a>　张浚往江上视师，赵鼎居中总理政事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')">1136年</a>　在平江任上。<br /></div>
+-----end
+
+
+
+-----title
+绍兴
+-----detail
+<div class='label1' id='f4fea38aaa6246df89fd89685171506d_label'><a href='javascript: DetailSwitch("f4fea38aaa6246df89fd89685171506d");'><span id='f4fea38aaa6246df89fd89685171506d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>，45岁</div><div id='f4fea38aaa6246df89fd89685171506d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年9月</a>　除侍御史从驾越州。<br /></div><div class='label1' id='38bb712f12c84f0491ac96a73fae99ca_label'><a href='javascript: DetailSwitch("38bb712f12c84f0491ac96a73fae99ca");'><span id='38bb712f12c84f0491ac96a73fae99ca_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>，46岁</div><div id='38bb712f12c84f0491ac96a73fae99ca' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年3月</a>　至行在所绍兴，除司勲员外郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年5月</a>　在绍兴，除端明殿学士、签书枢密院事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年10月</a>　引疾奉祠，提举临安府洞霄宫。后寓居衢州常山县黄岗山永平寺。<br /></div><div class='label1' id='a5a2df077d7c4e15bf6d4d92f7b9c5a5_label'><a href='javascript: DetailSwitch("a5a2df077d7c4e15bf6d4d92f7b9c5a5");'><span id='a5a2df077d7c4e15bf6d4d92f7b9c5a5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年</a>，54岁</div><div id='a5a2df077d7c4e15bf6d4d92f7b9c5a5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年10月</a>　在绍兴府。引疾除检校少傅奉国军节度使、充浙东安抚大使知绍兴府。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年10月</a>　在绍兴府。荐李光试吏部尚书。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年12月</a>　请祠，除醴泉观使任便居住。<br /></div>
+-----end
+
+
+
+-----title
+宁波
+-----detail
+<div class='label1' id='0b457801b0e942d5b602b73e95358c66_label'><a href='javascript: DetailSwitch("0b457801b0e942d5b602b73e95358c66");'><span id='0b457801b0e942d5b602b73e95358c66_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>，45岁</div><div id='0b457801b0e942d5b602b73e95358c66' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年12月</a>　至明州，除御史中丞。<br /></div>
+-----end
+
+
+
+-----title
+常山
+-----detail
+<div class='label1' id='d0db2e46b0434ee2ad37cbe65bf7ece9_label'><a href='javascript: DetailSwitch("d0db2e46b0434ee2ad37cbe65bf7ece9");'><span id='d0db2e46b0434ee2ad37cbe65bf7ece9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')">1131年</a>，47岁</div><div id='d0db2e46b0434ee2ad37cbe65bf7ece9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')">1131年</a>　提举临安府洞霄宫，寓居衢州常山县黄岗山永平寺。<br /></div>
+-----end
+
+
+
+-----title
+南昌
+-----detail
+<div class='label1' id='aab81b9ea1f24f63ab830bc6fc23e246_label'><a href='javascript: DetailSwitch("aab81b9ea1f24f63ab830bc6fc23e246");'><span id='aab81b9ea1f24f63ab830bc6fc23e246_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年</a>，49岁</div><div id='aab81b9ea1f24f63ab830bc6fc23e246' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年2月</a>　移江西安抚大使知洪州，节制蕲、黄军马兼制置大使。<br /></div>
+-----end
+
+
+
+-----title
+晋江
+-----detail
+<div class='label1' id='0ea30d88b7af497b8ba506af90bed932_label'><a href='javascript: DetailSwitch("0ea30d88b7af497b8ba506af90bed932");'><span id='0ea30d88b7af497b8ba506af90bed932_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1140')">1139-1140年</a>，55-56岁</div><div id='0ea30d88b7af497b8ba506af90bed932' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年2月</a>　除知泉州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年5月</a>　在泉州，请祠提举临安府洞霄宫。<br /></div>
+-----end
+
+
+
+-----title
+慈溪
+-----detail
+<div class='label1' id='e73d6bee3a2148eeb0cf2c3ab3ab9cde_label'><a href='javascript: DetailSwitch("e73d6bee3a2148eeb0cf2c3ab3ab9cde");'><span id='e73d6bee3a2148eeb0cf2c3ab3ab9cde_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年</a>，56岁</div><div id='e73d6bee3a2148eeb0cf2c3ab3ab9cde' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年6月</a>　至明州慈溪县。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年7月</a>　责授清远军节度副使，潮州安置。<br /></div>
+-----end
+
+
+
+-----title
+潮州
+-----detail
+<div class='label1' id='33b0acf0a6734c2e86d41cb8f620d557_label'><a href='javascript: DetailSwitch("33b0acf0a6734c2e86d41cb8f620d557");'><span id='33b0acf0a6734c2e86d41cb8f620d557_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1143')">1141-1143年</a>，57-59岁</div><div id='33b0acf0a6734c2e86d41cb8f620d557' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1143')">1141-1143年</a>　在潮州。<br /></div>
+-----end
+
+
+
+-----title
+藤县
+-----detail
+<div class='label1' id='d13d4ac987554ac5a61d548107806360_label'><a href='javascript: DetailSwitch("d13d4ac987554ac5a61d548107806360");'><span id='d13d4ac987554ac5a61d548107806360_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')">1144年</a>，60岁</div><div id='d13d4ac987554ac5a61d548107806360' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')">1144年10月</a>　移吉阳军。道过藤州，李光与之相从累日，有诗。赵鼎到吉阳军后，有诗答之。作品：《吉阳寄李泰发》<span class='inlineComment2'>（此诗为到吉阳军后所作，当在绍兴十五年（1145）或其后。）</span><div id='poem_538660' class='_poem'><div id='poem_title_538660' class='poemTitle showDetail'><a href='/Writing/538660?labeling=true' target='_blank'>吉阳寄李泰发</a><span class='authorDate'>（1144年10月）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(32920, "宋", "赵鼎", "poem_title_538660")'>赵鼎</a></span><br /><div class='titleIndent'>七言绝句</div></div><div id='poem_title_538660_comment'></div><div class='poemContent' id='poem_content_538660'><div class='poemSentence' id='poem_sentence_0_538660'>海风吹浪去如飞，离母山高日出迟。<div id='poem_sentence_0_538660_comment'></div></div><div class='poemSentence' id='poem_sentence_1_538660'>此意此情谁会得，因书写与故人知<span class='inlineComment2'>（以上《忠正德文集》卷六）</span>。<div id='poem_sentence_1_538660_comment'></div></div><div class='poemSentence' id='poem_sentence_2_538660'></div><div id='poem_sentence_2_538660_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+徐闻
+-----detail
+<div class='label1' id='3ab6a26e555e4d6e9d67fd3a79943c93_label'><a href='javascript: DetailSwitch("3ab6a26e555e4d6e9d67fd3a79943c93");'><span id='3ab6a26e555e4d6e9d67fd3a79943c93_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')">1145年</a>，61岁</div><div id='3ab6a26e555e4d6e9d67fd3a79943c93' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')">1145年2月1日</a>　渡海。<br /></div>
+-----end
+
+
+
+-----title
+三亚
+-----detail
+<div class='label1' id='25ac33846acb413685b19e2438c47f78_label'><a href='javascript: DetailSwitch("25ac33846acb413685b19e2438c47f78");'><span id='25ac33846acb413685b19e2438c47f78_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1147')">1145-1147年</a>，61-63岁</div><div id='25ac33846acb413685b19e2438c47f78' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')">1145年2月25日</a>　至吉阳军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')">1146年11月</a>　在吉阳军。得疾。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年8月12日</a>　在吉阳军。知秦桧必欲杀己，自书铭旌曰： “身骑箕尾归天上，气作山河壮本朝。”不食而卒。<br /></div>
+-----end
+
+

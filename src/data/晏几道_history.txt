@@ -1,0 +1,32 @@
+
+-----title
+阜阳 (出生地)
+-----detail
+<div class='label1' id='c37b355a2a414295983921f1c4ef21d2_label'><a href='javascript: DetailSwitch("c37b355a2a414295983921f1c4ef21d2");'><span id='c37b355a2a414295983921f1c4ef21d2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')">1046年</a>，出生</div><div id='c37b355a2a414295983921f1c4ef21d2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')">1046年</a>　大约生于此年，姑系于此。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='339a02946b354c37b1f5235b2146133f_label'><a href='javascript: DetailSwitch("339a02946b354c37b1f5235b2146133f");'><span id='339a02946b354c37b1f5235b2146133f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1082')">1064-1082年</a>，19-37岁</div><div id='339a02946b354c37b1f5235b2146133f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')">1064年</a>　本年，与黄庭坚、王肱结交，常携酒客吴无至共相纵饮。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')">1080年</a>　与黄庭坚、王稚川聚会、酬唱，作一诗，今已亡佚。作品：《会寂照房》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　应在本年，受宣作词，姑系于此。作品：《鹧鸪天》（碧藕花开水殿凉）<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　或许本年，与蒲宗孟争论晏殊词，姑系于此。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　本年前后，或作《少年游》词，姑系于此。（西楼别后）<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　邹浩进士及第，曾拜访晏几道，姑系于此。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　周童叟进士及第，二人曾通书信，姑系于此。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　或许本年赐进士出身，姑系于此。<br /></div><div class='label1' id='2f769fea40594f57abffada2fb02d758_label'><a href='javascript: DetailSwitch("2f769fea40594f57abffada2fb02d758");'><span id='2f769fea40594f57abffada2fb02d758_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')">1088年</a>，43岁</div><div id='2f769fea40594f57abffada2fb02d758' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')">1088年</a>　或在本年，苏轼欲因黄庭坚见几道，几道辞之，姑系于此。<br /></div><div class='label1' id='ce3a827a4c1e454db760ea41f51155b2_label'><a href='javascript: DetailSwitch("ce3a827a4c1e454db760ea41f51155b2");'><span id='ce3a827a4c1e454db760ea41f51155b2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1112')">1102-1112年</a>，57-67岁</div><div id='ce3a827a4c1e454db760ea41f51155b2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')">1102年</a>　由乾宁军调任开封府推官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年闰2月</a>　是月，因两经狱空转一官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')">1110年</a>　本年前后，任鸿胪卿，姑系于此。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')">1110年</a>　本年前后，王序跟随晏几道学词，姑系于此。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1112&endYear=1112')">1112年</a>　年未至乞身致仕，退居京城赐第。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1112&endYear=1112')">1112年</a>　应蔡京之请作词二首。作品：《鹧鸪天》（九日悲秋不到心）《鹧鸪天》（晓日迎长岁岁同）<br /></div>
+-----end
+
+
+
+-----title
+许昌
+-----detail
+<div class='label1' id='166e475182d841a782a3b97f0d59796a_label'><a href='javascript: DetailSwitch("166e475182d841a782a3b97f0d59796a");'><span id='166e475182d841a782a3b97f0d59796a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1083')">1082-1083年</a>，37-38岁</div><div id='166e475182d841a782a3b97f0d59796a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　或许本年夏秋间，监颍昌许田镇，写新词献韩维，姑系于此。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')">1083年</a>　大约本年，作《生查子》词，姑系于此。（远山眉黛长）<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')">1083年</a>　大约本年，作《泛情波摘遍》词，姑系于此。（催花雨小）<br /></div>
+-----end
+
+
+
+-----title
+青县
+-----detail
+<div class='label1' id='3b9eaa0c90df423f94f8273adbbe222d_label'><a href='javascript: DetailSwitch("3b9eaa0c90df423f94f8273adbbe222d");'><span id='3b9eaa0c90df423f94f8273adbbe222d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')">1101年</a>，56岁</div><div id='3b9eaa0c90df423f94f8273adbbe222d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')">1101年</a>　本年前后，通判乾宁军，姑系于此。<br /></div>
+-----end
+
+

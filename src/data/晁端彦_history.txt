@@ -1,0 +1,64 @@
+
+-----title
+开封 (出生地)
+-----detail
+<div class='label1' id='14f527e60b3945c08aff0a411f0f4815_label'><a href='javascript: DetailSwitch("14f527e60b3945c08aff0a411f0f4815");'><span id='14f527e60b3945c08aff0a411f0f4815_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1035&endYear=1057')">1035-1057年</a>，1-23岁</div><div id='14f527e60b3945c08aff0a411f0f4815' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1035&endYear=1035')">1035年</a>　是年出生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年</a>　任太常寺太祝。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1056')">1054-1056年</a>　丁父忧。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')">1057年</a>　进士及第，与苏轼定交。<br /></div><div class='label1' id='bca443f9148847ae94502796440bc4cc_label'><a href='javascript: DetailSwitch("bca443f9148847ae94502796440bc4cc");'><span id='bca443f9148847ae94502796440bc4cc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1072')">1071-1072年</a>，37-38岁</div><div id='bca443f9148847ae94502796440bc4cc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1071&endYear=1071')">1071年</a>　为权发遣开封府推官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')">1072年4月</a>　受诏以天节送伴使谕北使。<br /></div><div class='label1' id='62e64ad9a09f4aa79ec4fa6df403b859_label'><a href='javascript: DetailSwitch("62e64ad9a09f4aa79ec4fa6df403b859");'><span id='62e64ad9a09f4aa79ec4fa6df403b859_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')">1077年</a>，43岁</div><div id='62e64ad9a09f4aa79ec4fa6df403b859' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')">1077年1月</a>　坐累张若济受贿案，受降黜。<br /></div><div class='label1' id='309decb5347c4b729cffb0a41fabd912_label'><a href='javascript: DetailSwitch("309decb5347c4b729cffb0a41fabd912");'><span id='309decb5347c4b729cffb0a41fabd912_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1091')">1083-1091年</a>，49-57岁</div><div id='309decb5347c4b729cffb0a41fabd912' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')">1083年2月</a>　以金部员外郎为郎中。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')">1083年6月</a>　坐事罚铜六斤。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1083')">1083年11月</a>　罚铜八斤。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')">1084年12月</a>　与同僚坐言乞复铜禁展磨堪三年，是年，与张耒有诗唱和。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1086')">1086年8月</a>　为皇帝贺辽国正旦使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')">1089年7月</a>　为左司郎中，与苏颂有交。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年</a>　向御史中丞苏辙揭发许将自以为功、漏泄国论。<br /></div><div class='label1' id='877d7423f3e642eeaab622aace450ad6_label'><a href='javascript: DetailSwitch("877d7423f3e642eeaab622aace450ad6");'><span id='877d7423f3e642eeaab622aace450ad6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年</a>，60岁</div><div id='877d7423f3e642eeaab622aace450ad6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年4月</a>　秘书少监。<br /></div>
+-----end
+
+
+
+-----title
+河北
+-----detail
+<div class='label1' id='40d36679b71d4724ade1d17b7d68b841_label'><a href='javascript: DetailSwitch("40d36679b71d4724ade1d17b7d68b841");'><span id='40d36679b71d4724ade1d17b7d68b841_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1066')">1064-1066年</a>，30-32岁</div><div id='40d36679b71d4724ade1d17b7d68b841' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')">1064年</a>　以秘书丞知河间县，王安石有文赠之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1066')">1065-1066年</a>　以秘书丞知河间县。<br /></div>
+-----end
+
+
+
+-----title
+雄县
+-----detail
+<div class='label1' id='7966b6fee6cc415994c4b94cfa97cbfb_label'><a href='javascript: DetailSwitch("7966b6fee6cc415994c4b94cfa97cbfb");'><span id='7966b6fee6cc415994c4b94cfa97cbfb_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1070')">1069-1070年</a>，35-36岁</div><div id='7966b6fee6cc415994c4b94cfa97cbfb' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1069&endYear=1069')">1069年</a>　通判雄州，司马光有文赠之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1070&endYear=1070')">1070年</a>　通判雄州。<br /></div>
+-----end
+
+
+
+-----title
+丹阳
+-----detail
+<div class='label1' id='ef591c62f65c47bf9e0231cf76a7a434_label'><a href='javascript: DetailSwitch("ef591c62f65c47bf9e0231cf76a7a434");'><span id='ef591c62f65c47bf9e0231cf76a7a434_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')">1076年</a>，42岁</div><div id='ef591c62f65c47bf9e0231cf76a7a434' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1076&endYear=1076')">1076年5月</a>　与潘良器并冲替，待鞫于润州。<br /></div>
+-----end
+
+
+
+-----title
+菏泽
+-----detail
+<div class='label1' id='e6b7426e935f4c80bed6b1faf4cbae6e_label'><a href='javascript: DetailSwitch("e6b7426e935f4c80bed6b1faf4cbae6e");'><span id='e6b7426e935f4c80bed6b1faf4cbae6e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>，48岁</div><div id='e6b7426e935f4c80bed6b1faf4cbae6e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　出知单州。<br /></div>
+-----end
+
+
+
+-----title
+扬州
+-----detail
+<div class='label1' id='007c197b95d6428d96a78c94a94bfa38_label'><a href='javascript: DetailSwitch("007c197b95d6428d96a78c94a94bfa38");'><span id='007c197b95d6428d96a78c94a94bfa38_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')">1092年</a>，58岁</div><div id='007c197b95d6428d96a78c94a94bfa38' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')">1092年7月7日</a>　与知州苏轼、通判晁补之会聚。<br /></div>
+-----end
+
+
+
+-----title
+驻马店
+-----detail
+<div class='label1' id='a39355d0b48c4ae3ba3f6c9a204990f1_label'><a href='javascript: DetailSwitch("a39355d0b48c4ae3ba3f6c9a204990f1");'><span id='a39355d0b48c4ae3ba3f6c9a204990f1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')">1092年</a>，58岁</div><div id='a39355d0b48c4ae3ba3f6c9a204990f1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')">1092年9月6日</a>　知蔡州。<br /></div>
+-----end
+
+
+
+-----title
+三门峡
+-----detail
+<div class='label1' id='dc8a8c1877ec4bb7a2bdd6d9284fb282_label'><a href='javascript: DetailSwitch("dc8a8c1877ec4bb7a2bdd6d9284fb282");'><span id='dc8a8c1877ec4bb7a2bdd6d9284fb282_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年</a>，61岁</div><div id='dc8a8c1877ec4bb7a2bdd6d9284fb282' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年</a>　陕州太守。<br /></div>
+-----end
+
+

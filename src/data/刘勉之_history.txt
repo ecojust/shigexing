@@ -1,0 +1,56 @@
+
+-----title
+南平（崇安） (出生地)
+-----detail
+<div class='label1' id='92ca62d1f6f841dcab31af13d6382b8f_label'><a href='javascript: DetailSwitch("92ca62d1f6f841dcab31af13d6382b8f");'><span id='92ca62d1f6f841dcab31af13d6382b8f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1113')">1091-1113年</a>，1-23岁</div><div id='92ca62d1f6f841dcab31af13d6382b8f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年</a>　生于白水村。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1095')">1092-1095年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1096')">1096年</a>　自幼强学，日诵数千言，耳目所接，一过不复忘。其为文肆笔而成，滂沛闳阔，凌厉顿挫，侪辈少能及之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1107')">1097-1107年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1108&endYear=1108')">1108年</a>　入州学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1113')">1109-1113年</a>　就读州学。<br /></div><div class='label1' id='32af7e7682fb44299e13029204f7238b_label'><a href='javascript: DetailSwitch("32af7e7682fb44299e13029204f7238b");'><span id='32af7e7682fb44299e13029204f7238b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1126')">1118-1126年</a>，28-36岁</div><div id='32af7e7682fb44299e13029204f7238b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年</a>　太学之行，始阴习伊洛之学，继受易于谯定，归而请业于刘安世、杨时，融数家之学，以为己用，乃谢去场屋，归隐山田。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1119&endYear=1119')">1119年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1121')">1120-1121年</a>　居乡。有胡宪、刘子翚二君子之为道义交，并林之奇、魏掞之、范念德、朱熹诸子之问于学，复有山水田园、琴棋诗酒之陶其心，悠然度日。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年</a>　娶连氏。妇家富，无子，谋尽以赀归于女，勉之不受，以畀族之贤者，命之奉祀。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1126')">1123-1126年</a>　居乡。有胡宪、刘子翚二君子之为道义交，并林之奇、魏掞之、范念德、朱熹诸子之问于学，复有山水田园、琴棋诗酒之陶其心，悠然度日。<br /></div><div class='label1' id='a41e907104f04a16a26a074d237bf09a_label'><a href='javascript: DetailSwitch("a41e907104f04a16a26a074d237bf09a");'><span id='a41e907104f04a16a26a074d237bf09a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1132')">1131-1132年</a>，41-42岁</div><div id='a41e907104f04a16a26a074d237bf09a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1132')">1131-1132年</a>　居乡。有胡宪、刘子翚二君子之为道义交，并林之奇、魏掞之、范念德、朱熹诸子之问于学，复有山水田园、琴棋诗酒之陶其心，悠然度日。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='e8fe60243a47489684506f6f7e053a37_label'><a href='javascript: DetailSwitch("e8fe60243a47489684506f6f7e053a37");'><span id='e8fe60243a47489684506f6f7e053a37_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1113&endYear=1118')">1113-1118年</a>，23-28岁</div><div id='e8fe60243a47489684506f6f7e053a37' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1113&endYear=1113')">1113年</a>　以州学贡入太学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')">1114年</a>　时蔡京用事，方禁士毋得挟元祐书，制师生收司连坐法，犯者罪至流徙。勉之心知其非是，阴访伊洛程氏之传，得其书，藏去。深夜，同舍生皆熟寐，乃始探箧解帙，下帷然膏，潜抄而默诵之。与胡宪交，相与问易于谯定。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1118')">1115-1118年</a>　置严诏于不顾，阴习伊洛之学，复与胡宪问易于谯定。<br /></div>
+-----end
+
+
+
+-----title
+南京（江宁）
+-----detail
+<div class='label1' id='072244968bd14d7fbc985b6418bd0d56_label'><a href='javascript: DetailSwitch("072244968bd14d7fbc985b6418bd0d56");'><span id='072244968bd14d7fbc985b6418bd0d56_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年</a>，28岁</div><div id='072244968bd14d7fbc985b6418bd0d56' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年</a>　弃录牒，揖诸生而归，道南都，问学于刘安世。<br /></div>
+-----end
+
+
+
+-----title
+常州
+-----detail
+<div class='label1' id='54f02b590091494abb5fafd83a09b2aa_label'><a href='javascript: DetailSwitch("54f02b590091494abb5fafd83a09b2aa");'><span id='54f02b590091494abb5fafd83a09b2aa_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年</a>，28岁</div><div id='54f02b590091494abb5fafd83a09b2aa' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年</a>　过毗陵，请业于杨时。<br /></div>
+-----end
+
+
+
+-----title
+崇安街道（崇安）
+-----detail
+<div class='label1' id='b88eaa24309a444fa426b7f21f2592a3_label'><a href='javascript: DetailSwitch("b88eaa24309a444fa426b7f21f2592a3");'><span id='b88eaa24309a444fa426b7f21f2592a3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1130')">1127-1130年</a>，37-40岁</div><div id='b88eaa24309a444fa426b7f21f2592a3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1130')">1127-1130年</a>　居乡。有胡宪、刘子翚二君子之为道义交，并林之奇、魏掞之、范念德、朱熹诸子之问于学，复有山水田园、琴棋诗酒之陶其心，悠然度日。<br /></div>
+-----end
+
+
+
+-----title
+建阳（建宁府）
+-----detail
+<div class='label1' id='68f67d373ba345f78cabd1f3a0ec7edd_label'><a href='javascript: DetailSwitch("68f67d373ba345f78cabd1f3a0ec7edd");'><span id='68f67d373ba345f78cabd1f3a0ec7edd_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1138')">1133-1138年</a>，43-48岁</div><div id='68f67d373ba345f78cabd1f3a0ec7edd' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年</a>　乱后故山室庐荒颓，乃即建阳近郊萧屯别墅结草为堂，读书其中，力耕稼以自给，澹然若无求于世。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1135')">1134-1135年</a>　读书草堂，力耕稼以自给，澹然若无求于世。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')">1136年4月</a>　有书寄胡寅，责其不尽孝于生身父母，由是胡寅之事，朝野尽知，历十余年，群议不息。作品：与胡寅书。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1138')">1137-1138年</a>　读书草堂。<br /></div><div class='label1' id='ab684944a57043e9bfbff1df24e26e22_label'><a href='javascript: DetailSwitch("ab684944a57043e9bfbff1df24e26e22");'><span id='ab684944a57043e9bfbff1df24e26e22_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1149')">1138-1149年</a>，48-59岁</div><div id='ab684944a57043e9bfbff1df24e26e22' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年</a>　谢病归乡。以向之受召不阿权贵，士人美之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年</a>　赵鼎出知泉州，谒而叹重之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年</a>　与朱松交。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1141')">1141年</a>　有文。作品：翁彦深行状。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年</a>　居草堂。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1143')">1143年</a>　春，友人朱松死，遗命其子朱熹禀学于刘勉之等人之门。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')">1144年</a>　有文。作品：祭刘子翼文。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1145&endYear=1145')">1145年</a>　居草堂。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')">1146年</a>　有文。作品：祭刘子羽文。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')">1146年</a>　有诗。作品：挽刘子羽诗二首。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　春，有诗。作品：与林之奇书数首。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　冬，友人刘子翚死，病中为诗并序以挽之。作品：挽刘子翚诗。<span class='inlineComment2'>（四川大学出版社2008（郭齐《朱子学新探》））</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　以女妻朱熹。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年</a>　居草堂。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')">1149年2月20日</a>　终于建阳之里第。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='2759382a44f74e2ba4d9ced1e385d224_label'><a href='javascript: DetailSwitch("2759382a44f74e2ba4d9ced1e385d224");'><span id='2759382a44f74e2ba4d9ced1e385d224_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年</a>，48岁</div><div id='2759382a44f74e2ba4d9ced1e385d224' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年</a>　四月，户部侍郎李弥逊、权刑部侍郎曾开、给事中吴表臣、张致远、中书舍人句涛、吕本中奏勉之可用，诏召赴行在。十月至临安，不得面上，乃谢病归。<br /></div>
+-----end
+
+

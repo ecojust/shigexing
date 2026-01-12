@@ -1,0 +1,40 @@
+
+-----title
+开封
+-----detail
+<div class='label1' id='d121ac4aa30249d7ad49ce29e54c2a92_label'><a href='javascript: DetailSwitch("d121ac4aa30249d7ad49ce29e54c2a92");'><span id='d121ac4aa30249d7ad49ce29e54c2a92_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1112&endYear=1121')">1112-1121年</a>，19-28岁</div><div id='d121ac4aa30249d7ad49ce29e54c2a92' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1112&endYear=1112')">1112年</a>　是年在临安，以本州舍选贡入太学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')">1115年</a>　是年在临安，中上舍第三名，为省试经魁。廷试登何㮚榜榜眼，授文林郎、辟雍博士。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')">1121年</a>　是年在临安，论当次对，言河北群盗及方腊反叛之由，力诋廷臣内为谄佞、外蔽聪明，闻者为之胆落。<br /></div><div class='label1' id='7eb16340495d4d7c898c99bfa3326117_label'><a href='javascript: DetailSwitch("7eb16340495d4d7c898c99bfa3326117");'><span id='7eb16340495d4d7c898c99bfa3326117_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，33岁</div><div id='7eb16340495d4d7c898c99bfa3326117' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年3月</a>　是年在临安，三月诏赴阕。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年4月</a>　四月，以钦宗即位，覃恩转承议郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年10月</a>　十月，至阕下极言时宰何㮚、唐恪不可用，黜监信州汭口排案兼酒税板木。<br /></div>
+-----end
+
+
+
+-----title
+江苏
+-----detail
+<div class='label1' id='2daaca55e308415ebe14031e3714c6b5_label'><a href='javascript: DetailSwitch("2daaca55e308415ebe14031e3714c6b5");'><span id='2daaca55e308415ebe14031e3714c6b5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>，32岁</div><div id='2daaca55e308415ebe14031e3714c6b5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年2月</a>　二月，出提举淮南东路长平司。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>　扬州有中贵人以职事久留，监司帅臣遇之甚厚，每与同宴席。或以白默成，不听。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>　兵部员外郎程瑀劾内侍王珣，反为珣所奏，默成辨之，瑀得免。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>　州新开大湖，大姓分佃之，渔人不得渔，默成革之。<br /></div><div class='label1' id='f4bf2ed222cd411fa5a352e67fd27cea_label'><a href='javascript: DetailSwitch("f4bf2ed222cd411fa5a352e67fd27cea");'><span id='f4bf2ed222cd411fa5a352e67fd27cea_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>，36岁</div><div id='f4bf2ed222cd411fa5a352e67fd27cea' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>　扈从至淮扬，迁朝散郎。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='b838c1f2f61b4992b443170c5c59b45c_label'><a href='javascript: DetailSwitch("b838c1f2f61b4992b443170c5c59b45c");'><span id='b838c1f2f61b4992b443170c5c59b45c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>，34岁</div><div id='b838c1f2f61b4992b443170c5c59b45c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>　是年在临安，五月高宗立，覃恩转朝议郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年6月</a>　六月，擢右司谏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年8月3日</a>　八月三日供职，抗疏乞诛伪党，又乞封宗室贤者，为当权者所恶。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>　左迁工部员外郎，默成以不得其言，求去益力。<br /></div><div class='label1' id='f1f7d51fce364680bac989695cef3399_label'><a href='javascript: DetailSwitch("f1f7d51fce364680bac989695cef3399");'><span id='f1f7d51fce364680bac989695cef3399_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1139')">1135-1139年</a>，42-46岁</div><div id='f1f7d51fce364680bac989695cef3399' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年11月</a>　是年在临安，十一月，除起居郎，兼权中书舍人，复朝散郎。默成屡请归养亲，上不许。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年4月</a>　是年在临安，服除，四月复拜中书舍人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年6月</a>　六月兼侍讲，因户部侍郎向子諲之故触怒高宗，上章求去。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年7月</a>　七月，以集英殿修撰提举江州太平观。<br /></div>
+-----end
+
+
+
+-----title
+南京
+-----detail
+<div class='label1' id='9d9d8911cfd847ada70ee73b9b68192d_label'><a href='javascript: DetailSwitch("9d9d8911cfd847ada70ee73b9b68192d");'><span id='9d9d8911cfd847ada70ee73b9b68192d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>，36岁</div><div id='9d9d8911cfd847ada70ee73b9b68192d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年5月</a>　是年初在南京。<br /></div>
+-----end
+
+
+
+-----title
+宁波
+-----detail
+<div class='label1' id='ae0671f627d64e7283c326e95d8eebf2_label'><a href='javascript: DetailSwitch("ae0671f627d64e7283c326e95d8eebf2");'><span id='ae0671f627d64e7283c326e95d8eebf2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年</a>，46岁</div><div id='ae0671f627d64e7283c326e95d8eebf2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1139')">1139年4月</a>　是年四月，起知明州。治尚朴厚，务大体勤小物，民甚安之。<br /></div>
+-----end
+
+

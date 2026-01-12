@@ -1,0 +1,48 @@
+
+-----title
+丹阳 (出生地)
+-----detail
+<div class='label1' id='921aca963e2f4205af436ba245145b31_label'><a href='javascript: DetailSwitch("921aca963e2f4205af436ba245145b31");'><span id='921aca963e2f4205af436ba245145b31_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1079')">1065-1079年</a>，1-15岁</div><div id='921aca963e2f4205af436ba245145b31' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')">1065年</a>　出生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1078')">1066-1078年</a>　居乡丹阳。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1079')">1079年</a>　居丹阳。少能诗，苏轼见其《清江曲》诗，大爱之，由是知名。<div id='poem_134115' class='_poem'><div id='poem_title_134115' class='poemTitle showDetail'><a href='/Writing/134115?labeling=true' target='_blank'>清江曲<span style='margin: 0 0.5em'> 其一 </span></a><span class='authorDate'>（1079年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31316, "宋", "苏庠", "poem_title_134115")'>苏庠</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_134115_comment'></div><div class='poemContent' id='poem_content_134115'><div class='poemSentence' id='poem_sentence_0_134115'>属玉双飞水满塘，菰蒲深处浴鸳鸯。<div id='poem_sentence_0_134115_comment'></div></div><div class='poemSentence' id='poem_sentence_1_134115'>白蘋满棹归来晚，秋著芦花一岸霜。<div id='poem_sentence_1_134115_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_2_134115'>扁舟系岸依林樾，萧萧两鬓吹华发。<div id='poem_sentence_2_134115_comment'></div></div><div class='poemSentence' id='poem_sentence_3_134115'>万事不理醉复醒，长占烟波弄明月。<div id='poem_sentence_3_134115_comment'></div></div><div class='poemSentence' id='poem_sentence_4_134115'></div><div id='poem_sentence_4_134115_comment'></div></div><div class='poemNote' id='poem_note_134115'><span class='label'>《苏文忠公全集》卷六八：</span>此篇若置在太白集中，谁复疑其非也。乃吾宗养直所作《清江曲》云。<br /></div><div id='poem_note_134115_comment'></div></div><br /></div><div class='label1' id='3310060fc924406c8f5304bb30a4f369_label'><a href='javascript: DetailSwitch("3310060fc924406c8f5304bb30a4f369");'><span id='3310060fc924406c8f5304bb30a4f369_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1109')">1081-1109年</a>，17-45岁</div><div id='3310060fc924406c8f5304bb30a4f369' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')">1081年</a>　曾一就举中程，以犯讳黜，遂无意仕进。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1083')">1082-1083年</a>　不详。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')">1084年</a>　曾与释惠洪从游。具体时间不详。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1109')">1085-1109年</a>　不详。<br /></div><div class='label1' id='617cba003c494e91a574eafba6d045ff_label'><a href='javascript: DetailSwitch("617cba003c494e91a574eafba6d045ff");'><span id='617cba003c494e91a574eafba6d045ff_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1122')">1111-1122年</a>，47-58岁</div><div id='617cba003c494e91a574eafba6d045ff' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1122')">1111-1122年</a>　不详。<br /></div><div class='label1' id='56b596ad9d49424e8b71fda2368a40cc_label'><a href='javascript: DetailSwitch("56b596ad9d49424e8b71fda2368a40cc");'><span id='56b596ad9d49424e8b71fda2368a40cc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1147')">1136-1147年</a>，72-83岁</div><div id='56b596ad9d49424e8b71fda2368a40cc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')">1136年</a>　隐居丹阳。不慕荣禄，以琴书自乐，终老布衣。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1146')">1137-1146年</a>　隐居丹阳。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年1月</a>　卒。传说苏庠辞世，是解化仙去。葬镇江马迹山。<br /></div>
+-----end
+
+
+
+-----title
+芜湖
+-----detail
+<div class='label1' id='3b146be09d38452ba4ff09a39e716c3a_label'><a href='javascript: DetailSwitch("3b146be09d38452ba4ff09a39e716c3a");'><span id='3b146be09d38452ba4ff09a39e716c3a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')">1080年</a>，16岁</div><div id='3b146be09d38452ba4ff09a39e716c3a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1080&endYear=1080')">1080年</a>　曾与黄庭坚从游。本年黄庭坚赴任吉州太和，过芜湖访李之仪，苏坚、苏庠也在。<br /></div>
+-----end
+
+
+
+-----title
+南昌
+-----detail
+<div class='label1' id='7628f339b91644a7a279dfc1e5835667_label'><a href='javascript: DetailSwitch("7628f339b91644a7a279dfc1e5835667");'><span id='7628f339b91644a7a279dfc1e5835667_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')">1110年</a>，46岁</div><div id='7628f339b91644a7a279dfc1e5835667' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')">1110年</a>　与徐俯、张元干、吕本中等在豫章结诗社唱和。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='b5e3b1bf7b1245ffb5ab4d45cf36ba08_label'><a href='javascript: DetailSwitch("b5e3b1bf7b1245ffb5ab4d45cf36ba08");'><span id='b5e3b1bf7b1245ffb5ab4d45cf36ba08_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1127')">1123-1127年</a>，59-63岁</div><div id='b5e3b1bf7b1245ffb5ab4d45cf36ba08' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>　在汴京与张元干等唱和。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')">1124年</a>　在汴京为张元干题跋。作品：《幽岩尊祖事实》<div id='poem_1210983' class='_poem'><div id='poem_title_1210983' class='poemTitle showDetail'><a href='/Writing/1210983?labeling=true' target='_blank'>芦川老隐幽岩尊祖事实跋</a><span class='authorDate'>（宣和六年四月十九日）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31316, "宋", "苏庠", "poem_title_1210983")'>苏庠</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1210983_comment'></div><div class='poemContent' id='poem_content_1210983'><div class='articleSentence' id='poem_sentence_0_1210983'>仲宗隆于慈孝，盖天性然也。<div class='inline' id='poem_sentence_0_1210983_comment'></div>苟其本立矣，则积而为事业，发而为词章，岂复有二道哉？<div class='inline' id='poem_sentence_1_1210983_comment'></div>有德者必有言，其仲宗之谓乎！<div class='inline' id='poem_sentence_2_1210983_comment'></div>宣和六年四月十九日，赵郡苏庠书。</div><div id='poem_sentence_3_1210983_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1127')">1125-1127年</a>　或在汴京。<br /></div>
+-----end
+
+
+
+-----title
+九江
+-----detail
+<div class='label1' id='ba17fe7dbc26454e92db97797f851763_label'><a href='javascript: DetailSwitch("ba17fe7dbc26454e92db97797f851763");'><span id='ba17fe7dbc26454e92db97797f851763_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1135')">1131-1135年</a>，67-71岁</div><div id='ba17fe7dbc26454e92db97797f851763' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')">1131年</a>　绍兴年间，苏庠隐居庐山。与修水李彭齐名。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年</a>　隐居庐山。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年</a>　隐居庐山。徐俯荐其贤，令赴朝，固辞。天下士无问识与不识，皆高其节，好事者往往图其形以相赠。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年</a>　隐居庐山。从其学诗者甚众。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年</a>　隐居庐山。与词人康与之常相往还。<br /></div>
+-----end
+
+
+
+-----title
+庐山
+-----detail
+null
+-----end
+
+

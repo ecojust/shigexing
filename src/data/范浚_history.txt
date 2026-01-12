@@ -1,0 +1,8 @@
+
+-----title
+兰溪 (出生地)
+-----detail
+<div class='label1' id='f7bea4644612447cb203789827260d45_label'><a href='javascript: DetailSwitch("f7bea4644612447cb203789827260d45");'><span id='f7bea4644612447cb203789827260d45_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')">1102年</a>，出生</div><div id='f7bea4644612447cb203789827260d45' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')">1102年</a>　不详。<br /></div>
+-----end
+
+

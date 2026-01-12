@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 const XLSX = require("xlsx");
 
 /**
@@ -13,58 +14,177 @@ class WangBoHistoryParser {
    * 解析HTML内容提取时间线数据
    */
   parseHtmlContent(htmlContent) {
-    const locations = [];
+    // 按-----end分割内容，每个节点作为一条数据
+    const sections = htmlContent.split("-----end");
 
-    // 提取地点标题
-    const titleRegex = /-----title\s*\n([^\n]+)\s*\n-----detail/g;
-    let titleMatch;
+    sections.forEach((section, index) => {
+      if (section.trim() === "") return; // 跳过空节点
 
-    while ((titleMatch = titleRegex.exec(htmlContent)) !== null) {
-      const location = titleMatch[1].trim();
-      locations.push({
-        location: location,
-        startIndex: titleMatch.index,
-        endIndex: htmlContent.indexOf("-----end", titleMatch.index),
-      });
-    }
-
-    // 为每个地点解析详细信息
-    locations.forEach((loc) => {
-      const locationContent = htmlContent.substring(
-        loc.startIndex,
-        loc.endIndex
+      // 提取标题（地点）
+      const titleMatch = section.match(
+        /-----title\s*\n([^\n]+)\s*\n-----detail/
       );
-      this.parseLocationContent(locationContent, loc.location);
+      if (!titleMatch) return; // 如果没有标题，跳过这个节点
+
+      const location = titleMatch[1].trim();
+
+      // 提取详细内容部分
+      const detailStartIndex = section.indexOf("-----detail");
+      if (detailStartIndex === -1) return;
+
+      const detailContent = section
+        .substring(detailStartIndex + "-----detail".length)
+        .trim();
+
+      // 解析这个节点的内容
+      const nodeData = this.parseNodeContent(detailContent, location);
+
+      if (nodeData) {
+        this.data.push(nodeData);
+      }
     });
 
     return this.data;
   }
 
   /**
-   * 解析单个地点的内容
+   * 解析单个节点的内容
    */
-  parseLocationContent(content, location) {
-    // 提取年份和年龄信息
-    const yearRegex =
-      /<a href="javascript: ViewDetail\('scope=&author=&beginYear=(\d+)&endYear=(\d+)'\)">(\d+-?\d*年?[^<]*)<\/a>[^<]*，([^<]+)/g;
-    let yearMatch;
+  parseNodeContent(content, location) {
+    // 清理地点名称，移除括号内容
+    const cleanLocation = location.replace(/\([^)]*\)/g, "").trim();
 
-    while ((yearMatch = yearRegex.exec(content)) !== null) {
-      const timeRange = yearMatch[3];
-      const ageInfo = yearMatch[4];
+    // 提取时间信息
+    const timeInfo = this.extractTimeInfo(content);
 
-      // 提取该时间段的详细事件
-      const events = this.extractEvents(content, yearMatch.index);
+    // 提取详细描述
+    const details = this.extractDetails(content);
 
-      events.forEach((event) => {
-        this.data.push({
-          时间: timeRange,
-          地点: location.replace(/\([^)]*\)/g, "").trim(), // 移除括号内容
-          详情: event.detail,
-          作品: event.works.join("；") || "-",
-        });
-      });
+    // 提取作品
+    const works = this.extractAllWorks(content);
+
+    // 如果没有提取到有效信息，返回null
+    if (!timeInfo && !details) {
+      return null;
     }
+
+    return {
+      时间: timeInfo || "-",
+      地点: cleanLocation,
+      详情: details || "-",
+      作品: works.length > 0 ? works.join("；") : "-",
+    };
+  }
+
+  /**
+   * 提取时间信息
+   */
+  extractTimeInfo(content) {
+    // 匹配各种时间格式，优先匹配更具体的格式
+    const timePatterns = [
+      // 匹配具体日期：716年9月9日
+      /(\d+年\d+月\d+日)/,
+      // 匹配年份范围：700-708年，714-715年
+      /<a[^>]*>(\d+-\d+年)<\/a>/,
+      // 匹配单个年份：700年，708年
+      /<a[^>]*>(\d+年)<\/a>/,
+      // 匹配带年龄的时间：700-708年，1-9岁
+      /(\d+-\d+年)，\d+-\d+岁/,
+      // 匹配基本年份格式
+      /(\d+年)/,
+    ];
+
+    for (const pattern of timePatterns) {
+      const match = content.match(pattern);
+      if (match) {
+        return match[1].trim();
+      }
+    }
+
+    return null;
+  }
+
+  /**
+   * 提取详细描述
+   */
+  extractDetails(content) {
+    // 移除HTML标签，但保留文本内容
+    let cleanContent = content.replace(/<[^>]*>/g, " ");
+
+    // 清理多余的空白字符
+    cleanContent = cleanContent.replace(/\s+/g, " ").trim();
+
+    // 移除特殊标记
+    cleanContent = cleanContent.replace(/-----\w+/g, "").trim();
+
+    // 提取主要事件描述
+    const events = [];
+
+    // 按句号或分号分割内容
+    const sentences = cleanContent.split(/[。；]/);
+
+    for (const sentence of sentences) {
+      const trimmed = sentence.trim();
+
+      // 跳过太短的句子或只包含年份/年龄的句子
+      if (
+        trimmed.length < 5 ||
+        trimmed.match(/^\d+-?\d*年$/) ||
+        trimmed.match(/^\d+-?\d*岁$/) ||
+        trimmed.match(/^，\d+-?\d*岁$/)
+      ) {
+        continue;
+      }
+
+      // 清理句子中的年份标记，保留主要内容
+      let cleanSentence = trimmed
+        .replace(/\d+年\d+月\d+日\s*/, "") // 移除具体日期
+        .replace(/\d+-\d+年\s*/, "") // 移除年份范围
+        .replace(/\d+年\s*/, "") // 移除单个年份
+        .replace(/，\d+-\d+岁/, "") // 移除年龄信息
+        .replace(/^\s*[，。　]+/, "") // 移除开头的标点
+        .trim();
+
+      if (cleanSentence.length > 3) {
+        events.push(cleanSentence);
+      }
+    }
+
+    // 合并所有事件，去重
+    const uniqueEvents = [...new Set(events)];
+    let result = uniqueEvents.join("；").trim();
+
+    // 如果内容太短，可能不是有效的描述
+    if (result.length < 5) {
+      return null;
+    }
+
+    // 截取合理长度的描述（避免过长）
+    if (result.length > 800) {
+      result = result.substring(0, 800) + "...";
+    }
+
+    return result;
+  }
+
+  /**
+   * 提取所有作品
+   */
+  extractAllWorks(content) {
+    const works = [];
+
+    // 匹配《作品名》格式
+    const workRegex = /《([^》]+)》/g;
+    let workMatch;
+
+    while ((workMatch = workRegex.exec(content)) !== null) {
+      const workTitle = `《${workMatch[1]}》`;
+      if (!works.includes(workTitle)) {
+        works.push(workTitle);
+      }
+    }
+
+    return works;
   }
 
   /**
@@ -192,42 +312,8 @@ class WangBoHistoryParser {
       // 解析内容
       const data = this.parseHtmlContent(content);
 
-      // 手动添加已知的重要数据点（基于之前的分析）
-      const knownData = [
-        {
-          时间: "650-660年",
-          地点: "河津（龙门）",
-          详情: "1-11岁，出生地。650-654年居于家乡龙门；655年六岁即善文辞，构思无滞；658年九岁读颜师古注《汉书》，并作《指瑕》以擿其失；659年诵读六经",
-          作品: "《指瑕》",
-        },
-        {
-          时间: "661-667年",
-          地点: "西安（长安）",
-          详情: '12-18岁。从医者曹元学，反对"上官体"而名满长安，上书右相刘祥道获引荐，经刘祥道表荐拟应制举',
-          作品: "《上刘右相书》；《上李常伯启》；《上皇甫常伯启》；《再上皇甫常伯启》；《宸游东岳颂》；《乾元殿颂》",
-        },
-        {
-          时间: "668-669年",
-          地点: "西安（长安）",
-          详情: "19-20岁。为东台侍郎张文瓘作赋，创作《七夕赋》，撰写墓志，上《拜南郊颂》，因王室权力争夺被斥出沛王府",
-          作品: "《九成宫东台山池赋》；《七夕赋》；《归仁县主墓志并序》；《拜南郊颂表》；《拜南郊颂》；《送杜少府之任蜀川》；《檄英王鸡》；《夏日诸公见寻访诗序》",
-        },
-        {
-          时间: "671-672年",
-          地点: "西安（长安）",
-          详情: "22-23岁。晚秋抵长安，参选补授虢州参军，与友人曲水之宴，送弟赴太学，作《倬彼我系》陈先人之迹",
-          作品: "《上绛州上官司马书》；《上明员外启》；《上吏部裴侍郎启》；《三月曲水宴得烟字》；《送劼赴太学序》；《倬彼我系》",
-        },
-        {
-          时间: "674年",
-          地点: "河津（龙门）",
-          详情: "25岁。冬，还归龙门家乡，以筹远赴交州之资费",
-          作品: "-",
-        },
-      ];
-
       // 使用已知数据（更准确）
-      const finalData = knownData.length > 0 ? knownData : data;
+      const finalData = data;
 
       // 生成Excel
       this.generateExcel(finalData, outputFile);
@@ -244,23 +330,73 @@ class WangBoHistoryParser {
 // 主执行函数
 async function main() {
   const parser = new WangBoHistoryParser();
+  const dataDir = "src/data";
+  const excelDir = "src/excel";
 
   try {
-    const inputFile = "src/data/王勃_history.txt";
-    const outputFile = "src/excel/王勃生平时间线.xlsx";
+    // 确保excel目录存在
+    if (!fs.existsSync(excelDir)) {
+      fs.mkdirSync(excelDir, { recursive: true });
+    }
 
-    console.log("开始解析王勃生平时间线文档...");
-    const data = await parser.process(inputFile, outputFile);
+    // 读取data文件夹下所有txt文件
+    const files = fs.readdirSync(dataDir);
+    const txtFiles = files.filter(
+      (file) => path.extname(file).toLowerCase() === ".txt"
+    );
 
-    console.log("\n解析结果预览:");
-    data.slice(0, 3).forEach((item, index) => {
-      console.log(`${index + 1}. ${item.时间} - ${item.地点}`);
-      console.log(`   详情: ${item.详情.substring(0, 50)}...`);
-      console.log(`   作品: ${item.作品}`);
-      console.log("");
+    if (txtFiles.length === 0) {
+      console.log("在data文件夹中未找到任何txt文件");
+      return;
+    }
+
+    console.log(`找到 ${txtFiles.length} 个txt文件，开始批量处理...`);
+
+    const errors = [];
+
+    // 依次处理每个txt文件
+    for (const txtFile of txtFiles) {
+      const inputFile = path.join(dataDir, txtFile);
+      const baseName = path.basename(txtFile, ".txt");
+      const name = baseName.replace(/_history/g, "");
+      const outputFile = path.join(excelDir, `${name}_时间线.xlsx`);
+
+      console.log(`\n正在处理: ${txtFile}`);
+      //   console.log(`输入文件: ${inputFile}`);
+      //   console.log(`输出文件: ${outputFile}`);
+
+      try {
+        // 重置解析器数据
+        parser.data = [];
+
+        const data = await parser.process(inputFile, outputFile);
+
+        console.log(`✅ 成功处理 ${txtFile}，生成了 ${data.length} 条记录`);
+
+        // // 显示前3条记录预览
+        // if (data.length > 0) {
+        //   console.log("解析结果预览:");
+        //   data.slice(0, 3).forEach((item, index) => {
+        //     console.log(`  ${index + 1}. ${item.时间} - ${item.地点}`);
+        //     console.log(`     详情: ${item.详情.substring(0, 50)}...`);
+        //     console.log(`     作品: ${item.作品}`);
+        //   });
+        // }
+      } catch (error) {
+        errors.push(`❌ 处理文件 ${txtFile} 时出错:${error.message}`);
+        // console.error(`❌ 处理文件 ${txtFile} 时出错:`, error.message);
+        continue; // 继续处理下一个文件
+      }
+    }
+
+    console.log(`\n🎉 批量处理完成！共处理了 ${txtFiles.length} 个文件`);
+    console.log(`生成的Excel文件保存在: ${excelDir}`);
+
+    errors.forEach((error) => {
+      console.error(error);
     });
   } catch (error) {
-    console.error("执行失败:", error);
+    console.error("批量处理失败:", error);
     process.exit(1);
   }
 }

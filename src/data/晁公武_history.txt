@@ -1,0 +1,104 @@
+
+-----title
+徐州 (出生地)
+-----detail
+<div class='label1' id='e84db927b3ac4a9b8c6afecd038b045b_label'><a href='javascript: DetailSwitch("e84db927b3ac4a9b8c6afecd038b045b");'><span id='e84db927b3ac4a9b8c6afecd038b045b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')">1102年</a>，出生</div><div id='e84db927b3ac4a9b8c6afecd038b045b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')">1102年</a>　是年出生。<br /></div>
+-----end
+
+
+
+-----title
+乐山
+-----detail
+<div class='label1' id='a0223e9717bf4e8184572e9c4da97b73_label'><a href='javascript: DetailSwitch("a0223e9717bf4e8184572e9c4da97b73");'><span id='a0223e9717bf4e8184572e9c4da97b73_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，25岁</div><div id='a0223e9717bf4e8184572e9c4da97b73' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>　逢靖康之乱，公携家入蜀，寓居嘉州。<br /></div><div class='label1' id='b54f2e030d504a6aacc2ccdd67cf15a7_label'><a href='javascript: DetailSwitch("b54f2e030d504a6aacc2ccdd67cf15a7");'><span id='b54f2e030d504a6aacc2ccdd67cf15a7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>，71岁</div><div id='b54f2e030d504a6aacc2ccdd67cf15a7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>　晚居嘉州符文乡，卒葬焉。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='0415d75ca843441cbf88970cfd3e0c28_label'><a href='javascript: DetailSwitch("0415d75ca843441cbf88970cfd3e0c28");'><span id='0415d75ca843441cbf88970cfd3e0c28_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年</a>，31岁</div><div id='0415d75ca843441cbf88970cfd3e0c28' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年</a>　进士及第。初为四川转运副使井度属官。<br /></div><div class='label1' id='5ff08e2795a24525853e5331c22daf72_label'><a href='javascript: DetailSwitch("5ff08e2795a24525853e5331c22daf72");'><span id='5ff08e2795a24525853e5331c22daf72_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>，63岁</div><div id='5ff08e2795a24525853e5331c22daf72' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>　入朝为吏部郎中，继除监察御史。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年2月</a>　以吏部员外郎兼国史院编修官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年3月</a>　又以枢密院检详诸房文字兼。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>　旋入台省，为右正言，多所论列。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年10月7日</a>　迁殿中侍御史。奏请罢宋檏、汪勃章龙图阁学士，从之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>　擢侍御史。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年11月</a>　论汤思退罢相事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>　徙户部侍郎。<br /></div><div class='label1' id='586c396d729344a497e882864ec30e80_label'><a href='javascript: DetailSwitch("586c396d729344a497e882864ec30e80");'><span id='586c396d729344a497e882864ec30e80_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>，70岁</div><div id='586c396d729344a497e882864ec30e80' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年4月</a>　擢吏部侍郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年5月12日</a>　除临安府少尹。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年7月3日</a>　以与判官不合，罢。<br /></div>
+-----end
+
+
+
+-----title
+三台
+-----detail
+<div class='label1' id='1f4808ce479a49cebc877693bde3a152_label'><a href='javascript: DetailSwitch("1f4808ce479a49cebc877693bde3a152");'><span id='1f4808ce479a49cebc877693bde3a152_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>，46岁</div><div id='1f4808ce479a49cebc877693bde3a152' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　以左朝奉郎通判潼川府。<br /></div>
+-----end
+
+
+
+-----title
+重庆
+-----detail
+<div class='label1' id='dc620b6ab1dc415fb305f6116308fd51_label'><a href='javascript: DetailSwitch("dc620b6ab1dc415fb305f6116308fd51");'><span id='dc620b6ab1dc415fb305f6116308fd51_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>，46岁</div><div id='dc620b6ab1dc415fb305f6116308fd51' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年7月</a>　寻知恭州。<br /></div>
+-----end
+
+
+
+-----title
+荣县
+-----detail
+<div class='label1' id='f409f6177b324b3dbc9b6dead23f0f67_label'><a href='javascript: DetailSwitch("f409f6177b324b3dbc9b6dead23f0f67");'><span id='f409f6177b324b3dbc9b6dead23f0f67_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')">1151年</a>，50岁</div><div id='f409f6177b324b3dbc9b6dead23f0f67' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1151&endYear=1151')">1151年</a>　寻知荣州。得井度赠书。撰《郡斋读书志》<br /></div>
+-----end
+
+
+
+-----title
+合川
+-----detail
+<div class='label1' id='a196d29622474331a73e56a8a8886cc6_label'><a href='javascript: DetailSwitch("a196d29622474331a73e56a8a8886cc6");'><span id='a196d29622474331a73e56a8a8886cc6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')">1157年</a>，56岁</div><div id='a196d29622474331a73e56a8a8886cc6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')">1157年</a>　又知合州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1157&endYear=1157')">1157年12月</a>　殿中侍御史中丞王珪劾罢之。<br /></div>
+-----end
+
+
+
+-----title
+泸州
+-----detail
+<div class='label1' id='374be1972c2d430f8d6eed404777e7d6_label'><a href='javascript: DetailSwitch("374be1972c2d430f8d6eed404777e7d6");'><span id='374be1972c2d430f8d6eed404777e7d6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年</a>，61岁</div><div id='374be1972c2d430f8d6eed404777e7d6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年</a>　还职，知泸州。<br /></div><div class='label1' id='9aa6643f9a374e11b470380225b5b661_label'><a href='javascript: DetailSwitch("9aa6643f9a374e11b470380225b5b661");'><span id='9aa6643f9a374e11b470380225b5b661_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>，64岁</div><div id='9aa6643f9a374e11b470380225b5b661' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年1月9日</a>　除集英殿修撰，出知泸州。<br /></div>
+-----end
+
+
+
+-----title
+汉中
+-----detail
+<div class='label1' id='38c34ae1cb1540aa88c288a7ed5472ae_label'><a href='javascript: DetailSwitch("38c34ae1cb1540aa88c288a7ed5472ae");'><span id='38c34ae1cb1540aa88c288a7ed5472ae_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1169')">1167-1169年</a>，66-68岁</div><div id='38c34ae1cb1540aa88c288a7ed5472ae' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1167')">1167年6月</a>　除敷文阁待制，知兴元府、充利州东路安抚使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')">1168年</a>　承四川宣抚使虞允文之命，籍收兴、洋义士，得二万三千九百余人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>　虞允文奏公武营田之法，从之。<br /></div>
+-----end
+
+
+
+-----title
+成都
+-----detail
+<div class='label1' id='2e767668d3344572944ecb03e5066223_label'><a href='javascript: DetailSwitch("2e767668d3344572944ecb03e5066223");'><span id='2e767668d3344572944ecb03e5066223_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>，68岁</div><div id='2e767668d3344572944ecb03e5066223' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年11月</a>　为敷文阁待制、成都、潼川府、夔州、利州路安抚使兼知成都府，除敷文阁直学士。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年12月</a>　上书请重建广惠仓。<br /></div>
+-----end
+
+
+
+-----title
+雅安
+-----detail
+<div class='label1' id='bf5b62538fb84d3eba0a47796cbfbb1c_label'><a href='javascript: DetailSwitch("bf5b62538fb84d3eba0a47796cbfbb1c");'><span id='bf5b62538fb84d3eba0a47796cbfbb1c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>，69岁</div><div id='bf5b62538fb84d3eba0a47796cbfbb1c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年1月</a>　讨雅州沙平部族。<br /></div>
+-----end
+
+
+
+-----title
+扬州
+-----detail
+<div class='label1' id='a20f365e29594b4b934e366b49193f73_label'><a href='javascript: DetailSwitch("a20f365e29594b4b934e366b49193f73");'><span id='a20f365e29594b4b934e366b49193f73_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1171')">1170-1171年</a>，69-70岁</div><div id='a20f365e29594b4b934e366b49193f73' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年8月</a>　以敷文阁直学士降授左朝请大夫，除淮南东路安抚使兼知扬州。请外祠，不免。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年10月28日</a>　请依利州路义士条法教阅扬州民兵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年12月11日</a>　请诏淮南东、西等路监司帅守保明奏闻本部沿边县令职事修举者。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年2月</a>　契勘本路所种二麦，具实申尚书省。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年2月</a>　请诏西淮许民垦荒田而不增赋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年4月</a>　上疏乞论归正不谙农务之人充安抚司使唤。又请展免上供米麦等钱及放免二税。<br /></div>
+-----end
+
+
+
+-----title
+长沙
+-----detail
+<div class='label1' id='9a4b1c5c67ef40f6aeb5e0bae5bcc48d_label'><a href='javascript: DetailSwitch("9a4b1c5c67ef40f6aeb5e0bae5bcc48d");'><span id='9a4b1c5c67ef40f6aeb5e0bae5bcc48d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>，70岁</div><div id='9a4b1c5c67ef40f6aeb5e0bae5bcc48d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年4月</a>　是月，移知潭州。乞外宫观，不乞。<br /></div>
+-----end
+
+

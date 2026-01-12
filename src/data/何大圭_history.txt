@@ -1,0 +1,56 @@
+
+-----title
+广德 (出生地)
+-----detail
+<div class='label1' id='64282ff882ed4367bcae667197313873_label'><a href='javascript: DetailSwitch("64282ff882ed4367bcae667197313873");'><span id='64282ff882ed4367bcae667197313873_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')">1101年</a>，出生</div><div id='64282ff882ed4367bcae667197313873' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')">1101年</a>　是年出生。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='a91b2d5dbdac40219235142e748d455f_label'><a href='javascript: DetailSwitch("a91b2d5dbdac40219235142e748d455f");'><span id='a91b2d5dbdac40219235142e748d455f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1124')">1118-1124年</a>，18-24岁</div><div id='a91b2d5dbdac40219235142e748d455f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年</a>　是年登第。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1119&endYear=1119')">1119年1月21日</a>　为太学录。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')">1124年1月23日</a>　为秘书省正字并充贡举点检试卷官。<br /></div>
+-----end
+
+
+
+-----title
+太原
+-----detail
+<div class='label1' id='c9269f593f314591b0d5adc505547758_label'><a href='javascript: DetailSwitch("c9269f593f314591b0d5adc505547758");'><span id='c9269f593f314591b0d5adc505547758_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，26岁</div><div id='c9269f593f314591b0d5adc505547758' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年6月</a>　为河北河东路宣抚使李纲的属官，兵援太原。<br /></div>
+-----end
+
+
+
+-----title
+南京
+-----detail
+<div class='label1' id='54a437d8d7e24edbbada1755ea08c366_label'><a href='javascript: DetailSwitch("54a437d8d7e24edbbada1755ea08c366");'><span id='54a437d8d7e24edbbada1755ea08c366_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>，27岁</div><div id='54a437d8d7e24edbbada1755ea08c366' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年6月</a>　是年李纲拜相，何大圭亦因之复官。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='7c03ab7e8ce74e6796ca5134aa900098_label'><a href='javascript: DetailSwitch("7c03ab7e8ce74e6796ca5134aa900098");'><span id='7c03ab7e8ce74e6796ca5134aa900098_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>，30岁</div><div id='7c03ab7e8ce74e6796ca5134aa900098' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>　为三省枢密院干办官。<br /></div><div class='label1' id='4b87e69bfc254c52b96ed3fc2bbd215c_label'><a href='javascript: DetailSwitch("4b87e69bfc254c52b96ed3fc2bbd215c");'><span id='4b87e69bfc254c52b96ed3fc2bbd215c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1150')">1150年</a>，50岁</div><div id='4b87e69bfc254c52b96ed3fc2bbd215c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1150&endYear=1150')">1150年6月</a>　以附秦桧得升直秘阁。<br /></div>
+-----end
+
+
+
+-----title
+福州
+-----detail
+<div class='label1' id='4e9a7433eee148b78a1558603bbd498d_label'><a href='javascript: DetailSwitch("4e9a7433eee148b78a1558603bbd498d");'><span id='4e9a7433eee148b78a1558603bbd498d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1149')">1135-1149年</a>，35-49岁</div><div id='4e9a7433eee148b78a1558603bbd498d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年2月</a>　复官，居福州为李纲食客；与吕本中游。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1137')">1136-1137年</a>　居福州为李纲食客。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')">1149年</a>　居福州，与福州教授洪迈交。<br /></div><div class='label1' id='ab90dc2b44ba4d39bf1893adda043324_label'><a href='javascript: DetailSwitch("ab90dc2b44ba4d39bf1893adda043324");'><span id='ab90dc2b44ba4d39bf1893adda043324_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1163')">1159-1163年</a>，59-63岁</div><div id='ab90dc2b44ba4d39bf1893adda043324' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')">1159年</a>　居福州，陆游曾与游处。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1162')">1160-1162年</a>　居福州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年</a>　除浙西安抚司参议官，不赴。<br /></div>
+-----end
+
+
+
+-----title
+临海
+-----detail
+<div class='label1' id='ed92b144f85840e0b04cb45b52ef225e_label'><a href='javascript: DetailSwitch("ed92b144f85840e0b04cb45b52ef225e");'><span id='ed92b144f85840e0b04cb45b52ef225e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年</a>，63岁</div><div id='ed92b144f85840e0b04cb45b52ef225e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年</a>　落职提举台州崇道观。<br /></div>
+-----end
+
+

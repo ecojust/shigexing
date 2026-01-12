@@ -1,0 +1,128 @@
+
+-----title
+双流（广都） (出生地)
+-----detail
+<div class='label1' id='c1b81abc522b4918952d4d8cd2e5764b_label'><a href='javascript: DetailSwitch("c1b81abc522b4918952d4d8cd2e5764b");'><span id='c1b81abc522b4918952d4d8cd2e5764b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1108')">1079-1108年</a>，1-30岁</div><div id='c1b81abc522b4918952d4d8cd2e5764b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1079&endYear=1108')">1079-1108年</a>　居乡。<br /></div>
+-----end
+
+
+
+-----title
+剑阁
+-----detail
+<div class='label1' id='1edde77aabf742f4884847298c9ed008_label'><a href='javascript: DetailSwitch("1edde77aabf742f4884847298c9ed008");'><span id='1edde77aabf742f4884847298c9ed008_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1109')">1109年</a>，31岁</div><div id='1edde77aabf742f4884847298c9ed008' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1109')">1109年</a>　作宦剑门，重阳节登览剑门梁山铺。作品：己丑重阳在剑门梁山铺。<div id='poem_528211' class='_poem'><div id='poem_title_528211' class='poemTitle showDetail'><a href='/Writing/528211?labeling=true' target='_blank'>己丑重阳在剑门梁山铺</a><span class='authorDate'>（1109年）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋末金初 · </span><a href='javascript: ShowPoemAuthorProfile(36002, "北宋末金初", "宇文虚中", "poem_title_528211")'>宇文虚中</a></span><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_528211_comment'></div><div class='poemContent' id='poem_content_528211'><div class='poemSentence' id='poem_sentence_0_528211'>两年重九皆羁旅，万水千山厌远游。<div id='poem_sentence_0_528211_comment'></div></div><div class='poemSentence' id='poem_sentence_1_528211'>白酒黄花聊度日，青萍绿绮共忘忧。<div id='poem_sentence_1_528211_comment'></div></div><div class='poemSentence' id='poem_sentence_2_528211'>却怜风雨梁山路，不似莼鲈楚泽秋。<div id='poem_sentence_2_528211_comment'></div></div><div class='poemSentence' id='poem_sentence_3_528211'>何必东皋是三径，此身天地一虚舟。<div id='poem_sentence_3_528211_comment'></div></div><div class='poemSentence' id='poem_sentence_4_528211'></div><div id='poem_sentence_4_528211_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+淮阳
+-----detail
+<div class='label1' id='b400d30fa7214c289eb818333c0e2619_label'><a href='javascript: DetailSwitch("b400d30fa7214c289eb818333c0e2619");'><span id='b400d30fa7214c289eb818333c0e2619_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1109')">1109年</a>，31岁</div><div id='b400d30fa7214c289eb818333c0e2619' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1109')">1109年</a>　节录《本草》一帙，辨药性大纲。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='d066cf912a264cb1a8deaf9d999703c9_label'><a href='javascript: DetailSwitch("d066cf912a264cb1a8deaf9d999703c9");'><span id='d066cf912a264cb1a8deaf9d999703c9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1117')">1115-1117年</a>，37-39岁</div><div id='d066cf912a264cb1a8deaf9d999703c9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')">1115年</a>　入为起居舍人、国史院编修。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')">1116年1月22日</a>　同知贡举。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')">1116年4月</a>　除通直郎中书舍人，与吴敏同僚。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')">1116年6月29日</a>　奉赦为皇太子纳妃，并奏告永裕等陵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')">1116年</a>　与翰林学士许光凝、宣政殿学士薛嗣昌表荐申积中操行。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1117')">1117年</a>　在京任中书舍人。<br /></div><div class='label1' id='7c9401914892452584684e263a2ab625_label'><a href='javascript: DetailSwitch("7c9401914892452584684e263a2ab625");'><span id='7c9401914892452584684e263a2ab625_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年</a>，44岁</div><div id='7c9401914892452584684e263a2ab625' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年5月18日</a>　入童贯幕为参谋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年</a>　上书谏取燕云，降集英殿修撰。作品：论收燕山利害札子；谏燕山用兵疏；论燕山后患疏；措置京东应援河北疏[一篇占一行表述]<div id='poem_1221962' class='_poem'><div id='poem_title_1221962' class='poemTitle showDetail'><a href='/Writing/1221962?labeling=true' target='_blank'>论收燕山利害劄子</a><span class='authorDate'>（宣和四年八月）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋末金初 · </span><a href='javascript: ShowPoemAuthorProfile(36002, "北宋末金初", "宇文虚中", "poem_title_1221962")'>宇文虚中</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1221962_comment'></div><div class='poemContent' id='poem_content_1221962'><div class='articleSentence' id='poem_sentence_0_1221962'>契勘契丹二百年强国，方其盛时，自处尊行，僭中国之名号，指岁赐为献纳，招携附属力制方夏。<div class='inline' id='poem_sentence_0_1221962_comment'></div>今来遵奉睿算，按兵临边，曾未半年，戎虏震威怀德，亟遣使人祈哀请命，其言逊顺，至有「虽循旧制，惟命是从」之语。<div class='inline' id='poem_sentence_1_1221962_comment'></div>盖自三代以来，摧强敌为附藩，未有速于今日者。<div class='inline' id='poem_sentence_2_1221962_comment'></div>今欲尽复燕山，或使纳土，临以大兵，假以岁月，固亦可致，但天生夷狄，不可尽灭，知彼知己，当图万全。<div class='inline' id='poem_sentence_3_1221962_comment'></div>今具合计议事如后，伏乞朝廷集议，详酌施行。<div class='inline' id='poem_sentence_4_1221962_comment'></div>一、兵有胜负，乃古今之常理。<div class='inline' id='poem_sentence_5_1221962_comment'></div>若十万全军出塞攻取，涿、易未拔，或虽得易而守备未完，人心未固，聚兵至燕，燕未肯下，相守半月以上，攻之不拔，后无援军，粮道不继，利害如何？<div class='inline' id='poem_sentence_6_1221962_comment'></div>一、今来夏人竭国点集，次第甚大，若以此兵逆旧，虏酋自西而来，我军攻燕未下，相遇于燕城之外，其利害如何？<div class='inline' id='poem_sentence_7_1221962_comment'></div>一、女真兵马，见在中京，我军十万，未必能围合燕城。<div class='inline' id='poem_sentence_8_1221962_comment'></div>女真守约，不遣助兵入关，其利害如何？<div class='inline' id='poem_sentence_9_1221962_comment'></div>一、若我兵未能下燕，女真入关，一举而拔，掠为空城，以城归我，不惟缮守费力，又恐为夷所轻，其利害如何？<div class='inline' id='poem_sentence_10_1221962_comment'></div>一、契丹昨来遣使女真，愿为附庸，女真不纳，求附朝廷。<div class='inline' id='poem_sentence_11_1221962_comment'></div>观其意盖是畏女真，爱中国，避强悍，归仁义。<div class='inline' id='poem_sentence_12_1221962_comment'></div>今西夏以重兵压云中，狡诈窥伺，托为存亡继绝之言，其意甚远。<div class='inline' id='poem_sentence_13_1221962_comment'></div>若契丹北为女真所拒，南为中国所弃，收拾馀烬，翻然决计，乘夏人聚兵之地，割地以为约，积粮以养兵，不惟王师入燕为所牵制，亦恐他日西北边事未有宁息之日。<div class='inline' id='poem_sentence_14_1221962_comment'></div>一、若大金取燕不得之后，却与开纳许之以称藩，比之今日未举大兵，其恩威两全，利害如何？<div class='inline' id='poem_sentence_15_1221962_comment'></div>一、若果得燕地一府九州五关三十馀县，又逐旋筑塞建堡，营置守备，人兵粮草，调发措置，何所从出？<div class='inline' id='poem_sentence_16_1221962_comment'></div>一、女真兵马，或为夏国劲兵所挫，或以久客远征，一旦归国，我未得燕，或得燕而守备未固，与女真大兵声势相远，其利害如何？<div class='inline' id='poem_sentence_17_1221962_comment'></div>一、若得燕之后，胡虏杂类依附旁近险阻，或通款旧酋，或别立酋长，西兵不可久戍，北兵不可倚仗，永远警备，利害如何？<div class='inline' id='poem_sentence_18_1221962_comment'></div>一、若西夏大兵助送旧酋，不能入燕，不得志而归，蓄怒乘虚，却于陕西、河东出没牵制作过，其利害如何？<div class='inline' id='poem_sentence_19_1221962_comment'></div>窃谓今日为国家大计，须期永久安逸，不费兵马钱谷公私事力，坦然无北顾之忧，费省力暇，过于昨来与契丹通好时，方为稳便。<div class='inline' id='poem_sentence_20_1221962_comment'></div>若兵连不解，征代防托，或灭虏之后，调发劳费，大过于未用兵以前，其利害不可不计。</div><div id='poem_sentence_21_1221962_comment'></div></div></div><div id='poem_1221961' class='_poem'><div id='poem_title_1221961' class='poemTitle showDetail'><a href='/Writing/1221961?labeling=true' target='_blank'>谏燕山用兵疏</a><span class='authorDate'>（宣和四年三月）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋末金初 · </span><a href='javascript: ShowPoemAuthorProfile(36002, "北宋末金初", "宇文虚中", "poem_title_1221961")'>宇文虚中</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1221961_comment'></div><div class='poemContent' id='poem_content_1221961'><div class='articleSentence' id='poem_sentence_0_1221961'>臣伏睹陛下恢睿圣英武之略，绍祖宗之贻谋，将举仁义之师，复燕云之故境，不以臣愚不肖，使参预机事。<div class='inline' id='poem_sentence_0_1221961_comment'></div>臣被命之初，意谓朝廷未有定议，欲命臣经度相视攻守形势，参赞庙谟。<div class='inline' id='poem_sentence_1_1221961_comment'></div>及至河北诸路，见朝廷命将帅，调兵旅，砺器械，转移钱粮，已有择日定举之说。<div class='inline' id='poem_sentence_2_1221961_comment'></div>臣既与军政，苟有所见，岂敢隐默，辄举利害，仰干渊听。<div class='inline' id='poem_sentence_3_1221961_comment'></div>臣闻用兵之策，必先计强弱虚实，知彼知己，以图万全。<div class='inline' id='poem_sentence_4_1221961_comment'></div>今论财用之多寡，指宣抚司所置，便为财用有馀，若沿边诸郡帑藏空虚，廪食不继，则略而不问；<div class='inline' id='poem_sentence_5_1221961_comment'></div>论士卒之强弱，视宣抚司所驻，便言甲兵精锐，若沿边诸郡士不练习，武备之缺，则置而不讲。<div class='inline' id='poem_sentence_6_1221961_comment'></div>夫边圉无应敌之具，府库无数日之粮，虽孙、吴复生，亦未可举师，是在我者未得万全之策也。<div class='inline' id='poem_sentence_7_1221961_comment'></div>用兵之道，御攻者易，攻人者难，守城者易，攻城者难。<div class='inline' id='poem_sentence_8_1221961_comment'></div>守者在内而攻者在外，在内者为主而常逸，在外者为客而常劳，逸者心安，劳者必危。<div class='inline' id='poem_sentence_9_1221961_comment'></div>今宣抚司兵约有六万，边鄙可用不过数千。<div class='inline' id='poem_sentence_10_1221961_comment'></div>契丹九大王耶律淳者，智略辐凑，素得士心，国主委任，信而不疑。<div class='inline' id='poem_sentence_11_1221961_comment'></div>今欲亟进兵于燕城之下，使契丹自西山以轻兵绝吾粮道，又自营、平以重兵压我营垒，我之粮道不继，耶律淳者激励众心，坚城自守，则我亦危殆矣。<div class='inline' id='poem_sentence_12_1221961_comment'></div>在我无万全之策，在彼亦未可必胜，兹事一举，乃安危存亡之所系，岂可轻议乎？<div class='inline' id='poem_sentence_13_1221961_comment'></div>且中国与契丹讲和，今踰百年，间有贪惏，不过欲得关南十县而止耳；<div class='inline' id='poem_sentence_14_1221961_comment'></div>间有傲慢，不过对中国使人稍亏礼节而止耳。<div class='inline' id='poem_sentence_15_1221961_comment'></div>自女真侵削以来，向慕本朝，一切恭顺。<div class='inline' id='poem_sentence_16_1221961_comment'></div>今舍恭顺之契丹，不封殖拯救，为我藩篱，而远踰海外，引强悍之女真以为邻域。<div class='inline' id='poem_sentence_17_1221961_comment'></div>女真藉百胜之势，虚暍骄矜，不可以礼义交也，不可以言说诱也。<div class='inline' id='poem_sentence_18_1221961_comment'></div>视中国与契丹拿兵不止，鏖战不解，胜负未决，强弱未分，持卞庄两斗之说，引兵踰古北口，抚有悖桀之众，系累契丹君臣，雄据朔漠，贪心不止，越逸疆圉，凭陵中夏。<div class='inline' id='poem_sentence_19_1221961_comment'></div>以百年怠惰之兵而当新锐难敌之虏，以寡谋持重久閒安逸之将，而角逐于血肉之林，巧拙异谋，勇怯异势，臣恐中国之边患未有宁息期也。<div class='inline' id='poem_sentence_20_1221961_comment'></div>譬犹富人有万金之产，与寒士为邻，欲吞并以广其屋居，乃引盗而谋，曰「彼之所处，汝居其半，彼之所蓄，汝取其全」，强盗从之。<div class='inline' id='poem_sentence_21_1221961_comment'></div>寒士既亡，虽有万金之富，日为切邻强盗所窥，欲一夕高枕安卧，其可得乎？<div class='inline' id='poem_sentence_22_1221961_comment'></div>臣之愚见，窃以为确喻。<div class='inline' id='poem_sentence_23_1221961_comment'></div>望陛下思祖宗创业之艰难，念邻域百年之盟好，下臣此章，使百寮廷议。<div class='inline' id='poem_sentence_24_1221961_comment'></div>傥臣言可采，乞降诏旨罢将帅还朝，无开边隙，俾中国衣冠礼仪之俗，永睹太平。<div class='inline' id='poem_sentence_25_1221961_comment'></div>臣冒昧尽言，不任战慄。</div><div id='poem_sentence_26_1221961_comment'></div></div></div><div id='poem_1221963' class='_poem'><div id='poem_title_1221963' class='poemTitle showDetail'><a href='/Writing/1221963?labeling=true' target='_blank'>论燕山后患疏</a><span class='authorDate'>（1122年）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋末金初 · </span><a href='javascript: ShowPoemAuthorProfile(36002, "北宋末金初", "宇文虚中", "poem_title_1221963")'>宇文虚中</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1221963_comment'></div><div class='poemContent' id='poem_content_1221963'><div class='articleSentence' id='poem_sentence_0_1221963'>臣伏见朝廷昨以耶律淳擅立，遣兵巡边，骑卒相侵，互有胜负。<div class='inline' id='poem_sentence_0_1221963_comment'></div>前此屡曾招纳，已于盟好有违。<div class='inline' id='poem_sentence_1_1221963_comment'></div>迨王师那回雄州，王介儒来寻旧好，书牒往复，皆有明文，其于女真，又违近约。<div class='inline' id='poem_sentence_2_1221963_comment'></div>若二虏脱有兴炽，即边事不可不防。<div class='inline' id='poem_sentence_3_1221963_comment'></div>所有元约女真夹攻悠久利害，臣不敢与知。<div class='inline' id='poem_sentence_4_1221963_comment'></div>今复移文涿州，勾引契丹人使书牒，差人往约女真。<div class='inline' id='poem_sentence_5_1221963_comment'></div>虽民心归仁，天道助顺，王师无战，可保万全，但恐秋高马肥，贼兵或聚，若只坐待意外功绩，不为自治之规，窃恐临事失机，贻患在后。<div class='inline' id='poem_sentence_6_1221963_comment'></div>且言郭药师可令带同知燕山，以恩礼留之京师，复尽使挈致家属，居于赐宅，缓急有用兵，只可单骑遣行，事毕便归。<div class='inline' id='poem_sentence_7_1221963_comment'></div>然今日事机与前日不同，似不必更放前去，脱鱼于渊，恐滋后患。</div><div id='poem_sentence_8_1221963_comment'></div></div></div><div id='poem_1221966' class='_poem'><div id='poem_title_1221966' class='poemTitle showDetail'><a href='/Writing/1221966?labeling=true' target='_blank'>措置京东应援河北疏</a><span class='authorDate'>（1122年）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋末金初 · </span><a href='javascript: ShowPoemAuthorProfile(36002, "北宋末金初", "宇文虚中", "poem_title_1221966")'>宇文虚中</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1221966_comment'></div><div class='poemContent' id='poem_content_1221966'><div class='articleSentence' id='poem_sentence_0_1221966'>京东盗贼屯聚至数十万，东路尤被其害。<div class='inline' id='poem_sentence_0_1221966_comment'></div>臣初到界首，交割之后，体问得馀党散在山谷，与已受招安之人，皆未宁谧，州县所忧，正在此数月。<div class='inline' id='poem_sentence_1_1221966_comment'></div>青州以南，连接太山，往往数百里人烟断绝。<div class='inline' id='poem_sentence_2_1221966_comment'></div>今本路濒海，与金贼对境，北又接滨、沧，边面皆通行贼马，若不于耕桑正忙之时，速与慰安人情，窃虑奸人复出为盗。<div class='inline' id='poem_sentence_3_1221966_comment'></div>已一面作奉圣旨遍牒本路，又乞置骑兵，近边西路为一万骑，及阅习事势，饬治器甲，为将来应援河北，入卫王室之计。</div><div id='poem_sentence_4_1221966_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年9月</a>　郭药师降，虚中奏言留之京师，弗听。<br /></div><div class='label1' id='5051dc73ceb84359bb1d57ce95ba8580_label'><a href='javascript: DetailSwitch("5051dc73ceb84359bb1d57ce95ba8580");'><span id='5051dc73ceb84359bb1d57ce95ba8580_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>，47岁</div><div id='5051dc73ceb84359bb1d57ce95ba8580' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年9月</a>　为金告庆接伴使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年9月12日</a>　荐陈知质知隆德府。<br /></div><div class='label1' id='c204bdf2ed914ca2ba1b687a8d8a46e1_label'><a href='javascript: DetailSwitch("c204bdf2ed914ca2ba1b687a8d8a46e1");'><span id='c204bdf2ed914ca2ba1b687a8d8a46e1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>，47岁</div><div id='c204bdf2ed914ca2ba1b687a8d8a46e1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年12月16日</a>　随童贯回至京师。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年12月22日</a>　草罪己诏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年12月22日</a>　授资政殿大学士军前宣谕使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年12月22日</a>　檄文召姚师古、种师道驰援京师。<br /></div><div class='label1' id='11e3bb07b7fe45a59eba6fc321c6bbd6_label'><a href='javascript: DetailSwitch("11e3bb07b7fe45a59eba6fc321c6bbd6");'><span id='11e3bb07b7fe45a59eba6fc321c6bbd6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，48岁</div><div id='11e3bb07b7fe45a59eba6fc321c6bbd6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年2月</a>　二月初，以钦宗召，复入汴。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年2月1日</a>　姚平仲劫金营不利。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年2月5日</a>　宇文虚中使金营，辩劫营非朝廷意。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年2月7日</a>　除资政殿大学士、签书枢密院事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年2月8日</a>　以金人将退，除送路使副。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年2月9日</a>　复使金营。<br /></div><div class='label1' id='a442b23f9a364c77b0262f3db8e243bf_label'><a href='javascript: DetailSwitch("a442b23f9a364c77b0262f3db8e243bf");'><span id='a442b23f9a364c77b0262f3db8e243bf_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>，50岁</div><div id='a442b23f9a364c77b0262f3db8e243bf' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年7月22日</a>　使金国，祈请二圣，道由京城，暂摄留守司事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年10月26日</a>　渡河入金（此后活动事迹在金朝）<br /></div><div class='label1' id='851b4c012d854ee69bd430d47c0bee51_label'><a href='javascript: DetailSwitch("851b4c012d854ee69bd430d47c0bee51");'><span id='851b4c012d854ee69bd430d47c0bee51_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>，50岁</div><div id='851b4c012d854ee69bd430d47c0bee51' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年7月22日</a>　使金国，祈请二圣，道由京城，暂摄留守司事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年10月26日</a>　渡河入金（此后活动事迹在金朝）<br /></div>
+-----end
+
+
+
+-----title
+凤翔
+-----detail
+<div class='label1' id='64d0772812374da3b9ea041cf11498b5_label'><a href='javascript: DetailSwitch("64d0772812374da3b9ea041cf11498b5");'><span id='64d0772812374da3b9ea041cf11498b5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年</a>，40岁</div><div id='64d0772812374da3b9ea041cf11498b5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1118&endYear=1118')">1118年8月13日</a>　罢中书舍人，提举凤翔府上清太平宫。<br /></div>
+-----end
+
+
+
+-----title
+北京
+-----detail
+<div class='label1' id='5cbe504b038c492faea2e0b6c72e8ebb_label'><a href='javascript: DetailSwitch("5cbe504b038c492faea2e0b6c72e8ebb");'><span id='5cbe504b038c492faea2e0b6c72e8ebb_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年</a>，44岁</div><div id='5cbe504b038c492faea2e0b6c72e8ebb' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年10月</a>　辽太后萧氏降，王黼再生攻伐之议，镌虚中为待制，知檀州。<br /></div><div class='label1' id='c5ffbfb4365d4934ba6735f7cca523b1_label'><a href='javascript: DetailSwitch("c5ffbfb4365d4934ba6735f7cca523b1");'><span id='c5ffbfb4365d4934ba6735f7cca523b1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1125')">1123-1125年</a>，45-47岁</div><div id='c5ffbfb4365d4934ba6735f7cca523b1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>　燕山奏功，迁直学士，复为童贯参谋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>　书折克行墓碑。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')">1124年</a>　在童贯幕。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年3月29日</a>　随童贯入燕山，犒常胜军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年7月</a>　除宣和殿学士。<br /></div>
+-----end
+
+
+
+-----title
+庆阳
+-----detail
+<div class='label1' id='f7fdfa4e0de245d6953c869209f7b8f2_label'><a href='javascript: DetailSwitch("f7fdfa4e0de245d6953c869209f7b8f2");'><span id='f7fdfa4e0de245d6953c869209f7b8f2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>，45岁</div><div id='f7fdfa4e0de245d6953c869209f7b8f2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>　以郑居中荐，帅庆阳，时御笔亲改名“黄中”为“虚中”<br /></div>
+-----end
+
+
+
+-----title
+安徽
+-----detail
+<div class='label1' id='9b9f0a793ccc4b70999e1bc597e02c7f_label'><a href='javascript: DetailSwitch("9b9f0a793ccc4b70999e1bc597e02c7f");'><span id='9b9f0a793ccc4b70999e1bc597e02c7f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>，45岁</div><div id='9b9f0a793ccc4b70999e1bc597e02c7f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>　以事责知亳州。<br /></div>
+-----end
+
+
+
+-----title
+太原
+-----detail
+<div class='label1' id='980c13efea4e437482d9ff3ed337d102_label'><a href='javascript: DetailSwitch("980c13efea4e437482d9ff3ed337d102");'><span id='980c13efea4e437482d9ff3ed337d102_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>，47岁</div><div id='980c13efea4e437482d9ff3ed337d102' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年9月</a>　童贯复宣抚河东，宇文虚中随行。<br /></div>
+-----end
+
+
+
+-----title
+宿州
+-----detail
+<div class='label1' id='b52a3d19f8524dff99a7af5c2be1c23f_label'><a href='javascript: DetailSwitch("b52a3d19f8524dff99a7af5c2be1c23f");'><span id='b52a3d19f8524dff99a7af5c2be1c23f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，48岁</div><div id='b52a3d19f8524dff99a7af5c2be1c23f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年1月</a>　与李邈召东南兵入援。<br /></div>
+-----end
+
+
+
+-----title
+亳州
+-----detail
+<div class='label1' id='2049382e1f4c427fb986a030e4c8bf7f_label'><a href='javascript: DetailSwitch("2049382e1f4c427fb986a030e4c8bf7f");'><span id='2049382e1f4c427fb986a030e4c8bf7f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，48岁</div><div id='2049382e1f4c427fb986a030e4c8bf7f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年1月</a>　与李邈召东南兵入援。<br /></div>
+-----end
+
+
+
+-----title
+济南
+-----detail
+<div class='label1' id='62de3b0d88124891b9bd35ac849f58d1_label'><a href='javascript: DetailSwitch("62de3b0d88124891b9bd35ac849f58d1");'><span id='62de3b0d88124891b9bd35ac849f58d1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，48岁</div><div id='62de3b0d88124891b9bd35ac849f58d1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年3月4日</a>　为胡舜陟所劾，知青州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年4月17日</a>　复为胡舜陟所劾，四月落职，提举亳州明道宫。<br /></div>
+-----end
+
+
+
+-----title
+韶关
+-----detail
+<div class='label1' id='e57f3f46dd104d54b025f4541e0ca253_label'><a href='javascript: DetailSwitch("e57f3f46dd104d54b025f4541e0ca253");'><span id='e57f3f46dd104d54b025f4541e0ca253_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>，49岁</div><div id='e57f3f46dd104d54b025f4541e0ca253' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年5月11日</a>　以靖康大臣主和误国，责授安化军节度副使、韶州安置。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年2月8日</a>　复中大夫，召赴扬州行在。<br /></div><div class='label1' id='e6f9046e2cb84620afb56a08e8b90e41_label'><a href='javascript: DetailSwitch("e6f9046e2cb84620afb56a08e8b90e41");'><span id='e6f9046e2cb84620afb56a08e8b90e41_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>，49岁</div><div id='e6f9046e2cb84620afb56a08e8b90e41' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年2月8日</a>　复中大夫，召赴扬州行在。<br /></div>
+-----end
+
+
+
+-----title
+扬州
+-----detail
+<div class='label1' id='05019003561a4fa98104d95f9d752f02_label'><a href='javascript: DetailSwitch("05019003561a4fa98104d95f9d752f02");'><span id='05019003561a4fa98104d95f9d752f02_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>，50岁</div><div id='05019003561a4fa98104d95f9d752f02' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年5月13日</a>　复资政殿大学士，为金国祈请使。撰《资政殿大学士忠显刘公神道碑》作品：宋故资政殿学士银青光禄大夫赠特进开府仪同三司谥忠显刘公神道碑。<br /></div><div class='label1' id='a2620e70af62408fa6d2b0701ca34776_label'><a href='javascript: DetailSwitch("a2620e70af62408fa6d2b0701ca34776");'><span id='a2620e70af62408fa6d2b0701ca34776_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>，50岁</div><div id='a2620e70af62408fa6d2b0701ca34776' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年5月13日</a>　复资政殿大学士，为金国祈请使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>　撰《资政殿大学士忠显刘公神道碑》作品：宋故资政殿学士银青光禄大夫赠特进开府仪同三司谥忠显刘公神道碑。<br /></div>
+-----end
+
+
+
+-----title
+燕山
+-----detail
+null
+-----end
+
+
+
+-----title
+都亭驿
+-----detail
+null
+-----end
+
+

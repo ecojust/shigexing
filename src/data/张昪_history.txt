@@ -1,0 +1,96 @@
+
+-----title
+禹州 (出生地)
+-----detail
+<div class='label1' id='ad320f34ecbf4372b9381b5e22c3fb4b_label'><a href='javascript: DetailSwitch("ad320f34ecbf4372b9381b5e22c3fb4b");'><span id='ad320f34ecbf4372b9381b5e22c3fb4b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=992&endYear=992')">992年</a>，出生</div><div id='ad320f34ecbf4372b9381b5e22c3fb4b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=992&endYear=992')">992年5月19日</a>　是年出生。<br /></div><div class='label1' id='7deededd0c6540109a81926e9f04b5aa_label'><a href='javascript: DetailSwitch("7deededd0c6540109a81926e9f04b5aa");'><span id='7deededd0c6540109a81926e9f04b5aa_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1046')">1044-1046年</a>，53-55岁</div><div id='7deededd0c6540109a81926e9f04b5aa' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')">1044年</a>　因欧阳修弹劾改知邓州，以母辞。回阳翟养亲。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1046')">1045-1046年</a>　在家乡养亲。<br /></div><div class='label1' id='f3fb4a98ad2f48a8870c514484664deb_label'><a href='javascript: DetailSwitch("f3fb4a98ad2f48a8870c514484664deb");'><span id='f3fb4a98ad2f48a8870c514484664deb_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1077')">1068-1077年</a>，77-86岁</div><div id='f3fb4a98ad2f48a8870c514484664deb' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1068&endYear=1071')">1068-1071年</a>　退居阳翟。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1072&endYear=1072')">1072年</a>　退居阳翟，自撰《满江红》一首。<span class='inlineComment2'>（《青箱杂记》卷八称作此词“年八十余”，当为熙宁五年壬子（1072）后，姑系于此。）</span><div id='poem_112725' class='_poem'><div id='poem_title_112725' class='poemTitle showDetail'><a href='/Writing/112725?labeling=true' target='_blank'>满江红</a><span class='authorDate'>（1072年）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋 · </span><a href='javascript: ShowPoemAuthorProfile(25668, "北宋", "张昪", "poem_title_112725")'>张昪</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_112725_comment'></div><div class='poemContent' id='poem_content_112725'><div class='poemSentence' id='poem_sentence_0_112725'>无利无名，无荣无辱，无烦无恼。<div id='poem_sentence_0_112725_comment'></div></div><div class='poemSentence' id='poem_sentence_1_112725'>夜灯前、独歌独酌，独吟独笑。<div id='poem_sentence_1_112725_comment'></div></div><div class='poemSentence' id='poem_sentence_2_112725'>况值群山初雪满，又兼明月交光好。<div id='poem_sentence_2_112725_comment'></div></div><div class='poemSentence' id='poem_sentence_3_112725'>便假饶百岁拟如何，从他老。<div id='poem_sentence_3_112725_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_112725'>知富贵，谁能保。<div id='poem_sentence_4_112725_comment'></div></div><div class='poemSentence' id='poem_sentence_5_112725'>知功业，何时了。<div id='poem_sentence_5_112725_comment'></div></div><div class='poemSentence' id='poem_sentence_6_112725'>算箪瓢金玉，所争多少。<div id='poem_sentence_6_112725_comment'></div></div><div class='poemSentence' id='poem_sentence_7_112725'>一瞬光阴何足道，但思行乐常不早。<div id='poem_sentence_7_112725_comment'></div></div><div class='poemSentence' id='poem_sentence_8_112725'>待春来携酒殢东风，眠芳草。</div><div id='poem_sentence_8_112725_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1073&endYear=1076')">1073-1076年</a>　退居阳翟。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')">1077年</a>　退居阳翟。是年卒，谥康节。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='e11d4400d1bd44fc8519546787987a67_label'><a href='javascript: DetailSwitch("e11d4400d1bd44fc8519546787987a67");'><span id='e11d4400d1bd44fc8519546787987a67_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1015&endYear=1015')">1015年</a>，24岁</div><div id='e11d4400d1bd44fc8519546787987a67' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1015&endYear=1015')">1015年</a>　是年进士及第。授楚丘主簿。<br /></div><div class='label1' id='0c5ab4f8ad3a4c40af67c124a1e20fe4_label'><a href='javascript: DetailSwitch("0c5ab4f8ad3a4c40af67c124a1e20fe4");'><span id='0c5ab4f8ad3a4c40af67c124a1e20fe4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1038&endYear=1038')">1038年</a>，47岁</div><div id='0c5ab4f8ad3a4c40af67c124a1e20fe4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1038&endYear=1038')">1038年</a>　在汴京任度支员外郎。<br /></div><div class='label1' id='3b8a671c37414207b69c3cb0e1d44ebc_label'><a href='javascript: DetailSwitch("3b8a671c37414207b69c3cb0e1d44ebc");'><span id='3b8a671c37414207b69c3cb0e1d44ebc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1048')">1047-1048年</a>，56-57岁</div><div id='3b8a671c37414207b69c3cb0e1d44ebc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1048')">1047-1048年</a>　在汴京任侍御史知杂事。<br /></div><div class='label1' id='5646f6ce8ca44b44b35f33129a527297_label'><a href='javascript: DetailSwitch("5646f6ce8ca44b44b35f33129a527297");'><span id='5646f6ce8ca44b44b35f33129a527297_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1056')">1054-1056年</a>，63-65岁</div><div id='5646f6ce8ca44b44b35f33129a527297' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1054')">1054年4月</a>　回汴京任右司郎中。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1055')">1055年</a>　在汴京任左司郎中。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1055')">1055年2月</a>　加侍读，受诏免进读。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1055&endYear=1055')">1055年6月</a>　升右谏议大夫、权御史中丞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')">1056年</a>　在汴京任御史中丞。<br /></div><div class='label1' id='3b26883ad9cb4a8a9758cff2e1d1c2ee_label'><a href='javascript: DetailSwitch("3b26883ad9cb4a8a9758cff2e1d1c2ee");'><span id='3b26883ad9cb4a8a9758cff2e1d1c2ee_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1065')">1058-1065年</a>，67-74岁</div><div id='3b26883ad9cb4a8a9758cff2e1d1c2ee' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1058')">1058年6月</a>　在汴京。六月，迁枢密副使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1060')">1059-1060年</a>　在汴京任枢密副使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1060&endYear=1060')">1060年11月</a>　十一月，拜参知政事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')">1061年</a>　在汴京任参知政事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1061&endYear=1061')">1061年闰8月</a>　闰八月，拜枢密使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1062&endYear=1062')">1062年</a>　在汴京任枢密使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1063&endYear=1063')">1063年</a>　在汴京任枢密使，加户部侍郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1064&endYear=1064')">1064年</a>　在汴京任枢密使，迁吏部侍郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')">1065年</a>　在汴京任枢密使。<br /></div>
+-----end
+
+
+
+-----title
+曹县
+-----detail
+<div class='label1' id='46e2c2c294d541968e728ba4754ff15b_label'><a href='javascript: DetailSwitch("46e2c2c294d541968e728ba4754ff15b");'><span id='46e2c2c294d541968e728ba4754ff15b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1016&endYear=1017')">1016-1017年</a>，25-26岁</div><div id='46e2c2c294d541968e728ba4754ff15b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1016&endYear=1017')">1016-1017年</a>　在楚丘任主簿。<br /></div>
+-----end
+
+
+
+-----title
+平凉
+-----detail
+<div class='label1' id='5fbca4a2253046d0a696f88d99f8da8e_label'><a href='javascript: DetailSwitch("5fbca4a2253046d0a696f88d99f8da8e");'><span id='5fbca4a2253046d0a696f88d99f8da8e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1039&endYear=1039')">1039年</a>，48岁</div><div id='5fbca4a2253046d0a696f88d99f8da8e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1039&endYear=1039')">1039年</a>　在渭州任六宅使、泾原秦凤安抚都监。<br /></div>
+-----end
+
+
+
+-----title
+新绛
+-----detail
+<div class='label1' id='43b6dc699ccf44968cde368c75d778e2_label'><a href='javascript: DetailSwitch("43b6dc699ccf44968cde368c75d778e2");'><span id='43b6dc699ccf44968cde368c75d778e2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1042')">1040-1042年</a>，49-51岁</div><div id='43b6dc699ccf44968cde368c75d778e2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1042')">1040-1042年</a>　在绛州任知州。<br /></div>
+-----end
+
+
+
+-----title
+洛阳
+-----detail
+<div class='label1' id='bde422d53e534a3e9f1ddd3a753459ce_label'><a href='javascript: DetailSwitch("bde422d53e534a3e9f1ddd3a753459ce");'><span id='bde422d53e534a3e9f1ddd3a753459ce_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')">1043年</a>，52岁</div><div id='bde422d53e534a3e9f1ddd3a753459ce' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')">1043年</a>　在洛阳任京西转运使兼按察使。<br /></div>
+-----end
+
+
+
+-----title
+凤阳
+-----detail
+<div class='label1' id='76e1c56fd39b4d83b447746ca6e5cb4f_label'><a href='javascript: DetailSwitch("76e1c56fd39b4d83b447746ca6e5cb4f");'><span id='76e1c56fd39b4d83b447746ca6e5cb4f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1049')">1048-1049年</a>，57-58岁</div><div id='76e1c56fd39b4d83b447746ca6e5cb4f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1048&endYear=1048')">1048年8月</a>　八月，出知濠州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')">1049年</a>　在濠州任知州。<br /></div>
+-----end
+
+
+
+-----title
+镇江
+-----detail
+<div class='label1' id='327cf966a68c4df39876c48ec283600d_label'><a href='javascript: DetailSwitch("327cf966a68c4df39876c48ec283600d");'><span id='327cf966a68c4df39876c48ec283600d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1050')">1049-1050年</a>，58-59岁</div><div id='327cf966a68c4df39876c48ec283600d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1049&endYear=1049')">1049年8月</a>　八月，移润州知州。加集贤殿修撰。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')">1050年</a>　在润州任知州。<br /></div>
+-----end
+
+
+
+-----title
+庆阳
+-----detail
+<div class='label1' id='6bb1b1002c694be387da88aea6ac1f14_label'><a href='javascript: DetailSwitch("6bb1b1002c694be387da88aea6ac1f14");'><span id='6bb1b1002c694be387da88aea6ac1f14_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1052')">1050-1052年</a>，59-61岁</div><div id='6bb1b1002c694be387da88aea6ac1f14' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')">1050年6月</a>　六月，迁天章阁待制、知庆州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1052')">1051-1052年</a>　在庆州任知州。<br /></div>
+-----end
+
+
+
+-----title
+天水
+-----detail
+<div class='label1' id='d181e358025e468f9f44289defb6b3f7_label'><a href='javascript: DetailSwitch("d181e358025e468f9f44289defb6b3f7");'><span id='d181e358025e468f9f44289defb6b3f7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1053')">1052-1053年</a>，61-62岁</div><div id='d181e358025e468f9f44289defb6b3f7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')">1052年11月</a>　十一月，加龙图阁直学士、移知秦州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年</a>　在秦州任秦凤路经略安抚使。<br /></div>
+-----end
+
+
+
+-----title
+巴林左旗
+-----detail
+<div class='label1' id='63e27e4ad3de4aa19fab40c17dd67e08_label'><a href='javascript: DetailSwitch("63e27e4ad3de4aa19fab40c17dd67e08");'><span id='63e27e4ad3de4aa19fab40c17dd67e08_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')">1057年</a>，66岁</div><div id='63e27e4ad3de4aa19fab40c17dd67e08' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')">1057年3月</a>　三月，任回谢契丹使，出使契丹。<br /></div>
+-----end
+
+
+
+-----title
+许昌
+-----detail
+<div class='label1' id='e9c0c4b78f2f4e5eae2ee304a3ed265f_label'><a href='javascript: DetailSwitch("e9c0c4b78f2f4e5eae2ee304a3ed265f");'><span id='e9c0c4b78f2f4e5eae2ee304a3ed265f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1067')">1065-1067年</a>，74-76岁</div><div id='e9c0c4b78f2f4e5eae2ee304a3ed265f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1065&endYear=1065')">1065年7月</a>　七月罢枢密使，以彰信节度使、同平章事判许州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1066&endYear=1066')">1066年</a>　在许州。判州事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1067&endYear=1067')">1067年闰3月</a>　在许州。闰三月，以太子太师致仕。退居阳翟。<br /></div>
+-----end
+
+

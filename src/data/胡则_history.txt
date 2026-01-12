@@ -1,0 +1,120 @@
+
+-----title
+永康 (出生地)
+-----detail
+<div class='label1' id='dd576078c0224ac2a032452873d7bef6_label'><a href='javascript: DetailSwitch("dd576078c0224ac2a032452873d7bef6");'><span id='dd576078c0224ac2a032452873d7bef6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=963&endYear=975')">963-975年</a>，1-13岁</div><div id='dd576078c0224ac2a032452873d7bef6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=963&endYear=963')">963年八月十三日</a>　胡则生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=964&endYear=974')">964-974年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=975&endYear=975')">975年三月初一</a>　祖父彦瀔卒。<br /></div><div class='label1' id='9bd05c7b34e846e787062329f2226b27_label'><a href='javascript: DetailSwitch("9bd05c7b34e846e787062329f2226b27");'><span id='9bd05c7b34e846e787062329f2226b27_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1008&endYear=1009')">1008-1009年</a>，46-47岁</div><div id='9bd05c7b34e846e787062329f2226b27' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1008&endYear=1009')">1008-1009年</a>　丁母忧。<br /></div>
+-----end
+
+
+
+-----title
+许昌
+-----detail
+<div class='label1' id='824c2ccecff848e5bbfb9c38e9813fb4_label'><a href='javascript: DetailSwitch("824c2ccecff848e5bbfb9c38e9813fb4");'><span id='824c2ccecff848e5bbfb9c38e9813fb4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=991&endYear=993')">991-993年</a>，29-31岁</div><div id='824c2ccecff848e5bbfb9c38e9813fb4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=991&endYear=991')">991年</a>　释褐为官，任许田尉，逢丁谓举进士，客许田，厚遇之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=992&endYear=993')">992-993年</a>　在许田任县尉。<br /></div>
+-----end
+
+
+
+-----title
+蕲春
+-----detail
+<div class='label1' id='0a756ec32db442dd96f60e012da1f440_label'><a href='javascript: DetailSwitch("0a756ec32db442dd96f60e012da1f440");'><span id='0a756ec32db442dd96f60e012da1f440_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=994&endYear=995')">994-995年</a>，32-33岁</div><div id='0a756ec32db442dd96f60e012da1f440' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=994&endYear=994')">994年</a>　补蕲州广济宰。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=995&endYear=995')">995年</a>　在蕲州任广济宰。<br /></div>
+-----end
+
+
+
+-----title
+静乐
+-----detail
+<div class='label1' id='7238785a77204d2a828d8481098e770a_label'><a href='javascript: DetailSwitch("7238785a77204d2a828d8481098e770a");'><span id='7238785a77204d2a828d8481098e770a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=996&endYear=996')">996年</a>，34岁</div><div id='7238785a77204d2a828d8481098e770a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=996&endYear=996')">996年四月后</a>　索湘命以督随军粮草事入奏，并陈边防。<br /></div>
+-----end
+
+
+
+-----title
+河北
+-----detail
+<div class='label1' id='7f8cff1e07644132b19763c2be38af07_label'><a href='javascript: DetailSwitch("7f8cff1e07644132b19763c2be38af07");'><span id='7f8cff1e07644132b19763c2be38af07_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=999&endYear=1000')">999-1000年</a>，37-38岁</div><div id='7f8cff1e07644132b19763c2be38af07' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=999&endYear=999')">999年</a>　公行河北道，奉朝命省冗役。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=999&endYear=999')">999年</a>　以索湘荐，改官秘书省著作佐郎，签署贝州节度观察判官公事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=999&endYear=999')">999年</a>　李继隆移文问粮，公请索湘以有备报之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1000&endYear=1000')">1000年三月</a>　弟赈登陈尧咨榜进士。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1000&endYear=1000')">1000年五月</a>　奏河北州县课种榆柳，以备材用。<br /></div><div class='label1' id='c2b6fba7f6e74b6c929e5ba4ee2d1711_label'><a href='javascript: DetailSwitch("c2b6fba7f6e74b6c929e5ba4ee2d1711");'><span id='c2b6fba7f6e74b6c929e5ba4ee2d1711_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1030&endYear=1030')">1030年</a>，68岁</div><div id='c2b6fba7f6e74b6c929e5ba4ee2d1711' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1030&endYear=1030')">1030年</a>　领河北都转运使。<br /></div>
+-----end
+
+
+
+-----title
+桂平
+-----detail
+<div class='label1' id='e253c6af05494862a3de8af98cdb3e80_label'><a href='javascript: DetailSwitch("e253c6af05494862a3de8af98cdb3e80");'><span id='e253c6af05494862a3de8af98cdb3e80_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')">1007年</a>，45岁</div><div id='e253c6af05494862a3de8af98cdb3e80' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')">1007年</a>　升本省著作丞，知浔州，治虎患。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='95af9aaa073045578b3955d2dda4d483_label'><a href='javascript: DetailSwitch("95af9aaa073045578b3955d2dda4d483");'><span id='95af9aaa073045578b3955d2dda4d483_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1007&endYear=1007')">1007年</a>，45岁</div><div id='95af9aaa073045578b3955d2dda4d483' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>改太常博士，提举二浙榷茶事，兼知睦州桐庐郡。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>睦州任上，有诗。作品：《题严子陵祠堂》<div id='poem_182121' class='_poem'><div id='poem_title_182121' class='poemTitle showDetail'><a href='/Writing/182121?labeling=true' target='_blank'>题严子陵祠堂</a><span class='authorDate'>（1007年）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋 · </span><a href='javascript: ShowPoemAuthorProfile(29738, "北宋", "胡则", "poem_title_182121")'>胡则</a></span><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_182121_comment'></div><div class='poemContent' id='poem_content_182121'><div class='poemSentence' id='poem_sentence_0_182121'>占断烟波七里滩，渔蓑轻拂汉衣冠。<div id='poem_sentence_0_182121_comment'></div></div><div class='poemSentence' id='poem_sentence_1_182121'>高踪磨出云涯碧，清节照开秋水寒。<div id='poem_sentence_1_182121_comment'></div></div><div class='poemSentence' id='poem_sentence_2_182121'>泽国几家供庙食，客星千载落云墩。<div id='poem_sentence_2_182121_comment'></div></div><div class='poemSentence' id='poem_sentence_3_182121'>我来亦有沙洲兴，愿借先生旧钓竿<span class='inlineComment2'>（以上清胡敬辑《胡正惠公集》）</span>。<div id='poem_sentence_3_182121_comment'></div></div><div class='poemSentence' id='poem_sentence_4_182121'></div><div id='poem_sentence_4_182121_comment'></div></div></div><br /></div><div class='label1' id='c3df98614dec4707bd505ee8c83f5cc4_label'><a href='javascript: DetailSwitch("c3df98614dec4707bd505ee8c83f5cc4");'><span id='c3df98614dec4707bd505ee8c83f5cc4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')">1014年</a>，52岁</div><div id='c3df98614dec4707bd505ee8c83f5cc4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')">1014年</a>　居杭州，知州戚纶嫉之，则与通判吴耀卿及李溥素善，共捃摭纶过。<br /></div><div class='label1' id='dbdebde66031419ca2af97bcd0e466cd_label'><a href='javascript: DetailSwitch("dbdebde66031419ca2af97bcd0e466cd");'><span id='dbdebde66031419ca2af97bcd0e466cd_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1026&endYear=1027')">1026-1027年</a>，64-65岁</div><div id='dbdebde66031419ca2af97bcd0e466cd' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1026&endYear=1026')">1026年四月</a>　拜右谏议大夫，知杭州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1027&endYear=1027')">1027年</a>　知杭州。<br /></div><div class='label1' id='4617a4b42a9f4a0682f63f051433798c_label'><a href='javascript: DetailSwitch("4617a4b42a9f4a0682f63f051433798c");'><span id='4617a4b42a9f4a0682f63f051433798c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')">1028年</a>，66岁</div><div id='4617a4b42a9f4a0682f63f051433798c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')">1028年</a>　移书婺州牧，请颁义乌上清资圣院额，朝旨从之。<br /></div><div class='label1' id='cf9f41d94a34491fad796d25d2c13ea4_label'><a href='javascript: DetailSwitch("cf9f41d94a34491fad796d25d2c13ea4");'><span id='cf9f41d94a34491fad796d25d2c13ea4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1039')">1033-1039年</a>，71-77岁</div><div id='cf9f41d94a34491fad796d25d2c13ea4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年四月</a>　再知杭州，乞朝见，上表。作品：《乞朝见表》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年</a>　有惠政，在郡时无江潮患。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年</a>　辍俸捐修天竺灵山教寺三门两庑。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年</a>　奏请依天雄军、江宁府，特赐州学名额。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年四月</a>　加兵部侍郎致仕，退居西湖。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1033&endYear=1033')">1033年</a>　朝廷命公长子楷调钱塘通判以就养。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1037')">1034-1037年</a>　居西湖。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1038&endYear=1038')">1038年九月</a>　公配陈夫人卒，奉朝命赠颍川郡君。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1039&endYear=1039')">1039年六月十八</a>　卒于余杭私第，事闻，天子震悼。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1039&endYear=1039')">1039年</a>　长子楷进都官员外郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1039&endYear=1039')">1039年</a>　长子楷得浙东签书寺丞俞君所撰行状，请志于范文正公。<br /></div>
+-----end
+
+
+
+-----title
+温州
+-----detail
+<div class='label1' id='4b42eccaf6644a70b693cc0bd3752481_label'><a href='javascript: DetailSwitch("4b42eccaf6644a70b693cc0bd3752481");'><span id='4b42eccaf6644a70b693cc0bd3752481_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1010&endYear=1010')">1010年</a>，48岁</div><div id='4b42eccaf6644a70b693cc0bd3752481' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1010&endYear=1010')">1010年六月一日</a>　以永乐县君哀制，灵泉院继初上人三访倚庐，请述记诫，且云云重礼上人集本院僧颂《金刚般若经》为永乐县君之冥荐，启予述作之诚心，有文。作品：《重修法轮院记》<span class='inlineComment2'>（婺州东阳县岘峰敕赐法轮寺，即其一也。始建之曰岘峰禅院；太宗太平兴国八载传法僧久修，至道元年乙未岁始就，咸平五年壬寅告毕；大中祥符元年诏改岘峰禅院为法轮院。）</span><div id='poem_1149126' class='_poem'><div id='poem_title_1149126' class='poemTitle showDetail'><a href='/Writing/1149126?labeling=true' target='_blank'>重修法轮院记</a><span class='authorDate'>（大中祥符三年六月）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋 · </span><a href='javascript: ShowPoemAuthorProfile(29738, "北宋", "胡则", "poem_title_1149126")'>胡则</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1149126_comment'></div><div class='poemContent' id='poem_content_1149126'><div class='articleSentence' id='poem_sentence_0_1149126'>夫岩谷穷邃，或生龙蛇；<div class='inline' id='poem_sentence_0_1149126_comment'></div>云泉高洁，或居圣贤。<div class='inline' id='poem_sentence_1_1149126_comment'></div>庐岳虎溪之间，法音靡坠；<div class='inline' id='poem_sentence_2_1149126_comment'></div>天台石梁之外，神应无方。<div class='inline' id='poem_sentence_3_1149126_comment'></div>皆所以抍济众生，登回向地，诱掖群品，趣归依门。<div class='inline' id='poem_sentence_4_1149126_comment'></div>大千世界，实繁于兹。<div class='inline' id='poem_sentence_5_1149126_comment'></div>婺州东阳县岘峰敕赐法轮寺，即其一也。<div class='inline' id='poem_sentence_6_1149126_comment'></div>始建之曰岘峰禅院。<div class='inline' id='poem_sentence_7_1149126_comment'></div>其峰峭怪，逾数千寻，其上砥平，广十馀里。<div class='inline' id='poem_sentence_8_1149126_comment'></div>佳气蓊蔚，迭为形胜；<div class='inline' id='poem_sentence_9_1149126_comment'></div>飞泉激越。<div class='inline' id='poem_sentence_10_1149126_comment'></div>散作清凉。<div class='inline' id='poem_sentence_11_1149126_comment'></div>爰有神僧，环草而处，猛兽驯扰，常护左右，居人瞻仰，罔知名号。<div class='inline' id='poem_sentence_12_1149126_comment'></div>檀越章铎，亲访灵迹，深加谛信，遂崇法宇，以广金田。<div class='inline' id='poem_sentence_13_1149126_comment'></div>唐乾符三载丙申岁，缔建既圆，诚请于上，果以峰名为额矣。<div class='inline' id='poem_sentence_14_1149126_comment'></div>霜星易换，缁流履更，梵刹峨峨，千古如一。<div class='inline' id='poem_sentence_15_1149126_comment'></div>太宗太平兴国八载，本院传法僧久修，檀越章从绍，同士庶之心，操邑宰之命，恭召金华山智者寺重礼上人主领之。<div class='inline' id='poem_sentence_16_1149126_comment'></div>上人，馀杭人也，洁白僧行，通明佛果。<div class='inline' id='poem_sentence_17_1149126_comment'></div>学者参寻，若闇投烛；<div class='inline' id='poem_sentence_18_1149126_comment'></div>檀信亲附，如渴就饮。<div class='inline' id='poem_sentence_19_1149126_comment'></div>于是堂集毳侣，厨丰天供。<div class='inline' id='poem_sentence_20_1149126_comment'></div>上人以悲心悯群心，以智力劝众力。<div class='inline' id='poem_sentence_21_1149126_comment'></div>与门弟子文懿、文鼎、文湛、文宠、嗣聪，重建僧堂、法堂，尊三宝也；<div class='inline' id='poem_sentence_22_1149126_comment'></div>次崇厨院、库院，济二时也；<div class='inline' id='poem_sentence_23_1149126_comment'></div>高大其门，专启闭也；<div class='inline' id='poem_sentence_24_1149126_comment'></div>严洁其室，备澡浣也。<div class='inline' id='poem_sentence_25_1149126_comment'></div>以至道元年乙未岁始就。<div class='inline' id='poem_sentence_26_1149126_comment'></div>复有本邑信人胡细、厉号俱捐巨赂，同誓净缘，营立释迦尊殿一门两厦，咸平五年壬寅岁告毕。<div class='inline' id='poem_sentence_27_1149126_comment'></div>轮奂相宣，金碧交映，潼潼往来，目不暂舍。<div class='inline' id='poem_sentence_28_1149126_comment'></div>而又梵呗时作，香花间设，我慢者生精进心，调伏者證菩提果。<div class='inline' id='poem_sentence_29_1149126_comment'></div>得非神僧肇开于前，上人嗣兴于后，圣贤居上，灵效昭然？<div class='inline' id='poem_sentence_30_1149126_comment'></div>大中祥符元年诏改岘峰禅院为法轮院。<div class='inline' id='poem_sentence_31_1149126_comment'></div>善矣哉！<div class='inline' id='poem_sentence_32_1149126_comment'></div>郡邑改观，道俗增信，植福之地也，垂于无穷。<div class='inline' id='poem_sentence_33_1149126_comment'></div>则以永乐县君哀制，居苫凶间，灵泉院继初上人乡关硕德，布素旧交，三访倚庐，请述记诫。<div class='inline' id='poem_sentence_34_1149126_comment'></div>且云重礼上人集本院僧诵大乘《金刚般若经》五千八十四卷，为永乐县君之冥荐，而启予述作之诚心。<div class='inline' id='poem_sentence_35_1149126_comment'></div>荼苦之际，嘉彼精意，禫除之日，愧此鄙辞，聊记坚珉，用贻来者。<div class='inline' id='poem_sentence_36_1149126_comment'></div>大中祥符三年六月一日，朝奉郎、行太常博士、知温州军州事兼管内劝农事、护军、借紫胡则记。</div><div id='poem_sentence_37_1149126_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+亳州
+-----detail
+<div class='label1' id='ff69dac48294419f80a96bae2629acc9_label'><a href='javascript: DetailSwitch("ff69dac48294419f80a96bae2629acc9");'><span id='ff69dac48294419f80a96bae2629acc9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')">1014年</a>，52岁</div><div id='ff69dac48294419f80a96bae2629acc9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')">1014年</a>　以户部郎中充江淮制置发运使。<br /></div><div class='label1' id='901a15e996704b9d8b9e8fc23a5f37aa_label'><a href='javascript: DetailSwitch("901a15e996704b9d8b9e8fc23a5f37aa");'><span id='901a15e996704b9d8b9e8fc23a5f37aa_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')">1014年</a>，52岁</div><div id='901a15e996704b9d8b9e8fc23a5f37aa' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')">1014年</a>　真宗幸亳还，擢官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1014&endYear=1014')">1014年九月</a>　长子楷登服勤词学科。<br /></div>
+-----end
+
+
+
+-----title
+洛阳
+-----detail
+<div class='label1' id='5bcada48d8aa4e10a22c000d3a228a90_label'><a href='javascript: DetailSwitch("5bcada48d8aa4e10a22c000d3a228a90");'><span id='5bcada48d8aa4e10a22c000d3a228a90_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1016&endYear=1019')">1016-1019年</a>，54-57岁</div><div id='5bcada48d8aa4e10a22c000d3a228a90' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1016&endYear=1016')">1016年十月</a>　出为京西转运使，迁礼部郎中，乞貤赠考妣，有文。作品：《乞加父朝散阶奏》<div id='poem_1149123' class='_poem'><div id='poem_title_1149123' class='poemTitle showDetail'><a href='/Writing/1149123?labeling=true' target='_blank'>乞加父朝散阶奏</a><span class='authorDate'>（大中祥符九年十月）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋 · </span><a href='javascript: ShowPoemAuthorProfile(29738, "北宋", "胡则", "poem_title_1149123")'>胡则</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1149123_comment'></div><div class='poemContent' id='poem_content_1149123'><div class='articleSentence' id='poem_sentence_0_1149123'>父年七十八，任国子博士致仕，乞加朝散阶。</div><div id='poem_sentence_0_1149123_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1017&endYear=1017')">1017年</a>　任京西转运使、礼部郎中。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1018&endYear=1018')">1018年</a>　部民讹言相惊，未及奏，奉诏诘责。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1019&endYear=1019')">1019年正月六日</a>　为进士杨世质、圭质等试卷被摒，付许州通判崔立看详，被旨诘责坐罪。<br /></div>
+-----end
+
+
+
+-----title
+上饶
+-----detail
+<div class='label1' id='04a38183e1a44d8a84565573fbd23d10_label'><a href='javascript: DetailSwitch("04a38183e1a44d8a84565573fbd23d10");'><span id='04a38183e1a44d8a84565573fbd23d10_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1024&endYear=1024')">1024年</a>，62岁</div><div id='04a38183e1a44d8a84565573fbd23d10' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1024&endYear=1024')">1024年</a>　服除，坐丁谓党，降知信州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1024&endYear=1024')">1024年七月</a>　丁谓贬崖州，公遣人馈问如平生。<br /></div>
+-----end
+
+
+
+-----title
+福州
+-----detail
+<div class='label1' id='0c0b7f950094418aaa178bba61d0d30a_label'><a href='javascript: DetailSwitch("0c0b7f950094418aaa178bba61d0d30a");'><span id='0c0b7f950094418aaa178bba61d0d30a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1025&endYear=1025')">1025年</a>，63岁</div><div id='0c0b7f950094418aaa178bba61d0d30a' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>奏减官庄田值，章凡三上。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>以俸金赎龙昌期罪，仍厚遣之。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='370d371766594581bd963b04d917bc6a_label'><a href='javascript: DetailSwitch("370d371766594581bd963b04d917bc6a");'><span id='370d371766594581bd963b04d917bc6a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')">1028年</a>，66岁</div><div id='370d371766594581bd963b04d917bc6a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')">1028年</a>　迁知永兴军。<br /></div>
+-----end
+
+
+
+-----title
+陕西
+-----detail
+<div class='label1' id='1b1377447ac5403c8df5f4e962d567ea_label'><a href='javascript: DetailSwitch("1b1377447ac5403c8df5f4e962d567ea");'><span id='1b1377447ac5403c8df5f4e962d567ea_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')">1028年</a>，66岁</div><div id='1b1377447ac5403c8df5f4e962d567ea' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1028&endYear=1028')">1028年四月</a>　改陕西都转运使，仍留吏部流内铨任。<br /></div>
+-----end
+
+
+
+-----title
+淮阳
+-----detail
+<div class='label1' id='1cf42b966ece4b09a7c7696d6747311f_label'><a href='javascript: DetailSwitch("1cf42b966ece4b09a7c7696d6747311f");'><span id='1cf42b966ece4b09a7c7696d6747311f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1031')">1031年</a>，69岁</div><div id='1cf42b966ece4b09a7c7696d6747311f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1031')">1031年七月</a>　以王沿尝就公假官船贩盐且以其子名求买酒场事遭张宗诲奏，朝廷恶之，因以与王沿等俱黜。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1031&endYear=1031')">1031年</a>　范公仲淹通判陈州，公以国士遇之。<br /></div>
+-----end
+
+

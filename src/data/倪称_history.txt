@@ -1,0 +1,24 @@
+
+-----title
+湖州 (出生地)
+-----detail
+<div class='label1' id='32c2863d2d8948d7a79493b9ba8ef25e_label'><a href='javascript: DetailSwitch("32c2863d2d8948d7a79493b9ba8ef25e");'><span id='32c2863d2d8948d7a79493b9ba8ef25e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1137')">1114-1137年</a>，1-24岁</div><div id='32c2863d2d8948d7a79493b9ba8ef25e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1114&endYear=1114')">1114年</a>　或生于本年。倪称生卒年难确考。其年岁为虚拟数。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1137')">1115-1137年</a>　居乡？<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='6752034d09f8420ea2a5989f8e7bdc05_label'><a href='javascript: DetailSwitch("6752034d09f8420ea2a5989f8e7bdc05");'><span id='6752034d09f8420ea2a5989f8e7bdc05_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年</a>，25岁</div><div id='6752034d09f8420ea2a5989f8e7bdc05' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年</a>　中进士。<br /></div><div class='label1' id='aaabd162b2d4452f8af57bcbc017b2bd_label'><a href='javascript: DetailSwitch("aaabd162b2d4452f8af57bcbc017b2bd");'><span id='aaabd162b2d4452f8af57bcbc017b2bd_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1166')">1143-1166年</a>，30-53岁</div><div id='aaabd162b2d4452f8af57bcbc017b2bd' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1146')">1143-1146年</a>　曾任太常寺主簿？<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　子倪思生？<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')">1166年</a>　子倪思中进士，其后事迹不详。<br /></div>
+-----end
+
+
+
+-----title
+常州
+-----detail
+<div class='label1' id='55c8d819fa194f21a1cd64d36fcef03a_label'><a href='javascript: DetailSwitch("55c8d819fa194f21a1cd64d36fcef03a");'><span id='55c8d819fa194f21a1cd64d36fcef03a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1142')">1139-1142年</a>，26-29岁</div><div id='55c8d819fa194f21a1cd64d36fcef03a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1142')">1139-1142年</a>　曾任常州教授？<br /></div>
+-----end
+
+

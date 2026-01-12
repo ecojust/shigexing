@@ -1,0 +1,64 @@
+
+-----title
+安陆 (出生地)
+-----detail
+<div class='label1' id='da8eb4889dc9442d8e3ec20a7c324a66_label'><a href='javascript: DetailSwitch("da8eb4889dc9442d8e3ec20a7c324a66");'><span id='da8eb4889dc9442d8e3ec20a7c324a66_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1076')">1057-1076年</a>，1-20岁</div><div id='da8eb4889dc9442d8e3ec20a7c324a66' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1057')">1057年</a>　出生？<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1058&endYear=1076')">1058-1076年</a>　居乡？<br /></div>
+-----end
+
+
+
+-----title
+苏州
+-----detail
+<div class='label1' id='ee73e436bfa84b339a95fb840664e485_label'><a href='javascript: DetailSwitch("ee73e436bfa84b339a95fb840664e485");'><span id='ee73e436bfa84b339a95fb840664e485_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1091')">1077-1091年</a>，21-35岁</div><div id='ee73e436bfa84b339a95fb840664e485' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1077&endYear=1077')">1077年</a>　释仲殊或在本年出家，出家后居苏、杭间。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1078&endYear=1080')">1078-1080年</a>　居苏州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1081&endYear=1081')">1081年</a>　居苏州。苏轼在尺牍《与滕达道》中谈到释仲殊养生运气之法：“仲殊气诀，必得其详，许传授，莫大之赐也。此道人久欲游庐山，不知有行期未？若蒙他一见过，又望外之喜也。数年来，觉衰，不免回向此道矣。”从语气上推断，苏轼早闻其道行而此时尚未识其人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　居苏州，仲殊作《减字木兰花·李公麟<山阴图>》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1082&endYear=1082')">1082年</a>　居苏州。仲殊又有《题李伯时支遁相马图》诗，时间不详，姑志于此。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1083&endYear=1084')">1083-1084年</a>　居苏州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1085&endYear=1085')">1085年7月</a>　米芾和仲殊诗，题于苏州吴县福臻禅院壁间。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1086&endYear=1088')">1086-1088年</a>　居苏州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')">1089年6月</a>　苏轼自京城赴杭州，途经苏州见仲殊。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')">1090年7月</a>　在杭州，与苏轼交游，苏轼作《安州老人食蜜歌》赠之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')">1090年</a>　在苏州有《南歌子》（解舞清平乐）词和苏轼。<div id='poem_84373' class='_poem'><div id='poem_title_84373' class='poemTitle showDetail'><a href='/Writing/84373?labeling=true' target='_blank'>南歌子</a><span class='authorDate'>（1090年）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋 · </span><a href='javascript: ShowPoemAuthorProfile(22186, "北宋", "仲殊", "poem_title_84373")'>仲殊</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_84373_comment'></div><div class='poemContent' id='poem_content_84373'><div class='poemSentence' id='poem_sentence_0_84373'>解舞清平乐，如今说向谁。<div id='poem_sentence_0_84373_comment'></div></div><div class='poemSentence' id='poem_sentence_1_84373'>红炉片雪上钳锤。<div id='poem_sentence_1_84373_comment'></div></div><div class='poemSentence' id='poem_sentence_2_84373'>打就金毛狮子、也堪疑。<div id='poem_sentence_2_84373_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_3_84373'>木女明开眼，泥人暗皱眉。<div id='poem_sentence_3_84373_comment'></div></div><div class='poemSentence' id='poem_sentence_4_84373'>蟠桃已是著花迟。<div id='poem_sentence_4_84373_comment'></div></div><div class='poemSentence' id='poem_sentence_5_84373'>不向春风一笑、待何时。</div><div id='poem_sentence_5_84373_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年1月</a>　仲殊与苏轼雪中游杭州西湖，有诗酬唱。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年3月19日</a>　仲殊访苏轼，时苏轼自杭州往苏州途中，舟泊吴江。<br /></div><div class='label1' id='1d05c2dbaba94c649a84483da70f1905_label'><a href='javascript: DetailSwitch("1d05c2dbaba94c649a84483da70f1905");'><span id='1d05c2dbaba94c649a84483da70f1905_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')">1092年</a>，36岁</div><div id='1d05c2dbaba94c649a84483da70f1905' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')">1092年</a>　居苏州？<br /></div><div class='label1' id='76783843345c4cb097f8af8ad505efd1_label'><a href='javascript: DetailSwitch("76783843345c4cb097f8af8ad505efd1");'><span id='76783843345c4cb097f8af8ad505efd1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1096')">1094-1096年</a>，38-40岁</div><div id='76783843345c4cb097f8af8ad505efd1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年</a>　居苏州？<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年</a>　本年，仲殊仍在苏州，苏轼在惠州托惠诚带信问候。仲殊拿到信当在本年夏秋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1096&endYear=1096')">1096年</a>　冬，钱世雄之母施氏卒，数有祥兆，仲殊论载其事。<br /></div><div class='label1' id='1e0e1e2f019545fb9a2ec67c7621b3ca_label'><a href='javascript: DetailSwitch("1e0e1e2f019545fb9a2ec67c7621b3ca");'><span id='1e0e1e2f019545fb9a2ec67c7621b3ca_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1106')">1098-1106年</a>，42-50岁</div><div id='1e0e1e2f019545fb9a2ec67c7621b3ca' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1098&endYear=1100')">1098-1100年</a>　居苏州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')">1101年4月</a>　苏轼北归途中舟过南康军，游庐山，有诗《赠诗僧道通》，念仲殊，赞其诗。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1105')">1102-1105年</a>　居苏州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1106&endYear=1106')">1106年</a>　自缢身亡。<br /></div>
+-----end
+
+
+
+-----title
+宜兴
+-----detail
+<div class='label1' id='9f5b10175317484f94b1b171335e4ed8_label'><a href='javascript: DetailSwitch("9f5b10175317484f94b1b171335e4ed8");'><span id='9f5b10175317484f94b1b171335e4ed8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年</a>，35岁</div><div id='9f5b10175317484f94b1b171335e4ed8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年5月</a>　仲殊留题于宜兴洞灵观。<br /></div>
+-----end
+
+
+
+-----title
+镇江
+-----detail
+<div class='label1' id='4401687980ed4bc59013761356c64ead_label'><a href='javascript: DetailSwitch("4401687980ed4bc59013761356c64ead");'><span id='4401687980ed4bc59013761356c64ead_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')">1093年</a>，37岁</div><div id='4401687980ed4bc59013761356c64ead' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')">1093年</a>　仲殊为沈括梦溪园作《南徐好·沈内翰宅百花堆》<br /></div>
+-----end
+
+
+
+-----title
+常熟
+-----detail
+<div class='label1' id='cfda18e2fabe409bb83734b4daa03b5b_label'><a href='javascript: DetailSwitch("cfda18e2fabe409bb83734b4daa03b5b");'><span id='cfda18e2fabe409bb83734b4daa03b5b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')">1097年</a>，41岁</div><div id='cfda18e2fabe409bb83734b4daa03b5b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1097&endYear=1097')">1097年10月</a>　仲殊为陆河圣像院作记。作品：《陆河圣像院记》<span class='inlineComment2'>（宋郑虎臣编《吴都文粹》卷九录有全文。）</span><div id='poem_1204672' class='_poem'><div id='poem_title_1204672' class='poemTitle showDetail'><a href='/Writing/1204672?labeling=true' target='_blank'>陆河圣像院记<span class='inlineComment2'>（绍圣四年十月）</span></a><span class='authorDate'>（1097年10月）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋 · </span><a href='javascript: ShowPoemAuthorProfile(22186, "北宋", "释仲殊", "poem_title_1204672")'>释仲殊</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1204672_comment'></div><div class='poemContent' id='poem_content_1204672'><div class='articleSentence' id='poem_sentence_0_1204672'>生民之欲者，富与贵而已。<div class='inline' id='poem_sentence_0_1204672_comment'></div>富贵知道德，称为君子。<div class='inline' id='poem_sentence_1_1204672_comment'></div>君子所居，乡党归之。<div class='inline' id='poem_sentence_2_1204672_comment'></div>是故博施济众，君子之所职也；<div class='inline' id='poem_sentence_3_1204672_comment'></div>率人为善，君子之常分也。<div class='inline' id='poem_sentence_4_1204672_comment'></div>在西方之教，谓之居士长者，乃利益及物，因以为氏。<div class='inline' id='poem_sentence_5_1204672_comment'></div>故释迦如来号刹利氏，谓利益所及，一刹上耳。<div class='inline' id='poem_sentence_6_1204672_comment'></div>中国有大圣人作，自太祖皇帝至今天皇，推原开辟以来，未有太平如此之盛也。<div class='inline' id='poem_sentence_7_1204672_comment'></div>治化隆侈，天下富乐，比屋可封。<div class='inline' id='poem_sentence_8_1204672_comment'></div>馀力闲暇，人人得以讲性命之宗，究死生之本，览罪福之要，互相劝饬，思所以因教而进于道。<div class='inline' id='poem_sentence_9_1204672_comment'></div>夫三教之用，虽趣尚各异，要之为善，其揆一也。<div class='inline' id='poem_sentence_10_1204672_comment'></div>佛法之盛，莫如姑苏，白沙又居其上游，附海膏腴，地力十倍。<div class='inline' id='poem_sentence_11_1204672_comment'></div>朱君肱承父业起家，称为右族。<div class='inline' id='poem_sentence_12_1204672_comment'></div>父某天资好善，尝游陆河圣像院，观大殿摧圮，首施家财，募众兴工。<div class='inline' id='poem_sentence_13_1204672_comment'></div>嘉祐八年夏，绩用成就。<div class='inline' id='poem_sentence_14_1204672_comment'></div>熙宁初，再造佛像，未毕而终。<div class='inline' id='poem_sentence_15_1204672_comment'></div>君能追诵先志，绍圣三年二月毕，刻石作记，以告后来。<div class='inline' id='poem_sentence_16_1204672_comment'></div>绍圣四年十月，霅川空叟记。</div><div id='poem_sentence_17_1204672_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+吴江
+-----detail
+null
+-----end
+
+
+
+-----title
+洞灵观
+-----detail
+null
+-----end
+
+
+
+-----title
+梦溪园
+-----detail
+null
+-----end
+
+

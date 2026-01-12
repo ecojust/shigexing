@@ -1,0 +1,40 @@
+
+-----title
+常州（晋陵） (出生地)
+-----detail
+<div class='label1' id='e2bdbdce0a4b40fb92e939fc86f40437_label'><a href='javascript: DetailSwitch("e2bdbdce0a4b40fb92e939fc86f40437");'><span id='e2bdbdce0a4b40fb92e939fc86f40437_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=810&endYear=829')">810-829年</a>，1-20岁</div><div id='e2bdbdce0a4b40fb92e939fc86f40437' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=810&endYear=829')">810-829年</a>　在故乡晋陵家居。<br /></div><div class='label1' id='f9392e76d6e44eddb07bc95149ded26c_label'><a href='javascript: DetailSwitch("f9392e76d6e44eddb07bc95149ded26c");'><span id='f9392e76d6e44eddb07bc95149ded26c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=841&endYear=841')">841年</a>，32岁</div><div id='f9392e76d6e44eddb07bc95149ded26c' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>及第次年春，归乡省亲，姚合赠诗《送喻凫校书归毗陵》<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>及第次年春，归乡省亲，顾非熊赠诗《送喻凫春归江南》<br /></div>
+-----end
+
+
+
+-----title
+西安（长安）
+-----detail
+<div class='label1' id='4e7b95e49f6743a4a1ce7be288c1b5df_label'><a href='javascript: DetailSwitch("4e7b95e49f6743a4a1ce7be288c1b5df");'><span id='4e7b95e49f6743a4a1ce7be288c1b5df_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=830&endYear=840')">830-840年</a>，21-31岁</div><div id='4e7b95e49f6743a4a1ce7be288c1b5df' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=830&endYear=830')">830年</a>　到长安，求取功名。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=831&endYear=837')">831-837年</a>　在长安，求取功名。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=839&endYear=839')">839年</a>　在长安，第九年，感叹功名不遂，作诗呈薛博士。<div id='poem_47827' class='_poem'><div id='poem_title_47827' class='poemTitle showDetail'><a href='/Writing/47827?labeling=true' target='_blank'>呈薛博士</a><span class='authorDate'>（839年）</span><span class='poemAuthor'><span class='inlineComment1'> 唐 · </span><a href='javascript: ShowPoemAuthorProfile(14036, "唐", "喻凫", "poem_title_47827")'>喻凫</a></span><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_47827_comment'></div><div class='poemContent' id='poem_content_47827'><div class='poemSentence' id='poem_sentence_0_47827'>辛勤长在学，一室少曾开。<div id='poem_sentence_0_47827_comment'></div></div><div class='poemSentence' id='poem_sentence_1_47827'>时忆暮山寺，独登衰草台。<div id='poem_sentence_1_47827_comment'></div></div><div class='poemSentence' id='poem_sentence_2_47827'>名期五字立，迹愧九年来。<div id='poem_sentence_2_47827_comment'></div></div><div class='poemSentence' id='poem_sentence_3_47827'>此意今聊写，还希君子哀。<div id='poem_sentence_3_47827_comment'></div></div><div class='poemSentence' id='poem_sentence_4_47827'></div><div id='poem_sentence_4_47827_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=840&endYear=840')">840年</a>　进士及第。<br /></div><div class='label1' id='6e083782b1f545a8aa0ebc63cd22bb98_label'><a href='javascript: DetailSwitch("6e083782b1f545a8aa0ebc63cd22bb98");'><span id='6e083782b1f545a8aa0ebc63cd22bb98_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=842&endYear=842')">842年</a>，33岁</div><div id='6e083782b1f545a8aa0ebc63cd22bb98' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=842&endYear=842')">842年</a>　回长安，校书郎任上。<br /></div>
+-----end
+
+
+
+-----title
+长兴（长城）
+-----detail
+<div class='label1' id='2fcb522d93fc40d6b1715156ce9416ca_label'><a href='javascript: DetailSwitch("2fcb522d93fc40d6b1715156ce9416ca");'><span id='2fcb522d93fc40d6b1715156ce9416ca_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=843&endYear=845')">843-845年</a>，34-36岁</div><div id='2fcb522d93fc40d6b1715156ce9416ca' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=843&endYear=845')">843-845年</a>　长城县令。<br /></div>
+-----end
+
+
+
+-----title
+德清
+-----detail
+<div class='label1' id='f25b5b8e0c2747a0a46ea79770a711c5_label'><a href='javascript: DetailSwitch("f25b5b8e0c2747a0a46ea79770a711c5");'><span id='f25b5b8e0c2747a0a46ea79770a711c5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=846&endYear=847')">846-847年</a>，37-38岁</div><div id='f25b5b8e0c2747a0a46ea79770a711c5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=846&endYear=847')">846-847年</a>　德清县令。<br /></div>
+-----end
+
+
+
+-----title
+湖州（乌程）
+-----detail
+<div class='label1' id='6fe07547151b46b98e62aa1b8aacdfe4_label'><a href='javascript: DetailSwitch("6fe07547151b46b98e62aa1b8aacdfe4");'><span id='6fe07547151b46b98e62aa1b8aacdfe4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=848&endYear=850')">848-850年</a>，39-41岁</div><div id='6fe07547151b46b98e62aa1b8aacdfe4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=848&endYear=849')">848-849年</a>　乌程县令。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=850&endYear=850')">850年</a>　乌程县令，卒于任，方干有《哭喻凫先辈》<br /></div>
+-----end
+
+

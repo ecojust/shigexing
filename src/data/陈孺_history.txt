@@ -1,0 +1,64 @@
+
+-----title
+和县
+-----detail
+<div class='label1' id='e18f093217aa452f83ceb85c25ab4365_label'><a href='javascript: DetailSwitch("e18f093217aa452f83ceb85c25ab4365");'><span id='e18f093217aa452f83ceb85c25ab4365_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>，30岁</div><div id='e18f093217aa452f83ceb85c25ab4365' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　是年，或通过纳粟得官和州助教。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='cbd012e07a55414e9ef837cc601b9dcf_label'><a href='javascript: DetailSwitch("cbd012e07a55414e9ef837cc601b9dcf");'><span id='cbd012e07a55414e9ef837cc601b9dcf_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1155')">1147-1155年</a>，30-38岁</div><div id='cbd012e07a55414e9ef837cc601b9dcf' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　冬，赴京城临安省试。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年</a>　春，在临安，以一甲第三名中第。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年</a>　是年，在临安，授明州推官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')">1155年7月</a>　七月，当在临安，得临安知府曹泳荐举，任太学录。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')">1155年</a>　是年，在临安，兼任实录院检讨官。<br /></div><div class='label1' id='9b24bf26ed80446cb4fc8509b99abca2_label'><a href='javascript: DetailSwitch("9b24bf26ed80446cb4fc8509b99abca2");'><span id='9b24bf26ed80446cb4fc8509b99abca2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')">1158年</a>，41岁</div><div id='9b24bf26ed80446cb4fc8509b99abca2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')">1158年4月</a>　四月，在临安，殿中侍御史叶义问劾汉卿乃曹泳所荐，汉卿罢官。<br /></div>
+-----end
+
+
+
+-----title
+抚州
+-----detail
+<div class='label1' id='05d0bb41d483411caecea42183da42d9_label'><a href='javascript: DetailSwitch("05d0bb41d483411caecea42183da42d9");'><span id='05d0bb41d483411caecea42183da42d9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1158')">1155-1158年</a>，38-41岁</div><div id='05d0bb41d483411caecea42183da42d9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1157')">1155-1157年</a>　是年，当居临川丁忧。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1158&endYear=1158')">1158年3月</a>　三月，丁忧起复，任秘书省正字。<br /></div><div class='label1' id='a6ef6ef910a34f3fa54d5f45925fb425_label'><a href='javascript: DetailSwitch("a6ef6ef910a34f3fa54d5f45925fb425");'><span id='a6ef6ef910a34f3fa54d5f45925fb425_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')">1159年</a>，42岁</div><div id='a6ef6ef910a34f3fa54d5f45925fb425' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1159&endYear=1159')">1159年</a>　是年，在临川，与同年和好友张安国等流连于杯觥之间。<br /></div>
+-----end
+
+
+
+-----title
+荆州
+-----detail
+<div class='label1' id='470c209b62dc42d7aabc330b63e4350f_label'><a href='javascript: DetailSwitch("470c209b62dc42d7aabc330b63e4350f");'><span id='470c209b62dc42d7aabc330b63e4350f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>，53岁</div><div id='470c209b62dc42d7aabc330b63e4350f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　是年前后，任江陵府通判。<br /></div>
+-----end
+
+
+
+-----title
+丽水
+-----detail
+<div class='label1' id='630ee87293d545e4848dedc953f72379_label'><a href='javascript: DetailSwitch("630ee87293d545e4848dedc953f72379");'><span id='630ee87293d545e4848dedc953f72379_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>，57岁</div><div id='630ee87293d545e4848dedc953f72379' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>　是年前后，在处州，任知州。<br /></div>
+-----end
+
+
+
+-----title
+衡山
+-----detail
+<div class='label1' id='fe970592baa24558aa5bf3704f0ca1fc_label'><a href='javascript: DetailSwitch("fe970592baa24558aa5bf3704f0ca1fc");'><span id='fe970592baa24558aa5bf3704f0ca1fc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')">1179年</a>，62岁</div><div id='fe970592baa24558aa5bf3704f0ca1fc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')">1179年</a>　是年，任湖南转运副使。<br /></div>
+-----end
+
+
+
+-----title
+建瓯
+-----detail
+<div class='label1' id='9812a9d926194a4dae80786c31d5ab44_label'><a href='javascript: DetailSwitch("9812a9d926194a4dae80786c31d5ab44");'><span id='9812a9d926194a4dae80786c31d5ab44_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1183')">1181-1183年</a>，64-66岁</div><div id='9812a9d926194a4dae80786c31d5ab44' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')">1181年</a>　是年，在建州，任知州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')">1181年</a>　是年，在知建州任，岁饥，汉卿捐俸赡民置仓。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')">1182年</a>　是年，为朝请郎、直秘阁、福建转运使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')">1182年</a>　是年，闽盗起，汉卿董师讨之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')">1183年</a>　是年，当在建宁府，改任福建提点刑狱。<br /></div>
+-----end
+
+
+
+-----title
+福州
+-----detail
+<div class='label1' id='6d8cde103d60454b84f42da3c1a4752e_label'><a href='javascript: DetailSwitch("6d8cde103d60454b84f42da3c1a4752e");'><span id='6d8cde103d60454b84f42da3c1a4752e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')">1183年</a>，66岁</div><div id='6d8cde103d60454b84f42da3c1a4752e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')">1183年8月</a>　八月，到提点刑狱任。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')">1183年</a>　是年，在福州，擢知江陵府、荆湖北路安抚使。<br /></div>
+-----end
+
+

@@ -1,0 +1,56 @@
+
+-----title
+湖州
+-----detail
+<div class='label1' id='4caf53ffec37472e8ca65b459cbc2dec_label'><a href='javascript: DetailSwitch("4caf53ffec37472e8ca65b459cbc2dec");'><span id='4caf53ffec37472e8ca65b459cbc2dec_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>，27岁</div><div id='4caf53ffec37472e8ca65b459cbc2dec' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>　在湖州。<br /></div><div class='label1' id='f67c63c3e37c4303981f573f18ec1660_label'><a href='javascript: DetailSwitch("f67c63c3e37c4303981f573f18ec1660");'><span id='f67c63c3e37c4303981f573f18ec1660_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')">1124年</a>，28岁</div><div id='f67c63c3e37c4303981f573f18ec1660' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1124&endYear=1124')">1124年</a>　在湖州，与沈与求、刘一止、叶梦得皆有诗唱和。沈与求有诗《次曾宏父韵》、《曾宏父作诗别行简索仆同赋》；刘一止有诗《次韵曾宏父见贻一首》、《曾宏父将游吴兴示所和叶内相八首次其韵太守亦和故并及之》、《念奴娇•和曾宏父九日见贻》。<br /></div>
+-----end
+
+
+
+-----title
+嘉兴
+-----detail
+<div class='label1' id='b2a4324a57c74da585f3e512ec33a918_label'><a href='javascript: DetailSwitch("b2a4324a57c74da585f3e512ec33a918");'><span id='b2a4324a57c74da585f3e512ec33a918_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>，27岁</div><div id='b2a4324a57c74da585f3e512ec33a918' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1123')">1123年</a>　往秀州省亲，遇沈晦，一见契合。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='d4145c8dd51c4c2d985e363ee4ff1345_label'><a href='javascript: DetailSwitch("d4145c8dd51c4c2d985e363ee4ff1345");'><span id='d4145c8dd51c4c2d985e363ee4ff1345_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1136')">1133-1136年</a>，37-40岁</div><div id='d4145c8dd51c4c2d985e363ee4ff1345' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年</a>　在临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年1月18日</a>　正月十八日，罢太府寺丞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')">1136年</a>　在临安，进祖父曾布所著《三朝正论》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')">1136年</a>　由右奉议郎转右承议郎。<br /></div>
+-----end
+
+
+
+-----title
+黄冈
+-----detail
+<div class='label1' id='13a2df1650e64a2fb19eaeb34731a949_label'><a href='javascript: DetailSwitch("13a2df1650e64a2fb19eaeb34731a949");'><span id='13a2df1650e64a2fb19eaeb34731a949_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1146')">1142-1146年</a>，46-50岁</div><div id='13a2df1650e64a2fb19eaeb34731a949' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年8月</a>　八月，知黄州。吕本中作《送曾宏甫知黄州四绝》送别。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1145')">1143-1145年</a>　在黄州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')">1146年</a>　赴任台州，曾几作《送曾宏甫守天台》诗送别。<br /></div>
+-----end
+
+
+
+-----title
+临海
+-----detail
+<div class='label1' id='6f28f5000e2f4539b7617de1dd85e71c_label'><a href='javascript: DetailSwitch("6f28f5000e2f4539b7617de1dd85e71c");'><span id='6f28f5000e2f4539b7617de1dd85e71c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1148')">1146-1148年</a>，50-52岁</div><div id='6f28f5000e2f4539b7617de1dd85e71c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')">1146年</a>　在台州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　在台州，建玉霄亭。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　为米有仁《潇湘图》题跋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　秉秦桧意陷害前宰相吕颐浩家人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　与通判洪适不相能，使适落职。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　有诗词一卷。作品：《曾竑父诗词》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1147&endYear=1147')">1147年</a>　尝寄诗词于孙觌。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年5月</a>　在台州，任满。<br /></div>
+-----end
+
+
+
+-----title
+镇江
+-----detail
+<div class='label1' id='df8f7a01650848f0a856a20d4d03d99b_label'><a href='javascript: DetailSwitch("df8f7a01650848f0a856a20d4d03d99b");'><span id='df8f7a01650848f0a856a20d4d03d99b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1149')">1148-1149年</a>，52-53岁</div><div id='df8f7a01650848f0a856a20d4d03d99b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年8月7日</a>　移知镇江府。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')">1149年</a>　与曾几有诗词唱和，曾几有诗《次镇江守曾宏甫见寄韵》、《次曾宏甫见寄韵》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1149')">1149年7月</a>　在镇江，罢知州。<br /></div>
+-----end
+
+
+
+-----title
+潢川
+-----detail
+<div class='label1' id='3741d3735de643bfbbfc65ba6199a315_label'><a href='javascript: DetailSwitch("3741d3735de643bfbbfc65ba6199a315");'><span id='3741d3735de643bfbbfc65ba6199a315_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1156')">1156年</a>，60岁</div><div id='3741d3735de643bfbbfc65ba6199a315' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1156')">1156年</a>　在光州，赴任前，友人王洋作《曾竑父将赴浮光九日无酒赴二诗次韵》、《送竑父守光州》送别。<br /></div>
+-----end
+
+

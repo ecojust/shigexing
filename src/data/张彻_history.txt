@@ -1,0 +1,56 @@
+
+-----title
+宿州（符离） (出生地)
+-----detail
+<div class='label1' id='01a702bfeefe4c46bdb1b0cef79de65b_label'><a href='javascript: DetailSwitch("01a702bfeefe4c46bdb1b0cef79de65b");'><span id='01a702bfeefe4c46bdb1b0cef79de65b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=777&endYear=795')">777-795年</a>，1-19岁</div><div id='01a702bfeefe4c46bdb1b0cef79de65b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=777&endYear=777')">777年</a>　出生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=778&endYear=790')">778-790年</a>　故乡家居。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=791&endYear=791')">791年</a>　与其兄弟张复及贾餗、贾竦兄弟、白居易均住符离，且住同一里巷，时相过访。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=792&endYear=795')">792-795年</a>　故乡家居。<br /></div><div class='label1' id='1b06e9d17aed444ba7fa6c36010e7e6f_label'><a href='javascript: DetailSwitch("1b06e9d17aed444ba7fa6c36010e7e6f");'><span id='1b06e9d17aed444ba7fa6c36010e7e6f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=798&endYear=798')">798年</a>，22岁</div><div id='1b06e9d17aed444ba7fa6c36010e7e6f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=798&endYear=798')">798年</a>　避乱罢职。<br /></div><div class='label1' id='8e803b8f4d904322ab3f0cbd7e061979_label'><a href='javascript: DetailSwitch("8e803b8f4d904322ab3f0cbd7e061979");'><span id='8e803b8f4d904322ab3f0cbd7e061979_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=802&endYear=805')">802-805年</a>，26-29岁</div><div id='8e803b8f4d904322ab3f0cbd7e061979' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=802&endYear=802')">802年3月</a>　春夏间，下第东归与韩愈相别，赠诗，韩愈作《答张彻》；白居易有《邓鲂张彻落第》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=803&endYear=805')">803-805年</a>　家居读书。<br /></div>
+-----end
+
+
+
+-----title
+开封（浚仪）
+-----detail
+<div class='label1' id='c2da237980904d31af45e8e4ed254b6e_label'><a href='javascript: DetailSwitch("c2da237980904d31af45e8e4ed254b6e");'><span id='c2da237980904d31af45e8e4ed254b6e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=796&endYear=798')">796-798年</a>，20-22岁</div><div id='c2da237980904d31af45e8e4ed254b6e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=796&endYear=797')">796-797年</a>　宣武节度使从事，兼监察御史。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=798&endYear=798')">798年</a>　宣武节度使从事，兼监察御史从韩愈学于汴州，愈妻之从女。<br /></div>
+-----end
+
+
+
+-----title
+徐州（彭城）
+-----detail
+<div class='label1' id='a7dab2c44aab4feaa49b68de4d270348_label'><a href='javascript: DetailSwitch("a7dab2c44aab4feaa49b68de4d270348");'><span id='a7dab2c44aab4feaa49b68de4d270348_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=798&endYear=798')">798年</a>，22岁</div><div id='a7dab2c44aab4feaa49b68de4d270348' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=798&endYear=798')">798年8月</a>　赴州试，为乡贡进士。<br /></div>
+-----end
+
+
+
+-----title
+西安（长安）
+-----detail
+<div class='label1' id='0cdc4f5ff3a641078becbbf572706133_label'><a href='javascript: DetailSwitch("0cdc4f5ff3a641078becbbf572706133");'><span id='0cdc4f5ff3a641078becbbf572706133_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=798&endYear=802')">798-802年</a>，22-26岁</div><div id='0cdc4f5ff3a641078becbbf572706133' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=798&endYear=798')">798年10月</a>　赴京省试。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=799&endYear=802')">799-802年</a>　在京省试。<br /></div><div class='label1' id='4486554d25bb44738fc317c38949a54a_label'><a href='javascript: DetailSwitch("4486554d25bb44738fc317c38949a54a");'><span id='4486554d25bb44738fc317c38949a54a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=806&endYear=813')">806-813年</a>，30-37岁</div><div id='4486554d25bb44738fc317c38949a54a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=806&endYear=806')">806年</a>　赴京省试与韩愈、孟郊、张籍会合于长安，三人作《会合联句》韩愈又有《喜侯喜至赠张籍张彻》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=807&endYear=808')">807-808年</a>　在京省试。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=809&endYear=809')">809年2月</a>　春，进士及第复登制科，为敕头座主张弘靖以中书舍人权知贡举。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=810&endYear=810')">810年</a>　初授京官任秘书省校书郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=811&endYear=813')">811-813年</a>　秘书省校书郎。<br /></div>
+-----end
+
+
+
+-----title
+长治（上党）
+-----detail
+<div class='label1' id='aa8882a016cc48fca410aa036842dde1_label'><a href='javascript: DetailSwitch("aa8882a016cc48fca410aa036842dde1");'><span id='aa8882a016cc48fca410aa036842dde1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=814&endYear=817')">814-817年</a>，38-41岁</div><div id='aa8882a016cc48fca410aa036842dde1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=814&endYear=814')">814年</a>　昭义军节度使掌书记。李贺有《潞州张大宅病酒遇江使寄上十四兄》、《酒罢张大彻索赠诗》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=815&endYear=817')">815-817年</a>　昭义军节度使掌书记。<br /></div>
+-----end
+
+
+
+-----title
+偃师（缑氏）
+-----detail
+<div class='label1' id='6e2cc345b44a49f1b8ac937eb1e91748_label'><a href='javascript: DetailSwitch("6e2cc345b44a49f1b8ac937eb1e91748");'><span id='6e2cc345b44a49f1b8ac937eb1e91748_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=818&endYear=821')">818-821年</a>，42-45岁</div><div id='6e2cc345b44a49f1b8ac937eb1e91748' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=818&endYear=819')">818-819年</a>　任河南缑氏县主簿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=819&endYear=819')">819年7月</a>　七月，上尊号，朝贺礼毕，东归缑氏。张籍有《送从弟彻东归》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=820&endYear=821')">820-821年</a>　河南缑氏县主簿。<br /></div>
+-----end
+
+
+
+-----title
+丰台（蓟县）
+-----detail
+<div class='label1' id='9c0c2d7cf695459b86f19c5b203e4d68_label'><a href='javascript: DetailSwitch("9c0c2d7cf695459b86f19c5b203e4d68");'><span id='9c0c2d7cf695459b86f19c5b203e4d68_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=821&endYear=821')">821年</a>，45岁</div><div id='9c0c2d7cf695459b86f19c5b203e4d68' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=821&endYear=821')">821年3月</a>　幽州卢龙节度使判官、兼监察御史。张弘靖为检校司空、同平章事、兼幽州大都督府长史，充幽州卢龙节度使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=821&endYear=821')">821年5月</a>　御史中丞牛僧儒表奏为监察御史。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=821&endYear=821')">821年6月</a>　张弘靖密奏乞留，诏改殿中侍御史，半道还之，仍为判官。时幽州节度使张弘靖治州无方，放纵下属，激起军变，被执。张彻初至，得不杀、亦被监禁帅府。后有京中官至，张彻欲见、不得，以为军士反叛，大骂曰：“汝何敢反！前日吴元济斩东市，李师道斩军中，同恶者，父母妻子肉饱狗鼠鸱鸦。”众怒，击杀之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=821&endYear=821')">821年7月10日</a>　其友侯云长，请于其帅天平军节度使马总，又得张彻生前相知张恭、李元实者，使以币请之幽州，幽州人义而归之。以闻，诏所在给船輂，传归其家，赐钱物以葬。其后，韩愈有《祭张给事文》，又有《故幽州节度判官赠给事中清河张君墓志铭》<br /></div>
+-----end
+
+

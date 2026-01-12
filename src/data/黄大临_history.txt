@@ -1,0 +1,128 @@
+
+-----title
+修水 (出生地)
+-----detail
+<div class='label1' id='7c90cf0bef4245c38438803a88e57f9f_label'><a href='javascript: DetailSwitch("7c90cf0bef4245c38438803a88e57f9f");'><span id='7c90cf0bef4245c38438803a88e57f9f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1062')">1044-1062年</a>，1-19岁</div><div id='7c90cf0bef4245c38438803a88e57f9f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1062')">1044-1062年</a>　不详。<br /></div><div class='label1' id='6f14e82e96394ba78fcdbd357c95e429_label'><a href='javascript: DetailSwitch("6f14e82e96394ba78fcdbd357c95e429");'><span id='6f14e82e96394ba78fcdbd357c95e429_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1093')">1092-1093年</a>，49-50岁</div><div id='6f14e82e96394ba78fcdbd357c95e429' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1092&endYear=1092')">1092年1月8日</a>　黄大临、黄庭坚兄弟护母丧抵家，极其痛苦，憔悴不堪。据黄庭坚《与张和叔通判》：“元明居丧来，绝荤酒，初甚癯悴”<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')">1093年2月1日</a>　黄大临、黄庭坚兄弟葬母、葬弟黄非熊。飨堂一木一石，乃黄大临亲致力。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1093&endYear=1093')">1093年9月</a>　服丧期满，黄大临为梁县尉。似未赴任。<br /></div>
+-----end
+
+
+
+-----title
+遂川
+-----detail
+<div class='label1' id='0e32f3e01b154f6bb273155ca6504043_label'><a href='javascript: DetailSwitch("0e32f3e01b154f6bb273155ca6504043");'><span id='0e32f3e01b154f6bb273155ca6504043_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')">1084年</a>，41岁</div><div id='0e32f3e01b154f6bb273155ca6504043' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1084&endYear=1084')">1084年</a>　任龙泉县令，苏轼来访。<br /></div>
+-----end
+
+
+
+-----title
+叶县
+-----detail
+<div class='label1' id='4240d44b917847399f91617c39946d1f_label'><a href='javascript: DetailSwitch("4240d44b917847399f91617c39946d1f");'><span id='4240d44b917847399f91617c39946d1f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')">1088年</a>，45岁</div><div id='4240d44b917847399f91617c39946d1f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')">1088年3月25日</a>　与弟黄庭坚等在叶县观《白崖诗》于净因臻道人所。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='afc657dead8a49f8981d013dfbba88d0_label'><a href='javascript: DetailSwitch("afc657dead8a49f8981d013dfbba88d0");'><span id='afc657dead8a49f8981d013dfbba88d0_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年</a>，48岁</div><div id='afc657dead8a49f8981d013dfbba88d0' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年6月8日</a>　母李氏去世。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年6月21日</a>　自汝州到京城与黄庭坚会合，兄弟相持，号痛哀绝。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1091')">1091年7月</a>　秋，黄庭坚、黄大临兄弟启程，护母丧归分宁双井家。<br /></div><div class='label1' id='77193b6a80534147afd2c4a455d2e30f_label'><a href='javascript: DetailSwitch("77193b6a80534147afd2c4a455d2e30f");'><span id='77193b6a80534147afd2c4a455d2e30f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1095')">1094-1095年</a>，51-52岁</div><div id='77193b6a80534147afd2c4a455d2e30f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年11月</a>　黄大临、黄庭坚抵达开封府陈留。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年1月</a>　黄大临从陈留出发送黄庭坚赴贬所黔州。<br /></div>
+-----end
+
+
+
+-----title
+彭泽
+-----detail
+<div class='label1' id='99499eb59d9d4fde96324f7456b4d1f9_label'><a href='javascript: DetailSwitch("99499eb59d9d4fde96324f7456b4d1f9");'><span id='99499eb59d9d4fde96324f7456b4d1f9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年</a>，51岁</div><div id='99499eb59d9d4fde96324f7456b4d1f9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年8月8日</a>　黄大临与弟天明自微径到彭泽县与黄庭坚会合。因本年六月黄庭坚被任命管勾亳州明道宫，责令于开封境内居住。<br /></div>
+-----end
+
+
+
+-----title
+池州
+-----detail
+<div class='label1' id='4af712cf347c4b529a24fe2caf5f9a27_label'><a href='javascript: DetailSwitch("4af712cf347c4b529a24fe2caf5f9a27");'><span id='4af712cf347c4b529a24fe2caf5f9a27_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年</a>，51岁</div><div id='4af712cf347c4b529a24fe2caf5f9a27' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年9月</a>　黄大临陪同黄庭坚等过池州。<br /></div>
+-----end
+
+
+
+-----title
+芜湖
+-----detail
+<div class='label1' id='ec9bb596462f430ca3f3693b9aac22d4_label'><a href='javascript: DetailSwitch("ec9bb596462f430ca3f3693b9aac22d4");'><span id='ec9bb596462f430ca3f3693b9aac22d4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年</a>，51岁</div><div id='ec9bb596462f430ca3f3693b9aac22d4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年</a>　在芜湖。兄弟们经过协商，决定寓家于芜湖。其时，黄大临授越州司理，并决定送黄庭坚赴贬所。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1094&endYear=1094')">1094年10月</a>　黄庭坚自芜湖前往开封府，黄大临陪同。<br /></div>
+-----end
+
+
+
+-----title
+宜昌
+-----detail
+<div class='label1' id='7cdd83497b894acc9ca11d9cf83d2e8a_label'><a href='javascript: DetailSwitch("7cdd83497b894acc9ca11d9cf83d2e8a");'><span id='7cdd83497b894acc9ca11d9cf83d2e8a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年</a>，52岁</div><div id='7cdd83497b894acc9ca11d9cf83d2e8a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年3月16日</a>　黄大临、黄庭坚兄弟次下牢关。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年3月17日</a>　黄大临、黄庭坚兄弟宿黄牛峡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年3月18日</a>　黄大临、黄庭坚兄弟观欧阳修诗及苏轼记丁元珍梦中事，观只耳石马。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年3月</a>　过巫峡鬼门关时，黄大临心情愀然。<br /></div>
+-----end
+
+
+
+-----title
+恩施
+-----detail
+<div class='label1' id='7b9c235ff08f43bea5efdfa5fa66132e_label'><a href='javascript: DetailSwitch("7b9c235ff08f43bea5efdfa5fa66132e");'><span id='7b9c235ff08f43bea5efdfa5fa66132e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年</a>，52岁</div><div id='7b9c235ff08f43bea5efdfa5fa66132e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年</a>　夜宿施州歌罗驿，黄大临有竹枝词。作品：《题歌罗驿竹枝词》<div id='poem_513243' class='_poem'><div id='poem_title_513243' class='poemTitle showDetail'><a href='/Writing/513243?labeling=true' target='_blank'>题哥罗驿竹枝词</a><span class='authorDate'>（1095年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(35631, "宋", "黄大临", "poem_title_513243")'>黄大临</a></span><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_513243_comment'></div><div class='poemContent' id='poem_content_513243'><div class='poemSentence' id='poem_sentence_0_513243'>尺五攀天天惨颜，盐烟溪瘴锁诸蛮。<div id='poem_sentence_0_513243_comment'></div></div><div class='poemSentence' id='poem_sentence_1_513243'>平生梦亦未尝处，闻有<span class='link' onclick='ShowWordComment("poem_sentence_1_513243", 513243, "Clauses/3/Comments/0")'>鸦飞不到山</span>。<div id='poem_sentence_1_513243_comment'></div></div><div class='poemSentence' id='poem_sentence_2_513243'>风黑马嘶驴瘦岭，日黄人度鬼门关。<div id='poem_sentence_2_513243_comment'></div></div><div class='poemSentence' id='poem_sentence_3_513243'>黔南此去无多远，想在夕阳猿啸间。<div id='poem_sentence_3_513243_comment'></div></div><div class='poemSentence' id='poem_sentence_4_513243'></div><div id='poem_sentence_4_513243_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+彭水
+-----detail
+<div class='label1' id='99e34c6e143b45c9b61e1da7f7de53d6_label'><a href='javascript: DetailSwitch("99e34c6e143b45c9b61e1da7f7de53d6");'><span id='99e34c6e143b45c9b61e1da7f7de53d6_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年</a>，52岁</div><div id='99e34c6e143b45c9b61e1da7f7de53d6' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年4月23日</a>　黄大临、黄庭坚兄弟抵达黔州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1095&endYear=1095')">1095年6月12日</a>　黄大临离黔州。<br /></div>
+-----end
+
+
+
+-----title
+萍乡
+-----detail
+<div class='label1' id='51e9fbec83a940d19ae23b712ce466cc_label'><a href='javascript: DetailSwitch("51e9fbec83a940d19ae23b712ce466cc");'><span id='51e9fbec83a940d19ae23b712ce466cc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1103')">1100-1103年</a>，57-60岁</div><div id='51e9fbec83a940d19ae23b712ce466cc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')">1100年</a>　黄大临为萍乡令。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1100&endYear=1100')">1100年</a>　在萍乡。黄大临为令，以仁慈为怀，尽心尽政，视民有父母之心，治理政事异于他人，且得到张根的赞许。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1101&endYear=1101')">1101年</a>　在萍乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')">1102年4月1日</a>　黄大临在萍乡，黄庭坚到萍乡探访，兄弟相聚半月。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')">1103年11月</a>　黄大临为萍乡宝积禅寺立石，黄庭坚作记。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')">1103年12月</a>　黄庭坚有谪宜州之命，十二月黄大临作词送之。作品：《青玉案》（和贺方回韵，送山谷弟贬宜州）<div id='poem_211593' class='_poem'><div id='poem_title_211593' class='poemTitle showDetail'><a href='/Writing/211593?labeling=true' target='_blank'>青玉案<span style='margin: 0 0.5em'> 其二 </span>和贺方回韵，送山谷弟贬宜州</a><span class='authorDate'>（1103年12月）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(35631, "宋", "黄大临", "poem_title_211593")'>黄大临</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_211593_comment'></div><div class='poemContent' id='poem_content_211593'><div class='poemSentence' id='poem_sentence_0_211593'>千峰百嶂宜州路。<div id='poem_sentence_0_211593_comment'></div></div><div class='poemSentence' id='poem_sentence_1_211593'>天黯淡、知人去。<div id='poem_sentence_1_211593_comment'></div></div><div class='poemSentence' id='poem_sentence_2_211593'>晓别吾家黄叔度。<div id='poem_sentence_2_211593_comment'></div></div><div class='poemSentence' id='poem_sentence_3_211593'>弟兄华发，远山修水，异日同归处。<div id='poem_sentence_3_211593_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_211593'>樽罍饮散长亭暮。<div id='poem_sentence_4_211593_comment'></div></div><div class='poemSentence' id='poem_sentence_5_211593'>别语缠绵不成句。<div id='poem_sentence_5_211593_comment'></div></div><div class='poemSentence' id='poem_sentence_6_211593'>已断离肠能几许。<div id='poem_sentence_6_211593_comment'></div></div><div class='poemSentence' id='poem_sentence_7_211593'>水村山馆，夜阑无寐，听尽空阶雨。</div><div id='poem_sentence_7_211593_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')">1103年</a>　黄大临解萍乡宰，又有词。作品：《青玉案·行人欲上来时路》<span class='inlineComment2'>（《同治萍乡县志》云：“解萍乡宰作次韵贺铸暮春韵”。《全宋词》案曰：此首原见黄庭坚《豫章黄先生词》，题云：“寅庵解萍乡宰作，今附此。”）</span><div id='poem_211592' class='_poem'><div id='poem_title_211592' class='poemTitle showDetail'><a href='/Writing/211592?labeling=true' target='_blank'>青玉案<span style='margin: 0 0.5em'> 其一 </span></a><span class='authorDate'>（1103年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(35631, "宋", "黄大临", "poem_title_211592")'>黄大临</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_211592_comment'></div><div class='poemContent' id='poem_content_211592'><div class='poemSentence' id='poem_sentence_0_211592'>行人欲上来时路。<div id='poem_sentence_0_211592_comment'></div></div><div class='poemSentence' id='poem_sentence_1_211592'>破晓雾、轻寒去。<div id='poem_sentence_1_211592_comment'></div></div><div class='poemSentence' id='poem_sentence_2_211592'>隔叶子规声暗度。<div id='poem_sentence_2_211592_comment'></div></div><div class='poemSentence' id='poem_sentence_3_211592'>十分酒满，舞裀歌袖，沾夜无寻处。<div id='poem_sentence_3_211592_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_211592'>故人近送旌旗暮。<div id='poem_sentence_4_211592_comment'></div></div><div class='poemSentence' id='poem_sentence_5_211592'>但听阳关第三句。<div id='poem_sentence_5_211592_comment'></div></div><div class='poemSentence' id='poem_sentence_6_211592'>欲断离肠馀几许。<div id='poem_sentence_6_211592_comment'></div></div><div class='poemSentence' id='poem_sentence_7_211592'>满天星月，看人憔悴，烛泪垂如雨。</div><div id='poem_sentence_7_211592_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1103')">1103年</a>　在萍乡期间有诗。作品：《奉和玉父外甥题金氏持宝堂》《虚明观》<span class='inlineComment2'>（《全宋诗》未收录，应是黄大临知萍乡期间所作，未知具体时间，暂系于此。）</span>《清心寺》<span class='inlineComment2'>（《全宋诗》未收录，应是黄大临知萍乡期间所作，未知具体时间，暂系于此。《清心寺》在《全宋诗》中作《清心院双清轩》，作者为黄庭坚，其中第四句中“独卧”为“坐我”）</span><br /></div>
+-----end
+
+
+
+-----title
+宜州
+-----detail
+<div class='label1' id='a8d0d8d42737440e8567dfae7e13ebe9_label'><a href='javascript: DetailSwitch("a8d0d8d42737440e8567dfae7e13ebe9");'><span id='a8d0d8d42737440e8567dfae7e13ebe9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1105')">1104-1105年</a>，61-62岁</div><div id='a8d0d8d42737440e8567dfae7e13ebe9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1104&endYear=1104')">1104年12月27日</a>　黄大临自永州至宜州探望庭坚。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年1月</a>　黄大临与庭坚游宜州之南山。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年1月</a>　黄大临与庭坚游宜州之北山。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年1月</a>　黄大临与庭坚游宜州之崇宁寺。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年2月6日</a>　黄大临告别黄庭坚，自宜州归湖南。<br /></div>
+-----end
+
+
+
+-----title
+长沙
+-----detail
+<div class='label1' id='8949445ce72249279a6ed46b1b93ee2d_label'><a href='javascript: DetailSwitch("8949445ce72249279a6ed46b1b93ee2d");'><span id='8949445ce72249279a6ed46b1b93ee2d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年</a>，62岁</div><div id='8949445ce72249279a6ed46b1b93ee2d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年3月</a>　黄大临在长沙。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年</a>　据《宜州乙酉家乘》，自二月别后至七月，黄大临有多封信寄给黄庭坚，信不存。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1105&endYear=1105')">1105年</a>　有诗。作品：《留别》<div id='poem_513244' class='_poem'><div id='poem_title_513244' class='poemTitle showDetail'><a href='/Writing/513244?labeling=true' target='_blank'>留别</a><span class='authorDate'>（1105年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(35631, "宋", "黄大临", "poem_title_513244")'>黄大临</a></span><br /><div class='titleIndent'>七言律诗</div></div><div id='poem_title_513244_comment'></div><div class='poemContent' id='poem_content_513244'><div class='poemSentence' id='poem_sentence_0_513244'>桄榔笋白映<span class='link' onclick='ShowWordComment("poem_sentence_0_513244", 513244, "Clauses/0/Comments/0")'>玉箸</span>，椰子酒清宜具觞。<div id='poem_sentence_0_513244_comment'></div></div><div class='poemSentence' id='poem_sentence_1_513244'>市井衣裘半夷夏，阴晴朝暮变炎凉。<div id='poem_sentence_1_513244_comment'></div></div><div class='poemSentence' id='poem_sentence_2_513244'>莫推月色共千里，不寄江南书一行。<div id='poem_sentence_2_513244_comment'></div></div><div class='poemSentence' id='poem_sentence_3_513244'>无赖笳声上云汉，晓来偏绕九回肠<span class='inlineComment2'>（以上同上书卷七）</span>。<div id='poem_sentence_3_513244_comment'></div></div><div class='poemSentence' id='poem_sentence_4_513244'></div><div id='poem_sentence_4_513244_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+黄牛峡
+-----detail
+null
+-----end
+
+
+
+-----title
+南山
+-----detail
+null
+-----end
+
+
+
+-----title
+北山
+-----detail
+null
+-----end
+
+

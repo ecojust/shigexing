@@ -1,0 +1,32 @@
+
+-----title
+尤溪 (出生地)
+-----detail
+<div class='label1' id='c53ceb1cf6a044f0a497efa680549af9_label'><a href='javascript: DetailSwitch("c53ceb1cf6a044f0a497efa680549af9");'><span id='c53ceb1cf6a044f0a497efa680549af9_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=971&endYear=971')">971年</a>，出生</div><div id='c53ceb1cf6a044f0a497efa680549af9' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=971&endYear=971')">971年</a>　约于本年，出生于尤溪。<br /></div>
+-----end
+
+
+
+-----title
+衡阳
+-----detail
+<div class='label1' id='4dc40efbd56a44af9e79b8ba0d00284c_label'><a href='javascript: DetailSwitch("4dc40efbd56a44af9e79b8ba0d00284c");'><span id='4dc40efbd56a44af9e79b8ba0d00284c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=995&endYear=995')">995年</a>，25岁</div><div id='4dc40efbd56a44af9e79b8ba0d00284c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=995&endYear=995')">995年</a>　本年，在衡阳，有诗寄王禹偁。作品：吊屈原呈王内翰。<span class='inlineComment2'>（此诗见《九僧诗》）</span><div id='poem_227506' class='_poem'><div id='poem_title_227506' class='poemTitle showDetail'><a href='/Writing/227506?labeling=true' target='_blank'>吊屈原呈王内翰</a><span class='authorDate'>（995年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(33826, "宋", "释文兆", "poem_title_227506")'>释文兆</a></span><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_227506_comment'></div><div class='poemContent' id='poem_content_227506'><div class='poemSentence' id='poem_sentence_0_227506'>抱清谁可群，委质在湘濆。<div id='poem_sentence_0_227506_comment'></div></div><div class='poemSentence' id='poem_sentence_1_227506'>今日不同楚，无人更似君。<div id='poem_sentence_1_227506_comment'></div></div><div class='poemSentence' id='poem_sentence_2_227506'>沧波沈夜魄，古庙聚寒云。<div id='poem_sentence_2_227506_comment'></div></div><div class='poemSentence' id='poem_sentence_3_227506'>吊罢踟蹰处，渔歌忍独闻。<div id='poem_sentence_3_227506_comment'></div></div><div class='poemSentence' id='poem_sentence_4_227506'></div><div id='poem_sentence_4_227506_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='fb4ff03ad0a74d5a93412f45a2ffeba4_label'><a href='javascript: DetailSwitch("fb4ff03ad0a74d5a93412f45a2ffeba4");'><span id='fb4ff03ad0a74d5a93412f45a2ffeba4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1006')">1002-1006年</a>，32-36岁</div><div id='fb4ff03ad0a74d5a93412f45a2ffeba4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1002&endYear=1002')">1002年</a>　约于本年，至京师。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1003&endYear=1005')">1003-1005年</a>　本年，居京师。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1006&endYear=1006')">1006年</a>　约于本年秋，居京师，有诗送惟凤游终南山。作品：送惟凤诗之终南。<span class='inlineComment2'>（此诗见《九僧诗》系年参杨亿、种放生平。）</span><div id='poem_227511' class='_poem'><div id='poem_title_227511' class='poemTitle showDetail'><a href='/Writing/227511?labeling=true' target='_blank'>送惟凤师之终南</a><span class='authorDate'>（1006年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(33826, "宋", "释文兆", "poem_title_227511")'>释文兆</a></span><br /><div class='titleIndent'>五言律诗</div></div><div id='poem_title_227511_comment'></div><div class='poemContent' id='poem_content_227511'><div class='poemSentence' id='poem_sentence_0_227511'>终南关内见，寒翠叠空虚。<div id='poem_sentence_0_227511_comment'></div></div><div class='poemSentence' id='poem_sentence_1_227511'>明代谁招隐，深秋自卜居。<div id='poem_sentence_1_227511_comment'></div></div><div class='poemSentence' id='poem_sentence_2_227511'>宵晴吟洞月，日晓饭溪蔬。<div id='poem_sentence_2_227511_comment'></div></div><div class='poemSentence' id='poem_sentence_3_227511'>此后嫌名出，应无入阙书。<div id='poem_sentence_3_227511_comment'></div></div><div class='poemSentence' id='poem_sentence_4_227511'></div><div id='poem_sentence_4_227511_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+宁波
+-----detail
+<div class='label1' id='9f4282a74df34d39b0265e7b4fefc8fa_label'><a href='javascript: DetailSwitch("9f4282a74df34d39b0265e7b4fefc8fa");'><span id='9f4282a74df34d39b0265e7b4fefc8fa_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1036')">1036年</a>，66岁</div><div id='9f4282a74df34d39b0265e7b4fefc8fa' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1036')">1036年</a>　本年，居鄞县宝云寺，收释常总为徒。<br /></div>
+-----end
+
+

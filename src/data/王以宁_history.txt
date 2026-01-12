@@ -1,0 +1,152 @@
+
+-----title
+湘潭 (出生地)
+-----detail
+<div class='label1' id='daa8251d7ca64ceb919919b7a2675dd7_label'><a href='javascript: DetailSwitch("daa8251d7ca64ceb919919b7a2675dd7");'><span id='daa8251d7ca64ceb919919b7a2675dd7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1108')">1090-1108年</a>，1-19岁</div><div id='daa8251d7ca64ceb919919b7a2675dd7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')">1090年</a>　约本年生。本表所列年岁为虚拟数字。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1091&endYear=1108')">1091-1108年</a>　居乡？<br /></div>
+-----end
+
+
+
+-----title
+开封（汴京）
+-----detail
+<div class='label1' id='2c0335a84c044977a379e5519de05fef_label'><a href='javascript: DetailSwitch("2c0335a84c044977a379e5519de05fef");'><span id='2c0335a84c044977a379e5519de05fef_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1114')">1109-1114年</a>，20-25岁</div><div id='2c0335a84c044977a379e5519de05fef' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1109&endYear=1109')">1109年</a>　在太学？<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1110&endYear=1110')">1110年</a>　在太学，时乃父因言事落职，为父抗章申冤，由是知名。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1111&endYear=1114')">1111-1114年</a>　在太学？<br /></div><div class='label1' id='7474ae3add5644b598cdafeb5787f6ec_label'><a href='javascript: DetailSwitch("7474ae3add5644b598cdafeb5787f6ec");'><span id='7474ae3add5644b598cdafeb5787f6ec_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，37岁</div><div id='7474ae3add5644b598cdafeb5787f6ec' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年1月30日</a>　应召进行京任京畿提刑，上书御史中丞何栗。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年6月</a>　入李纲帅幕出兵救太原。<br /></div>
+-----end
+
+
+
+-----title
+常德
+-----detail
+<div class='label1' id='a78246df1a654730bf2f16f268a24cd8_label'><a href='javascript: DetailSwitch("a78246df1a654730bf2f16f268a24cd8");'><span id='a78246df1a654730bf2f16f268a24cd8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1122')">1115-1122年</a>，26-33岁</div><div id='a78246df1a654730bf2f16f268a24cd8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1118')">1115-1118年</a>　佐鼎澧帅幕？<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1119&endYear=1119')">1119年</a>　佐鼎澧帅幕，尝遇“溪蛮啸聚”，“单骑入贼巢、羁致其酋”<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1120')">1120年</a>　佐鼎澧帅幕？<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1121&endYear=1121')">1121年4月4日</a>　由成忠郎换文资为从事郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年</a>　佐鼎澧帅幕？<br /></div><div class='label1' id='97250761335245f7829168a5c13dc4da_label'><a href='javascript: DetailSwitch("97250761335245f7829168a5c13dc4da");'><span id='97250761335245f7829168a5c13dc4da_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1129')">1127-1129年</a>，38-40岁</div><div id='97250761335245f7829168a5c13dc4da' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年6月4日</a>　李纲拜相，命以宁为枢密院编修官知鼎州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>　知鼎州（后改名常德府）。李纲罢相贬居鄂州，过鼎州药山时以宁与之游。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1129')">1129年</a>　以知鼎州辟为川陕宣抚处置使张浚参议官。<br /></div>
+-----end
+
+
+
+-----title
+仪征
+-----detail
+<div class='label1' id='e587a66cc3f24887a25da8124b880fe0_label'><a href='javascript: DetailSwitch("e587a66cc3f24887a25da8124b880fe0");'><span id='e587a66cc3f24887a25da8124b880fe0_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1124')">1123-1124年</a>，34-35岁</div><div id='e587a66cc3f24887a25da8124b880fe0' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1124')">1123-1124年</a>　为江淮发运司管勾文字。<br /></div>
+-----end
+
+
+
+-----title
+盱眙
+-----detail
+<div class='label1' id='befb0b92a61548f5ab1aa039c176be6b_label'><a href='javascript: DetailSwitch("befb0b92a61548f5ab1aa039c176be6b");'><span id='befb0b92a61548f5ab1aa039c176be6b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>，36岁</div><div id='befb0b92a61548f5ab1aa039c176be6b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1125&endYear=1125')">1125年</a>　曾赴泗州，夜宿龟山，登秋汉亭，有词。作品：虞美人（归来峰下霜如水）<div id='poem_67908' class='_poem'><div id='poem_title_67908' class='poemTitle showDetail'><a href='/Writing/67908?labeling=true' target='_blank'>虞美人 宿龟山夜登秋汉亭</a><span class='authorDate'>（1125年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(29441, "宋", "王以宁", "poem_title_67908")'>王以宁</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_67908_comment'></div><div class='poemContent' id='poem_content_67908'><div class='poemSentence' id='poem_sentence_0_67908'>归来峰下霜如水。明月三千里。<div id='poem_sentence_0_67908_comment'></div></div><div class='poemSentence' id='poem_sentence_1_67908'>幽人独立瞰长淮。谁棹扁舟一叶、趁潮来。<div id='poem_sentence_1_67908_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_2_67908'>洞庭湖上银涛观。忆我烟蓑伴。<div id='poem_sentence_2_67908_comment'></div></div><div class='poemSentence' id='poem_sentence_3_67908'>此身天地一浮萍。去国十年华发、欲星星。<div id='poem_sentence_3_67908_comment'></div></div><div class='poemSentence' id='poem_sentence_4_67908'></div><div id='poem_sentence_4_67908_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+汾阳
+-----detail
+<div class='label1' id='e5e09b967e8c476494fecf6ab2419634_label'><a href='javascript: DetailSwitch("e5e09b967e8c476494fecf6ab2419634");'><span id='e5e09b967e8c476494fecf6ab2419634_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，37岁</div><div id='e5e09b967e8c476494fecf6ab2419634' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年7月</a>　屯兵汾州，督战过文水，兵败。<br /></div>
+-----end
+
+
+
+-----title
+长沙
+-----detail
+<div class='label1' id='f9ce3a3f0f4c49d9a74ab454d73ccb21_label'><a href='javascript: DetailSwitch("f9ce3a3f0f4c49d9a74ab454d73ccb21");'><span id='f9ce3a3f0f4c49d9a74ab454d73ccb21_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1127')">1126-1127年</a>，37-38岁</div><div id='f9ce3a3f0f4c49d9a74ab454d73ccb21' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年9月</a>　居长沙，有词怀古。作品：水调歌头（岁晚橘洲上）<div id='poem_67885' class='_poem'><div id='poem_title_67885' class='poemTitle showDetail'><a href='/Writing/67885?labeling=true' target='_blank'>水调歌头<span style='margin: 0 0.5em'> 其一 </span>裴公亭怀古</a><span class='authorDate'>（1126年9月）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(29441, "宋", "王以宁", "poem_title_67885")'>王以宁</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_67885_comment'></div><div class='poemContent' id='poem_content_67885'><div class='poemSentence' id='poem_sentence_0_67885'>岁岁橘洲上，老叶舞愁红。<div id='poem_sentence_0_67885_comment'></div></div><div class='poemSentence' id='poem_sentence_1_67885'>西山光翠，依旧影落酒杯中。<div id='poem_sentence_1_67885_comment'></div></div><div class='poemSentence' id='poem_sentence_2_67885'>人在子亭高处，下望长沙城郭，猎猎酒帘风。<div id='poem_sentence_2_67885_comment'></div></div><div class='poemSentence' id='poem_sentence_3_67885'>远水湛寒碧，独钓绿蓑翁。<div id='poem_sentence_3_67885_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_67885'>怀往事，追昨梦，转头空。<div id='poem_sentence_4_67885_comment'></div></div><div class='poemSentence' id='poem_sentence_5_67885'>孙郎前日，豪健颐指五都雄。<div id='poem_sentence_5_67885_comment'></div></div><div class='poemSentence' id='poem_sentence_6_67885'>起拥奇才剑客，十万银戈<span class='link' onclick='ShowWordComment("poem_sentence_6_67885", 67885, "Clauses/15/Comments/0")'>赤帻</span>，歌鼓壮军容。<div id='poem_sentence_6_67885_comment'></div></div><div class='poemSentence' id='poem_sentence_7_67885'>何似裴相国，谈道老圭峰。</div><div id='poem_sentence_7_67885_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年9月</a>　居长沙，有词。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年4月</a>　在长沙翠蔼堂与贬谪滞留此地的李纲相遇，李纲书杜诗赠之。<br /></div><div class='label1' id='ce011615abd140e3aeba59084d938603_label'><a href='javascript: DetailSwitch("ce011615abd140e3aeba59084d938603");'><span id='ce011615abd140e3aeba59084d938603_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>，41岁</div><div id='ce011615abd140e3aeba59084d938603' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年8月</a>　屯兵潭州，为“游寇”孔彦舟所败，亡去。<br /></div><div class='label1' id='e7315e8578fc4c91b67b4cde1f70556d_label'><a href='javascript: DetailSwitch("e7315e8578fc4c91b67b4cde1f70556d");'><span id='e7315e8578fc4c91b67b4cde1f70556d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>，41岁</div><div id='e7315e8578fc4c91b67b4cde1f70556d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年12月</a>　在长沙，曾遣人献马四匹于朝。<br /></div>
+-----end
+
+
+
+-----title
+襄阳
+-----detail
+<div class='label1' id='79c3ecde9ba745c4b99ded65e588bf40_label'><a href='javascript: DetailSwitch("79c3ecde9ba745c4b99ded65e588bf40");'><span id='79c3ecde9ba745c4b99ded65e588bf40_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>，41岁</div><div id='79c3ecde9ba745c4b99ded65e588bf40' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年3月</a>　转战两湖。<br /></div>
+-----end
+
+
+
+-----title
+邓州
+-----detail
+<div class='label1' id='32ef5810396b4bfe9a52518cb5e57b21_label'><a href='javascript: DetailSwitch("32ef5810396b4bfe9a52518cb5e57b21");'><span id='32ef5810396b4bfe9a52518cb5e57b21_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>，41岁</div><div id='32ef5810396b4bfe9a52518cb5e57b21' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年7月</a>　转战至邓州，席上赋词。作品：满庭芳（千古南阳）<div id='poem_67902' class='_poem'><div id='poem_title_67902' class='poemTitle showDetail'><a href='/Writing/67902?labeling=true' target='_blank'>满庭芳<span style='margin: 0 0.5em'> 其二 </span>邓州席上</a><span class='authorDate'>（1130年7月）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(29441, "宋", "王以宁", "poem_title_67902")'>王以宁</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_67902_comment'></div><div class='poemContent' id='poem_content_67902'><div class='poemSentence' id='poem_sentence_0_67902'>千古南阳，刘郎乡国，依约楚俗秦风。<div id='poem_sentence_0_67902_comment'></div></div><div class='poemSentence' id='poem_sentence_1_67902'>英姿豪气，耆旧笑谈中。<div id='poem_sentence_1_67902_comment'></div></div><div class='poemSentence' id='poem_sentence_2_67902'>珰佩来从帝所，许洲花、潭菊从容。<div id='poem_sentence_2_67902_comment'></div></div><div class='poemSentence' id='poem_sentence_3_67902'>霜秋晓，凉生日观，极目送飞鸿。<div id='poem_sentence_3_67902_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_67902'>主公。<div id='poem_sentence_4_67902_comment'></div></div><div class='poemSentence' id='poem_sentence_5_67902'>天下士，挥毫万字，一饮千钟。<div id='poem_sentence_5_67902_comment'></div></div><div class='poemSentence' id='poem_sentence_6_67902'>醉高歌起舞，唤醒人龙。<div id='poem_sentence_6_67902_comment'></div></div><div class='poemSentence' id='poem_sentence_7_67902'>我自人间漫浪，平生事、南北西东。<div id='poem_sentence_7_67902_comment'></div></div><div class='poemSentence' id='poem_sentence_8_67902'>辞公去，寒眸激电，曾识小安丰。</div><div id='poem_sentence_8_67902_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+黄冈
+-----detail
+<div class='label1' id='c7c549aff1e94a269e4423e65b87d8dc_label'><a href='javascript: DetailSwitch("c7c549aff1e94a269e4423e65b87d8dc");'><span id='c7c549aff1e94a269e4423e65b87d8dc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>，41岁</div><div id='c7c549aff1e94a269e4423e65b87d8dc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年9月</a>　至黄州，重午登栖霞楼，作词抒怀。作品：满庭芳（千古黄州）<div id='poem_67903' class='_poem'><div id='poem_title_67903' class='poemTitle showDetail'><a href='/Writing/67903?labeling=true' target='_blank'>满庭芳<span style='margin: 0 0.5em'> 其四 </span>重午登霞楼</a><span class='authorDate'>（1130年9月）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(29441, "宋", "王以宁", "poem_title_67903")'>王以宁</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_67903_comment'></div><div class='poemContent' id='poem_content_67903'><div class='poemSentence' id='poem_sentence_0_67903'>千古黄州，雪堂奇胜，名与赤壁齐高。<div id='poem_sentence_0_67903_comment'></div></div><div class='poemSentence' id='poem_sentence_1_67903'>竹楼千字，笔势压江涛。<div id='poem_sentence_1_67903_comment'></div></div><div class='poemSentence' id='poem_sentence_2_67903'>笑问江头皓月，应曾照、今古英豪。<div id='poem_sentence_2_67903_comment'></div></div><div class='poemSentence' id='poem_sentence_3_67903'>菖蒲酒，窊尊无恙，聊共访临皋。<div id='poem_sentence_3_67903_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_67903'>陶陶。<div id='poem_sentence_4_67903_comment'></div></div><div class='poemSentence' id='poem_sentence_5_67903'>谁晤对，粲花吐论，宫锦纫袍。<div id='poem_sentence_5_67903_comment'></div></div><div class='poemSentence' id='poem_sentence_6_67903'>借银涛雪浪，一洗尘劳。<div id='poem_sentence_6_67903_comment'></div></div><div class='poemSentence' id='poem_sentence_7_67903'>好在江山如画，人易老、双鬓难薅。<div id='poem_sentence_7_67903_comment'></div></div><div class='poemSentence' id='poem_sentence_8_67903'>升平代，凭高望远，当赋反离骚。</div><div id='poem_sentence_8_67903_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+岳阳
+-----detail
+<div class='label1' id='67c6e9291cd444bf886fd5f0c1046f99_label'><a href='javascript: DetailSwitch("67c6e9291cd444bf886fd5f0c1046f99");'><span id='67c6e9291cd444bf886fd5f0c1046f99_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>，41岁</div><div id='67c6e9291cd444bf886fd5f0c1046f99' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1130&endYear=1130')">1130年</a>　与画家任才仲交游唱和，有词。作品：感皇恩（千古洞庭湖）<div id='poem_67901' class='_poem'><div id='poem_title_67901' class='poemTitle showDetail'><a href='/Writing/67901?labeling=true' target='_blank'>感皇恩 和才仲西山子</a><span class='authorDate'>（1130年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(29441, "宋", "王以宁", "poem_title_67901")'>王以宁</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_67901_comment'></div><div class='poemContent' id='poem_content_67901'><div class='poemSentence' id='poem_sentence_0_67901'>千古洞庭湖，百川争注。<div id='poem_sentence_0_67901_comment'></div></div><div class='poemSentence' id='poem_sentence_1_67901'>雪浪银涛正如许。<div id='poem_sentence_1_67901_comment'></div></div><div class='poemSentence' id='poem_sentence_2_67901'>骑鲸诗客，浩气决云飞雾。<div id='poem_sentence_2_67901_comment'></div></div><div class='poemSentence' id='poem_sentence_3_67901'>背人歌欸乃，凌空去。<div id='poem_sentence_3_67901_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_67901'>我欲从公，翩然鹄举。<div id='poem_sentence_4_67901_comment'></div></div><div class='poemSentence' id='poem_sentence_5_67901'>未愿人间相君雨。<div id='poem_sentence_5_67901_comment'></div></div><div class='poemSentence' id='poem_sentence_6_67901'>笭箵短棹，是我平生真语。<div id='poem_sentence_6_67901_comment'></div></div><div class='poemSentence' id='poem_sentence_7_67901'>个中烟景好，烦公句。</div><div id='poem_sentence_7_67901_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+台州
+-----detail
+<div class='label1' id='cff643dcd38d4d869bd227f342821377_label'><a href='javascript: DetailSwitch("cff643dcd38d4d869bd227f342821377");'><span id='cff643dcd38d4d869bd227f342821377_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1133')">1131-1133年</a>，42-44岁</div><div id='cff643dcd38d4d869bd227f342821377' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')">1131年1月</a>　因遭言者弹劾落职，责监台州酒务。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年9月</a>　再贬永州别驾、潮州安置。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1132')">1132年12月7日</a>　在台州皈依佛教，自号正信居士，有文纪事。作品：佛窟山转轮藏记。<div id='poem_1233370' class='_poem'><div id='poem_title_1233370' class='poemTitle showDetail'><a href='/Writing/1233370?labeling=true' target='_blank'>佛窟山转轮藏记<span class='inlineComment2'>（绍兴二年十二月）</span></a><span class='authorDate'>（1132年12月7日）</span><span class='poemAuthor'><span class='inlineComment1'> 南宋 · </span><a href='javascript: ShowPoemAuthorProfile(85508, "南宋", "王以宁", "poem_title_1233370")'>王以宁</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1233370_comment'></div><div class='poemContent' id='poem_content_1233370'><div class='articleSentence' id='poem_sentence_0_1233370'>南岳道人谓正信居士曰：「禅涌顷自七闽来游天台，经行佛窟之山。<div class='inline' id='poem_sentence_0_1233370_comment'></div>山子主人私于禅涌曰：『宝因奉檄居此馀三十年，始至之日，山荒屋败，像设黮闇，残僧三四，爨无盛烟。<div class='inline' id='poem_sentence_1_1233370_comment'></div>宝因爱养松竹，如护婴儿，戴月侵星，刀耕火种。<div class='inline' id='poem_sentence_2_1233370_comment'></div>五年而食饱，十年而林增。<div class='inline' id='poem_sentence_3_1233370_comment'></div>方袍黄冠，与夫车转马迹，朝吾门者有饭，夕吾庐者有寝，供须悦可，人靡间言，而往来者莫我察也。<div class='inline' id='poem_sentence_4_1233370_comment'></div>独王居士即我之室，揭名平心，若倾盖知我者。<div class='inline' id='poem_sentence_5_1233370_comment'></div>我□募众缘，作转轮宝藏，以屋五千四十八卷之书，将成而未有记。<div class='inline' id='poem_sentence_6_1233370_comment'></div>欲□累居士，居士其许我哉？<div class='inline' id='poem_sentence_7_1233370_comment'></div>上人试商之』。<div class='inline' id='poem_sentence_8_1233370_comment'></div>禅涌退而即寺之坤隅，观□谓宝藏者，天宫崷崒，地轴妥安，奇鬼巍神，翔舞海而金碧焕烂，触目惊心。<div class='inline' id='poem_sentence_9_1233370_comment'></div>其制作神丽，远近庸有之。<div class='inline' id='poem_sentence_10_1233370_comment'></div>如因小刹成兹缘，寔维居士代为记之」。<div class='inline' id='poem_sentence_11_1233370_comment'></div>以宁报之曰：「吾察宝因有可书之善三：辛勤十闰，始终不怠，南北游士其至如归，而因也垢面袖手，曾无德色，是一可书。<div class='inline' id='poem_sentence_12_1233370_comment'></div>□□道微，魔民炽盛，盗常住物，贸迁大刹，死期将至，方辟西庐，笼络愚雏，俾称嗣法，分香卖履，返甚于俗流，因则无之，是二可书。<div class='inline' id='poem_sentence_13_1233370_comment'></div>而藏缘其三也。<div class='inline' id='poem_sentence_14_1233370_comment'></div>微子之言，犹不可以无籍，况恩勤之请乎」！<div class='inline' id='poem_sentence_15_1233370_comment'></div>绍兴二年十二月初七日记成于雪峰，致之，使刻诸石。<div class='inline' id='poem_sentence_16_1233370_comment'></div>会稽虞流季行篆盖。<div class='inline' id='poem_sentence_17_1233370_comment'></div>知事僧灵悟立石，郡士王裳模刻。</div><div id='poem_sentence_18_1233370_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年2月21日</a>　在台州，有文。作品：广平夫人往生记。<div id='poem_1233369' class='_poem'><div id='poem_title_1233369' class='poemTitle showDetail'><a href='/Writing/1233369?labeling=true' target='_blank'>广平夫人往生记<span class='inlineComment2'>（绍兴三年二月）</span></a><span class='authorDate'>（1133年2月21日）</span><span class='poemAuthor'><span class='inlineComment1'> 南宋 · </span><a href='javascript: ShowPoemAuthorProfile(85508, "南宋", "王以宁", "poem_title_1233369")'>王以宁</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1233369_comment'></div><div class='poemContent' id='poem_content_1233369'><div class='articleSentence' id='poem_sentence_0_1233369'>余尝闻道于正觉禅师，觉请余读《起信论》，时方多事，奔走戎马间，未遑省察。<div class='inline' id='poem_sentence_0_1233369_comment'></div>及谪官天台，始得《起信论》于邻僧，翻阅再三，窃有疑焉。<div class='inline' id='poem_sentence_1_1233369_comment'></div>是书为大乘人作，破有荡空，一法不留之书也，而末章以系念弥陀求生净土为言，其旨何也？<div class='inline' id='poem_sentence_2_1233369_comment'></div>晚过雪峰，问清了禅师，了曰：「实际理地，不受一尘；<div class='inline' id='poem_sentence_3_1233369_comment'></div>万行门中，不舍一法。<div class='inline' id='poem_sentence_4_1233369_comment'></div>子欲坏世间相，弃有著空，然后證菩提耶」？<div class='inline' id='poem_sentence_5_1233369_comment'></div>余曰：「宁有是」？<div class='inline' id='poem_sentence_6_1233369_comment'></div>了曰：「如是，则净土之修，于道何损」？<div class='inline' id='poem_sentence_7_1233369_comment'></div>余始豁然有慰于其心。<div class='inline' id='poem_sentence_8_1233369_comment'></div>比经行福清，听远近知识谈冯夫人事，益契了老之说，可信不诬。<div class='inline' id='poem_sentence_9_1233369_comment'></div>夫人名法信，政和门司、赠少师讳珣之女。<div class='inline' id='poem_sentence_10_1233369_comment'></div>生十六年，嫁为镇洮军承宣使、今妙明居士陈思恭之妻。<div class='inline' id='poem_sentence_11_1233369_comment'></div>夫人少多病，体力尪孱，若不胜衣。<div class='inline' id='poem_sentence_12_1233369_comment'></div>及归陈氏，病日以剧，数呼医谋药，殆无生意。<div class='inline' id='poem_sentence_13_1233369_comment'></div>医辞曰：「夫人病非吾药能力」。<div class='inline' id='poem_sentence_14_1233369_comment'></div>于时慈受深禅师为王城法施主，夫人径造其室，求已疾之方。<div class='inline' id='poem_sentence_15_1233369_comment'></div>慈受怜之，教以持斋诵佛，默求初心。<div class='inline' id='poem_sentence_16_1233369_comment'></div>夫人耳其语，谛信不疑。<div class='inline' id='poem_sentence_17_1233369_comment'></div>斋居未踰月，忽语所亲曰：「晨素善矣，杂以晚荤，徒乱人意，盍尽彻之」。<div class='inline' id='poem_sentence_18_1233369_comment'></div>自此屏荤血，却铅华膏沐之奉，衣扫塔服，专以西方净观为佛事。<div class='inline' id='poem_sentence_19_1233369_comment'></div>行亦西方也，坐亦西方也，起居食息亦西方也，语默动静亦西方也，酌水献华亦西方也，翻经行道亦西方也。<div class='inline' id='poem_sentence_20_1233369_comment'></div>刹那之念、秋毫之善，一以为西方之津梁。<div class='inline' id='poem_sentence_21_1233369_comment'></div>自壬寅迄壬子，十年之间，亡堕容，亡矜色，心安体胖，神气昌旺，人皆尊高之。<div class='inline' id='poem_sentence_22_1233369_comment'></div>一日忽提笔书数语，异甚，若厌世仙去者：「随缘认业许多年，枉作老牛为耕田。<div class='inline' id='poem_sentence_23_1233369_comment'></div>打叠身心早脱去，免将鼻孔被人牵」。<div class='inline' id='poem_sentence_24_1233369_comment'></div>族党怪之，夫人曰：「清净界中，失念至此，支那缘尽，行即西归。<div class='inline' id='poem_sentence_25_1233369_comment'></div>适我愿兮，何怪之有」？<div class='inline' id='poem_sentence_26_1233369_comment'></div>壬子九月，示疾久之，气息才属。<div class='inline' id='poem_sentence_27_1233369_comment'></div>十二月壬寅夕，矍然而寤，语侍旁者曰：「吾已神游净土，面礼慈尊。<div class='inline' id='poem_sentence_28_1233369_comment'></div>观音左顾，势至右盼。<div class='inline' id='poem_sentence_29_1233369_comment'></div>百千万亿清净佛子稽首，庆我来生其国。<div class='inline' id='poem_sentence_30_1233369_comment'></div>若夫宫殿林沼，光明神丽，与《华严》佛化及《十六观经》中所说无二无别。<div class='inline' id='poem_sentence_31_1233369_comment'></div>唯證方知，非所以语汝曹也」。<div class='inline' id='poem_sentence_32_1233369_comment'></div>侍疾者亟呼妙明，语其故，乃相与合掌策励，俾系念勿忘。<div class='inline' id='poem_sentence_33_1233369_comment'></div>又明日甲辰，安卧右胁，吉祥而逝。<div class='inline' id='poem_sentence_34_1233369_comment'></div>三日而后歛，家人辈往往闻妙香芬馥，不类人间。<div class='inline' id='poem_sentence_35_1233369_comment'></div>及茶毗，举尸如生，凝然不坏。<div class='inline' id='poem_sentence_36_1233369_comment'></div>夫人享年三十六，以妙明显仕，恩封广平郡夫人。<div class='inline' id='poem_sentence_37_1233369_comment'></div>妙明为余言：思恭初未知道，夫人实劝发之，又懒不治生，夫人实经纪其有亡。<div class='inline' id='poem_sentence_38_1233369_comment'></div>平居接内外亲姻及拊驯其子侄僮媵，一一有恩意。<div class='inline' id='poem_sentence_39_1233369_comment'></div>死之日，哭者失声，至于炼顶灼臂，以荐冥福，非有以得其心，能若是乎？<div class='inline' id='poem_sentence_40_1233369_comment'></div>以思恭贫甚，又尝笋舆独走二千里，乞籴于其兄昭宣君德裕。<div class='inline' id='poem_sentence_41_1233369_comment'></div>时闽偷纵横，使令者能道其往来应变方略，如世健男子。<div class='inline' id='poem_sentence_42_1233369_comment'></div>盖夫人志力刚果，不可摇夺，故其办道勇决，所成就亦如是。<div class='inline' id='poem_sentence_43_1233369_comment'></div>是可嘉也已。<div class='inline' id='poem_sentence_44_1233369_comment'></div>以宁老且病，于无量寿国方且问途，闻夫人事，乐为之记。<div class='inline' id='poem_sentence_45_1233369_comment'></div>非徒信觉、了二禅师之语，亦以为将来熏修者之劝云。<div class='inline' id='poem_sentence_46_1233369_comment'></div>绍兴三年二月二十一日，阿弥陀佛弟子正信庵王以宁待制记。</div><div id='poem_sentence_47_1233369_comment'></div></div></div><br /></div>
+-----end
+
+
+
+-----title
+潮州
+-----detail
+<div class='label1' id='a9befc8399604309953e945d7165e85a_label'><a href='javascript: DetailSwitch("a9befc8399604309953e945d7165e85a");'><span id='a9befc8399604309953e945d7165e85a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1135')">1133-1135年</a>，44-46岁</div><div id='a9befc8399604309953e945d7165e85a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1133&endYear=1133')">1133年</a>　谪居潮州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1134&endYear=1134')">1134年3月1日</a>　谪居潮州，三月初一撰铭文。作品：马王庙钟款。<div id='poem_610663' class='_poem'><div id='poem_title_610663' class='poemTitle showDetail'><a href='/Writing/610663?labeling=true' target='_blank'>马王庙钟铭</a><span class='authorDate'>（1134年3月1日）</span><span class='poemAuthor'><span class='inlineComment1'> 南宋 · </span><a href='javascript: ShowPoemAuthorProfile(85508, "南宋", "王以宁", "poem_title_610663")'>王以宁</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_610663_comment'></div><div class='titleComment' id='poem_preface_610663'>宋绍兴四年甲寅岁三月朔日辛亥，潮州海阳县资福禅院得潮阳檀越范氏妙悟舍钱百万，合众施凡三百万。住持传法沙门善懋以铜为钟，上祝圣寿，普利群生。正信居士王以宁为之铭，铭曰：</div><div id='poem_preface_610663_comment'></div><div class='poemContent' id='poem_content_610663'><div class='poemSentence' id='poem_sentence_0_610663'>双溪之浒石剑峰，是为资福青莲宫。<div id='poem_sentence_0_610663_comment'></div></div><div class='poemSentence' id='poem_sentence_1_610663'>道人善懋作鸿钟，其权千钧庞且崇。<div id='poem_sentence_1_610663_comment'></div></div><div class='poemSentence' id='poem_sentence_2_610663'>铿鋐震叠馀隐隆，声满法界无边中。<div id='poem_sentence_2_610663_comment'></div></div><div class='poemSentence' id='poem_sentence_3_610663'>警悟人天及鱼龙，幽阴渺莽开惛聋。<div id='poem_sentence_3_610663_comment'></div></div><div class='poemSentence' id='poem_sentence_4_610663'>圆音动寂惧昆虫<sup class='reference inlineComment2'>⑴</sup>，闻所闻尽觉亦空。<div id='poem_sentence_4_610663_comment'></div></div><div class='poemSentence' id='poem_sentence_5_610663'>大檀范氏暨众功，无尽之福垂无穷<sup class='reference inlineComment2'>⑵</sup>。<div id='poem_sentence_5_610663_comment'></div></div><div class='poemSentence' id='poem_sentence_6_610663'></div><div id='poem_sentence_6_610663_comment'></div></div><div class='poemNote' id='poem_note_610663'><div class='inline1'><div id='poem_sentence_4_610663_0'>⑴ 惧昆虫，黄挺、马明达《潮汕金石文征徵》作“俱混融”。</div></div><div class='inline1'><div id='poem_sentence_5_610663_0'>⑵ 清卢蔚猷纂修光绪二十六年刊《海阳县志》卷三○《金石略》</div></div></div><div id='poem_note_610663_comment'></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年</a>　特许自便，遂离潮州回鼎州省母。<br /></div>
+-----end
+
+
+
+-----title
+福州
+-----detail
+<div class='label1' id='aa981d3882664e69842316bde7e4058e_label'><a href='javascript: DetailSwitch("aa981d3882664e69842316bde7e4058e");'><span id='aa981d3882664e69842316bde7e4058e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年</a>，46岁</div><div id='aa981d3882664e69842316bde7e4058e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年</a>　秋日过福州，遇张元干、刘子翚。<br /></div>
+-----end
+
+
+
+-----title
+宁乡
+-----detail
+<div class='label1' id='bfbd58161f004751be7729a4312e30c8_label'><a href='javascript: DetailSwitch("bfbd58161f004751be7729a4312e30c8");'><span id='bfbd58161f004751be7729a4312e30c8_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1139')">1136-1139年</a>，47-50岁</div><div id='bfbd58161f004751be7729a4312e30c8' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1139')">1136-1139年</a>　居乡。<br /></div>
+-----end
+
+
+
+-----title
+全州
+-----detail
+<div class='label1' id='87c1cc45b2934d9a97c67110ea97eaf3_label'><a href='javascript: DetailSwitch("87c1cc45b2934d9a97c67110ea97eaf3");'><span id='87c1cc45b2934d9a97c67110ea97eaf3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1142')">1140-1142年</a>，51-53岁</div><div id='87c1cc45b2934d9a97c67110ea97eaf3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1140&endYear=1140')">1140年</a>　复右朝奉郎知全州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1141&endYear=1142')">1141-1142年</a>　知全州。<br /></div>
+-----end
+
+
+
+-----title
+栖霞楼
+-----detail
+null
+-----end
+
+
+
+-----title
+岳阳楼
+-----detail
+null
+-----end
+
+
+
+-----title
+沩山
+-----detail
+null
+-----end
+
+

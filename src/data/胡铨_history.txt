@@ -1,0 +1,88 @@
+
+-----title
+吉安 (出生地)
+-----detail
+<div class='label1' id='e38bf48feb75405297012743963e237c_label'><a href='javascript: DetailSwitch("e38bf48feb75405297012743963e237c");'><span id='e38bf48feb75405297012743963e237c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1126')">1102-1126年</a>，1-25岁</div><div id='e38bf48feb75405297012743963e237c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')">1102年</a>　出生庐陵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1103&endYear=1115')">1103-1115年</a>　居乡庐陵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1116&endYear=1116')">1116年</a>　居乡庐陵。自幼超诣绝志，强于记览。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1117&endYear=1126')">1117-1126年</a>　居乡庐陵。<br /></div><div class='label1' id='39666c204dd243c08e935e8b3e87acb3_label'><a href='javascript: DetailSwitch("39666c204dd243c08e935e8b3e87acb3");'><span id='39666c204dd243c08e935e8b3e87acb3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1134')">1132-1134年</a>，31-33岁</div><div id='39666c204dd243c08e935e8b3e87acb3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1132&endYear=1134')">1132-1134年</a>　居吉州。以居父忧，与兄胡铸，从乡先生萧楚讲《春秋》学。<br /></div><div class='label1' id='f23e8ff8871f4386b673f479b79998aa_label'><a href='javascript: DetailSwitch("f23e8ff8871f4386b673f479b79998aa");'><span id='f23e8ff8871f4386b673f479b79998aa_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1169')">1165-1169年</a>，64-68岁</div><div id='f23e8ff8871f4386b673f479b79998aa' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>　罢职归庐陵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1167')">1166-1167年</a>　居乡庐陵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')">1168年秋</a>　居乡庐陵。秋，与周必大、王庭珪等参与郡守宴举人之盛会。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年冬</a>　居乡，起知漳州，未赴。<br /></div><div class='label1' id='5432b37fe8d3477ea1f78aad9901ac19_label'><a href='javascript: DetailSwitch("5432b37fe8d3477ea1f78aad9901ac19");'><span id='5432b37fe8d3477ea1f78aad9901ac19_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1180')">1172-1180年</a>，71-79岁</div><div id='5432b37fe8d3477ea1f78aad9901ac19' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1178')">1172-1178年</a>　居乡庐陵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')">1179年</a>　居乡庐陵，召归经筵，引疾力辞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1180')">1180年4月</a>　居乡庐陵，加资政殿学士致仕。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1180&endYear=1180')">1180年5月</a>　卒于乡庐陵。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='e4c1295169b343d2921d5b9a8958ae3c_label'><a href='javascript: DetailSwitch("e4c1295169b343d2921d5b9a8958ae3c");'><span id='e4c1295169b343d2921d5b9a8958ae3c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>，26岁</div><div id='e4c1295169b343d2921d5b9a8958ae3c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>　试太学。<br /></div>
+-----end
+
+
+
+-----title
+扬州
+-----detail
+<div class='label1' id='1d3cfa08756e421380842cbb707fa101_label'><a href='javascript: DetailSwitch("1d3cfa08756e421380842cbb707fa101");'><span id='1d3cfa08756e421380842cbb707fa101_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>，27岁</div><div id='1d3cfa08756e421380842cbb707fa101' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1128&endYear=1128')">1128年</a>　在扬州，进士及第。<br /></div><div class='label1' id='5255d1f9478e48478ae34c2e8d7ee8ed_label'><a href='javascript: DetailSwitch("5255d1f9478e48478ae34c2e8d7ee8ed");'><span id='5255d1f9478e48478ae34c2e8d7ee8ed_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>，63岁</div><div id='5255d1f9478e48478ae34c2e8d7ee8ed' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年11月19日</a>　在扬州，使江淮，携孥北行，措置海道。时金兵南下，高邮守陈敏拒敌于射阳湖，胡铨劾大将李宝拥兵不救，宝惧，掎角出师，金人遂退。<br /></div>
+-----end
+
+
+
+-----title
+抚州
+-----detail
+<div class='label1' id='711322b9b1664f0680154875c8af88f7_label'><a href='javascript: DetailSwitch("711322b9b1664f0680154875c8af88f7");'><span id='711322b9b1664f0680154875c8af88f7_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1131')">1129-1131年</a>，28-30岁</div><div id='711322b9b1664f0680154875c8af88f7' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1129&endYear=1131')">1129-1131年</a>　任抚州军事判官。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='3796e0c751dc4179a86e83d186b36b53_label'><a href='javascript: DetailSwitch("3796e0c751dc4179a86e83d186b36b53");'><span id='3796e0c751dc4179a86e83d186b36b53_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1142')">1135-1142年</a>，34-41岁</div><div id='3796e0c751dc4179a86e83d186b36b53' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1135&endYear=1135')">1135年</a>　在临安。都督张浚辟胡铨为湖北提举干办公事，改湖南提刑司干办公事，俱未行。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1136&endYear=1136')">1136年</a>　在临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')">1137年</a>　在临安，兵部尚书吕祉以贤良方正荐。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1137&endYear=1137')">1137年4月</a>　在临安，赐对，胡铨改左通直郎，留为枢属。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1138&endYear=1138')">1138年11月</a>　在临安，朝廷决意求和，胡铨独上封事，乞斩主张和议之宰执秦桧、孙近及使者王伦之头，羁留金使，兴问罪之师。除名昭州编管，后改监广州都盐仓。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1139&endYear=1141')">1139-1141年</a>　在临安。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年</a>　在临安，以御史中丞罗汝楫弹劾，除名谪新州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年</a>　在临安，胡铨除名谪新州，张元干作《贺新郎》词壮其行。（梦绕神州路）<div id='poem_108212' class='_poem'><div id='poem_title_108212' class='poemTitle showDetail'><a href='/Writing/108212?labeling=true' target='_blank'>贺新郎<span style='margin: 0 0.5em'> 其二 </span>送胡邦衡待制</a><span class='authorDate'>（1142年7月）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(25448, "宋", "张元干", "poem_title_108212")'>张元干</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_108212_comment'></div><div class='poemContent' id='poem_content_108212'><div class='poemSentence' id='poem_sentence_0_108212'>梦绕<span class='link' onclick='ShowWordComment("poem_sentence_0_108212", 108212, "Clauses/0/Comments/0")'>神州</span>路。<div id='poem_sentence_0_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_1_108212'>怅秋风、连营画角，故宫<span class='link' onclick='ShowWordComment("poem_sentence_1_108212", 108212, "Clauses/2/Comments/0")'>离黍</span>。<div id='poem_sentence_1_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_2_108212'><span class='link' onclick='ShowWordComment("poem_sentence_2_108212", 108212, "Clauses/3/Comments/0")'>底事</span>昆崙倾砥柱。<div id='poem_sentence_2_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_3_108212'><span class='link' onclick='ShowWordComment("poem_sentence_3_108212", 108212, "Clauses/4/Comments/0")'>九地</span><span class='link' onclick='ShowWordComment("poem_sentence_3_108212", 108212, "Clauses/4/Comments/1")'>黄流</span>乱注。<div id='poem_sentence_3_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_4_108212'>聚万落、千村<span class='link' onclick='ShowWordComment("poem_sentence_4_108212", 108212, "Clauses/5/Comments/1")'>狐兔</span>。<div id='poem_sentence_4_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_5_108212'>天意从来高难问，况人情、老易悲如许。<div id='poem_sentence_5_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_6_108212'>更南浦，送君去。<div id='poem_sentence_6_108212_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_7_108212'>凉生岸柳催残暑。<div id='poem_sentence_7_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_8_108212'>耿斜河、疏星淡月，断云微度。<div id='poem_sentence_8_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_9_108212'>万里江山知何处。<div id='poem_sentence_9_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_10_108212'>回首<span class='link' onclick='ShowWordComment("poem_sentence_10_108212", 108212, "Clauses/14/Comments/0")'>对床夜语</span>。<div id='poem_sentence_10_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_11_108212'>雁不到、书成谁与。<div id='poem_sentence_11_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_12_108212'>目尽青天怀今古，肯儿曹、恩怨相尔汝。<div id='poem_sentence_12_108212_comment'></div></div><div class='poemSentence' id='poem_sentence_13_108212'>举大白，听<span class='link' onclick='ShowWordComment("poem_sentence_13_108212", 108212, "Clauses/19/Comments/0")'>金缕</span>。</div><div id='poem_sentence_13_108212_comment'></div></div><div class='poemComment' id='poem_comment_108212'><a href='javascript: ShowPoemComment(108212)'>评注</a><span class='inlineComment4'>（点击查看或隐藏评注）</span></div></div><br /></div><div class='label1' id='5e75d12c33094ec090c0435463513b30_label'><a href='javascript: DetailSwitch("5e75d12c33094ec090c0435463513b30");'><span id='5e75d12c33094ec090c0435463513b30_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1164')">1163-1164年</a>，62-63岁</div><div id='5e75d12c33094ec090c0435463513b30' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年1月</a>　在临安，迁秘书少监。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1163&endYear=1163')">1163年4月</a>　在临安，擢起居郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>　在临安，兼国子祭酒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年</a>　在临安，寻权兵部侍郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年8月</a>　在临安，应诏言议和，有和议成有十吊、不成有十贺之语。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年9月</a>　在临安，兼权中书舍人。<br /></div><div class='label1' id='4fcc0c9a60f742bcb05aa402fc67d630_label'><a href='javascript: DetailSwitch("4fcc0c9a60f742bcb05aa402fc67d630");'><span id='4fcc0c9a60f742bcb05aa402fc67d630_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1171')">1170-1171年</a>，69-70岁</div><div id='4fcc0c9a60f742bcb05aa402fc67d630' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年春</a>　改泉州，过阙奏事，留京，除工部侍郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　求退，再提举江州太平兴国宫。<br /></div>
+-----end
+
+
+
+-----title
+新兴
+-----detail
+<div class='label1' id='789461788e404fe9aee6562afe98344b_label'><a href='javascript: DetailSwitch("789461788e404fe9aee6562afe98344b");'><span id='789461788e404fe9aee6562afe98344b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1147')">1142-1147年</a>，41-46岁</div><div id='789461788e404fe9aee6562afe98344b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1142&endYear=1142')">1142年</a>　王庭珪闻胡铨除名谪新州有诗，胡铨和之以诗，胡其时或已到新州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1143&endYear=1147')">1143-1147年</a>　在新州。<br /></div>
+-----end
+
+
+
+-----title
+三亚
+-----detail
+<div class='label1' id='806b82e8f65f47a7b9708d715889507d_label'><a href='javascript: DetailSwitch("806b82e8f65f47a7b9708d715889507d");'><span id='806b82e8f65f47a7b9708d715889507d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1155')">1148-1155年</a>，47-54岁</div><div id='806b82e8f65f47a7b9708d715889507d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1148&endYear=1148')">1148年11月</a>　再谪吉阳军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1149&endYear=1154')">1149-1154年</a>　在吉阳军。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1155&endYear=1155')">1155年12月</a>　胡铨量移衡州。<br /></div>
+-----end
+
+
+
+-----title
+衡阳
+-----detail
+<div class='label1' id='521efcc4d66d4e7d9bf7adec5896b762_label'><a href='javascript: DetailSwitch("521efcc4d66d4e7d9bf7adec5896b762");'><span id='521efcc4d66d4e7d9bf7adec5896b762_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1160')">1156-1160年</a>，55-59岁</div><div id='521efcc4d66d4e7d9bf7adec5896b762' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1156&endYear=1160')">1156-1160年</a>　在衡阳。<br /></div>
+-----end
+
+
+
+-----title
+永州
+-----detail
+<div class='label1' id='b7030c92f90c44fcb8dedf592871f2aa_label'><a href='javascript: DetailSwitch("b7030c92f90c44fcb8dedf592871f2aa");'><span id='b7030c92f90c44fcb8dedf592871f2aa_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')">1161年</a>，60岁</div><div id='b7030c92f90c44fcb8dedf592871f2aa' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')">1161年</a>　胡铨得自便，至零陵访张浚。<br /></div>
+-----end
+
+
+
+-----title
+鄱阳
+-----detail
+<div class='label1' id='e7e58dfdf9b3427fa95bf3cd18dc3629_label'><a href='javascript: DetailSwitch("e7e58dfdf9b3427fa95bf3cd18dc3629");'><span id='e7e58dfdf9b3427fa95bf3cd18dc3629_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年</a>，61岁</div><div id='e7e58dfdf9b3427fa95bf3cd18dc3629' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年6月</a>　复元官，差知饶州。<br /></div>
+-----end
+
+
+
+-----title
+射阳湖
+-----detail
+null
+-----end
+
+

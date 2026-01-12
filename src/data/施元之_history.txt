@@ -1,0 +1,48 @@
+
+-----title
+长兴 (出生地)
+-----detail
+<div class='label1' id='e9dc263dc8dd43e9bc4037910acff8de_label'><a href='javascript: DetailSwitch("e9dc263dc8dd43e9bc4037910acff8de");'><span id='e9dc263dc8dd43e9bc4037910acff8de_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1164')">1102-1164年</a>，1-63岁</div><div id='e9dc263dc8dd43e9bc4037910acff8de' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1102&endYear=1102')">1102年</a>　施元之约生于此时。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1164&endYear=1164')">1164年6月17日</a>　施元之子施宿生。<br /></div><div class='label1' id='e87877cfc77340bba6f5c0fa7190ddb2_label'><a href='javascript: DetailSwitch("e87877cfc77340bba6f5c0fa7190ddb2");'><span id='e87877cfc77340bba6f5c0fa7190ddb2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>，73岁</div><div id='e87877cfc77340bba6f5c0fa7190ddb2' class='detail'><span style='margin: 0 0.5em; color: gray;'>▪</span>施元之被辛弃疾弹劾，遂予奉祠归长兴。<br /><span style='margin: 0 0.5em; color: gray;'>▪</span>施元之因病去世，卒年七十有余。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='32b60af3979740dba01ef81c2ea94e84_label'><a href='javascript: DetailSwitch("32b60af3979740dba01ef81c2ea94e84");'><span id='32b60af3979740dba01ef81c2ea94e84_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1170')">1165-1170年</a>，64-69岁</div><div id='32b60af3979740dba01ef81c2ea94e84' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>　施元之任命为左文林郎，主管尚书户部架阁文字。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年</a>　洪适除翰林学士，举施元之代之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')">1166年2月</a>　施元之任命为秘书省正字。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1166&endYear=1166')">1166年3月</a>　施元之罢免秘书省正字，任枢密院编修官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1167&endYear=1167')">1167年</a>　朱熹代替施元之任枢密院编修官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')">1168年</a>　施元之赠洪适《岩訢碑》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年5月</a>　施元之因磨勘改官，别行注受。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>　任秘书省著作左郎。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年</a>　撰《北蜡》七曲。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年10月</a>　施元之任起居舍人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年11月</a>　兼国史院编修官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1169&endYear=1169')">1169年11月</a>　施元之任左司谏官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　施元之罢左司谏官，未几，复任。<br /></div>
+-----end
+
+
+
+-----title
+衢州
+-----detail
+<div class='label1' id='0e877125873b486ea51a1eddbb72cc04_label'><a href='javascript: DetailSwitch("0e877125873b486ea51a1eddbb72cc04");'><span id='0e877125873b486ea51a1eddbb72cc04_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1172')">1170-1172年</a>，69-71岁</div><div id='0e877125873b486ea51a1eddbb72cc04' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年9月</a>　以左宣教郎权发遣衢州军州，主管学事并管内劝农事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　在衢州建超览室，又为亭命名月坡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　在城西边立屋两柱，命名为风亭。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　施元之刻《学易集》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　施元之在衢州校刻王浦《五代会要》，范质《五代通》于郡斋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　施元之作伫舟亭于西溪上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　龙游张祖顺来谒，尝其刚果，特荐之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年7月</a>　江西饥荒，玉山大旱，输衢粮以济之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年9月</a>　施元之在衢州校刻苏颂《新义向法要三卷》<br /></div>
+-----end
+
+
+
+-----title
+苏州
+-----detail
+<div class='label1' id='a646cd9916f04c6ba5ff64d24b8ef149_label'><a href='javascript: DetailSwitch("a646cd9916f04c6ba5ff64d24b8ef149");'><span id='a646cd9916f04c6ba5ff64d24b8ef149_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1173')">1172-1173年</a>，71-72岁</div><div id='a646cd9916f04c6ba5ff64d24b8ef149' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>　施元之受命为浙西提刑官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1173&endYear=1173')">1173年</a>　施元之任浙西为提刑官。<br /></div>
+-----end
+
+
+
+-----title
+赣州
+-----detail
+<div class='label1' id='fe25f4b5772d4b47995fefb172a272be_label'><a href='javascript: DetailSwitch("fe25f4b5772d4b47995fefb172a272be");'><span id='fe25f4b5772d4b47995fefb172a272be_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>，73岁</div><div id='fe25f4b5772d4b47995fefb172a272be' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>　施元之以浙西提刑除赣州军州事。<br /></div>
+-----end
+
+
+
+-----title
+风亭
+-----detail
+null
+-----end
+
+

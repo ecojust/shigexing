@@ -1,0 +1,80 @@
+
+-----title
+泰州 (出生地)
+-----detail
+<div class='label1' id='6f4cd7ffece64edd8a14a9f14b3ba364_label'><a href='javascript: DetailSwitch("6f4cd7ffece64edd8a14a9f14b3ba364");'><span id='6f4cd7ffece64edd8a14a9f14b3ba364_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=993&endYear=1011')">993-1011年</a>，1-19岁</div><div id='6f4cd7ffece64edd8a14a9f14b3ba364' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=993&endYear=993')">993年</a>　胡瑗生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=994&endYear=998')">994-998年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=999&endYear=999')">999年</a>　居乡，善属文。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1000&endYear=1004')">1000-1004年</a>　居乡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1005&endYear=1005')">1005年</a>　居乡，已通五经。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1006&endYear=1011')">1006-1011年</a>　居乡。<br /></div><div class='label1' id='a674a401b1e44e7793af3f01f01c082a_label'><a href='javascript: DetailSwitch("a674a401b1e44e7793af3f01f01c082a");'><span id='a674a401b1e44e7793af3f01f01c082a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1024&endYear=1024')">1024年</a>，32岁</div><div id='a674a401b1e44e7793af3f01f01c082a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1024&endYear=1024')">1024年</a>　与富弼、周孟阳读书于泰州东北八十里的读书堂。<br /></div><div class='label1' id='7b76dae906944689ae491fa00ac206fa_label'><a href='javascript: DetailSwitch("7b76dae906944689ae491fa00ac206fa");'><span id='7b76dae906944689ae491fa00ac206fa_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1041&endYear=1041')">1041年</a>，49岁</div><div id='7b76dae906944689ae491fa00ac206fa' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1041&endYear=1041')">1041年</a>　丁父忧，辞官归家奔丧。<br /></div>
+-----end
+
+
+
+-----title
+泰安
+-----detail
+<div class='label1' id='78b6a1a62150448cba4cdad36778ee0e_label'><a href='javascript: DetailSwitch("78b6a1a62150448cba4cdad36778ee0e");'><span id='78b6a1a62150448cba4cdad36778ee0e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1012&endYear=1023')">1012-1023年</a>，20-31岁</div><div id='78b6a1a62150448cba4cdad36778ee0e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1012&endYear=1023')">1012-1023年</a>　与孙复、石介读书泰山。<br /></div><div class='label1' id='163dddea4b4940daaa2140e292e47fe1_label'><a href='javascript: DetailSwitch("163dddea4b4940daaa2140e292e47fe1");'><span id='163dddea4b4940daaa2140e292e47fe1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1025&endYear=1029')">1025-1029年</a>，33-37岁</div><div id='163dddea4b4940daaa2140e292e47fe1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1025&endYear=1029')">1025-1029年</a>　与孙复、石介读书泰山。<br /></div>
+-----end
+
+
+
+-----title
+苏州
+-----detail
+<div class='label1' id='6ccc8bad724540c1b9c779cb716511ad_label'><a href='javascript: DetailSwitch("6ccc8bad724540c1b9c779cb716511ad");'><span id='6ccc8bad724540c1b9c779cb716511ad_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1035')">1034-1035年</a>，42-43岁</div><div id='6ccc8bad724540c1b9c779cb716511ad' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1034&endYear=1034')">1034年</a>　在苏州一带传授经术。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1035&endYear=1035')">1035年</a>　郡守范仲淹请立苏州郡学，聘胡瑗为教授。<br /></div><div class='label1' id='d7508457f30046558e1b8ae332225c02_label'><a href='javascript: DetailSwitch("d7508457f30046558e1b8ae332225c02");'><span id='d7508457f30046558e1b8ae332225c02_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1037&endYear=1038')">1037-1038年</a>，45-46岁</div><div id='d7508457f30046558e1b8ae332225c02' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1037&endYear=1037')">1037年</a>　在苏州府学任教授，期间严立学规。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1038&endYear=1038')">1038年</a>　在苏州郡学，与范仲淹书信，讨论学问根抵出处大节等事。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='87e74365386849559a01b073402dbf45_label'><a href='javascript: DetailSwitch("87e74365386849559a01b073402dbf45");'><span id='87e74365386849559a01b073402dbf45_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1036')">1036年</a>，44岁</div><div id='87e74365386849559a01b073402dbf45' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1036')">1036年二月丙辰</a>　应诏考定钟律。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1036')">1036年夏四月庚午</a>　诏天下有深达钟律者，以更定雅乐。范仲淹荐胡瑗，诏对崇政殿。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1036&endYear=1036')">1036年九月壬辰</a>　犹推恩而遣之，授试秘书省校书郎。<br /></div><div class='label1' id='9a5ac2e58b4449e3a50e3870cb0e6bfe_label'><a href='javascript: DetailSwitch("9a5ac2e58b4449e3a50e3870cb0e6bfe");'><span id='9a5ac2e58b4449e3a50e3870cb0e6bfe_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1059')">1050-1059年</a>，58-67岁</div><div id='9a5ac2e58b4449e3a50e3870cb0e6bfe' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')">1050年九月</a>　仁宗将有事于明堂。召胡瑗于大乐所，同邓保信等依详经典，历代制度，用上党秬黍，制成律吕度量等法物。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1050&endYear=1050')">1050年闰十一月丁卯</a>　上诏太子中舍致仕胡瑗定雅乐。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1051&endYear=1051')">1051年</a>　在京为太子中舍。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')">1052年二月壬午</a>　授大理评事兼太常主簿，辞不就。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1052&endYear=1052')">1052年十月甲戌</a>　同议大乐。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年</a>　铸十二钟成，大小轻重如一，状如类铎，为大环铸盘龙蹲熊辟邪其上，谓之旋蠡，而平击之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年九月前</a>　乐成，与阮逸进新书。作品：《皇祐新乐图记》3卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年</a>　乐成，有文。作品：《皇祐乐府奏议》1卷。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年九月</a>　仁宗御崇德殿，因制钟律成，特迁胡瑗为大理寺丞，赐绯衣银鱼，管勾太学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1053&endYear=1053')">1053年十二月</a>　以胡瑗等所著《皇祐新乐图记》，颂之天下。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1054&endYear=1055')">1054-1055年</a>　在京为大理寺丞、国子监直讲。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')">1056年十二月乙卯</a>　胡瑗乞外任，升为太子中允、天章阁侍讲。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1056&endYear=1056')">1056年</a>　欧阳修上书，仁宗又以胡瑗兼治太学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1057&endYear=1058')">1057-1058年</a>　在京为太子中允、天章阁侍讲。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')">1059年一月</a>　病不能朝，仁宗遣中贵人就问安否。<br /></div>
+-----end
+
+
+
+-----title
+宜川
+-----detail
+<div class='label1' id='5331bd066d4440e3ba83fdcd3de4bce1_label'><a href='javascript: DetailSwitch("5331bd066d4440e3ba83fdcd3de4bce1");'><span id='5331bd066d4440e3ba83fdcd3de4bce1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>，48岁</div><div id='5331bd066d4440e3ba83fdcd3de4bce1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>　由范仲淹荐任军事推官，参与幕府军事谋划。<br /></div>
+-----end
+
+
+
+-----title
+诸城
+-----detail
+<div class='label1' id='dd43e0396ed5443babf299427ad8bdba_label'><a href='javascript: DetailSwitch("dd43e0396ed5443babf299427ad8bdba");'><span id='dd43e0396ed5443babf299427ad8bdba_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>，48岁</div><div id='dd43e0396ed5443babf299427ad8bdba' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>　上书后不久，移密州观察推官。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='d667f131dab14d4496379638a5cc1255_label'><a href='javascript: DetailSwitch("d667f131dab14d4496379638a5cc1255");'><span id='d667f131dab14d4496379638a5cc1255_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>，48岁</div><div id='d667f131dab14d4496379638a5cc1255' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1040&endYear=1040')">1040年</a>　与李觏始会于钱塘。<br /></div><div class='label1' id='71042e969262473093ffcf3de9c6db08_label'><a href='javascript: DetailSwitch("71042e969262473093ffcf3de9c6db08");'><span id='71042e969262473093ffcf3de9c6db08_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')">1059年</a>，67岁</div><div id='71042e969262473093ffcf3de9c6db08' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')">1059年一月戌午</a>　拜太常博士致仕，从其子志康杭州节度推官以就养。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1059&endYear=1059')">1059年六月六日</a>　卒于杭州，上赙其家，并官其子一。<br /></div>
+-----end
+
+
+
+-----title
+湖州
+-----detail
+<div class='label1' id='1e0df5da7164453db6d36fff450372ec_label'><a href='javascript: DetailSwitch("1e0df5da7164453db6d36fff450372ec");'><span id='1e0df5da7164453db6d36fff450372ec_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1042&endYear=1049')">1042-1049年</a>，50-57岁</div><div id='1e0df5da7164453db6d36fff450372ec' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1042&endYear=1042')">1042年</a>　服阙。受湖州太守滕宗谅之聘，以保宁节度推官兼教授湖州州学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1043&endYear=1043')">1043年</a>　上书请兴武学，有文，时议难之。作品：《武学规矩》1卷。<div id='poem_1154851' class='_poem'><div id='poem_title_1154851' class='poemTitle showDetail'><a href='/Writing/1154851?labeling=true' target='_blank'>请兴武学疏<span class='inlineComment2'>（庆历中）</span></a><span class='authorDate'>（1043年）</span><span class='poemAuthor'><span class='inlineComment1'> 北宋 · </span><a href='javascript: ShowPoemAuthorProfile(29794, "北宋", "胡瑗", "poem_title_1154851")'>胡瑗</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_1154851_comment'></div><div class='poemContent' id='poem_content_1154851'><div class='articleSentence' id='poem_sentence_0_1154851'>顷岁吴育已建议兴武学，但官非其人，不久而废。<div class='inline' id='poem_sentence_0_1154851_comment'></div>今梅尧臣曾注《孙子》，大明深义；<div class='inline' id='poem_sentence_1_1154851_comment'></div>孙复以下，皆明经旨；<div class='inline' id='poem_sentence_2_1154851_comment'></div>臣曾任边陲，颇知武事。<div class='inline' id='poem_sentence_3_1154851_comment'></div>若使梅尧臣兼隶武学，每日只讲《论语》，使知仁义忠孝之道，讲《孙》、《吴》，使知制胜御敌之术，于武臣中选子孙有智略者三二百人教习之，则一二年必有成效。<div class='inline' id='poem_sentence_4_1154851_comment'></div>臣已选《武学规矩》一卷进呈。</div><div id='poem_sentence_5_1154851_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1044&endYear=1044')">1044年</a>　诏下湖州，取胡瑗讲学之法为太学法，有文。作品：《学正条约》1卷。<span class='inlineComment2'>（仁宗开天章阁，与大臣讲天下事，诏州县皆立学，建太学于京师。下湖州，取胡瑗教授弟子之法，以为太学法，著为令。）</span><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1045&endYear=1045')">1045年</a>　召为诸王宫教授，以疾辞，复改太子中舍。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')">1046年</a>　吴兴郡守宴郎简、范说、张维、刘维庆、周守中、吴炎六老于南园，酒酣赋诗，胡瑗为序其事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1046&endYear=1046')">1046年</a>　在湖州州学，李觏与书，讨论文学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1047&endYear=1049')">1047-1049年</a>　在湖州州学。<br /></div>
+-----end
+
+
+
+-----title
+泰山
+-----detail
+null
+-----end
+
+
+
+-----title
+南园
+-----detail
+null
+-----end
+
+

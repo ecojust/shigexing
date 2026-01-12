@@ -1,0 +1,40 @@
+
+-----title
+江苏 (出生地)
+-----detail
+<div class='label1' id='9fa7cc08198941cfa045459b03fa6409_label'><a href='javascript: DetailSwitch("9fa7cc08198941cfa045459b03fa6409");'><span id='9fa7cc08198941cfa045459b03fa6409_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')">1131年</a>，出生</div><div id='9fa7cc08198941cfa045459b03fa6409' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1131&endYear=1131')">1131年</a>　是年出生。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='e918cf8be63b47fbba62e4b43c217b32_label'><a href='javascript: DetailSwitch("e918cf8be63b47fbba62e4b43c217b32");'><span id='e918cf8be63b47fbba62e4b43c217b32_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1174')">1160-1174年</a>，30-44岁</div><div id='e918cf8be63b47fbba62e4b43c217b32' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1160&endYear=1160')">1160年</a>　是年登第并授宗正寺簿，迁太常丞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1164')">1161-1164年</a>　在太常丞任上。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1165&endYear=1165')">1165年5月12日</a>　以太常丞放罢。作品：《吴江县敕书楼记》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年6月</a>　除秘书丞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年9月</a>　迁殿中侍御史；重阳节与周必大等登高。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　在殿中侍御史任上；是年丁母忧，落职奉祠。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>　服除后复任侍御史。<br /></div>
+-----end
+
+
+
+-----title
+宜春
+-----detail
+<div class='label1' id='29a0756942eb4117a1352e1638f6acf5_label'><a href='javascript: DetailSwitch("29a0756942eb4117a1352e1638f6acf5");'><span id='29a0756942eb4117a1352e1638f6acf5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')">1175年</a>，45岁</div><div id='29a0756942eb4117a1352e1638f6acf5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')">1175年12月13日</a>　知袁州，以受贿罢。<br /></div>
+-----end
+
+
+
+-----title
+丽水
+-----detail
+<div class='label1' id='8b2bb105a56e45c2bf5914485e434244_label'><a href='javascript: DetailSwitch("8b2bb105a56e45c2bf5914485e434244");'><span id='8b2bb105a56e45c2bf5914485e434244_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')">1179年</a>，49岁</div><div id='8b2bb105a56e45c2bf5914485e434244' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1179&endYear=1179')">1179年11月1日</a>　知处州。<br /></div>
+-----end
+
+
+
+-----title
+潜山
+-----detail
+<div class='label1' id='04d8722a226c4252b3f992e7c34ef5e4_label'><a href='javascript: DetailSwitch("04d8722a226c4252b3f992e7c34ef5e4");'><span id='04d8722a226c4252b3f992e7c34ef5e4_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1189&endYear=1189')">1189年</a>，59岁</div><div id='04d8722a226c4252b3f992e7c34ef5e4' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1189&endYear=1189')">1189年</a>　知舒州，卒于任；友人范成大、蔡戡、陈造等有挽诗。<br /></div>
+-----end
+
+

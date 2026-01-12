@@ -1,0 +1,48 @@
+
+-----title
+莆田 (出生地)
+-----detail
+<div class='label1' id='d07904322fe143ea8e043573e48b43a2_label'><a href='javascript: DetailSwitch("d07904322fe143ea8e043573e48b43a2");'><span id='d07904322fe143ea8e043573e48b43a2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1090')">1088-1090年</a>，1-3岁</div><div id='d07904322fe143ea8e043573e48b43a2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1088&endYear=1088')">1088年</a>　蔡伸生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1089&endYear=1089')">1089年</a>　不详。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1090&endYear=1090')">1090年</a>　伸父旻卒，此后养于外家。<br /></div>
+-----end
+
+
+
+-----title
+开封
+-----detail
+<div class='label1' id='a57656e3f43349c4ada7e09b0f7ab473_label'><a href='javascript: DetailSwitch("a57656e3f43349c4ada7e09b0f7ab473");'><span id='a57656e3f43349c4ada7e09b0f7ab473_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1120')">1115-1120年</a>，28-33岁</div><div id='a57656e3f43349c4ada7e09b0f7ab473' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1115&endYear=1115')">1115年</a>　进士及第。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1120&endYear=1120')">1120年</a>　释褐将仕郎、辟雍正，入太学，为博士。又知潍州北海县。除京东提举学事司干当公事。<br /></div>
+-----end
+
+
+
+-----title
+徐州（彭城）
+-----detail
+<div class='label1' id='ef82ce5757aa4a1aa2ccbbcbd8863bd1_label'><a href='javascript: DetailSwitch("ef82ce5757aa4a1aa2ccbbcbd8863bd1");'><span id='ef82ce5757aa4a1aa2ccbbcbd8863bd1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1126')">1122-1126年</a>，35-39岁</div><div id='ef82ce5757aa4a1aa2ccbbcbd8863bd1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1122&endYear=1122')">1122年</a>　与同僚向子諲以词唱和。作品：《浣溪沙·壬寅五月西湖》、《南乡子（木落雁南翔）》<div id='poem_248511' class='_poem'><div id='poem_title_248511' class='poemTitle showDetail'><a href='/Writing/248511?labeling=true' target='_blank'>浣溪沙<span style='margin: 0 0.5em'> 其一 </span>壬寅五月西湖</a><span class='authorDate'>（1122年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31339, "宋", "蔡伸", "poem_title_248511")'>蔡伸</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_248511_comment'></div><div class='poemContent' id='poem_content_248511'><div class='poemSentence' id='poem_sentence_0_248511'>双佩雷文拂手香。<div id='poem_sentence_0_248511_comment'></div></div><div class='poemSentence' id='poem_sentence_1_248511'>青纱衫子淡梳妆。<div id='poem_sentence_1_248511_comment'></div></div><div class='poemSentence' id='poem_sentence_2_248511'>冰姿绰约自生凉。<div id='poem_sentence_2_248511_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_3_248511'>虚掉玉钗惊翡翠，缓移兰棹趁鸳鸯。<div id='poem_sentence_3_248511_comment'></div></div><div class='poemSentence' id='poem_sentence_4_248511'>鬓鬟风乱绿云长。</div><div id='poem_sentence_4_248511_comment'></div></div></div><div id='poem_248476' class='_poem'><div id='poem_title_248476' class='poemTitle showDetail'><a href='/Writing/248476?labeling=true' target='_blank'>南乡子<span style='margin: 0 0.5em'> 其一 </span></a><span class='authorDate'>（1122年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31339, "宋", "蔡伸", "poem_title_248476")'>蔡伸</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_248476_comment'></div><div class='poemContent' id='poem_content_248476'><div class='poemSentence' id='poem_sentence_0_248476'>天外雨初收。<div id='poem_sentence_0_248476_comment'></div></div><div class='poemSentence' id='poem_sentence_1_248476'>风紧云轻已变秋。<div id='poem_sentence_1_248476_comment'></div></div><div class='poemSentence' id='poem_sentence_2_248476'>邂逅故人同一笑，迟留。<div id='poem_sentence_2_248476_comment'></div></div><div class='poemSentence' id='poem_sentence_3_248476'>聚散人生宜自谋。<div id='poem_sentence_3_248476_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_248476'>去路指南州。<div id='poem_sentence_4_248476_comment'></div></div><div class='poemSentence' id='poem_sentence_5_248476'>万顷云涛一叶舟。<div id='poem_sentence_5_248476_comment'></div></div><div class='poemSentence' id='poem_sentence_6_248476'>莫话太湖波浪险，归休。<div id='poem_sentence_6_248476_comment'></div></div><div class='poemSentence' id='poem_sentence_7_248476'>人在溪边正倚楼。</div><div id='poem_sentence_7_248476_comment'></div></div></div><div id='poem_248477' class='_poem'><div id='poem_title_248477' class='poemTitle showDetail'><a href='/Writing/248477?labeling=true' target='_blank'><span style='margin: 0 0.5em'> 其二 </span></a><span class='authorDate'>（1122年）</span><br /><div class='titleIndent'></div></div><div id='poem_title_248477_comment'></div><div class='titleComment' id='poem_preface_248477'>宣和壬寅，予与向伯恭俱为大漕属官，向有词云：“书续断肠。”因为此词</div><div id='poem_preface_248477_comment'></div><div class='poemContent' id='poem_content_248477'><div class='poemSentence' id='poem_sentence_0_248477'>木落雁南翔。<div id='poem_sentence_0_248477_comment'></div></div><div class='poemSentence' id='poem_sentence_1_248477'>锦鲤殷勤为渡江。<div id='poem_sentence_1_248477_comment'></div></div><div class='poemSentence' id='poem_sentence_2_248477'>泪墨银钩相忆字，成行。<div id='poem_sentence_2_248477_comment'></div></div><div class='poemSentence' id='poem_sentence_3_248477'>滴损云笺小凤皇。<div id='poem_sentence_3_248477_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_248477'>陈事费思量。<div id='poem_sentence_4_248477_comment'></div></div><div class='poemSentence' id='poem_sentence_5_248477'>回首烟波卷夕阳。<div id='poem_sentence_5_248477_comment'></div></div><div class='poemSentence' id='poem_sentence_6_248477'>尽道凭书聊破恨，难忘。<div id='poem_sentence_6_248477_comment'></div></div><div class='poemSentence' id='poem_sentence_7_248477'>及至书来更断肠。</div><div id='poem_sentence_7_248477_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1123&endYear=1125')">1123-1125年</a><div id='poem_248417' class='_poem'><div id='poem_title_248417' class='poemTitle showDetail'><a href='/Writing/248417?labeling=true' target='_blank'>小重山<span style='margin: 0 0.5em'> 其三 </span></a><span class='authorDate'>（1125年）</span><span class='poemAuthor'><span class='inlineComment1'> 宋 · </span><a href='javascript: ShowPoemAuthorProfile(31339, "宋", "蔡伸", "poem_title_248417")'>蔡伸</a></span><br /><div class='titleIndent'></div></div><div id='poem_title_248417_comment'></div><div class='titleComment' id='poem_preface_248417'>宣和甲辰，余自彭城倅沿檄燕山，取道莫闾。见所谓陈懿者于州治之筹边阁，诚不负所闻。明年归，则陈已入道矣。崔守呼之至，即席赠此</div><div id='poem_preface_248417_comment'></div><div class='poemContent' id='poem_content_248417'><div class='poemSentence' id='poem_sentence_0_248417'>流水桃花小洞天。<div id='poem_sentence_0_248417_comment'></div></div><div class='poemSentence' id='poem_sentence_1_248417'>壶中春不老，胜尘寰。<div id='poem_sentence_1_248417_comment'></div></div><div class='poemSentence' id='poem_sentence_2_248417'>霞衣鹤氅并桃冠。<div id='poem_sentence_2_248417_comment'></div></div><div class='poemSentence' id='poem_sentence_3_248417'>新装好，风韵愈飘然。<div id='poem_sentence_3_248417_comment'></div></div><br /><div class='poemSentence' id='poem_sentence_4_248417'>功行满三千。<div id='poem_sentence_4_248417_comment'></div></div><div class='poemSentence' id='poem_sentence_5_248417'>婴儿并姹女，炼成丹。<div id='poem_sentence_5_248417_comment'></div></div><div class='poemSentence' id='poem_sentence_6_248417'>刘郎曾约共升仙。<div id='poem_sentence_6_248417_comment'></div></div><div class='poemSentence' id='poem_sentence_7_248417'>十个月，养个小金坛。</div><div id='poem_sentence_7_248417_comment'></div></div></div><br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>　以智计平息禁卒之乱。<br /></div>
+-----end
+
+
+
+-----title
+安阳
+-----detail
+<div class='label1' id='d14f63b2970841d1803ef2302f649f1b_label'><a href='javascript: DetailSwitch("d14f63b2970841d1803ef2302f649f1b");'><span id='d14f63b2970841d1803ef2302f649f1b_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年</a>，39岁</div><div id='d14f63b2970841d1803ef2302f649f1b' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1126&endYear=1126')">1126年12月</a>　赴康王大元帅幕府，参议军事。<br /></div>
+-----end
+
+
+
+-----title
+商丘
+-----detail
+<div class='label1' id='dd23a17b855a463095cf156d81da0603_label'><a href='javascript: DetailSwitch("dd23a17b855a463095cf156d81da0603");'><span id='dd23a17b855a463095cf156d81da0603_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>，40岁</div><div id='dd23a17b855a463095cf156d81da0603' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1127&endYear=1127')">1127年</a>　康王即皇帝位，蔡伸随侍。<br /></div>
+-----end
+
+
+
+-----title
+殷墟
+-----detail
+null
+-----end
+
+

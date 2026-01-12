@@ -1,0 +1,129 @@
+
+-----title
+建阳 (出生地)
+-----detail
+<div class='label1' id='5bb6a553100a4bfb88ba37288fb0cc7d_label'><a href='javascript: DetailSwitch("5bb6a553100a4bfb88ba37288fb0cc7d");'><span id='5bb6a553100a4bfb88ba37288fb0cc7d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1171')">1144-1171年</a>，1-28岁</div><div id='5bb6a553100a4bfb88ba37288fb0cc7d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1144&endYear=1144')">1144年11月12日</a>　十月十二日，公生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1146&endYear=1146')">1146年8月</a>　八月，仲弟昺生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1153&endYear=1153')">1153年10月</a>　公习《书》大义。十月，丁母吴郡夫人连氏忧。某月某日，葬母吴郡夫人。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1161&endYear=1161')">1161年</a>　公入郡学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1162&endYear=1162')">1162年</a>　与乡贡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')">1168年1月</a>　正月，公娶李氏。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1168&endYear=1168')">1168年12月</a>　十二月，子堂生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1170&endYear=1170')">1170年</a>　公与弟韬仲从文公游于寒泉。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1171&endYear=1171')">1171年</a>　再与乡贡。<br /></div><div class='label1' id='3b940f7f0a4344358f9fda4cf220175a_label'><a href='javascript: DetailSwitch("3b940f7f0a4344358f9fda4cf220175a");'><span id='3b940f7f0a4344358f9fda4cf220175a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')">1175年</a>，32岁</div><div id='3b940f7f0a4344358f9fda4cf220175a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')">1175年</a>　公至自会昌。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1175&endYear=1175')">1175年5月</a>　五月，从朱文公、吕成公游于寒泉。公以文公、成公介见南轩先生张宣公，宣公大奇之。<br /></div><div class='label1' id='354211904eec42d387604aac7b966852_label'><a href='javascript: DetailSwitch("354211904eec42d387604aac7b966852");'><span id='354211904eec42d387604aac7b966852_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年</a>，34岁</div><div id='354211904eec42d387604aac7b966852' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1177&endYear=1177')">1177年</a>　公侍金紫公至自会昌。<br /></div><div class='label1' id='245ec1afcaf14acbb8696df9dc688062_label'><a href='javascript: DetailSwitch("245ec1afcaf14acbb8696df9dc688062");'><span id='245ec1afcaf14acbb8696df9dc688062_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1191')">1191年</a>，48岁</div><div id='245ec1afcaf14acbb8696df9dc688062' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1191')">1191年春</a>　春，公至自漳州。<br /></div><div class='label1' id='c183574171b64e878beeaaa431f2a875_label'><a href='javascript: DetailSwitch("c183574171b64e878beeaaa431f2a875");'><span id='c183574171b64e878beeaaa431f2a875_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年</a>，54岁</div><div id='c183574171b64e878beeaaa431f2a875' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1197&endYear=1197')">1197年12月</a>　十二月，葬金紫公。<br /></div><div class='label1' id='9e44e14df21e422b869bb0af3f7bda02_label'><a href='javascript: DetailSwitch("9e44e14df21e422b869bb0af3f7bda02");'><span id='9e44e14df21e422b869bb0af3f7bda02_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>，55岁</div><div id='9e44e14df21e422b869bb0af3f7bda02' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年7月</a>　七月，除服，创新居，八月落成。西山先生蔡季通殁于道州，讣至，公设位哭之。<br /></div><div class='label1' id='68493f34f2b741609ccee65ecb939acc_label'><a href='javascript: DetailSwitch("68493f34f2b741609ccee65ecb939acc");'><span id='68493f34f2b741609ccee65ecb939acc_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')">1207年</a>，64岁</div><div id='68493f34f2b741609ccee65ecb939acc' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')">1207年6月</a>　六月，受代归。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')">1207年8月</a>　八月，磨勘转朝散大夫。<br /></div><div class='label1' id='0fe28dbfb45b46599f03b2f7661eecd3_label'><a href='javascript: DetailSwitch("0fe28dbfb45b46599f03b2f7661eecd3");'><span id='0fe28dbfb45b46599f03b2f7661eecd3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1210')">1210年</a>，67岁</div><div id='0fe28dbfb45b46599f03b2f7661eecd3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1210')">1210年12月</a>　十二月，除国子司业。葬鲁国夫人。<br /></div>
+-----end
+
+
+
+-----title
+杭州
+-----detail
+<div class='label1' id='4965cb241689440cad5db23650072a4e_label'><a href='javascript: DetailSwitch("4965cb241689440cad5db23650072a4e");'><span id='4965cb241689440cad5db23650072a4e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>，29岁</div><div id='4965cb241689440cad5db23650072a4e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1172&endYear=1172')">1172年</a>　试礼部。以文公书，受学于东莱先生吕成公。登进士第，授迪功郞，调绍兴府山阴县主簿。<br /></div><div class='label1' id='8786e856e5324dbd8f368e4b59fb8e1c_label'><a href='javascript: DetailSwitch("8786e856e5324dbd8f368e4b59fb8e1c");'><span id='8786e856e5324dbd8f368e4b59fb8e1c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')">1194年</a>，51岁</div><div id='8786e856e5324dbd8f368e4b59fb8e1c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')">1194年9月</a>　九月，至自闽县。公如京师。<br /></div><div class='label1' id='d09f2116d048484181c96a4dedc8aa18_label'><a href='javascript: DetailSwitch("d09f2116d048484181c96a4dedc8aa18");'><span id='d09f2116d048484181c96a4dedc8aa18_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')">1195年</a>，52岁</div><div id='d09f2116d048484181c96a4dedc8aa18' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1195&endYear=1195')">1195年春</a>　春，至自京师。<br /></div><div class='label1' id='812b824226d14ac78556ac6be7bfc266_label'><a href='javascript: DetailSwitch("812b824226d14ac78556ac6be7bfc266");'><span id='812b824226d14ac78556ac6be7bfc266_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>，55岁</div><div id='812b824226d14ac78556ac6be7bfc266' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年9月</a>　九月，公于京师，调赣州坑冶司主管文字。<br /></div><div class='label1' id='33ee02c74eb641c3b6aa24450347a0ac_label'><a href='javascript: DetailSwitch("33ee02c74eb641c3b6aa24450347a0ac");'><span id='33ee02c74eb641c3b6aa24450347a0ac_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年</a>，59岁</div><div id='33ee02c74eb641c3b6aa24450347a0ac' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年5月</a>　五月，公至自赣州。如京师。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1202&endYear=1202')">1202年8月</a>　八月，差知德庆府。陛辞奏事，论县邑销注簿书及州县役使兵级之弊。<br /></div><div class='label1' id='53eb768e413540b5aef25850827d3fc2_label'><a href='javascript: DetailSwitch("53eb768e413540b5aef25850827d3fc2");'><span id='53eb768e413540b5aef25850827d3fc2_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')">1207年</a>，64岁</div><div id='53eb768e413540b5aef25850827d3fc2' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')">1207年10月</a>　十月，任满，上殿奏事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1207&endYear=1207')">1207年11月</a>　十一月，除提举广东常平茶盐事。<br /></div><div class='label1' id='836eb85f57b24cb3b697c449862faa18_label'><a href='javascript: DetailSwitch("836eb85f57b24cb3b697c449862faa18");'><span id='836eb85f57b24cb3b697c449862faa18_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1210')">1209-1210年</a>，66-67岁</div><div id='836eb85f57b24cb3b697c449862faa18' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')">1209年8月</a>　八月，上殿奏事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')">1209年9月</a>　九月，除尚左郞官。鲁国夫人李氏薨于里第，奏乞节内外冗费以收楮帛。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')">1209年10月</a>　十月，轮对，奏乞于经筵讲读，特加访问事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1210')">1210年1月</a>　正月，轮对，奏乞收拾人才及修明军政等事，与典春班、改官人选事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1210&endYear=1210')">1210年5月</a>　五月，除两浙西路提点刑狱公事。<br /></div><div class='label1' id='dc8bce40e1ac4216a6c1f122313bf135_label'><a href='javascript: DetailSwitch("dc8bce40e1ac4216a6c1f122313bf135");'><span id='dc8bce40e1ac4216a6c1f122313bf135_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')">1211年</a>，68岁</div><div id='dc8bce40e1ac4216a6c1f122313bf135' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')">1211年1月</a>　正月，公造朝供职，奏乞开伪学禁，奏乞以朱熹白鹿洞规颁于太学，刊朱熹《四书》于太学，奏乞重浙西根本。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')">1211年8月</a>　八月，磨勘转朝请大夫。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')">1211年9月</a>　九月，兼国史院编修官、实录院检讨官。<br /></div><div class='label1' id='cb692956400a449abf63470a7d3e2f2f_label'><a href='javascript: DetailSwitch("cb692956400a449abf63470a7d3e2f2f");'><span id='cb692956400a449abf63470a7d3e2f2f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1216')">1211-1216年</a>，68-73岁</div><div id='cb692956400a449abf63470a7d3e2f2f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')">1211年12月</a>　十二月，至自盱眙军。内引奏事，乞经理两淮屯田，行内政府兵之法。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1212')">1212年2月</a>　二月，除国子祭酒，兼侍立修注官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1212')">1212年5月</a>　五月，面对，论贡举五弊。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1212')">1212年9月</a>　九月，经筵彻章，转朝议大夫。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1212')">1212年10月</a>　十月，兼权兵部侍郞，改兼权刑部侍郞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1212&endYear=1212')">1212年11月</a>　十一月，面对，论经筵讲读，乞加访问，乞颁示文体，乞定州郡例册。郊祀恩，特封建阳县开国男，食邑三百户，赐紫金鱼袋。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年4月</a>　四月，除权刑部侍郞，兼国子祭酒。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年5月</a>　五月，兼太子左谕德。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年7月</a>　七月，升同修国史、实录院同修撰。撰《律历志》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年9月</a>　九月，上殿奏事，论君子小人和同之异，乞择诸州县狱官。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年10月</a>　冬十月，雷，上恐惧，公面对，乞访求民政得失，乞择沿边将帅。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1213&endYear=1213')">1213年12月</a>　十二月，兼工部侍郞。奏乞措置江淮民兵。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年1月</a>　正月，同知贡举。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年5月</a>　五月，奏乞城沿边州郡。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年7月26日</a>　此日，奏乞罢遣贺正使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年8月</a>　八月，磨勘转中大夫，除试刑部侍郞，兼职依旧，赐对衣金带，辞，不允。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年9月</a>　九月，讲堂彻章，转太中大夫，辞，不允。乞致仕。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1214&endYear=1214')">1214年10月</a>　十月，奏乞绝金虏岁币。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年1月</a>　正月，再乞致仕。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年2月</a>　二月，奏乞建制置司于历阳以援两淮。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年4月</a>　四月，旱，应诏奏乞将中外书疏付给舍讲究施行。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年8月</a>　八月，乞罢瑞庆圣节锡宴，谢绝虏使。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年8月</a>　八月，公以庆元奸臣诬朱文公、蔡西山移学事白宰相，复建阳县学。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年9月</a>　九月，明堂大礼，进封建阳县开国子，食邑二百户，改奏子垕承务郞，监湖州嘉兴府乌青镇。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年10月</a>　十月，除权工部尙书，赐衣带鞍马。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年11月</a>　十一月，兼太子右庶子，仍兼左谕德，辞，不允。编次《礼记解》<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1215&endYear=1215')">1215年11月</a>　十一月，弟韬仲殁于家。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1216')">1216年1月</a>　正月，三乞致仕。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1216&endYear=1216')">1216年2月15日</a>　二月，公寝疾。此日，薨于位。赠光禄大夫。<br /></div>
+-----end
+
+
+
+-----title
+会昌
+-----detail
+<div class='label1' id='4697807a21dc4372a356d272772b94e3_label'><a href='javascript: DetailSwitch("4697807a21dc4372a356d272772b94e3");'><span id='4697807a21dc4372a356d272772b94e3_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>，31岁</div><div id='4697807a21dc4372a356d272772b94e3' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1174&endYear=1174')">1174年</a>　父金紫公之官会昌。<br /></div><div class='label1' id='7e92f104285c4ad2831df5f1ebf3a4f1_label'><a href='javascript: DetailSwitch("7e92f104285c4ad2831df5f1ebf3a4f1");'><span id='7e92f104285c4ad2831df5f1ebf3a4f1_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')">1176年</a>，33岁</div><div id='7e92f104285c4ad2831df5f1ebf3a4f1' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1176&endYear=1176')">1176年</a>　公如会昌觐省。<br /></div>
+-----end
+
+
+
+-----title
+绍兴（山阴）
+-----detail
+<div class='label1' id='92645e5c214d45cf9a107b9615a86287_label'><a href='javascript: DetailSwitch("92645e5c214d45cf9a107b9615a86287");'><span id='92645e5c214d45cf9a107b9615a86287_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1181')">1178-1181年</a>，35-38岁</div><div id='92645e5c214d45cf9a107b9615a86287' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1178&endYear=1178')">1178年2月</a>　二月，之官山阴。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1181&endYear=1181')">1181年</a>　公任满参部，关升从政郞，调饶州录事参
+军。<br /></div>
+-----end
+
+
+
+-----title
+鄱阳
+-----detail
+<div class='label1' id='c658fdfca0a046a79b298a9a1b8e3976_label'><a href='javascript: DetailSwitch("c658fdfca0a046a79b298a9a1b8e3976");'><span id='c658fdfca0a046a79b298a9a1b8e3976_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1184')">1182-1184年</a>，39-41岁</div><div id='c658fdfca0a046a79b298a9a1b8e3976' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1182&endYear=1182')">1182年2月</a>　二月，之官饶州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1183&endYear=1183')">1183年</a>　公在饶州入幕。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1184&endYear=1184')">1184年</a>　公在饶州。洪丞相举公改官，公辞。<br /></div>
+-----end
+
+
+
+-----title
+上饶
+-----detail
+<div class='label1' id='2cbb6665a53d45b6bba56d257e54cf62_label'><a href='javascript: DetailSwitch("2cbb6665a53d45b6bba56d257e54cf62");'><span id='2cbb6665a53d45b6bba56d257e54cf62_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')">1185年</a>，42岁</div><div id='2cbb6665a53d45b6bba56d257e54cf62' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')">1185年</a>　公任满，至自饶州，如信州觐省。参部，调汀州莲城令。<br /></div>
+-----end
+
+
+
+-----title
+连城（莲城）
+-----detail
+<div class='label1' id='baebc875b8c7407081f253781983e08d_label'><a href='javascript: DetailSwitch("baebc875b8c7407081f253781983e08d");'><span id='baebc875b8c7407081f253781983e08d_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1190')">1185-1190年</a>，42-47岁</div><div id='baebc875b8c7407081f253781983e08d' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')">1185年10月</a>　十月，之官莲城，罢添给钱及纲运例钱,免上供银钱及纲本、甲叶、钞盐、军期米等钱。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1185&endYear=1185')">1185年</a>　公遣子垕觐省金紫公于家， 如南剑受学于韬仲。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1186&endYear=1186')">1186年</a>　不详。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1187&endYear=1187')">1187年</a>　公在莲城，大修学校，申诸监司乞行经界。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1188&endYear=1188')">1188年春</a>　春，以郊恩转奉职郎，赐绯鱼袋。是岁金紫公乞致仕，转通直郞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1189&endYear=1189')">1189年</a>　不详。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')">1190年2月</a>　二月，磨勘转承议郞。<br /></div>
+-----end
+
+
+
+-----title
+漳州（龙溪）
+-----detail
+<div class='label1' id='a0f9ad16b83a45d188a8a121cbeb7f8c_label'><a href='javascript: DetailSwitch("a0f9ad16b83a45d188a8a121cbeb7f8c");'><span id='a0f9ad16b83a45d188a8a121cbeb7f8c_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')">1190年</a>，47岁</div><div id='a0f9ad16b83a45d188a8a121cbeb7f8c' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1190&endYear=1190')">1190年冬</a>　文公守漳州，乞行经界，请于漕司，檄公为属。冬，公如漳州。<br /></div>
+-----end
+
+
+
+-----title
+福州（闽县）
+-----detail
+<div class='label1' id='539a4c430d3f4ec2949efa5bc29653ed_label'><a href='javascript: DetailSwitch("539a4c430d3f4ec2949efa5bc29653ed");'><span id='539a4c430d3f4ec2949efa5bc29653ed_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1193')">1191-1193年</a>，48-50岁</div><div id='539a4c430d3f4ec2949efa5bc29653ed' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1191&endYear=1191')">1191年8月</a>　八月，之官闽县。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1192&endYear=1193')">1192-1193年</a>　公在闽县。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1193&endYear=1193')">1193年4月</a>　四月，磨勘转朝奉郞。<br /></div>
+-----end
+
+
+
+-----title
+长沙
+-----detail
+<div class='label1' id='3f5c510ed3be4daa826a9f75579920da_label'><a href='javascript: DetailSwitch("3f5c510ed3be4daa826a9f75579920da");'><span id='3f5c510ed3be4daa826a9f75579920da_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')">1194年</a>，51岁</div><div id='3f5c510ed3be4daa826a9f75579920da' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1194&endYear=1194')">1194年11月</a>　十一月，覃恩转朝散郞，差通判潭州军州事。<br /></div>
+-----end
+
+
+
+-----title
+武夷山（崇安）
+-----detail
+<div class='label1' id='f48008be40f94180ba961aafd024e7f5_label'><a href='javascript: DetailSwitch("f48008be40f94180ba961aafd024e7f5");'><span id='f48008be40f94180ba961aafd024e7f5_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>，55岁</div><div id='f48008be40f94180ba961aafd024e7f5' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年</a>　公从文公游武夷精舍，即其旁创云庄山房。<br /></div>
+-----end
+
+
+
+-----title
+赣州（赣县）
+-----detail
+<div class='label1' id='ced88b3956ae4581b62976c7fb00564f_label'><a href='javascript: DetailSwitch("ced88b3956ae4581b62976c7fb00564f");'><span id='ced88b3956ae4581b62976c7fb00564f_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1201')">1198-1201年</a>，55-58岁</div><div id='ced88b3956ae4581b62976c7fb00564f' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1198&endYear=1198')">1198年12月</a>　十二月，之官赣州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>　公在赣州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>　七月，磨勘转朝请郞。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1199&endYear=1199')">1199年</a>　九月，女章生。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')">1200年</a>　公在赣州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1200&endYear=1200')">1200年3月</a>　三月，文公晦庵先生殁，讣至，偕秘书杨子直设位于僧舍哭之。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年</a>　公在赣州。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1201&endYear=1201')">1201年12月</a>　十二月，女贡生。<br /></div>
+-----end
+
+
+
+-----title
+德庆（端溪）
+-----detail
+<div class='label1' id='954a3b38ecaf4959aa73ca7e2e16521a_label'><a href='javascript: DetailSwitch("954a3b38ecaf4959aa73ca7e2e16521a");'><span id='954a3b38ecaf4959aa73ca7e2e16521a_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1206')">1204-1206年</a>，61-63岁</div><div id='954a3b38ecaf4959aa73ca7e2e16521a' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1204&endYear=1204')">1204年12月</a>　十二月，孙男钦生。之官德庆府。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')">1205年2月</a>　二月，视郡事，首大修学校。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1205&endYear=1205')">1205年8月</a>　八月，奏便民五事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1206&endYear=1206')">1206年</a>　公在德庆府。奏罢两县无名租钱，纠集武勇乡兵。<br /></div>
+-----end
+
+
+
+-----title
+广州
+-----detail
+<div class='label1' id='b1b8ba2da7d14639a65dde6ae8eb6b9e_label'><a href='javascript: DetailSwitch("b1b8ba2da7d14639a65dde6ae8eb6b9e");'><span id='b1b8ba2da7d14639a65dde6ae8eb6b9e_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1209')">1208-1209年</a>，65-66岁</div><div id='b1b8ba2da7d14639a65dde6ae8eb6b9e' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')">1208年5月</a>　五月，之官广东，核实常平义仓，拨公使、公用二库赢钱补盐司逋欠。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1208&endYear=1208')">1208年11月</a>　十一月，奏便民五事。<br /><a href="javascript: ViewDetail('scope=&author=&beginYear=1209&endYear=1209')">1209年2月</a>　二月，召赴行在。<br /></div>
+-----end
+
+
+
+-----title
+盱眙
+-----detail
+<div class='label1' id='30be5709acf04f9696f4977920609aee_label'><a href='javascript: DetailSwitch("30be5709acf04f9696f4977920609aee");'><span id='30be5709acf04f9696f4977920609aee_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')">1211年</a>，68岁</div><div id='30be5709acf04f9696f4977920609aee' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1211&endYear=1211')">1211年11月</a>　十一月，接伴金国贺正使于盱眙军。<br /></div>
+-----end
+
+
+
+-----title
+邵武
+-----detail
+<div class='label1' id='9ecf67cffa1445de928f5ad0c56e0689_label'><a href='javascript: DetailSwitch("9ecf67cffa1445de928f5ad0c56e0689");'><span id='9ecf67cffa1445de928f5ad0c56e0689_link' class='switch'>—</span></a><a href="javascript: ViewDetail('scope=&author=&beginYear=1217&endYear=1217')">1217年</a>，卒后1年</div><div id='9ecf67cffa1445de928f5ad0c56e0689' class='detail'><a href="javascript: ViewDetail('scope=&author=&beginYear=1217&endYear=1217')">1217年10月6日</a>　此日，葬公，墓在邵武军邵武县仁泽乡之桂林。工部郞中陈公孔硕撰公行状，上太常请谥。<br /></div>
+-----end
+
+
