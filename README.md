@@ -1,7 +1,108 @@
-# Tauri + Vue + TypeScript
+# 王勃生平时间线 Excel 生成器
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+这个项目用于解析王勃生平时间线文档并生成 Excel 文件。
 
-## Recommended IDE Setup
+## 功能特点
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- 📊 将王勃生平时间线数据转换为 Excel 格式
+- 🎯 包含时间、地点、详情、作品四个维度
+- 📈 自动设置列宽和行高，优化显示效果
+- 🔍 提供数据预览和统计信息
+
+## 安装依赖
+
+```bash
+npm install
+```
+
+## 使用方法
+
+### 方法 1：直接生成 Excel（推荐）
+
+```bash
+npm run start
+# 或者
+node generate_excel.js
+```
+
+### 方法 2：解析原始 HTML 文档
+
+```bash
+node parse_wangbo_history.js
+```
+
+## 输出文件
+
+运行成功后会在当前目录生成：
+
+- `王勃生平时间线.xlsx` - Excel 格式的时间线数据
+
+## 数据结构
+
+Excel 文件包含以下列：
+
+| 列名 | 说明                   | 示例                       |
+| ---- | ---------------------- | -------------------------- |
+| 时间 | 具体年份或年份范围     | 650-660 年, 668 年 7 月    |
+| 地点 | 王勃当时所在地点       | 河津（龙门）, 西安（长安） |
+| 详情 | 该时期的重要事件和经历 | 六岁即善文辞，构思无滞     |
+| 作品 | 该时期创作的文学作品   | 《指瑕》, 《上刘右相书》   |
+
+## 数据覆盖范围
+
+- **时间跨度**: 650 年 - 674 年（王勃一生 24 年）
+- **主要地点**: 河津（龙门）、西安（长安）
+- **记录条数**: 18 条详细时间线记录
+- **作品统计**: 涵盖王勃主要文学作品
+
+## 项目结构
+
+```
+├── src/data/
+│   └── 王勃_history.txt          # 原始HTML格式数据
+├── parse_wangbo_history.js       # HTML解析脚本
+├── generate_excel.js             # Excel生成脚本（推荐使用）
+├── package.json                  # 项目配置
+├── README.md                     # 说明文档
+└── 王勃生平时间线表格.md         # Markdown格式的时间线表格
+```
+
+## 依赖说明
+
+- `xlsx`: 用于生成 Excel 文件的核心库
+
+## 注意事项
+
+1. 确保已安装 Node.js 环境
+2. 运行前请先执行 `npm install` 安装依赖
+3. 生成的 Excel 文件会覆盖同名文件
+4. 数据基于历史文献整理，具有一定的学术参考价值
+
+## 示例输出
+
+```
+🚀 王勃生平时间线Excel生成器
+==================================================
+
+📋 数据预览 (前5条):
+====================================================================================================
+1. 【650-660年】 河津（龙门）
+   详情: 1-11岁，出生地。650-654年居于家乡龙门；655年六岁即善文辞，构思无滞；658年九岁读颜师古注《汉书》...
+   作品: 《指瑕》
+--------------------------------------------------------------------------------
+2. 【661年】 西安（长安）
+   详情: 12岁。从医者曹元学，并依其受《周易章句》、《黄帝素问》、《难经》
+   作品: -
+--------------------------------------------------------------------------------
+
+✅ Excel文件生成成功: 王勃生平时间线.xlsx
+📊 共包含 18 条记录
+📁 文件位置: /current/directory/王勃生平时间线.xlsx
+
+📈 数据统计:
+⏰ 时间跨度: 650年 - 674年
+📍 涉及地点: 河津（龙门）、西安（长安）
+📚 作品数量: 15 个时期有作品记录
+
+✨ 处理完成！
+```

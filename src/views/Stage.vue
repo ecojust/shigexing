@@ -20,8 +20,8 @@ onMounted(async () => {
 
   // 初始化应用
   await app.init({
-    width: 800,
-    height: 600,
+    width: 1024,
+    height: 768,
     backgroundColor: 0x1099bb,
     antialias: true,
   });
