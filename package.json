@@ -1,22 +1,31 @@
 {
-  "name": "wangbo-history-parser",
-  "version": "1.0.0",
-  "description": "解析王勃生平时间线文档并生成Excel文件",
-  "main": "parse_wangbo_history.js",
+  "name": "shigexing",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
   "scripts": {
-    "start": "node parse_wangbo_history.js",
-    "parse": "node parse_wangbo_history.js"
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "logo": "cargo tauri icon ./logo.png"
   },
   "dependencies": {
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+    "@element-plus/icons-vue": "^2.3.2",
+    "@tauri-apps/api": "^2",
+    "@tauri-apps/plugin-opener": "^2",
+    "element-plus": "^2.11.1",
+    "pixi.js": "^8.15.0",
+    "vue": "^3.5.13",
+    "vue-router": "4"
   },
-  "keywords": [
-    "王勃",
-    "历史",
-    "时间线",
-    "excel",
-    "解析"
-  ],
-  "author": "",
-  "license": "MIT"
+  "devDependencies": {
+    "@tauri-apps/cli": "^2",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "less": "^4.4.1",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.3",
+    "vue-tsc": "^2.1.10"
+  }
 }
