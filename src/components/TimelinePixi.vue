@@ -1,6 +1,6 @@
 <template>
   <div class="timeline-container">
-    <h2 class="timeline-title">中国古代诗人时间线 (618-1279)</h2>
+    <h2 class="timeline-title">唐宋文学时间线 (618-1279)</h2>
 
     <!-- 控制面板 -->
     <div class="control-panel">
@@ -34,6 +34,10 @@
       <div v-if="showDynasty" class="legend-item dynasty">
         <div class="legend-color"></div>
         <span>朝代分界</span>
+      </div>
+      <div v-if="showDynasty" class="legend-item emperor">
+        <div class="legend-color"></div>
+        <span>帝皇在位时间</span>
       </div>
     </div>
 
@@ -71,26 +75,32 @@ import { ref, onMounted, onUnmounted, nextTick } from "vue";
 import * as PIXI from "pixi.js";
 import poets from "../timeline/poets.js";
 
+import tangTimeline from "../timeline/tang.js";
+import northSongTimeline from "../timeline/northsong.js";
+import southSongTimeline from "../timeline/southsong.js";
+import fiveDynastiesTimeline from "../timeline/fivedynasties.js";
+
 const pixiContainer = ref(null);
 let app = null;
 let container = null;
 let timelineContainer = null;
 let dynastyContainer = null;
+let emperorContainer = null;
 let poetContainer = null;
 
 const showDynasty = ref(true);
 const selectedPoet = ref(null);
-const currentZoom = ref(1);
+const currentZoom = ref(0.1);
 const searchQuery = ref("");
 
 // 时间轴配置
 const timelineConfig = {
   minYear: 600,
   maxYear: 1300,
-  width: 1000,
-  height: 700,
+  width: (window.innerWidth - 200) * 2, // 动态宽度
+  height: (window.innerHeight - 100) * 2, // 增加高度，让时间刻度更大
   margin: { top: 50, right: 100, bottom: 50, left: 100 },
-  poetBarWidth: 40,
+  poetBarWidth: 80,
   poetBarSpacing: 60,
 };
 
@@ -102,13 +112,74 @@ const dynasties = [
   { name: "南宋", start: 1127, end: 1279, color: 0x3867d6 },
 ];
 
+// 合并所有朝代的帝皇数据
+const getAllEmperors = () => {
+  const allEmperors = [];
+
+  // 唐朝皇帝
+  tangTimeline.forEach((emperor) => {
+    allEmperors.push({
+      name: emperor.title,
+      fullName: emperor.name,
+      dynasty: "唐朝",
+      start: emperor.from,
+      end: emperor.to,
+      description: emperor.description,
+      color: 0xff6b9d,
+    });
+  });
+
+  // 五代十国
+  fiveDynastiesTimeline.forEach((emperor) => {
+    allEmperors.push({
+      name: emperor.title,
+      fullName: emperor.name,
+      dynasty: "五代十国",
+      start: emperor.from,
+      end: emperor.to,
+      description: emperor.description,
+      color: 0x6c5ce7,
+    });
+  });
+
+  // 北宋皇帝
+  northSongTimeline.forEach((emperor) => {
+    allEmperors.push({
+      name: emperor.title,
+      fullName: emperor.name,
+      dynasty: "北宋",
+      start: emperor.from,
+      end: emperor.to,
+      description: emperor.description,
+      color: 0x0fb9b1,
+    });
+  });
+
+  // 南宋皇帝
+  southSongTimeline.forEach((emperor) => {
+    allEmperors.push({
+      name: emperor.title,
+      fullName: emperor.name,
+      dynasty: "南宋",
+      start: emperor.from,
+      end: emperor.to,
+      description: emperor.description,
+      color: 0x3867d6,
+    });
+  });
+
+  return allEmperors;
+};
+
+const emperors = getAllEmperors();
+
 // 计算年份在时间轴上的位置
 const getYearPosition = (year) => {
   const totalYears = timelineConfig.maxYear - timelineConfig.minYear;
   const yearOffset = year - timelineConfig.minYear;
   return (
-    (yearOffset / totalYears) * timelineConfig.height +
-    timelineConfig.margin.top
+    (yearOffset / totalYears) * timelineConfig.height
+    // timelineConfig.margin.top
   );
 };
 
@@ -120,14 +191,8 @@ const initPixiApp = async () => {
 
     // 初始化应用
     await app.init({
-      width:
-        timelineConfig.width +
-        timelineConfig.margin.left +
-        timelineConfig.margin.right,
-      height:
-        timelineConfig.height +
-        timelineConfig.margin.top +
-        timelineConfig.margin.bottom,
+      width: window.innerWidth,
+      height: window.innerHeight,
       backgroundColor: 0xf8f9fa,
       antialias: true,
       resolution: window.devicePixelRatio || 1,
@@ -141,12 +206,18 @@ const initPixiApp = async () => {
     container = new PIXI.Container();
     app.stage.addChild(container);
 
+    // 设置默认缩放
+    container.scale.set(0.5);
+    currentZoom.value = 0.5;
+
     // 创建时间轴容器
     timelineContainer = new PIXI.Container();
     dynastyContainer = new PIXI.Container();
+    emperorContainer = new PIXI.Container();
     poetContainer = new PIXI.Container();
 
     container.addChild(dynastyContainer);
+    container.addChild(emperorContainer);
     container.addChild(timelineContainer);
     container.addChild(poetContainer);
 
@@ -156,11 +227,14 @@ const initPixiApp = async () => {
     // 绘制时间轴
     drawTimeline();
     drawDynasties();
+    drawEmperors();
     drawPoets();
+
+    // 初始化时居中显示
+    centerView();
   } catch (error) {
     console.error("PixiJS 初始化失败:", error);
     // 如果 PixiJS 初始化失败，使用 Canvas 2D 作为后备
-    initCanvasFallback();
   }
 };
 
@@ -224,17 +298,14 @@ const drawTimeline = () => {
 
   // 主时间轴线 - 使用新的 API
   graphics
-    .moveTo(timelineConfig.margin.left, timelineConfig.margin.top)
-    .lineTo(
-      timelineConfig.margin.left,
-      timelineConfig.height + timelineConfig.margin.top
-    )
+    .moveTo(timelineConfig.margin.left, 0)
+    .lineTo(timelineConfig.margin.left, timelineConfig.height)
     .stroke({ width: 3, color: 0x333333 });
 
   // 绘制年份刻度
   const yearStep = 50; // 每50年一个刻度
   for (
-    let year = Math.ceil(timelineConfig.minYear / yearStep) * yearStep;
+    let year = timelineConfig.minYear;
     year <= timelineConfig.maxYear;
     year += yearStep
   ) {
@@ -251,7 +322,7 @@ const drawTimeline = () => {
       text: year.toString(),
       style: {
         fontFamily: "Arial",
-        fontSize: 12,
+        fontSize: 24,
         fill: 0x333333,
         align: "right",
       },
@@ -274,7 +345,7 @@ const drawDynasties = () => {
     const endY = getYearPosition(dynasty.end);
     const height = endY - startY;
 
-    // 朝代背景矩形 - 使用新的 API
+    // 朝代背景矩形 - 使用新的 API，扩大宽度为帝皇留出空间
     const rect = new PIXI.Graphics();
     rect
       .rect(
@@ -283,8 +354,8 @@ const drawDynasties = () => {
         timelineConfig.width - 40,
         height
       )
-      .fill({ color: dynasty.color, alpha: 0.1 })
-      .stroke({ width: 2, color: dynasty.color, alpha: 0.8 });
+      .fill({ color: dynasty.color, alpha: 0.05 })
+      .stroke({ width: 2, color: dynasty.color, alpha: 0.6 });
 
     dynastyContainer.addChild(rect);
 
@@ -293,16 +364,190 @@ const drawDynasties = () => {
       text: dynasty.name,
       style: {
         fontFamily: "Microsoft YaHei, Arial",
-        fontSize: 16,
+        fontSize: 32,
         fill: dynasty.color,
         fontWeight: "bold",
       },
+      // Origin points for transformations (0-1 range)
+      lineAnchor: 0.5, // Center of each line
+      wordAnchor: { x: 0, y: 0.5 }, // Left-center of each word
+      charAnchor: { x: 0.5, y: 1 }, // Bottom-center of each character
+      autoSplit: true, // Auto-update segments on text/style changes
+      wordWrap: true,
     });
-    dynastyText.anchor.set(0, 0.5);
+    // dynastyText.anchor.set(0, 0.5);
     dynastyText.x = timelineConfig.margin.left + 30;
     dynastyText.y = startY + 20;
     dynastyContainer.addChild(dynastyText);
   });
+};
+
+// 绘制帝皇时间块
+const drawEmperors = () => {
+  if (!showDynasty.value) return;
+
+  emperors.forEach((emperor, index) => {
+    const startY = getYearPosition(emperor.start);
+    const endY = getYearPosition(emperor.end);
+    const height = Math.max(endY - startY, 1); // 增加最小高度到16px，确保能容纳文字
+
+    // 帝皇时间块的水平位置 - 在朝代背景内部
+    const x = timelineConfig.margin.left + 180;
+    const width = 120;
+
+    // 帝皇时间块 - 使用新的 API
+    const emperorBar = new PIXI.Graphics();
+
+    // 根据朝代选择颜色，但稍微深一些
+    const baseColor = emperor.color;
+    const darkerColor = ((baseColor >> 1) & 0x7f7f7f) + (baseColor & 0x808080);
+
+    emperorBar
+      .rect(x, startY, width, height)
+      .fill({ color: baseColor, alpha: 0.3 })
+      .stroke({ width: 1, color: darkerColor, alpha: 0.8 });
+
+    emperorContainer.addChild(emperorBar);
+
+    // 帝皇姓名标签 - 调整显示条件
+    // if (height > 14) {
+    //   // 降低显示阈值
+    //   const nameText = new PIXI.Text({
+    //     text: emperor.name,
+    //     style: {
+    //       fontFamily: "Microsoft YaHei, Arial",
+    //       fontSize: Math.min(11, Math.max(8, height / 1.5)), // 调整字体大小计算
+    //       fill: darkerColor,
+    //       fontWeight: "600",
+    //       align: "center",
+    //     },
+    //   });
+    //   nameText.anchor.set(0, 0.5);
+    //   nameText.x = x + 5;
+    //   nameText.y = startY + height / 2;
+
+    //   // 如果文字太长，截断显示
+    //   if (nameText.width > width - 10) {
+    //     nameText.text = emperor.name.substring(0, 4) + "...";
+    //   }
+
+    //   emperorContainer.addChild(nameText);
+    // }
+
+    // 添加交互
+    emperorBar.eventMode = "static";
+    emperorBar.cursor = "pointer";
+
+    // 存储帝皇数据到图形对象
+    emperorBar.emperorData = emperor;
+
+    // 悬停效果
+    emperorBar.on("pointerover", (e) => {
+      console.log(e);
+      emperorBar.alpha = 1.2;
+      // 显示帝皇信息提示
+      showEmperorTooltip(emperor, emperorBar, e.screen.x, e.screen.y);
+    });
+
+    emperorBar.on("pointerout", () => {
+      emperorBar.alpha = 1;
+      hideEmperorTooltip();
+    });
+  });
+};
+
+// 显示帝皇提示信息
+const showEmperorTooltip = (emperor, target, x, y) => {
+  // 先移除已存在的提示框
+  hideEmperorTooltip();
+
+  // 创建HTML tooltip元素
+  const tooltip = document.createElement("div");
+  tooltip.id = "emperor-tooltip";
+  tooltip.style.cssText = `
+    position: fixed;
+    left: ${x}px;
+    top: ${y}px;
+    background: rgba(26, 26, 26, 0.95);
+    border: 1px solid rgba(68, 68, 68, 0.8);
+    border-radius: 6px;
+    padding: 10px;
+    color: #e0e0e0;
+    font-family: 'Microsoft YaHei', Arial, sans-serif;
+    font-size: 11px;
+    line-height: 1.4;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    pointer-events: none;
+    max-width: 200px;
+    white-space: nowrap;
+  `;
+
+  // 构建tooltip内容
+  const lines = [
+    emperor.name,
+    `本名：${emperor.fullName}`,
+    emperor.dynasty,
+    `${emperor.start}-${emperor.end}(${emperor.end - emperor.start})年`,
+  ];
+
+  // 如果有描述且不太长，添加描述
+  if (emperor.description && emperor.description.length < 50) {
+    lines.push(emperor.description);
+  }
+
+  // 创建内容HTML
+  const content = lines
+    .map((line, index) => {
+      const isTitle = index === 0;
+      return `<div style="
+      color: ${isTitle ? "#ffd700" : "#e0e0e0"};
+      font-size: ${isTitle ? "13px" : "11px"};
+      font-weight: ${isTitle ? "bold" : "normal"};
+      margin-bottom: ${isTitle ? "4px" : "2px"};
+    ">${line}</div>`;
+    })
+    .join("");
+
+  tooltip.innerHTML = content;
+  document.body.appendChild(tooltip);
+
+  // 调整位置确保不超出屏幕边界
+  const rect = tooltip.getBoundingClientRect();
+  const screenWidth = window.innerWidth;
+  const screenHeight = window.innerHeight;
+
+  let adjustedX = x;
+  let adjustedY = y;
+
+  // 如果超出右边界，向左调整
+  if (rect.right > screenWidth) {
+    adjustedX = screenWidth - rect.width - 10;
+  }
+
+  // 如果超出下边界，向上调整
+  if (rect.bottom > screenHeight) {
+    adjustedY = screenHeight - rect.height - 10;
+  }
+
+  // 确保不超出左边界和上边界
+  if (adjustedX < 10) {
+    adjustedX = 10;
+  }
+  if (adjustedY < 10) {
+    adjustedY = 10;
+  }
+
+  tooltip.style.left = `${adjustedX}px`;
+  tooltip.style.top = `${adjustedY}px`;
+};
+
+// 隐藏帝皇提示信息
+const hideEmperorTooltip = () => {
+  const tooltip = document.getElementById("emperor-tooltip");
+  if (tooltip) {
+    tooltip.remove();
+  }
 };
 
 // 绘制诗人时间条 - 类似图片中的垂直条形
@@ -314,12 +559,12 @@ const drawPoets = () => {
     const endY = getYearPosition(poet.death);
     const height = Math.max(endY - startY, 15); // 最小高度15px
 
-    // 计算诗人条的水平位置（多列布局）
+    // 计算诗人条的水平位置（多列布局）- 调整位置避免与帝皇块重叠
     const column = index % 12; // 12列布局，更紧凑
     const x =
       timelineConfig.margin.left +
-      150 +
-      column * (timelineConfig.poetBarWidth + 12);
+      280 + // 增加左边距，为帝皇块留出空间
+      column * (timelineConfig.poetBarWidth + 12 * 3);
 
     // 诗人生活时间条 - 类似图片中的橙色边框矩形
     const poetBar = new PIXI.Graphics();
@@ -349,7 +594,7 @@ const drawPoets = () => {
       text: poet.name,
       style: {
         fontFamily: "Microsoft YaHei, Arial",
-        fontSize: 9,
+        fontSize: 27,
         fill: poetColor,
         fontWeight: "bold",
         align: "center",
@@ -377,209 +622,17 @@ const drawPoets = () => {
     poetBar.on("pointerover", () => {
       poetBar.alpha = 1.2;
       nameText.style.fill = 0x000000;
-      nameText.style.fontSize = 11;
+      //   nameText.style.fontSize = 11;
     });
 
     poetBar.on("pointerout", () => {
       poetBar.alpha = 1;
       nameText.style.fill = poetColor;
-      nameText.style.fontSize = 9;
+      //   nameText.style.fontSize = 9;
     });
   });
 };
 
-// Canvas 2D 后备方案
-const initCanvasFallback = () => {
-  console.log("使用 Canvas 2D 后备方案");
-
-  const canvas = document.createElement("canvas");
-  canvas.width =
-    timelineConfig.width +
-    timelineConfig.margin.left +
-    timelineConfig.margin.right;
-  canvas.height =
-    timelineConfig.height +
-    timelineConfig.margin.top +
-    timelineConfig.margin.bottom;
-  canvas.style.borderRadius = "12px";
-  canvas.style.backgroundColor = "#f8f9fa";
-
-  pixiContainer.value.appendChild(canvas);
-
-  const ctx = canvas.getContext("2d");
-
-  // 绘制时间轴
-  drawTimelineCanvas(ctx);
-  drawDynastiesCanvas(ctx);
-  drawPoetsCanvas(ctx);
-
-  // 添加点击事件
-  canvas.addEventListener("click", handleCanvasClick);
-};
-
-// Canvas 2D 绘制时间轴
-const drawTimelineCanvas = (ctx) => {
-  ctx.strokeStyle = "#333333";
-  ctx.lineWidth = 3;
-  ctx.beginPath();
-  ctx.moveTo(timelineConfig.margin.left, timelineConfig.margin.top);
-  ctx.lineTo(
-    timelineConfig.margin.left,
-    timelineConfig.height + timelineConfig.margin.top
-  );
-  ctx.stroke();
-
-  // 绘制年份刻度
-  const yearStep = 50;
-  ctx.font = "12px Arial";
-  ctx.fillStyle = "#333333";
-  ctx.textAlign = "right";
-  ctx.textBaseline = "middle";
-
-  for (
-    let year = Math.ceil(timelineConfig.minYear / yearStep) * yearStep;
-    year <= timelineConfig.maxYear;
-    year += yearStep
-  ) {
-    const y = getYearPosition(year);
-
-    // 刻度线
-    ctx.strokeStyle = "#666666";
-    ctx.lineWidth = 2;
-    ctx.beginPath();
-    ctx.moveTo(timelineConfig.margin.left - 10, y);
-    ctx.lineTo(timelineConfig.margin.left + 10, y);
-    ctx.stroke();
-
-    // 年份标签
-    ctx.fillText(year.toString(), timelineConfig.margin.left - 15, y);
-  }
-};
-
-// Canvas 2D 绘制朝代
-const drawDynastiesCanvas = (ctx) => {
-  if (!showDynasty.value) return;
-
-  dynasties.forEach((dynasty) => {
-    const startY = getYearPosition(dynasty.start);
-    const endY = getYearPosition(dynasty.end);
-    const height = endY - startY;
-
-    // 朝代背景
-    ctx.fillStyle = `rgba(${(dynasty.color >> 16) & 255}, ${
-      (dynasty.color >> 8) & 255
-    }, ${dynasty.color & 255}, 0.1)`;
-    ctx.fillRect(
-      timelineConfig.margin.left + 20,
-      startY,
-      timelineConfig.width - 40,
-      height
-    );
-
-    // 朝代边框
-    ctx.strokeStyle = `rgba(${(dynasty.color >> 16) & 255}, ${
-      (dynasty.color >> 8) & 255
-    }, ${dynasty.color & 255}, 0.8)`;
-    ctx.lineWidth = 2;
-    ctx.strokeRect(
-      timelineConfig.margin.left + 20,
-      startY,
-      timelineConfig.width - 40,
-      height
-    );
-
-    // 朝代标签
-    ctx.font = "bold 16px Microsoft YaHei, Arial";
-    ctx.fillStyle = `rgb(${(dynasty.color >> 16) & 255}, ${
-      (dynasty.color >> 8) & 255
-    }, ${dynasty.color & 255})`;
-    ctx.textAlign = "left";
-    ctx.textBaseline = "middle";
-    ctx.fillText(dynasty.name, timelineConfig.margin.left + 30, startY + 20);
-  });
-};
-
-// Canvas 2D 绘制诗人
-const drawPoetsCanvas = (ctx) => {
-  const sortedPoets = [...poets].sort((a, b) => a.birth - b.birth);
-
-  sortedPoets.forEach((poet, index) => {
-    const startY = getYearPosition(poet.birth);
-    const endY = getYearPosition(poet.death);
-    const height = Math.max(endY - startY, 15);
-
-    const column = index % 10;
-    const x =
-      timelineConfig.margin.left +
-      150 +
-      column * (timelineConfig.poetBarWidth + 15);
-
-    const poetColor = getPoetColor(poet.category);
-    const r = (poetColor >> 16) & 255;
-    const g = (poetColor >> 8) & 255;
-    const b = poetColor & 255;
-
-    // 外边框
-    ctx.strokeStyle = `rgb(${r}, ${g}, ${b})`;
-    ctx.lineWidth = 2;
-    ctx.fillStyle = `rgba(${r}, ${g}, ${b}, 0.15)`;
-    ctx.fillRect(x, startY, timelineConfig.poetBarWidth, height);
-    ctx.strokeRect(x, startY, timelineConfig.poetBarWidth, height);
-
-    // 创作高峰期
-    if (poet.peakPeriod) {
-      const peakStartY = getYearPosition(poet.peakPeriod.start);
-      const peakEndY = getYearPosition(poet.peakPeriod.end);
-      const peakHeight = Math.max(peakEndY - peakStartY, 8);
-
-      ctx.fillStyle = `rgba(${r}, ${g}, ${b}, 0.7)`;
-      ctx.fillRect(
-        x + 3,
-        peakStartY,
-        timelineConfig.poetBarWidth - 6,
-        peakHeight
-      );
-    }
-
-    // 诗人姓名
-    ctx.font = "bold 9px Microsoft YaHei, Arial";
-    ctx.fillStyle = `rgb(${r}, ${g}, ${b})`;
-    ctx.textAlign = "center";
-    ctx.textBaseline = "bottom";
-    ctx.fillText(poet.name, x + timelineConfig.poetBarWidth / 2, startY - 3);
-  });
-};
-
-// Canvas 点击事件处理
-const handleCanvasClick = (event) => {
-  const rect = event.target.getBoundingClientRect();
-  const x = event.clientX - rect.left;
-  const y = event.clientY - rect.top;
-
-  // 检查是否点击了诗人条
-  const sortedPoets = [...poets].sort((a, b) => a.birth - b.birth);
-
-  sortedPoets.forEach((poet, index) => {
-    const startY = getYearPosition(poet.birth);
-    const endY = getYearPosition(poet.death);
-    const height = Math.max(endY - startY, 15);
-
-    const column = index % 10;
-    const poetX =
-      timelineConfig.margin.left +
-      150 +
-      column * (timelineConfig.poetBarWidth + 15);
-
-    if (
-      x >= poetX &&
-      x <= poetX + timelineConfig.poetBarWidth &&
-      y >= startY &&
-      y <= startY + height
-    ) {
-      selectedPoet.value = poet;
-    }
-  });
-};
 const getPoetColor = (category) => {
   const colorMap = {
     初唐四杰: 0xff9999,
@@ -605,13 +658,39 @@ const getPoetColor = (category) => {
   return colorMap[category] || 0xf39c12;
 };
 
+// 居中视图
+const centerView = () => {
+  if (!container) return;
+
+  // 计算时间轴内容的中心点
+  const timelineCenter = {
+    x:
+      timelineConfig.margin.left +
+      (timelineConfig.width -
+        timelineConfig.margin.left -
+        timelineConfig.margin.right) /
+        2,
+    y: timelineConfig.height / 2,
+  };
+
+  // 计算屏幕中心点
+  const screenCenter = {
+    x: window.innerWidth / 2,
+    y: window.innerHeight / 2,
+  };
+
+  // 考虑当前缩放比例，计算需要的偏移量
+  const scale = container.scale.x;
+  container.x = screenCenter.x - timelineCenter.x * scale;
+  container.y = screenCenter.y - timelineCenter.y * scale;
+};
+
 // 控制方法
 const resetView = () => {
   if (container) {
-    container.scale.set(1);
-    container.x = 0;
-    container.y = 0;
-    currentZoom.value = 1;
+    container.scale.set(0.5);
+    currentZoom.value = 0.5;
+    centerView();
   }
 };
 
@@ -619,6 +698,9 @@ const toggleDynasty = () => {
   showDynasty.value = !showDynasty.value;
   if (dynastyContainer) {
     dynastyContainer.visible = showDynasty.value;
+  }
+  if (emperorContainer) {
+    emperorContainer.visible = showDynasty.value;
   }
 };
 
@@ -667,7 +749,7 @@ const searchPoet = (name) => {
     const column = poetIndex % 12;
     const x =
       timelineConfig.margin.left +
-      150 +
+      280 + // 调整位置避免与帝皇块重叠
       column * (timelineConfig.poetBarWidth + 12);
     const y = getYearPosition(poet.birth);
 
@@ -683,7 +765,7 @@ const animateToPoet = (poet) => {
   const targetX =
     -(
       timelineConfig.margin.left +
-      150 +
+      280 + // 调整位置避免与帝皇块重叠
       column * (timelineConfig.poetBarWidth + 12)
     ) + 400;
   const targetY = -getYearPosition(poet.birth) + 300;
@@ -712,13 +794,44 @@ const animateToPoet = (poet) => {
   animate();
 };
 
+// 窗口大小变化处理
+const handleResize = () => {
+  if (app) {
+    app.renderer.resize(window.innerWidth, window.innerHeight);
+
+    // 更新时间轴配置
+    timelineConfig.width = window.innerWidth - 200;
+    timelineConfig.height = (window.innerHeight - 100) * 2; // 保持2倍高度
+
+    // 重新绘制所有元素
+    if (timelineContainer) timelineContainer.removeChildren();
+    if (dynastyContainer) dynastyContainer.removeChildren();
+    if (emperorContainer) emperorContainer.removeChildren();
+    if (poetContainer) poetContainer.removeChildren();
+
+    drawTimeline();
+    drawDynasties();
+    drawEmperors();
+    drawPoets();
+
+    // 窗口大小变化后重新居中
+    centerView();
+  }
+};
+
 // 生命周期
 onMounted(async () => {
   await nextTick();
   initPixiApp();
+
+  // 添加窗口大小变化监听
+  window.addEventListener("resize", handleResize);
 });
 
 onUnmounted(() => {
+  // 移除窗口大小变化监听
+  window.removeEventListener("resize", handleResize);
+
   if (app) {
     app.destroy(true, true);
   }
@@ -737,20 +850,24 @@ onUnmounted(() => {
 }
 
 .timeline-title {
-  text-align: center;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
   color: white;
-  margin-bottom: 20px;
+  margin: 0;
   font-size: 28px;
   font-weight: 700;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   letter-spacing: 2px;
+  z-index: 20;
 }
 
 .control-panel {
-  position: absolute;
+  position: fixed;
   top: 80px;
   right: 20px;
-  z-index: 10;
+  z-index: 30;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -806,22 +923,24 @@ onUnmounted(() => {
 }
 
 .pixi-container {
-  width: 100%;
-  height: calc(100vh - 160px);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
   background: rgba(255, 255, 255, 0.95);
-  border-radius: 12px;
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
   overflow: hidden;
+  z-index: 1;
 
   canvas {
-    border-radius: 12px;
+    width: 100% !important;
+    height: 100% !important;
   }
 }
 
 .legend {
-  position: absolute;
+  position: fixed;
   bottom: 20px;
   left: 20px;
   background: rgba(255, 255, 255, 0.9);
@@ -830,6 +949,7 @@ onUnmounted(() => {
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  z-index: 30;
 
   .legend-item {
     display: flex;
@@ -858,11 +978,25 @@ onUnmounted(() => {
     &.dynasty .legend-color {
       background: linear-gradient(45deg, #ff6b9d, #6c5ce7, #0fb9b1, #3867d6);
     }
+
+    &.emperor .legend-color {
+      background: linear-gradient(
+        45deg,
+        #ff6b9d 0%,
+        #ff6b9d 25%,
+        #6c5ce7 25%,
+        #6c5ce7 50%,
+        #0fb9b1 50%,
+        #0fb9b1 75%,
+        #3867d6 75%
+      );
+      opacity: 0.6;
+    }
   }
 }
 
 .poet-info-panel {
-  position: absolute;
+  position: fixed;
   top: 50%;
   right: 20px;
   transform: translateY(-50%);
@@ -874,7 +1008,7 @@ onUnmounted(() => {
   border: 1px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
   overflow: hidden;
-  z-index: 20;
+  z-index: 40;
 
   .poet-info-header {
     display: flex;
