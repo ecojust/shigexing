@@ -1,6 +1,10 @@
-const fs = require("fs");
-const path = require("path");
-const XLSX = require("xlsx");
+// const fs = require("fs");
+// const path = require("path");
+// const XLSX = require("xlsx");
+
+import fs from "fs";
+import path from "path";
+import XLSX from "xlsx";
 
 /**
  * 解析王勃生平时间线HTML文档并生成Excel
@@ -354,6 +358,8 @@ async function main() {
 
     const errors = [];
 
+    const users = [];
+
     // 依次处理每个txt文件
     for (const txtFile of txtFiles) {
       const inputFile = path.join(dataDir, txtFile);
@@ -365,13 +371,19 @@ async function main() {
       //   console.log(`输入文件: ${inputFile}`);
       //   console.log(`输出文件: ${outputFile}`);
 
+      users.push({
+        name: name,
+        from: 0,
+        to: 0,
+      });
+
       try {
         // 重置解析器数据
         parser.data = [];
 
-        const data = await parser.process(inputFile, outputFile);
+        // const data = await parser.process(inputFile, outputFile);
 
-        console.log(`✅ 成功处理 ${txtFile}，生成了 ${data.length} 条记录`);
+        // console.log(`✅ 成功处理 ${txtFile}，生成了 ${data.length} 条记录`);
 
         // // 显示前3条记录预览
         // if (data.length > 0) {
@@ -389,6 +401,25 @@ async function main() {
       }
     }
 
+    const ddd = JSON.stringify(users);
+    fs.writeFile(
+      "./src/users.js",
+      `
+        
+        const data = ${ddd};
+
+        export default data;
+        
+        `,
+      (err) => {
+        if (err) {
+          console.error("写入文件时出错:", err);
+        } else {
+          console.log("users.json 文件写入成功！");
+        }
+      }
+    );
+
     console.log(`\n🎉 批量处理完成！共处理了 ${txtFiles.length} 个文件`);
     console.log(`生成的Excel文件保存在: ${excelDir}`);
 
@@ -402,8 +433,9 @@ async function main() {
 }
 
 // 如果直接运行此脚本
-if (require.main === module) {
-  main();
-}
+// if (require.main === module) {
+//   main();
+// }
 
-module.exports = WangBoHistoryParser;
+// module.exports = WangBoHistoryParser;
+main();

@@ -48,23 +48,23 @@
         <button @click="closePoetInfo" class="close-btn">×</button>
       </div>
       <div class="poet-info-content">
-        <p><strong>朝代：</strong>{{ selectedPoet.dynasty }}</p>
+        <!-- <p><strong>朝代：</strong>{{ selectedPoet.dynasty }}</p> -->
         <p>
           <strong>生卒：</strong>{{ selectedPoet.birth }}-{{
             selectedPoet.death
           }}年 ({{ selectedPoet.death - selectedPoet.birth }}岁)
         </p>
-        <p><strong>流派：</strong>{{ selectedPoet.category }}</p>
-        <p><strong>风格：</strong>{{ selectedPoet.style }}</p>
-        <p><strong>描述：</strong>{{ selectedPoet.description }}</p>
-        <div v-if="selectedPoet.famousWorks" class="famous-works">
+        <!-- <p><strong>流派：</strong>{{ selectedPoet.category }}</p>
+        <p><strong>风格：</strong>{{ selectedPoet.style }}</p> -->
+        <p><strong>描述：</strong>{{ selectedPoet.bio }}</p>
+        <!-- <div v-if="selectedPoet.famousWorks" class="famous-works">
           <strong>代表作品：</strong>
           <ul>
             <li v-for="work in selectedPoet.famousWorks" :key="work">
               {{ work }}
             </li>
           </ul>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

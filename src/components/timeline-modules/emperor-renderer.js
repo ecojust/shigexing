@@ -109,7 +109,7 @@ export const showEmperorTooltip = (emperor, target, x, y) => {
   const lines = [
     emperor.name,
     `本名：${emperor.fullName}`,
-    emperor.dynasty,
+    // emperor.dynasty,
     `${emperor.start}-${emperor.end}(${emperor.end - emperor.start})年`,
   ];
 
@@ -127,6 +127,7 @@ export const showEmperorTooltip = (emperor, target, x, y) => {
       font-size: ${isTitle ? "13px" : "11px"};
       font-weight: ${isTitle ? "bold" : "normal"};
       margin-bottom: ${isTitle ? "4px" : "2px"};
+      text-wrap: wrap;
     ">${line}</div>`;
     })
     .join("");

@@ -25,10 +25,10 @@ export const drawPoets = (container, poets, onPoetClick) => {
     const height = Math.max(endY - startY, 15); // 最小高度15px
 
     // 计算诗人条的水平位置（多列布局）
-    const column = index % 12; // 12列布局
+    const column = index % 22; // 12列布局
     const x =
       timelineConfig.margin.left +
-      280 + // 为帝皇块留出空间
+      380 + // 为帝皇块留出空间
       column * (timelineConfig.poetBarWidth + 12 * 3);
 
     // 诗人生活时间条
