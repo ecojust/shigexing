@@ -6,7 +6,26 @@
 import * as PIXI from "pixi.js";
 import { timelineConfig } from "./config.js";
 import { getYearPosition, getPoetColor, createTextStyle } from "./utils.js";
+import { TauriFetch } from "@/types/tauri-fetch";
 
+const getHistory = async (name) => {
+  // 简单 GET 请求
+  const data = await TauriFetch.json(
+    `https://cnkgraph.com/Api/Biography?scope=&author=${name}&beginYear=0&endYear=0`
+  );
+
+  console.log("getHistory", data);
+
+  // fetch(
+  //   `https://cnkgraph.com/Api/Biography?scope=&author=${name}&beginYear=0&endYear=0`
+  // )
+  //   .then((re) => re.json())
+  //   .then((re) => {
+  //     //
+  //     const list = re.Traces[0].Markers;
+  //     console.log("Success:", list);
+  //   });
+};
 /**
  * 绘制诗人时间条
  * @param {PIXI.Container} container - 诗人容器
@@ -77,6 +96,8 @@ export const drawPoets = (container, poets, onPoetClick) => {
     poetBar.on("pointerdown", () => {
       if (onPoetClick) {
         onPoetClick(poet);
+
+        getHistory(poet.name);
       }
     });
 

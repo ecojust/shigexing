@@ -8,7 +8,8 @@
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
     "tauri": "tauri",
-    "logo": "cargo tauri icon ./logo.png"
+    "logo": "cargo tauri icon ./logo.png",
+    "4dev": "yarn tauri dev"
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.2",
