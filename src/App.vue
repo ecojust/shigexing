@@ -16,7 +16,14 @@
   font-weight: 400;
 
   color: #0f0f0f;
-  background-color: #f6f6f6;
+  background: linear-gradient(
+    135deg,
+    #1e3c72 0%,
+    #2a5298 25%,
+    #667eea 75%,
+    #764ba2 100%
+  );
+  background-attachment: fixed;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -34,12 +41,20 @@
 #app {
   width: 100vw;
   height: 100vh;
+  background: inherit;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     color: #f6f6f6;
-    background-color: #2f2f2f;
+    background: linear-gradient(
+      135deg,
+      #0f1419 0%,
+      #1a2332 25%,
+      #2d3748 75%,
+      #4a5568 100%
+    );
+    background-attachment: fixed;
   }
 }
 </style>
