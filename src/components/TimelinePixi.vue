@@ -72,52 +72,68 @@
     <el-dialog
       v-model="dialogVisible"
       :title="`${currentPoetName} - 历史轨迹`"
-      width="80%"
+      width="75%"
       :before-close="handleDialogClose"
       class="poet-history-dialog"
     >
-      <div v-if="markersData.length > 0" class="markers-container">
-        <el-timeline>
-          <el-timeline-item
-            v-for="(marker, index) in markersData"
-            :key="index"
-            :timestamp="marker.Year ? `${marker.Year}年` : '未知年份'"
-            placement="top"
-            :type="getTimelineItemType(marker)"
-            size="large"
+      <div
+        v-if="poetData && poetData.articles && poetData.articles.length > 0"
+        class="poet-content"
+      >
+        <!-- 诗人详情链接 -->
+        <div v-if="poetData.detailsLink" class="poet-details-link">
+          <el-link
+            :href="poetData.detailsLink"
+            target="_blank"
+            type="primary"
+            size="small"
           >
-            <el-card class="marker-card">
-              <template #header>
-                <div class="card-header">
-                  <span class="marker-title">{{
-                    marker.Title || "无标题"
-                  }}</span>
-                  <el-tag
-                    v-if="marker.Type"
-                    :type="getTagType(marker.Type)"
-                    size="small"
+            查看详细资料
+          </el-link>
+        </div>
+
+        <!-- 作品列表 - 紧凑布局 -->
+        <div class="works-list">
+          <div
+            v-for="(article, index) in poetData.articles"
+            :key="index"
+            class="work-item"
+          >
+            <div class="work-header">
+              <span class="work-title">{{ article.title }}</span>
+              <el-tag :type="getTagType(article.time)" size="small">
+                {{ article.time }}
+              </el-tag>
+            </div>
+
+            <div class="work-body">
+              <!-- 诗词内容 - 紧凑显示 -->
+              <div
+                v-if="article.lines && article.lines.length > 0"
+                class="poem-lines"
+              >
+                <div class="lines-container">
+                  <span
+                    v-for="(line, lineIndex) in article.lines"
+                    :key="lineIndex"
+                    class="poem-line"
                   >
-                    {{ marker.Type }}
-                  </el-tag>
-                </div>
-              </template>
-              <div class="marker-content">
-                <p v-if="marker.Detail" class="marker-detail">
-                  {{ marker.Detail }}
-                </p>
-                <div v-if="marker.Location" class="marker-location">
-                  <el-icon><Location /></el-icon>
-                  <span>{{ marker.Location }}</span>
-                </div>
-                <div v-if="marker.Age" class="marker-age">
-                  <el-icon><User /></el-icon>
-                  <span>{{ marker.Age }}岁</span>
+                    {{ line }}
+                  </span>
                 </div>
               </div>
-            </el-card>
-          </el-timeline-item>
-        </el-timeline>
+
+              <!-- 作品描述 - 可折叠 -->
+              <el-collapse class="work-description-collapse">
+                <el-collapse-item title="作品背景" name="description">
+                  <p class="work-description">{{ article.description }}</p>
+                </el-collapse-item>
+              </el-collapse>
+            </div>
+          </div>
+        </div>
       </div>
+
       <div v-else class="no-data">
         <el-empty description="暂无历史数据" />
       </div>
@@ -174,7 +190,7 @@ const searchQuery = ref("");
 
 // Dialog相关状态
 const dialogVisible = ref(false);
-const markersData = ref([]);
+const poetData = ref(null);
 const currentPoetName = ref("");
 
 // 获取帝皇数据
@@ -278,25 +294,20 @@ const cleanHtmlContent = (htmlString) => {
   return tempDiv.textContent || tempDiv.innerText || "";
 };
 
-const handleMarkersReceived = (markers, poetName) => {
-  // 清理markers数据中的HTML内容
-  const cleanedMarkers = (markers || []).map((marker) => ({
-    ...marker,
-    Detail: cleanHtmlContent(marker.Detail),
-    Title: cleanHtmlContent(marker.Title),
-    Location: cleanHtmlContent(marker.Location),
-  }));
+const handleMarkersReceived = (data, poetName) => {
+  console.log("接收到诗人数据:", data);
 
-  markersData.value = cleanedMarkers;
+  // 将接收到的数据设置为poetData
+  poetData.value = data;
   currentPoetName.value = poetName;
   dialogVisible.value = true;
 
-  if (cleanedMarkers && cleanedMarkers.length > 0) {
+  if (data && data.articles && data.articles.length > 0) {
     ElMessage.success(
-      `成功获取 ${poetName} 的 ${cleanedMarkers.length} 条历史记录`
+      `成功获取 ${poetName} 的 ${data.articles.length} 条作品记录`
     );
   } else {
-    ElMessage.warning(`未找到 ${poetName} 的历史记录`);
+    ElMessage.warning(`未找到 ${poetName} 的作品记录`);
   }
 };
 
@@ -306,54 +317,44 @@ const handleDialogClose = (done) => {
   done();
 };
 
-const getTimelineItemType = (marker) => {
-  // 根据marker的类型或内容返回不同的timeline item类型
-  if (marker.Type) {
-    switch (marker.Type.toLowerCase()) {
-      case "birth":
-      case "出生":
-        return "success";
-      case "death":
-      case "去世":
-        return "danger";
-      case "work":
-      case "作品":
-        return "primary";
-      default:
-        return "info";
+const getTimelineItemType = (article) => {
+  // 根据作品时间或内容返回不同的timeline item类型
+  if (article.time) {
+    const year = parseInt(article.time);
+    if (year < 970) {
+      return "success"; // 早期作品
+    } else if (year < 976) {
+      return "primary"; // 中期作品
+    } else {
+      return "danger"; // 后期作品（亡国后）
     }
   }
   return "info";
 };
 
-const getTagType = (type) => {
-  // 根据类型返回不同的tag样式
-  switch (type.toLowerCase()) {
-    case "birth":
-    case "出生":
-      return "success";
-    case "death":
-    case "去世":
-      return "danger";
-    case "work":
-    case "作品":
-      return "primary";
-    case "travel":
-    case "游历":
-      return "warning";
-    default:
-      return "";
+const getTagType = (time) => {
+  // 根据时间返回不同的tag样式
+  if (time) {
+    const year = parseInt(time);
+    if (year < 970) {
+      return "success"; // 早期
+    } else if (year < 976) {
+      return ""; // 中期
+    } else {
+      return "danger"; // 后期
+    }
   }
+  return "";
 };
 
 const exportData = () => {
   // 导出数据功能
-  const dataStr = JSON.stringify(markersData.value, null, 2);
+  const dataStr = JSON.stringify(poetData.value, null, 2);
   const dataBlob = new Blob([dataStr], { type: "application/json" });
   const url = URL.createObjectURL(dataBlob);
   const link = document.createElement("a");
   link.href = url;
-  link.download = `${currentPoetName.value}_历史数据.json`;
+  link.download = `${currentPoetName.value}_作品数据.json`;
   link.click();
   URL.revokeObjectURL(url);
   ElMessage.success("数据导出成功");
@@ -742,7 +743,7 @@ onUnmounted(() => {
   .el-dialog__header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-    padding: 20px;
+    padding: 15px 20px;
 
     .el-dialog__title {
       color: white;
@@ -763,62 +764,104 @@ onUnmounted(() => {
   }
 
   .el-dialog__body {
-    padding: 20px;
-    max-height: 60vh;
+    padding: 15px;
+    max-height: 65vh;
     overflow-y: auto;
   }
 
-  .markers-container {
-    .el-timeline {
-      padding-left: 0;
+  .poet-content {
+    .poet-details-link {
+      margin-bottom: 15px;
+      text-align: center;
+    }
 
-      .el-timeline-item {
-        .el-timeline-item__timestamp {
-          font-weight: 600;
-          color: #3498db;
-          font-size: 14px;
+    .works-list {
+      .work-item {
+        margin-bottom: 12px;
+        border: 1px solid #e4e7ed;
+        border-radius: 8px;
+        overflow: hidden;
+        transition: all 0.3s ease;
+
+        &:hover {
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+          transform: translateY(-1px);
         }
 
-        .marker-card {
-          margin-bottom: 15px;
-          border-radius: 8px;
-          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        .work-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 12px 15px;
+          background: linear-gradient(
+            135deg,
+            rgba(102, 126, 234, 0.08) 0%,
+            rgba(118, 75, 162, 0.08) 100%
+          );
+          border-bottom: 1px solid rgba(102, 126, 234, 0.15);
 
-          .el-card__header {
-            background: rgba(102, 126, 234, 0.05);
-            border-bottom: 1px solid rgba(102, 126, 234, 0.1);
+          .work-title {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 16px;
+          }
+        }
 
-            .card-header {
-              display: flex;
-              justify-content: space-between;
-              align-items: center;
+        .work-body {
+          padding: 15px;
 
-              .marker-title {
-                font-weight: 600;
+          .poem-lines {
+            margin-bottom: 12px;
+
+            .lines-container {
+              background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+              padding: 12px;
+              border-radius: 6px;
+              border-left: 3px solid #667eea;
+
+              .poem-line {
+                display: inline-block;
                 color: #2c3e50;
-                font-size: 16px;
+                font-size: 14px;
+                line-height: 1.6;
+                margin: 0 8px 6px 0;
+                font-family: "KaiTi", "楷体", serif;
+                padding: 2px 6px;
+                border-radius: 3px;
+                transition: all 0.2s ease;
+
+                &:hover {
+                  background: rgba(102, 126, 234, 0.1);
+                }
+
+                // &:after {
+                //   content: "，";
+                //   color: #7f8c8d;
+                // }
+
+                // &:last-child:after {
+                //   content: "。";
+                // }
               }
             }
           }
 
-          .marker-content {
-            .marker-detail {
-              color: #34495e;
-              line-height: 1.6;
-              margin-bottom: 10px;
+          .work-description-collapse {
+            .el-collapse-item__header {
+              font-size: 13px;
+              color: #666;
+              padding: 8px 0;
             }
 
-            .marker-location,
-            .marker-age {
-              display: flex;
-              align-items: center;
-              gap: 5px;
-              color: #7f8c8d;
-              font-size: 14px;
-              margin-bottom: 5px;
+            .el-collapse-item__content {
+              padding: 8px 0;
 
-              .el-icon {
-                font-size: 16px;
+              .work-description {
+                color: #34495e;
+                line-height: 1.6;
+                margin: 0;
+                font-size: 13px;
+                text-align: justify;
               }
             }
           }
@@ -829,7 +872,7 @@ onUnmounted(() => {
 
   .no-data {
     text-align: center;
-    padding: 40px 0;
+    padding: 30px 0;
   }
 
   .dialog-footer {

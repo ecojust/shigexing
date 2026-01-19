@@ -7,6 +7,7 @@ import * as PIXI from "pixi.js";
 import { timelineConfig } from "./config.js";
 import { getYearPosition, getPoetColor, createTextStyle } from "./utils.js";
 import { TauriFetch } from "@/types/tauri-fetch";
+import history from "@/poetdata/index.js";
 
 let isFetching = false;
 
@@ -36,6 +37,21 @@ const getHistory = async (poet, onMarkersReceived) => {
     return [];
   } finally {
     isFetching = false;
+  }
+};
+
+const getHistoryFromLocal = async (poet, onMarkersReceived) => {
+  console.log("history", history);
+  // 调用回调函数传递markers数据
+  if (
+    onMarkersReceived &&
+    typeof onMarkersReceived === "function" &&
+    history[poet.name]
+  ) {
+    onMarkersReceived(
+      history[poet.name],
+      `${poet.name}(${poet.birth}-${poet.death})`
+    );
   }
 };
 /**
@@ -163,7 +179,7 @@ export const drawPoets = (container, poets, onPoetClick, onMarkersReceived) => {
       // }
 
       // 获取历史数据并触发dialog显示
-      getHistory(poet, onMarkersReceived);
+      getHistoryFromLocal(poet, onMarkersReceived);
     });
 
     // 悬停效果
