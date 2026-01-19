@@ -12,7 +12,7 @@
           class="search-input"
         />
       </div> -->
-      <button @click="resetView" class="control-btn">重置视图</button>
+      <!-- <button @click="resetView" class="control-btn">重置视图</button> -->
       <!-- <button @click="toggleDynasty" class="control-btn">
         {{ showDynasty ? "隐藏朝代" : "显示朝代" }}
       </button> -->
@@ -20,6 +20,14 @@
         <button @click="zoomIn" class="control-btn">放大</button>
         <button @click="zoomOut" class="control-btn">缩小</button>
       </div> -->
+    </div>
+
+    <!-- 重置视图按钮 - 底部中间 -->
+    <div class="reset-view-container">
+      <button @click="resetView" class="reset-view-btn">
+        <span class="reset-icon">⟲</span>
+        重置视图
+      </button>
     </div>
 
     <!-- PixiJS 画布容器 -->
@@ -610,6 +618,54 @@ onUnmounted(() => {
   }
 }
 
+.reset-view-container {
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 30;
+
+  .reset-view-btn {
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    padding: 12px 24px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    color: #2c3e50;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 6px 20px rgba(31, 38, 135, 0.2),
+      inset 0 1px 0 rgba(255, 255, 255, 0.7);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 120px;
+    justify-content: center;
+
+    .reset-icon {
+      font-size: 16px;
+      transition: transform 0.3s ease;
+    }
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.95);
+      transform: translateY(-3px) scale(1.05);
+      box-shadow: 0 10px 30px rgba(31, 38, 135, 0.3),
+        inset 0 1px 0 rgba(255, 255, 255, 0.8);
+
+      .reset-icon {
+        transform: rotate(180deg);
+      }
+    }
+
+    &:active {
+      transform: translateY(-1px) scale(1.02);
+    }
+  }
+}
+
 .pixi-container {
   position: absolute;
   top: 0;
@@ -1060,6 +1116,20 @@ onUnmounted(() => {
   .poet-info-panel {
     width: 250px;
     right: 10px;
+  }
+
+  .reset-view-container {
+    bottom: 20px;
+
+    .reset-view-btn {
+      padding: 10px 20px;
+      font-size: 13px;
+      min-width: 100px;
+
+      .reset-icon {
+        font-size: 14px;
+      }
+    }
   }
 }
 </style>

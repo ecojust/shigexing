@@ -8,7 +8,7 @@ export const timelineConfig = {
   maxYear: 1300,
   width: (window.innerWidth - 200) * 2,
   height: (window.innerHeight - 100) * 2,
-  margin: { top: 50, right: 100, bottom: 50, left: 100 },
+  margin: { top: 50, right: 100, bottom: 50, left: 0 },
   poetBarWidth: 80,
   poetBarSpacing: 60,
 };

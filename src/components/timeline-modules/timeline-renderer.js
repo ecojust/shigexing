@@ -21,7 +21,7 @@ export const drawTimeline = (container) => {
   graphics
     .moveTo(timelineConfig.margin.left, 0)
     .lineTo(timelineConfig.margin.left, timelineConfig.height)
-    .stroke({ width: 3, color: 0x333333 });
+    .stroke({ width: 3, color: 0x666666 });
 
   // 绘制年份刻度
   const yearStep = 50; // 每50年一个刻度
@@ -36,14 +36,14 @@ export const drawTimeline = (container) => {
     graphics
       .moveTo(timelineConfig.margin.left - 10, y)
       .lineTo(timelineConfig.margin.left + 10, y)
-      .stroke({ width: 2, color: 0x666666 });
+      .stroke({ width: 2, color: 0x999999 });
 
     // 年份标签
     const yearText = new PIXI.Text({
       text: year.toString(),
       style: createTextStyle({
         fontSize: 24,
-        fill: 0x333333,
+        fill: 0x999999,
         align: "right",
       }),
     });
