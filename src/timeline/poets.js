@@ -606,6 +606,7 @@ const poets = [
     name: "李煜",
     birth: 937,
     death: 978,
+    over: true,
     bio: "南唐后主，词人，以《虞美人》等词著名",
   },
   { name: "李璟", birth: 916, death: 961, bio: "南唐中主，词人，李煜之父" },

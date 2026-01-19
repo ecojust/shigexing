@@ -50,7 +50,7 @@ const getHistoryFromLocal = async (poet, onMarkersReceived) => {
   ) {
     onMarkersReceived(
       history[poet.name],
-      `${poet.name}(${poet.birth}-${poet.death})`
+      `${poet.name} (${poet.birth} - ${poet.death})`
     );
   }
 };
@@ -86,7 +86,7 @@ export const drawPoets = (container, poets, onPoetClick, onMarkersReceived) => {
     // 绘制外边框
     poetBar
       .rect(x, startY, timelineConfig.poetBarWidth, height)
-      .fill({ color: poetColor, alpha: 0.15 })
+      .fill({ color: poetColor, alpha: poet.over ? 0.5 : 0.15 })
       .stroke({ width: 2, color: poetColor });
 
     // 绘制内部实心部分（代表诗人的创作高峰期）

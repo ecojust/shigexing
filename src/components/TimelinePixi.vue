@@ -13,9 +13,9 @@
         />
       </div> -->
       <button @click="resetView" class="control-btn">重置视图</button>
-      <button @click="toggleDynasty" class="control-btn">
+      <!-- <button @click="toggleDynasty" class="control-btn">
         {{ showDynasty ? "隐藏朝代" : "显示朝代" }}
-      </button>
+      </button> -->
       <!-- <div class="zoom-controls">
         <button @click="zoomIn" class="control-btn">放大</button>
         <button @click="zoomOut" class="control-btn">缩小</button>
@@ -75,21 +75,35 @@
       width="75%"
       :before-close="handleDialogClose"
       class="poet-history-dialog"
+      :show-close="false"
+      :close-on-click-modal="false"
+      align-center
     >
+      <template #header="{ close }">
+        <div class="custom-dialog-header">
+          <div class="header-content">
+            <h3 class="dialog-title">{{ currentPoetName }}</h3>
+            <button @click="close" class="close-button">
+              <span>×</span>
+            </button>
+          </div>
+        </div>
+      </template>
+
       <div
         v-if="poetData && poetData.articles && poetData.articles.length > 0"
         class="poet-content"
       >
         <!-- 诗人详情链接 -->
         <div v-if="poetData.detailsLink" class="poet-details-link">
-          <el-link
-            :href="poetData.detailsLink"
-            target="_blank"
+          <el-button
+            @click="showIframe = true"
             type="primary"
             size="small"
+            plain
           >
-            查看详细资料
-          </el-link>
+            查看人物资料
+          </el-button>
         </div>
 
         <!-- 作品列表 - 紧凑布局 -->
@@ -139,9 +153,33 @@
       </div>
 
       <template #footer>
-        <span class="dialog-footer">
+        <!-- <span class="dialog-footer">
           <el-button @click="dialogVisible = false">关闭</el-button>
           <el-button type="primary" @click="exportData">导出数据</el-button>
+        </span> -->
+      </template>
+    </el-dialog>
+
+    <!-- iframe Dialog 显示详细资料 -->
+    <el-dialog
+      v-model="showIframe"
+      title="详细资料"
+      width="90%"
+      class="iframe-dialog"
+      :before-close="handleIframeClose"
+      align-center
+    >
+      <div class="iframe-container">
+        <iframe
+          v-if="showIframe && poetData?.detailsLink"
+          :src="poetData.detailsLink"
+          frameborder="0"
+          class="detail-iframe"
+        ></iframe>
+      </div>
+      <template #footer>
+        <span class="dialog-footer">
+          <el-button @click="showIframe = false">关闭</el-button>
         </span>
       </template>
     </el-dialog>
@@ -190,6 +228,7 @@ const searchQuery = ref("");
 
 // Dialog相关状态
 const dialogVisible = ref(false);
+const showIframe = ref(false);
 const poetData = ref(null);
 const currentPoetName = ref("");
 
@@ -303,17 +342,22 @@ const handleMarkersReceived = (data, poetName) => {
   dialogVisible.value = true;
 
   if (data && data.articles && data.articles.length > 0) {
-    ElMessage.success(
-      `成功获取 ${poetName} 的 ${data.articles.length} 条作品记录`
-    );
+    // ElMessage.success(
+    //   `成功获取 ${poetName} 的 ${data.articles.length} 条作品记录`
+    // );
   } else {
-    ElMessage.warning(`未找到 ${poetName} 的作品记录`);
+    // ElMessage.warning(`未找到 ${poetName} 的作品记录`);
   }
 };
 
 // Dialog相关方法
 const handleDialogClose = (done) => {
-  ElMessage.info("关闭历史轨迹对话框");
+  // ElMessage.info("关闭历史轨迹对话框");
+  done();
+};
+
+const handleIframeClose = (done) => {
+  // ElMessage.info("关闭详细资料页面");
   done();
 };
 
@@ -740,33 +784,69 @@ onUnmounted(() => {
 
 // ElementPlus Dialog 样式
 :deep(.poet-history-dialog) {
-  .el-dialog__header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    padding: 15px 20px;
+  .el-dialog {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 25px 50px rgba(31, 38, 135, 0.3);
+  }
 
-    .el-dialog__title {
-      color: white;
-      font-weight: 700;
-      font-size: 18px;
-    }
+  .custom-dialog-header {
+    background: linear-gradient(
+      135deg,
+      rgba(102, 126, 234, 0.9) 0%,
+      rgba(118, 75, 162, 0.9) 100%
+    );
+    backdrop-filter: blur(10px);
+    border-radius: 8px 8px 0 0;
+    padding: 0;
+    margin: -20px -20px 0px -20px;
 
-    .el-dialog__headerbtn {
-      .el-dialog__close {
+    .header-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 20px;
+
+      .dialog-title {
         color: white;
-        font-size: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        margin: 0;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+      }
+
+      .close-button {
+        background: rgba(255, 255, 255, 0.2);
+        border: none;
+        border-radius: 50%;
+        width: 32px;
+        height: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: all 0.3s ease;
 
         &:hover {
-          color: #f1c40f;
+          background: rgba(255, 255, 255, 0.3);
+          transform: scale(1.1);
+        }
+
+        span {
+          color: white;
+          font-size: 20px;
+          font-weight: bold;
         }
       }
     }
   }
 
   .el-dialog__body {
-    padding: 15px;
+    // padding: 15px;
     max-height: 65vh;
     overflow-y: auto;
+    background: transparent;
   }
 
   .poet-content {
@@ -778,14 +858,17 @@ onUnmounted(() => {
     .works-list {
       .work-item {
         margin-bottom: 12px;
-        border: 1px solid #e4e7ed;
+        border: 1px solid rgba(228, 231, 237, 0.6);
         border-radius: 8px;
         overflow: hidden;
         transition: all 0.3s ease;
+        background: rgba(255, 255, 255, 0.7);
+        backdrop-filter: blur(5px);
 
         &:hover {
           box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
           transform: translateY(-1px);
+          background: rgba(255, 255, 255, 0.9);
         }
 
         .work-header {
@@ -814,10 +897,15 @@ onUnmounted(() => {
             margin-bottom: 12px;
 
             .lines-container {
-              background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+              background: linear-gradient(
+                135deg,
+                rgba(248, 249, 250, 0.8) 0%,
+                rgba(233, 236, 239, 0.8) 100%
+              );
               padding: 12px;
               border-radius: 6px;
               border-left: 3px solid #667eea;
+              backdrop-filter: blur(5px);
 
               .poem-line {
                 display: inline-block;
@@ -851,6 +939,7 @@ onUnmounted(() => {
               font-size: 13px;
               color: #666;
               padding: 8px 0;
+              background: transparent;
             }
 
             .el-collapse-item__content {
@@ -879,6 +968,67 @@ onUnmounted(() => {
     display: flex;
     justify-content: flex-end;
     gap: 10px;
+  }
+}
+
+// iframe Dialog 样式
+:deep(.iframe-dialog) {
+  .el-dialog {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 25px 50px rgba(31, 38, 135, 0.3);
+  }
+
+  .el-dialog__header {
+    background: linear-gradient(
+      135deg,
+      rgba(102, 126, 234, 0.9) 0%,
+      rgba(118, 75, 162, 0.9) 100%
+    );
+    color: white;
+    padding: 15px 20px;
+    margin: -20px -20px 20px -20px;
+
+    .el-dialog__title {
+      color: white;
+      font-weight: 700;
+      font-size: 18px;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    .el-dialog__headerbtn {
+      .el-dialog__close {
+        color: white;
+        font-size: 20px;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 50%;
+        width: 32px;
+        height: 32px;
+
+        &:hover {
+          background: rgba(255, 255, 255, 0.3);
+          color: white;
+        }
+      }
+    }
+  }
+
+  .el-dialog__body {
+    padding: 0;
+    height: 70vh;
+  }
+
+  .iframe-container {
+    width: 100%;
+    height: 100%;
+
+    .detail-iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 0 0 8px 8px;
+    }
   }
 }
 
