@@ -1,19 +1,29 @@
 /**
  * 绘制工具模块
  * 提供通用的绘制工具函数
+ * 横轴: 时间（年份），纵轴: 诗人
  */
 
 import { timelineConfig, poetColorMap } from "./config.js";
 
 /**
- * 计算年份在时间轴上的位置
+ * 计算年份在时间轴上的X位置（横向布局）
  * @param {number} year - 年份
- * @returns {number} Y坐标位置
+ * @returns {number} X坐标位置
  */
 export const getYearPosition = (year) => {
   const totalYears = timelineConfig.maxYear - timelineConfig.minYear;
   const yearOffset = year - timelineConfig.minYear;
-  return (yearOffset / totalYears) * timelineConfig.height;
+  return timelineConfig.margin.left + (yearOffset / totalYears) * timelineConfig.width;
+};
+
+/**
+ * 计算诗人在纵轴上的Y位置（单行布局：所有诗人同一行）
+ * @param {number} index - 诗人索引（单行布局忽略）
+ * @returns {number} Y坐标位置
+ */
+export const getPoetYPosition = (index) => {
+  return timelineConfig.margin.top;
 };
 
 /**

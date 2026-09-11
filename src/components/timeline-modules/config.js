@@ -1,16 +1,20 @@
 /**
  * 时间轴配置模块
  * 管理时间轴的基本配置和常量
+ * 横轴: 时间（年份），纵轴: 诗人
  */
 
 export const timelineConfig = {
   minYear: 600,
   maxYear: 1300,
-  width: (window.innerWidth - 200) * 2,
-  height: (window.innerHeight - 100) * 2,
-  margin: { top: 50, right: 100, bottom: 50, left: 0 },
-  poetBarWidth: 80,
-  poetBarSpacing: 60,
+  // 横向布局：宽度是时间轴，高度是诗人列表
+  width: (window.innerWidth - 200) * 2, // 时间轴宽度
+  height: 2000, // 诗人列表高度（按需扩展）
+  margin: { top: 100, right: 100, bottom: 50, left: 150 },
+  poetBarHeight: 40, // 每个诗人条的高度
+  poetBarSpacing: 15, // 诗人之间的间距
+  avatarSize: 44, // 头像尺寸
+  singleRowLayout: true, // 单行布局：所有诗人曲线叠加在同一行
 };
 
 // 朝代数据配置
@@ -47,5 +51,9 @@ export const poetColorMap = {
 // 更新配置的方法
 export const updateTimelineConfig = () => {
   timelineConfig.width = (window.innerWidth - 200) * 2;
-  timelineConfig.height = (window.innerHeight - 100) * 2;
+};
+
+// 单行布局：一行固定高度，其余纵向空间留给人生曲线
+export const updateTimelineHeight = () => {
+  timelineConfig.height = timelineConfig.margin.top + 500 + timelineConfig.margin.bottom;
 };

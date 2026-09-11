@@ -1,6 +1,7 @@
 /**
  * 帝皇绘制模块
  * 负责绘制帝皇时间块和交互
+ * 布局: 横轴=时间(年份)，纵轴=诗人
  */
 
 import * as PIXI from "pixi.js";
@@ -8,10 +9,11 @@ import { timelineConfig } from "./config.js";
 import { getYearPosition } from "./utils.js";
 
 /**
- * 绘制帝皇时间块
+ * 绘制帝皇时间块（横向）
  * @param {PIXI.Container} container - 帝皇容器
  * @param {Array} emperors - 帝皇数据数组
  * @param {boolean} visible - 是否显示帝皇
+ * @param {Array} poets - 诗人数据数组（用于计算高度）
  * @param {Function} onEmperorHover - 帝皇悬停回调
  * @param {Function} onEmperorOut - 帝皇移出回调
  */
@@ -19,6 +21,7 @@ export const drawEmperors = (
   container,
   emperors,
   visible = true,
+  poetCount = 0,
   onEmperorHover,
   onEmperorOut
 ) => {
@@ -27,14 +30,12 @@ export const drawEmperors = (
 
   if (!visible) return;
 
-  emperors.forEach((emperor, index) => {
-    const startY = getYearPosition(emperor.start);
-    const endY = getYearPosition(emperor.end);
-    const height = Math.max(endY - startY, 1);
+  const totalHeight = timelineConfig.height;
 
-    // 帝皇时间块的水平位置
-    const x = timelineConfig.margin.left + 180;
-    const width = 120;
+  emperors.forEach((emperor) => {
+    const startX = getYearPosition(emperor.start);
+    const endX = getYearPosition(emperor.end);
+    const width = Math.max(endX - startX, 1);
 
     // 帝皇时间块
     const emperorBar = new PIXI.Graphics();
@@ -44,9 +45,14 @@ export const drawEmperors = (
     const darkerColor = ((baseColor >> 1) & 0x7f7f7f) + (baseColor & 0x808080);
 
     emperorBar
-      .rect(x, startY, width, height)
-      .fill({ color: baseColor, alpha: 0.3 })
-      .stroke({ width: 1, color: darkerColor, alpha: 0.8 });
+      .rect(
+        startX,
+        timelineConfig.margin.top - 20,
+        width,
+        totalHeight - timelineConfig.margin.top + 20
+      )
+      .fill({ color: baseColor, alpha: 0.25 })
+      .stroke({ width: 1, color: darkerColor, alpha: 0.5 });
 
     container.addChild(emperorBar);
 

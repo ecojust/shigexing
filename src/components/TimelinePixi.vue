@@ -205,17 +205,17 @@ import { Location, User } from "@element-plus/icons-vue";
 import {
   timelineConfig,
   updateTimelineConfig,
+  updateTimelineHeight,
   getAllEmperors,
   findPoetByName,
   drawTimeline,
   drawDynasties,
   drawEmperors,
-  drawPoets,
+  drawLifeCurves,
   showEmperorTooltip,
   hideEmperorTooltip,
   setupInteractions,
-  centerView,
-  resetView as resetViewModule,
+  fitTimelineToScreen,
   zoomIn as zoomInModule,
   zoomOut as zoomOutModule,
   animateToPoet,
@@ -285,10 +285,11 @@ const initPixiApp = async () => {
     setupInteractions(app, container, zoomState.value, pixiContainer.value);
 
     // 绘制时间轴
+    updateTimelineHeight();
     drawAllComponents();
 
-    // 初始化时居中显示
-    centerView(container, timelineConfig);
+    // 初始化时适配屏幕显示完整时间轴
+    fitTimelineToScreen(container, zoomState.value, timelineConfig);
   } catch (error) {
     console.error("PixiJS 初始化失败:", error);
   }
@@ -305,57 +306,9 @@ const drawAllComponents = () => {
     showEmperorTooltip,
     hideEmperorTooltip
   );
-  drawPoets(
-    poetContainer,
-    poets,
-    (poet) => {
-      selectedPoet.value = poet;
-    },
-    handleMarkersReceived
-  );
-};
 
-// 处理markers数据接收
-// 清理HTML标签的函数
-const cleanHtmlContent = (htmlString) => {
-  if (!htmlString) return "";
-
-  // 创建一个临时div元素来解析HTML
-  const tempDiv = document.createElement("div");
-  tempDiv.innerHTML = htmlString;
-
-  // 移除所有a标签但保留文本内容
-  const links = tempDiv.querySelectorAll("a");
-  links.forEach((link) => {
-    const textNode = document.createTextNode(
-      link.textContent || link.innerText
-    );
-    link.parentNode.replaceChild(textNode, link);
-  });
-
-  // 移除所有script标签
-  const scripts = tempDiv.querySelectorAll("script");
-  scripts.forEach((script) => script.remove());
-
-  // 移除其他不需要的标签，只保留文本内容
-  return tempDiv.textContent || tempDiv.innerText || "";
-};
-
-const handleMarkersReceived = (data, poetName) => {
-  console.log("接收到诗人数据:", data);
-
-  // 将接收到的数据设置为poetData
-  poetData.value = data;
-  currentPoetName.value = poetName;
-  dialogVisible.value = true;
-
-  if (data && data.articles && data.articles.length > 0) {
-    // ElMessage.success(
-    //   `成功获取 ${poetName} 的 ${data.articles.length} 条作品记录`
-    // );
-  } else {
-    // ElMessage.warning(`未找到 ${poetName} 的作品记录`);
-  }
+  // 单行布局：将带 life 数据的诗人人生折线叠加绘制在同一区域
+  drawLifeCurves(poetContainer, poets);
 };
 
 // Dialog相关方法
@@ -414,7 +367,7 @@ const exportData = () => {
 
 // 控制方法
 const resetView = () => {
-  resetViewModule(container, zoomState.value, timelineConfig);
+  fitTimelineToScreen(container, zoomState.value, timelineConfig);
 };
 
 const toggleDynasty = () => {
@@ -457,12 +410,13 @@ const handleResize = () => {
 
     // 更新时间轴配置
     updateTimelineConfig();
+    updateTimelineHeight();
 
     // 重新绘制所有元素
     drawAllComponents();
 
-    // 窗口大小变化后重新居中
-    centerView(container, timelineConfig);
+    // 窗口大小变化后重新适配屏幕
+    fitTimelineToScreen(container, zoomState.value, timelineConfig);
   }
 };
 

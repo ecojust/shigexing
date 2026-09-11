@@ -93,15 +93,14 @@ const setupZoomInteraction = (container, zoomState, pixiContainer) => {
 export const centerView = (container, timelineConfig) => {
   if (!container) return;
 
-  // 计算时间轴内容的中心点
+  // 内容区域 = 去除 margin 后的部分
+  const contentWidth = timelineConfig.width - timelineConfig.margin.left - timelineConfig.margin.right;
+  const contentHeight = timelineConfig.height - timelineConfig.margin.top - timelineConfig.margin.bottom;
+
+  // 时间轴内容中心点（横轴-时间，纵轴-诗人，均为正坐标）
   const timelineCenter = {
-    x:
-      timelineConfig.margin.left +
-      (timelineConfig.width -
-        timelineConfig.margin.left -
-        timelineConfig.margin.right) /
-        2,
-    y: timelineConfig.height / 2,
+    x: timelineConfig.margin.left + contentWidth / 2,
+    y: timelineConfig.margin.top + contentHeight / 2,
   };
 
   // 计算屏幕中心点
@@ -128,6 +127,52 @@ export const resetView = (container, zoomState, timelineConfig) => {
     zoomState.current = 0.5;
     centerView(container, timelineConfig);
   }
+};
+
+/**
+ * 适配屏幕：让整个时间轴内容完整显示在视口中
+ * @param {PIXI.Container} container - 主容器
+ * @param {Object} zoomState - 缩放状态对象
+ * @param {Object} timelineConfig - 时间轴配置
+ */
+export const fitTimelineToScreen = (container, zoomState, timelineConfig) => {
+  if (!container) return;
+
+  // 内容实际尺寸
+  const contentWidth = timelineConfig.width - timelineConfig.margin.left - timelineConfig.margin.right;
+  const contentHeight = timelineConfig.height - timelineConfig.margin.top - timelineConfig.margin.bottom;
+
+  // 视口尺寸（容器DOM）
+  const viewportWidth = window.innerWidth - 20;
+  const viewportHeight = window.innerHeight - 20;
+
+  // 计算合适的缩放比例，确保完整显示
+  let scale = Math.min(viewportWidth / contentWidth, viewportHeight / contentHeight);
+  // 限制缩放范围（保证文字可读性）
+  scale = clamp(scale, 0.5, 1);
+
+  zoomState.current = scale;
+  container.scale.set(scale);
+  centerView(container, timelineConfig);
+};
+
+/**
+ * 聚焦到指定诗人行，将其置于屏幕中央并放大到可读级别
+ * @param {PIXI.Container} container - 主容器
+ * @param {Object} zoomState - 缩放状态对象
+ * @param {Object} poet - 诗人数据
+ * @param {Array} allPoets - 所有诗人数据
+ */
+export const focusOnPoet = (container, zoomState, poet, allPoets) => {
+  if (!container || !poet) return;
+
+  const { x, y } = getPoetPosition(poet, allPoets);
+  const scale = 1;
+
+  zoomState.current = scale;
+  container.scale.set(scale);
+  container.x = window.innerWidth / 2 - x * scale;
+  container.y = window.innerHeight / 2 - y * scale;
 };
 
 /**

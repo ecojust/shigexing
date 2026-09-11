@@ -9,11 +9,13 @@ export {
   dynasties,
   poetColorMap,
   updateTimelineConfig,
+  updateTimelineHeight,
 } from "./config.js";
 
 // 工具函数
 export {
   getYearPosition,
+  getPoetYPosition,
   getPoetColor,
   createTextStyle,
   clamp,
@@ -37,13 +39,21 @@ export {
   hideEmperorTooltip,
 } from "./emperor-renderer.js";
 export { drawPoets, getPoetPosition } from "./poet-renderer.js";
+export { drawLifeCurves } from "./life-curve-renderer.js";
+export {
+  drawLifeChart,
+  CHART_H,
+  CHART_TOP_OFFSET,
+} from "./life-chart-renderer.js";
 
 // 交互控制
 export {
   setupInteractions,
   centerView,
   resetView,
+  fitTimelineToScreen,
   zoomIn,
   zoomOut,
   animateToPoet,
+  focusOnPoet,
 } from "./interaction-controller.js";
