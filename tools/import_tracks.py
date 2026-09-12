@@ -5,6 +5,11 @@ def clean(s):
     s = re.sub(r"\s+", "", s)
     return s
 
+def age_int(r):
+    """解析“年岁”列。CSV 中年岁列只在诗人活着时填写，卒后追封/赐谥等记录为空"""
+    m = re.search(r"\d+", clean(r.get("年岁")))
+    return int(m.group()) if m else None
+
 def year_value(recs):
     """由真实数据推导人生曲线高度：作品多/任职高则高，贬谪/离世则低"""
     joined = " ".join(r["activity"] for r in recs) + " " + " ".join(r["office"] for r in recs)
@@ -28,7 +33,6 @@ out = {}
 for path in sorted(glob.glob("src/datacsv/*.csv")):
     name = os.path.basename(path).replace("行迹_", "").replace(".csv", "")
     years = {}
-    birth = None
     with open(path, encoding="utf-8") as f:
         for r in csv.DictReader(f):
             activity = clean(r.get("活动内容或创作缘起"))
@@ -42,8 +46,6 @@ for path in sorted(glob.glob("src/datacsv/*.csv")):
             if not (600 <= y <= 1300):
                 continue
             work = clean(r.get("系年作品"))
-            if birth is None and y == min(int((row.get("年份") or "").strip()) for row in csv.DictReader(open(path, encoding="utf-8")) if (row.get("年份") or "").strip().isdigit()):
-                birth = y
             rec = {
                 "month": clean(r.get("月")),
                 "state": clean(r.get("州")),
@@ -55,11 +57,17 @@ for path in sorted(glob.glob("src/datacsv/*.csv")):
                 "activity": activity,
                 "work": work,
             }
-            years.setdefault(y, []).append(rec)
-    # 每年保留：先有实质活动/作品的记录，不够时再用"居于家乡"
+            years.setdefault(y, []).append((rec, age_int(r) is not None))
+    # 生卒年只依据填写了“年岁”的记录：追封、赐谥、后人修墓等卒后记录年份不可用
+    alive_years = [y for y, recs in years.items() if any(age for rec, age in recs)]
+    birth = min(alive_years) if alive_years else min(years)
+    death = max(alive_years) if alive_years else max(years)
+    # 每年保留：先有实质活动/作品的记录，不够时再用"居于家乡"；仅保留在世年份
     post = {}
     for y in sorted(years):
-        recs = years[y]
+        if not (birth <= y <= death):
+            continue
+        recs = [rec for rec, age in years[y]]
         important = [x for x in recs if x["activity"] and "居于家乡" not in x["activity"]]
         if important:
             post[y] = important
@@ -90,8 +98,8 @@ for path in sorted(glob.glob("src/datacsv/*.csv")):
         })
     out[name] = {
         "name": name,
-        "birth": min(post),
-        "death": max(post),
+        "birth": birth,
+        "death": death,
         "life": years_list,
     }
 
