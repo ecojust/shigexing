@@ -23,6 +23,7 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from "vue";
 import { poetTracks } from "../timeline/tracks.js";
+import { poetRelations } from "../timeline/relations.js";
 
 const props = defineProps({ focus: { type: String, default: "" } });
 const emit = defineEmits(["close"]);
@@ -52,42 +53,8 @@ function dynastyColor(year) {
   return "#6cc4ee";
 }
 
-function relationCategory(text, name) {
-  const i = text.indexOf(name);
-  const w = i < 0 ? text : text.slice(Math.max(0, i - 18), i + name.length + 18);
-  if (/赠|寄|答|酬|唱和|次韵|和诗|见寄/.test(w)) return "赠答唱和";
-  if (/送|饯|别/.test(w)) return "送别";
-  if (/荐|举|擢|知遇|器重|延誉/.test(w)) return "举荐知遇";
-  if (/同年|同榜|同科|同登/.test(w)) return "同年";
-  if (/师|受业|从学|门下|弟子/.test(w)) return "师承";
-  if (/兄|弟|侄|叔|族|姻/.test(w)) return "亲族";
-  if (/劾|贬|构陷|政见|争/.test(w)) return "政争";
-  return "交游";
-}
-
-function relationText(event, name) {
-  const parts = String(event)
-    .split(/[。；;！？\n]/)
-    .map((s) => s.trim())
-    .filter(Boolean);
-  const withName = parts.filter((p) => p.includes(name));
-  if (!withName.length) return String(event);
-  const REL =
-    /赠|寄|答|酬|唱和|送|饯|别|荐|举|游|会|访|师|从学|受业|交|友|宴|饮|赋诗|题诗|同|往|见|拜|谒|过访|招|邀|侍|唱|贺|祭|悼|知遇|器重/;
-  const isCite = (s) =>
-    /^[《”"’]/.test(s) ||
-    (/《[^》]+》/.test(s) && !REL.test(s.replace(/《[^》]*》/g, "")));
-  const hit =
-    withName.find((p) => REL.test(p) && !isCite(p)) ||
-    withName.find((p) => !isCite(p)) ||
-    withName[0];
-  if (isCite(hit)) return relationCategory(event, name);
-  return hit;
-}
-
 function buildGraph() {
   const poets = Object.values(poetTracks);
-  const names = poets.map((p) => p.name);
   const nodes = poets.map((p) => ({
     id: p.name,
     birth: p.birth,
@@ -95,34 +62,21 @@ function buildGraph() {
     degree: 0,
   }));
   const byId = new Map(nodes.map((n) => [n.id, n]));
-  const seen = new Map();
-  for (const p of poets) {
-    const events = (p.life || []).map((e) => e.event || "");
-    const text = events.join("。");
-    for (const q of names) {
-      if (q === p.name) continue;
-      const hit = events.find((ev) => ev.includes(q));
-      if (!hit) continue;
-      const k = [p.name, q].sort().join("|");
-      if (!seen.has(k)) {
-        seen.set(k, {
-          source: p.name,
-          target: q,
-          weight: 0,
-          label: relationText(hit, q),
-          sample: hit,
-        });
-      }
-      let c = 0,
-        i = 0;
-      while ((i = text.indexOf(q, i)) !== -1) {
-        c++;
-        i += q.length;
-      }
-      seen.get(k).weight += c;
-    }
+  const seen = new Set();
+  const links = [];
+  for (const { a, b, note, weight } of poetRelations) {
+    if (!byId.has(a) || !byId.has(b)) continue;
+    const k = [a, b].sort().join("|");
+    if (seen.has(k)) continue;
+    seen.add(k);
+    links.push({
+      source: a,
+      target: b,
+      weight: weight || 1,
+      label: note,
+      sample: note,
+    });
   }
-  const links = [...seen.values()];
   for (const l of links) {
     byId.get(l.source).degree++;
     byId.get(l.target).degree++;
@@ -256,7 +210,9 @@ onMounted(async () => {
       .style("cursor", "pointer")
       .on("click", (ev, d) => {
         ev.stopPropagation();
-        setFocus(d.id === currentFocus.value ? "" : d.id);
+        // 单人模式下点击不重选，仅用于拖动节点
+        if (currentFocus.value) return;
+        setFocus(d.id);
       });
 
     const labelSel = root
@@ -298,7 +254,7 @@ onMounted(async () => {
     nodeSel.call(
       d3
         .drag()
-        .filter((ev, d) => d.id === currentFocus.value)
+        .filter(() => !!currentFocus.value)
         .on("start", (ev) => {
           if (ev.sourceEvent) ev.sourceEvent.stopPropagation();
         })
