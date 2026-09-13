@@ -367,7 +367,6 @@ function kingColorOf(year) {
 }
 
 // ---------- 数据 ----------
-// 只使用 CSV 数据源：有行迹 CSV 的诗人（poetTracks）才展示
 const allPoets = computed(() =>
   Object.values(poetTracks)
     .filter((tr) => Array.isArray(tr.life) && tr.life.length >= 1)
