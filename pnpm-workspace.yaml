@@ -1,5 +1,0 @@
-allowBuilds:
-  esbuild: true
-  vue-demi: true
-  less: true
-  fsevents: true

@@ -46,14 +46,11 @@ jobs:
         uses: actions/setup-node@v5
         with:
           node-version: "lts/*"
-
-      # Install pnpm globally
-      - name: Install pnpm
-        run: npm install -g pnpm@10
+          cache: "yarn"
 
       # Install frontend dependencies
       - name: Install frontend dependencies
-        run: pnpm install
+        run: yarn install --frozen-lockfile
 
         # Install frontend dependencies
       - name: Install x86 Apple
