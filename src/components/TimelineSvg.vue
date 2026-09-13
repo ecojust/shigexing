@@ -344,6 +344,24 @@
                 opacity="0.7"
               />
             </g>
+
+            <!-- 该诗人的操作面板 -->
+            <foreignObject
+              :x="svgW - 182"
+              :y="row.rowTop + (ROW_H - 34) / 2"
+              width="164"
+              height="34"
+              class="row-actions-fo"
+            >
+              <div class="row-actions">
+                <button class="row-action-btn" @click.stop="openVideo(row.poet)">
+                  🎬 视频
+                </button>
+                <button class="row-action-btn" @click.stop="openGraph(row.poet)">
+                  🕸 图谱
+                </button>
+              </div>
+            </foreignObject>
           </g>
         </g>
       </svg>
@@ -361,6 +379,8 @@
       <div class="tip-body">{{ tip.body }}</div>
     </div>
 
+    <PoetGraph v-if="graphOpen" :focus="graphFocus" @close="graphOpen = false" />
+
     <div v-if="poemPage" class="poem3d-overlay" @click.self="activePoem = null">
       <div class="poem3d-frame">
         <iframe class="poem3d-iframe" :src="poemPage.file" title="诗词 3D 解析" />
@@ -370,9 +390,11 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted } from "vue";
+import { ref, computed, onMounted, onUnmounted, defineAsyncComponent } from "vue";
 import { poetTracks } from "../timeline/tracks.js";
 import { getAllEmperors } from "./timeline-modules/data-processor.js";
+
+const PoetGraph = defineAsyncComponent(() => import("./PoetGraph.vue"));
 
 const ROW_H = 80;
 const HEADER_H = 34;
@@ -606,6 +628,17 @@ onMounted(() => {
   onUnmounted(() => window.removeEventListener("resize", updateViewW));
 });
 
+// ---------- 诗人操作 / 关系图谱 ----------
+const graphOpen = ref(false);
+const graphFocus = ref("");
+const openGraph = (poet) => {
+  graphFocus.value = poet ? poet.name : "";
+  graphOpen.value = true;
+};
+const openVideo = (poet) => {
+  // 视频功能待实现
+};
+
 // ---------- 名句 3D 解析 ----------
 // 名诗详情页 public/3d/poem.html，每首配置见 public/3d/poems/（按需加载）
 const activePoem = ref(null);
@@ -783,6 +816,35 @@ const hideTip = () => {
 
 .curve-dot {
   cursor: pointer;
+}
+
+.row-actions-fo {
+  overflow: visible;
+}
+.row-actions {
+  display: flex;
+  gap: 6px;
+  height: 34px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.row-action-btn {
+  border: none;
+  cursor: pointer;
+  padding: 5px 12px;
+  border-radius: 999px;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  color: #fff;
+  background: linear-gradient(135deg, #ffd3a5 0%, #fd9bd6 100%);
+  box-shadow: 0 3px 10px rgba(245, 118, 178, 0.35);
+  white-space: nowrap;
+  transition: transform 0.15s, box-shadow 0.15s;
+  &:hover {
+    transform: translateY(-1px) scale(1.05);
+    box-shadow: 0 6px 14px rgba(245, 118, 178, 0.5);
+  }
 }
 
 .poem3d-overlay {
