@@ -31,10 +31,11 @@ export default {
   {
    "time": 1087,
    "value": 1,
-   "event": "有雪诗寄黄庭坚，并得黄庭坚唱和",
+   "event": "有雪诗寄黄庭坚，并得黄庭坚唱和。存词见《全宋词》，与黄庭坚有诗唱和。",
    "place": "",
    "lng": "0",
-   "lat": "0"
+   "lat": "0",
+   "highlight": true
   },
   {
    "time": 1099,

@@ -418,7 +418,8 @@ export default {
    "event": "《易传》成书",
    "place": "洛阳市",
    "lng": "112.460033",
-   "lat": "34.624376"
+   "lat": "34.624376",
+   "highlight": true
   },
   {
    "time": 1085,

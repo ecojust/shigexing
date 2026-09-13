@@ -8,9 +8,29 @@
     </h2>
 
     <div class="reset-view-container">
-      <button @click="resetView" class="reset-view-btn">
-        <span class="reset-icon">⟲</span>
-        回到最上面
+      <button
+        @click="resetView"
+        class="reset-view-btn"
+        aria-label="回到最上面"
+      >
+        <span class="reset-icon">
+          <svg
+            class="rocket-svg"
+            viewBox="0 0 24 24"
+            width="30"
+            height="30"
+            aria-hidden="true"
+          >
+            <path
+              d="M12 2c2.8 2.8 4.2 6.6 4.2 10.6v3H7.8v-3C7.8 8.6 9.2 4.8 12 2Z"
+              fill="#ffffff"
+            />
+            <path d="M7.8 15.6 4.4 19v2.6l3.4-3.4v-2.6Z" fill="#ffffff" />
+            <path d="M16.2 15.6 19.6 19v2.6l-3.4-3.4v-2.6Z" fill="#ffffff" />
+            <path d="M10 18.4 12 23l2-4.6h-4Z" fill="#ffd7a1" />
+            <circle cx="12" cy="9.8" r="1.9" fill="#f577b2" />
+          </svg>
+        </span>
       </button>
     </div>
 
@@ -74,6 +94,29 @@
           >
             {{ sec.name }} {{ sec.start }}–{{ sec.end }}
           </text>
+          <g
+            :transform="`translate(${svgW - 20 - 96}, ${sec.headerTop + (HEADER_H - 22) / 2})`"
+          >
+            <rect
+              width="96"
+              height="22"
+              rx="11"
+              fill="rgba(255,255,255,0.72)"
+              stroke="rgba(255,255,255,0.9)"
+              stroke-width="1"
+            />
+            <text
+              x="48"
+              y="11"
+              dominant-baseline="central"
+              text-anchor="middle"
+              :fill="sec.color"
+              font-size="12"
+              font-weight="700"
+            >
+              收录 {{ sec.rows.length }} 位
+            </text>
+          </g>
 
           <!-- 诗人行 -->
           <g v-for="row in sec.rows" :key="row.poet.name">
@@ -235,14 +278,39 @@
               @pointerenter="(e) => showCurveTip(row.poet, pt, e)"
               @pointerleave="hideTip"
             >
+              <!-- 名句高亮环 -->
+              <circle
+                v-if="pt.highlight"
+                :cx="ageX(pt.year - row.poet.birth)"
+                :cy="row.yFor(pt.count)"
+                r="11"
+                fill="#f5a623"
+                fill-opacity="0.18"
+                stroke="#f5a623"
+                stroke-width="1.6"
+                stroke-dasharray="3 2.5"
+                pointer-events="none"
+              />
               <circle
                 :cx="ageX(pt.year - row.poet.birth)"
                 :cy="row.yFor(pt.count)"
-                r="6"
-                :fill="curveColor(row.colorIdx)"
-                stroke="#fff"
-                stroke-width="1.8"
+                :r="pt.highlight ? 7.5 : 6"
+                :fill="pt.highlight ? '#f5a623' : curveColor(row.colorIdx)"
+                :stroke="pt.highlight ? '#fff8e6' : '#fff'"
+                :stroke-width="pt.highlight ? 2.6 : 1.8"
               />
+              <text
+                v-if="pt.highlight"
+                :x="ageX(pt.year - row.poet.birth)"
+                :y="row.yFor(pt.count) - 13"
+                text-anchor="middle"
+                font-size="11"
+                font-weight="800"
+                fill="#e08a00"
+                pointer-events="none"
+              >
+                ★
+              </text>
               <circle
                 :cx="ageX(pt.year - row.poet.birth) - 2"
                 :cy="row.yFor(pt.count) - 2"
@@ -285,7 +353,9 @@
       class="tip-box"
       :style="{ left: tip.x + 'px', top: tip.y + 'px' }"
     >
-      <div class="tip-title">{{ tip.title }}</div>
+      <div class="tip-title">
+        <span v-if="tip.highlight" class="tip-badge">名句</span>{{ tip.title }}
+      </div>
       <div class="tip-body">{{ tip.body }}</div>
     </div>
   </div>
@@ -448,6 +518,7 @@ const sections = computed(() => {
           count: q.value,
           event: q.event,
           place: q.place || "",
+          highlight: q.highlight === true,
         }))
         .sort((a, b) => a.year - b.year);
       const top = y;
@@ -528,7 +599,7 @@ onMounted(() => {
 });
 
 // ---------- tooltip ----------
-const tip = ref({ visible: false, x: 0, y: 0, title: "", body: "" });
+const tip = ref({ visible: false, x: 0, y: 0, highlight: false, title: "", body: "" });
 const positionTip = (e) => {
   let x = e.clientX + 14,
     y = e.clientY + 14;
@@ -542,6 +613,7 @@ const showCurveTip = (poet, pt, e) => {
     visible: true,
     x: pos.x,
     y: pos.y,
+    highlight: pt.highlight === true,
     title: `${poet.name} · ${pt.year - poet.birth}岁 (${pt.year}年)`,
     body: [pt.place ? `📍 ${pt.place}` : "", pt.event || ""]
       .filter(Boolean)
@@ -688,36 +760,39 @@ const hideTip = () => {
 
 .reset-view-container {
   position: absolute;
-  bottom: 26px;
-  left: 50%;
-  transform: translateX(-50%);
+  bottom: 28px;
+  right: 28px;
   z-index: 30;
 }
 .reset-view-btn {
+  width: 58px;
+  height: 58px;
   background: linear-gradient(135deg, #ffd3a5 0%, #fd9bd6 100%);
   border: none;
-  padding: 12px 26px;
-  border-radius: 999px;
+  border-radius: 50%;
   cursor: pointer;
-  font-weight: 800;
-  font-size: 14px;
   color: #fff;
   font-family: inherit;
   display: flex;
   align-items: center;
-  gap: 8px;
+  justify-content: center;
   box-shadow: 0 6px 18px rgba(245, 118, 178, 0.4);
   transition: all 0.25s;
   .reset-icon {
-    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     transition: transform 0.3s;
   }
+  .rocket-svg {
+    display: block;
+  }
   &:hover {
-    transform: translateY(-3px) scale(1.04);
+    transform: translateY(-3px) scale(1.06);
     box-shadow: 0 10px 26px rgba(245, 118, 178, 0.5);
   }
   &:hover .reset-icon {
-    transform: rotate(180deg);
+    transform: translateY(-3px);
   }
 }
 
@@ -741,6 +816,17 @@ const hideTip = () => {
     font-weight: 800;
     margin-bottom: 3px;
     font-size: 14px;
+  }
+  .tip-badge {
+    display: inline-block;
+    margin-right: 6px;
+    padding: 0 6px;
+    border-radius: 8px;
+    background: #f5a623;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 800;
+    vertical-align: middle;
   }
 }
 </style>
