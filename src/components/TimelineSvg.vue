@@ -224,6 +224,35 @@
               </tspan>
             </text>
 
+            <!-- 最高官职：官帽 + 官职·品级 -->
+            <g
+              v-if="row.office"
+              :transform="`translate(${row.officeX}, ${row.rowTop + 24})`"
+            >
+              <ellipse cx="9" cy="4" rx="8.4" ry="1.5" fill="#3a2a55" />
+              <path :d="hatD(row.hatTop)" fill="#4a3670" />
+              <rect x="0" y="0.6" width="4.6" height="2.4" rx="1.2" fill="#4a3670" />
+              <rect
+                x="13.4"
+                y="0.6"
+                width="4.6"
+                height="2.4"
+                rx="1.2"
+                fill="#4a3670"
+              />
+              <circle cx="9" :cy="(row.hatTop + 0.4).toFixed(1)" r="1" fill="#ffd76a" />
+              <text
+                x="22"
+                y="0"
+                dominant-baseline="central"
+                font-size="12"
+                font-weight="700"
+                :fill="curveColor(row.colorIdx)"
+              >
+                {{ row.office.title }}·{{ row.office.rank }}
+              </text>
+            </g>
+
             <!-- 曲线：面积 + 折线 -->
             <path
               v-if="row.linePath"
@@ -279,7 +308,7 @@
                   pointer-events="none"
                 />
                 <path
-                  :d="`M${ageX(row.pts[0].year - row.poet.birth) - 4},${row.cyFor + 4} Q${ageX(row.pts[0].year - row.poet.birth)},${row.cyFor + 9} ${ageX(row.pts[0].year - row.poet.birth) + 4},${row.cyFor + 4}`"
+                  :d="`M${row.birthX - 4},${row.cyFor + 4} Q${row.birthX},${row.cyFor + 9} ${row.birthX + 4},${row.cyFor + 4}`"
                   fill="none"
                   stroke="#5b4a7a"
                   stroke-width="1.8"
@@ -287,6 +316,49 @@
                   pointer-events="none"
                   opacity="0.75"
                 />
+
+                <!-- 男性：发冠 / 女性：发髻 + 发簪 -->
+                <g v-if="!row.female" pointer-events="none">
+                  <path
+                    :d="`M${row.birthX - 7.5},${row.cyFor - 13} Q${row.birthX},${row.cyFor - 25} ${row.birthX + 7.5},${row.cyFor - 13} Z`"
+                    :fill="curveColor(row.colorIdx)"
+                    stroke="#fff"
+                    stroke-width="1.8"
+                  />
+                </g>
+                <g v-else pointer-events="none">
+                  <path
+                    :d="`M${row.birthX - 14},${row.cyFor + 3} A14 14 0 0 1 ${row.birthX + 14},${row.cyFor + 3}`"
+                    fill="none"
+                    stroke="#5b4a7a"
+                    stroke-width="3.4"
+                    stroke-linecap="round"
+                    opacity="0.85"
+                  />
+                  <circle
+                    :cx="row.birthX"
+                    :cy="row.cyFor - 16"
+                    r="5.5"
+                    :fill="curveColor(row.colorIdx)"
+                    stroke="#fff"
+                    stroke-width="1.8"
+                  />
+                  <line
+                    :x1="row.birthX - 5"
+                    :y1="row.cyFor - 21"
+                    :x2="row.birthX + 9"
+                    :y2="row.cyFor - 25"
+                    stroke="#ffd76a"
+                    stroke-width="1.6"
+                    stroke-linecap="round"
+                  />
+                  <circle
+                    :cx="row.birthX + 9"
+                    :cy="row.cyFor - 25"
+                    r="1.8"
+                    fill="#ffd76a"
+                  />
+                </g>
               </g>
             </g>
 
@@ -537,6 +609,8 @@ import { poetTracks } from "../timeline/tracks.js";
 import { getPoetVideo } from "../timeline/videos.js";
 import { TauriFetch } from "../types/tauri-fetch";
 import { getAllEmperors } from "./timeline-modules/data-processor.js";
+import { poetOffices } from "../timeline/offices.js";
+import { isFemale } from "../timeline/genders.js";
 
 const PoetGraph = defineAsyncComponent(() => import("./PoetGraph.vue"));
 
@@ -583,6 +657,32 @@ const POLET_PALETTE = [
   "#e896c8",
 ];
 const curveColor = (i) => POLET_PALETTE[i % POLET_PALETTE.length];
+
+// 粗略估算文本宽度（中文按字号，数字/半角按 0.56 字号），用于在生卒后定位官帽
+const measureText = (str, size) => {
+  let w = 0;
+  for (const ch of String(str)) {
+    w += /[\u4e00-\u9fa5\u2010-\u2027\u3000-\u303f\uff00-\uffef]/.test(ch)
+      ? size
+      : size * 0.56;
+  }
+  return w;
+};
+
+// 品级排序：正一品最小，从九品最大，无品最低
+const RANK_NUM = "一二三四五六七八九";
+const rankLevel = (rank) => {
+  if (!rank || rank.includes("无品")) return 19;
+  const m = rank.match(/([正从])?([一二三四五六七八九])品/);
+  if (!m) return 19;
+  const n = RANK_NUM.indexOf(m[2]) + 1;
+  return (n - 1) * 2 + (m[1] === "从" ? 2 : 1);
+};
+// 品级越高，帽顶越高（越负）
+const hatTop = (level) => -3 - (19 - Math.min(level, 19)) * (8 / 18);
+const hatD = (top) =>
+  `M3.4 3 C3.4 ${(top * 0.5).toFixed(1)}, 6.2 ${top.toFixed(1)}, 9 ${top.toFixed(1)} ` +
+  `C11.8 ${top.toFixed(1)}, 14.6 ${(top * 0.5).toFixed(1)}, 14.6 3 Z`;
 
 const emperors = getAllEmperors().map((e) => ({ ...e, color: hex6(e.color) }));
 function hex6(n) {
@@ -738,6 +838,17 @@ const sections = computed(() => {
             start: sec.start,
             end: sec.end,
           };
+      row.female = isFemale(p.name);
+      row.birthX = pts.length ? ageX(pts[0].year - p.birth) : 0;
+      row.office = poetOffices[p.name] || null;
+      row.hatTop = row.office ? hatTop(rankLevel(row.office.rank)) : -3;
+      row.officeX =
+        CURVE_X +
+        4 +
+        measureText(p.name, 18) +
+        6 +
+        measureText(`（${p.birth}—${p.death}）`, 12) +
+        16;
       y += ROW_H;
     });
     secs.push(sec);
