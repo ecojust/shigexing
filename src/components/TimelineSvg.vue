@@ -275,8 +275,10 @@
               v-for="pt in row.pts.slice(1)"
               :key="pt.year"
               class="curve-dot"
+              :class="{ famous: pt.highlight }"
               @pointerenter="(e) => showCurveTip(row.poet, pt, e)"
               @pointerleave="hideTip"
+              @click="onNodeClick(pt)"
             >
               <!-- 名句高亮环 -->
               <circle
@@ -357,6 +359,12 @@
         <span v-if="tip.highlight" class="tip-badge">名句</span>{{ tip.title }}
       </div>
       <div class="tip-body">{{ tip.body }}</div>
+    </div>
+
+    <div v-if="poemPage" class="poem3d-overlay" @click.self="activePoem = null">
+      <div class="poem3d-frame">
+        <iframe class="poem3d-iframe" :src="poemPage.file" title="诗词 3D 解析" />
+      </div>
     </div>
   </div>
 </template>
@@ -598,6 +606,25 @@ onMounted(() => {
   onUnmounted(() => window.removeEventListener("resize", updateViewW));
 });
 
+// ---------- 名句 3D 解析 ----------
+// 名诗详情页 public/3d/poem.html，每首配置见 public/3d/poems/（按需加载）
+const activePoem = ref(null);
+const poemPage = computed(() => activePoem.value);
+const onNodeClick = (pt) => {
+  if (!pt.highlight) return;
+  hideTip();
+  const works = [...(pt.event || "").matchAll(/《([^》]+)》/g)].map((m) => m[1]);
+  if (!works.length) return;
+  activePoem.value = {
+    file: "/3d/poem.html?p=" + encodeURIComponent(works.join(",")),
+  };
+};
+const onPoemMessage = (e) => {
+  if (e.data && e.data.type === "poem-close") activePoem.value = null;
+};
+onMounted(() => window.addEventListener("message", onPoemMessage));
+onUnmounted(() => window.removeEventListener("message", onPoemMessage));
+
 // ---------- tooltip ----------
 const tip = ref({ visible: false, x: 0, y: 0, highlight: false, title: "", body: "" });
 const positionTip = (e) => {
@@ -756,6 +783,32 @@ const hideTip = () => {
 
 .curve-dot {
   cursor: pointer;
+}
+
+.poem3d-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(24, 12, 48, 0.55);
+  backdrop-filter: blur(6px);
+}
+.poem3d-frame {
+  position: relative;
+  width: min(1000px, 92vw);
+  height: min(680px, 88vh);
+  border-radius: 22px;
+  overflow: hidden;
+  background: #0b1020;
+  box-shadow: 0 24px 60px rgba(60, 20, 110, 0.5);
+}
+.poem3d-iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
 
 .reset-view-container {

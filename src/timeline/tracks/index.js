@@ -1,6 +1,6 @@
 // 由 tools/tracks-index.mjs 生成：按需导出指定诗人
 // 取消注释某行即启用该诗人；或运行 `node tools/tracks-index.mjs <诗人名...>` 批量切换
-// 当前启用 68 / 360 位
+// 当前启用 69 / 361 位
 // export { default as 丁谓 } from "./丁谓.js";
 // export { default as 丘崇 } from "./丘崇.js";
 // export { default as 严羽 } from "./严羽.js";
@@ -101,6 +101,7 @@ export { default as 张彻 } from "./张彻.js";
 // export { default as 张炎 } from "./张炎.js";
 export { default as 张籍 } from "./张籍.js";
 // export { default as 张耒 } from "./张耒.js";
+export { default as 张若虚 } from "./张若虚.js";
 // export { default as 张说 } from "./张说.js";
 // export { default as 张载 } from "./张载.js";
 // export { default as 徐俯 } from "./徐俯.js";
