@@ -1,2 +1,2 @@
-// 由 src/timeline/tracks/ 下各诗人文件整合（原始 CSV 生成脚本见 tools/import_tracks.py）
-export { poetTracks } from "./tracks/index.js";
+// 按需聚合：poetTracks 仅包含 src/timeline/tracks/index.js 中启用（未注释）的诗人
+export * as poetTracks from "./tracks/index.js";
