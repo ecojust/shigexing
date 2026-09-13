@@ -1,5 +1,7 @@
 <template>
   <div class="timeline-container">
+    <img src="/logo.png" alt="诗歌行" class="app-logo" />
+
     <h2 class="timeline-title">
       <span class="title-star">✦</span>
       <span class="title-main">唐宋诗人时间线</span>
@@ -863,6 +865,17 @@ const hideTip = () => {
     pointer-events: none;
     z-index: 0;
   }
+}
+
+.app-logo {
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  z-index: 20;
+  width: 58px;
+  height: 58px;
+  user-select: none;
+  -webkit-user-drag: none;
 }
 
 .timeline-title {
