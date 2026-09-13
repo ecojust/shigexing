@@ -354,7 +354,12 @@
               class="row-actions-fo"
             >
               <div class="row-actions">
-                <button class="row-action-btn" @click.stop="openVideo(row.poet)">
+                <button
+                  class="row-action-btn"
+                  :class="{ 'is-disabled': !hasVideo(row.poet) }"
+                  :disabled="!hasVideo(row.poet)"
+                  @click.stop="openVideo(row.poet)"
+                >
                   🎬 视频
                 </button>
                 <button class="row-action-btn" @click.stop="openGraph(row.poet)">
@@ -386,12 +391,82 @@
         <iframe class="poem3d-iframe" :src="poemPage.file" title="诗词 3D 解析" />
       </div>
     </div>
+
+    <div v-if="videoPoet" class="video-overlay" @click.self="closeVideo">
+      <div class="video-frame">
+        <div class="video-head">
+          <div class="video-head-main">
+            <span class="video-title">
+              <svg
+                class="video-title-icon"
+                viewBox="0 0 24 24"
+                width="18"
+                height="18"
+                aria-hidden="true"
+              >
+                <rect
+                  x="2"
+                  y="6"
+                  width="13"
+                  height="12"
+                  rx="2.5"
+                  fill="currentColor"
+                />
+                <path
+                  d="M16 10.2 21.4 7.4c.4-.2.9.1.9.5v8.2c0 .4-.5.7-.9.5L16 13.8z"
+                  fill="currentColor"
+                />
+              </svg>
+              {{ videoPoet.name }}
+            </span>
+            <span v-if="videoPoet.owner" class="video-owner">
+              来自b站up主 {{ videoPoet.owner }}
+            </span>
+          </div>
+          <div class="video-head-actions">
+            <a
+              v-if="videoPoet.url"
+              class="video-src"
+              :href="videoPoet.url"
+              target="_blank"
+              rel="noopener"
+            >
+              原视频
+            </a>
+            <button class="video-close" @click="closeVideo">✕</button>
+          </div>
+        </div>
+        <div v-if="videoPoet.loading" class="video-status">正在获取视频…</div>
+        <video
+          v-else-if="videoPoet.src"
+          class="video-player"
+          :src="videoPoet.src"
+          controls
+          autoplay
+          playsinline
+          referrerpolicy="no-referrer"
+          @error="onVideoError"
+        ></video>
+        <div v-else class="video-status">
+          视频加载失败，<a
+            v-if="videoPoet.url"
+            :href="videoPoet.url"
+            target="_blank"
+            rel="noopener"
+            >去 B 站观看</a
+          >
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <script setup>
 import { ref, computed, onMounted, onUnmounted, defineAsyncComponent } from "vue";
+import { ElMessage } from "element-plus";
 import { poetTracks } from "../timeline/tracks.js";
+import { getPoetVideo } from "../timeline/videos.js";
+import { TauriFetch } from "../types/tauri-fetch";
 import { getAllEmperors } from "./timeline-modules/data-processor.js";
 
 const PoetGraph = defineAsyncComponent(() => import("./PoetGraph.vue"));
@@ -635,9 +710,63 @@ const openGraph = (poet) => {
   graphFocus.value = poet ? poet.name : "";
   graphOpen.value = true;
 };
-const openVideo = (poet) => {
-  // 视频功能待实现
+const videoPoet = ref(null);
+const hasVideo = (poet) => !!getPoetVideo(poet?.name);
+
+// 经 Tauri 后端请求 B 站 playurl，获取可直连播放的视频地址（有时效，播放时实时获取）
+const resolveVideoUrl = async (video) => {
+  const api =
+    `https://api.bilibili.com/x/player/playurl?bvid=${video.bvid}` +
+    `&cid=${video.cid}&qn=80&fnval=1&platform=html5&high_quality=1`;
+  const res = await TauriFetch.json(api, {
+    headers: {
+      Referer: "https://www.bilibili.com",
+      "User-Agent": navigator.userAgent,
+    },
+  });
+  return (
+    res?.data?.durl?.[0]?.url || res?.data?.dash?.video?.[0]?.baseUrl || ""
+  );
 };
+
+const openVideo = async (poet) => {
+  if (!poet) return;
+  const video = getPoetVideo(poet.name);
+  if (!video) {
+    ElMessage.info(`暂未收录「${poet.name}」的视频`);
+    return;
+  }
+  videoPoet.value = {
+    name: poet.name,
+    ...video,
+    src: "",
+    loading: true,
+    error: false,
+  };
+  const token = video.bvid;
+  const isCurrent = () =>
+    videoPoet.value && videoPoet.value.bvid === token;
+  try {
+    const src = await resolveVideoUrl(video);
+    if (!isCurrent()) return;
+    videoPoet.value = { ...videoPoet.value, src, loading: false, error: !src };
+  } catch (e) {
+    if (!isCurrent()) return;
+    videoPoet.value = { ...videoPoet.value, loading: false, error: true };
+  }
+};
+const onVideoError = () => {
+  if (videoPoet.value)
+    videoPoet.value = { ...videoPoet.value, src: "", error: true };
+};
+const closeVideo = () => {
+  videoPoet.value = null;
+};
+const onKeydown = (e) => {
+  if (e.key === "Escape" && videoPoet.value) closeVideo();
+};
+onMounted(() => window.addEventListener("keydown", onKeydown));
+onUnmounted(() => window.removeEventListener("keydown", onKeydown));
 
 // ---------- 名句 3D 解析 ----------
 // 名诗详情页 public/3d/poem.html，每首配置见 public/3d/poems/（按需加载）
@@ -845,6 +974,18 @@ const hideTip = () => {
     transform: translateY(-1px) scale(1.05);
     box-shadow: 0 6px 14px rgba(245, 118, 178, 0.5);
   }
+  &:disabled,
+  &.is-disabled {
+    cursor: not-allowed;
+    color: #f1ecf7;
+    background: #cfc6dd;
+    box-shadow: none;
+    opacity: 0.7;
+    &:hover {
+      transform: none;
+      box-shadow: none;
+    }
+  }
 }
 
 .poem3d-overlay {
@@ -871,6 +1012,108 @@ const hideTip = () => {
   width: 100%;
   height: 100%;
   border: 0;
+}
+
+.video-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 210;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(24, 12, 48, 0.55);
+  backdrop-filter: blur(6px);
+}
+.video-frame {
+  position: relative;
+  width: min(960px, 92vw);
+  border-radius: 22px;
+  overflow: hidden;
+  background: #0b1020;
+  box-shadow: 0 24px 60px rgba(60, 20, 110, 0.5);
+}
+.video-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  color: #000;
+  background: linear-gradient(135deg, #ffd3a5 0%, #fd9bd6 100%);
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.video-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 16px;
+  color: #000;
+}
+.video-title-icon {
+  flex: none;
+  display: block;
+}
+.video-head-main {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+.video-owner {
+  font-size: 12px;
+  font-weight: 600;
+  color: #2b2438;
+}
+.video-head-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.video-src {
+  color: #000;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.08);
+  transition: background 0.15s;
+  &:hover {
+    background: rgba(0, 0, 0, 0.16);
+  }
+}
+.video-close {
+  border: none;
+  cursor: pointer;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  color: #000;
+  font-size: 14px;
+  line-height: 1;
+  background: rgba(0, 0, 0, 0.08);
+  transition: background 0.15s, transform 0.15s;
+  &:hover {
+    background: rgba(0, 0, 0, 0.16);
+    transform: scale(1.08);
+  }
+}
+.video-player {
+  display: block;
+  width: 100%;
+  max-height: 78vh;
+  background: #000;
+}
+.video-status {
+  padding: 60px 20px;
+  text-align: center;
+  color: #cbb8e6;
+  font-size: 14px;
+  a {
+    color: #fd9bd6;
+    font-weight: 700;
+  }
 }
 
 .reset-view-container {
