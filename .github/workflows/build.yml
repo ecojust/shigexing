@@ -49,7 +49,7 @@ jobs:
 
       # Install pnpm globally
       - name: Install pnpm
-        run: npm install -g pnpm
+        run: npm install -g pnpm@10
 
       # Install frontend dependencies
       - name: Install frontend dependencies
