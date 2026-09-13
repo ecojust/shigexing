@@ -9,12 +9,30 @@
       <span class="title-star">✦</span>
     </h2>
 
+    <button class="info-btn" @click="infoOpen = true" aria-label="关于诗歌行">
+      <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+        <circle
+          cx="12"
+          cy="12"
+          r="9.2"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.8"
+        />
+        <circle cx="12" cy="7.8" r="1.4" fill="currentColor" />
+        <rect
+          x="10.85"
+          y="10.6"
+          width="2.3"
+          height="7"
+          rx="1.15"
+          fill="currentColor"
+        />
+      </svg>
+    </button>
+
     <div class="reset-view-container">
-      <button
-        @click="resetView"
-        class="reset-view-btn"
-        aria-label="回到最上面"
-      >
+      <button @click="resetView" class="reset-view-btn" aria-label="回到最上面">
         <span class="reset-icon">
           <svg
             class="rocket-svg"
@@ -364,7 +382,10 @@
                 >
                   🎬 视频
                 </button>
-                <button class="row-action-btn" @click.stop="openGraph(row.poet)">
+                <button
+                  class="row-action-btn"
+                  @click.stop="openGraph(row.poet)"
+                >
                   🕸 图谱
                 </button>
               </div>
@@ -386,11 +407,41 @@
       <div class="tip-body">{{ tip.body }}</div>
     </div>
 
-    <PoetGraph v-if="graphOpen" :focus="graphFocus" @close="graphOpen = false" />
+    <PoetGraph
+      v-if="graphOpen"
+      :focus="graphFocus"
+      @close="graphOpen = false"
+    />
+
+    <div v-if="infoOpen" class="info-overlay" @click.self="infoOpen = false">
+      <div class="info-card">
+        <button class="info-close" @click="infoOpen = false" aria-label="关闭">
+          ✕
+        </button>
+        <img src="/logo.png" alt="诗歌行" class="info-logo" />
+        <h3 class="info-name">诗歌行</h3>
+        <p class="info-version">版本 v0.1.0</p>
+        <p class="info-desc">
+          跟着诗人一起旅行。以朝代为纲、年龄为轴，可视化唐宋诗人的生命轨迹、交游关系与相关视频。
+        </p>
+        <div class="info-meta">
+          <p>作者：桔子桑</p>
+        </div>
+
+        <div class="info-qr">
+          <img src="/qrcode.jpg" alt="扫码关注诗歌行" />
+          <p>扫码关注 / 反馈</p>
+        </div>
+      </div>
+    </div>
 
     <div v-if="poemPage" class="poem3d-overlay" @click.self="activePoem = null">
       <div class="poem3d-frame">
-        <iframe class="poem3d-iframe" :src="poemPage.file" title="诗词 3D 解析" />
+        <iframe
+          class="poem3d-iframe"
+          :src="poemPage.file"
+          title="诗词 3D 解析"
+        />
       </div>
     </div>
 
@@ -474,7 +525,13 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted, defineAsyncComponent } from "vue";
+import {
+  ref,
+  computed,
+  onMounted,
+  onUnmounted,
+  defineAsyncComponent,
+} from "vue";
 import { ElMessage } from "element-plus";
 import { poetTracks } from "../timeline/tracks.js";
 import { getPoetVideo } from "../timeline/videos.js";
@@ -715,6 +772,9 @@ onMounted(() => {
   onUnmounted(() => window.removeEventListener("resize", updateViewW));
 });
 
+// ---------- 软件信息 ----------
+const infoOpen = ref(false);
+
 // ---------- 诗人操作 / 关系图谱 ----------
 const graphOpen = ref(false);
 const graphFocus = ref("");
@@ -776,8 +836,7 @@ const openVideo = async (poet) => {
       `&cid=${video.cid}&autoplay=1&high_quality=1&danmaku=0`,
   };
   const token = video.bvid;
-  const isCurrent = () =>
-    videoPoet.value && videoPoet.value.bvid === token;
+  const isCurrent = () => videoPoet.value && videoPoet.value.bvid === token;
   try {
     const src = await resolveVideoUrl(video);
     if (!isCurrent()) return;
@@ -819,7 +878,9 @@ const poemPage = computed(() => activePoem.value);
 const onNodeClick = (pt) => {
   if (!pt.highlight) return;
   hideTip();
-  const works = [...(pt.event || "").matchAll(/《([^》]+)》/g)].map((m) => m[1]);
+  const works = [...(pt.event || "").matchAll(/《([^》]+)》/g)].map(
+    (m) => m[1],
+  );
   if (!works.length) return;
   activePoem.value = {
     file: "/3d/poem.html?p=" + encodeURIComponent(works.join(",")),
@@ -832,7 +893,14 @@ onMounted(() => window.addEventListener("message", onPoemMessage));
 onUnmounted(() => window.removeEventListener("message", onPoemMessage));
 
 // ---------- tooltip ----------
-const tip = ref({ visible: false, x: 0, y: 0, highlight: false, title: "", body: "" });
+const tip = ref({
+  visible: false,
+  x: 0,
+  y: 0,
+  highlight: false,
+  title: "",
+  body: "",
+});
 const positionTip = (e) => {
   let x = e.clientX + 14,
     y = e.clientY + 14;
@@ -1024,7 +1092,9 @@ const hideTip = () => {
   background: linear-gradient(135deg, #ffd3a5 0%, #fd9bd6 100%);
   box-shadow: 0 3px 10px rgba(245, 118, 178, 0.35);
   white-space: nowrap;
-  transition: transform 0.15s, box-shadow 0.15s;
+  transition:
+    transform 0.15s,
+    box-shadow 0.15s;
   &:hover {
     transform: translateY(-1px) scale(1.05);
     box-shadow: 0 6px 14px rgba(245, 118, 178, 0.5);
@@ -1148,7 +1218,9 @@ const hideTip = () => {
   font-size: 14px;
   line-height: 1;
   background: rgba(0, 0, 0, 0.08);
-  transition: background 0.15s, transform 0.15s;
+  transition:
+    background 0.15s,
+    transform 0.15s;
   &:hover {
     background: rgba(0, 0, 0, 0.16);
     transform: scale(1.08);
@@ -1247,6 +1319,130 @@ const hideTip = () => {
     font-size: 11px;
     font-weight: 800;
     vertical-align: middle;
+  }
+}
+
+.info-btn {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  z-index: 30;
+  width: 46px;
+  height: 46px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  color: #6a4fa8;
+  background: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 6px 18px rgba(150, 120, 200, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.25s;
+  &:hover {
+    transform: translateY(-2px) scale(1.06);
+    color: #ff7fb0;
+    box-shadow: 0 10px 26px rgba(150, 120, 200, 0.5);
+  }
+}
+
+.info-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(24, 12, 48, 0.55);
+  backdrop-filter: blur(6px);
+}
+
+.info-card {
+  position: relative;
+  width: min(420px, 90vw);
+  max-height: 88vh;
+  overflow-y: auto;
+  padding: 30px 30px 24px;
+  border-radius: 22px;
+  text-align: center;
+  color: #5c4a86;
+  font-family: inherit;
+  background: linear-gradient(160deg, #fff9f2, #f6efff 60%, #eef6ff);
+  box-shadow: 0 24px 60px rgba(60, 20, 110, 0.5);
+}
+
+.info-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  border: none;
+  background: transparent;
+  font-size: 18px;
+  color: #a58bc9;
+  cursor: pointer;
+}
+
+.info-logo {
+  width: 72px;
+  height: 72px;
+}
+
+.info-name {
+  margin: 10px 0 2px;
+  font-size: 22px;
+  color: #6a4fa8;
+  letter-spacing: 2px;
+}
+
+.info-version {
+  margin: 0 0 14px;
+  font-size: 12px;
+  color: #a58bc9;
+}
+
+.info-desc {
+  margin: 0 0 16px;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.info-meta {
+  margin: 0 auto 16px;
+  padding: 12px 16px;
+  border-radius: 14px;
+  text-align: left;
+  font-size: 12.5px;
+  line-height: 2;
+  background: rgba(150, 120, 200, 0.1);
+  p {
+    margin: 0;
+  }
+}
+
+.info-links {
+  a {
+    color: #ff7fb0;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.info-qr {
+  margin-top: 18px;
+  img {
+    width: 180px;
+    height: 180px;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(150, 120, 200, 0.3);
+  }
+  p {
+    margin: 8px 0 0;
+    font-size: 12px;
+    color: #a58bc9;
   }
 }
 </style>
