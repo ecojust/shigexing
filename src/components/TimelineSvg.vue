@@ -156,12 +156,9 @@
               font-weight="800"
             >
               {{ row.poet.name }}
-              <tspan
-                dx="6"
-                font-size="12"
-                font-weight="600"
-                fill="#a89ad0"
-              >（{{ row.poet.birth }}—{{ row.poet.death }}）</tspan>
+              <tspan dx="6" font-size="12" font-weight="600" fill="#a89ad0">
+                （{{ row.poet.birth }}—{{ row.poet.death }}）
+              </tspan>
             </text>
 
             <!-- 曲线：面积 + 折线 -->
@@ -296,7 +293,6 @@
 
 <script setup>
 import { ref, computed, onMounted, onUnmounted } from "vue";
-import poets from "../timeline/poets.js";
 import { poetTracks } from "../timeline/tracks.js";
 import { getAllEmperors } from "./timeline-modules/data-processor.js";
 
@@ -375,10 +371,16 @@ function kingColorOf(year) {
 const allPoets = computed(() =>
   Object.values(poetTracks)
     .filter((tr) => Array.isArray(tr.life) && tr.life.length >= 1)
-    .filter((tr) => typeof tr.birth === "number" && typeof tr.death === "number")
+    .filter(
+      (tr) => typeof tr.birth === "number" && typeof tr.death === "number",
+    )
     .map((tr) => {
-      const meta = poets.find((p) => p.name === tr.name) || {};
-      return { ...meta, name: tr.name, birth: tr.birth, death: tr.death, life: tr.life };
+      return {
+        name: tr.name,
+        birth: tr.birth,
+        death: tr.death,
+        life: tr.life,
+      };
     }),
 );
 function dynastyOf(year) {
@@ -478,8 +480,20 @@ const sections = computed(() => {
       row.areaPath = linePath ? areaPath : "";
       const em = emperorOf(p.birth);
       row.era = em
-        ? { dyn: d.name, color: kingColorOf(p.birth), name: em.name, start: em.start, end: em.end }
-        : { dyn: d.name, color: d.color, name: "", start: sec.start, end: sec.end };
+        ? {
+            dyn: d.name,
+            color: kingColorOf(p.birth),
+            name: em.name,
+            start: em.start,
+            end: em.end,
+          }
+        : {
+            dyn: d.name,
+            color: d.color,
+            name: "",
+            start: sec.start,
+            end: sec.end,
+          };
       y += ROW_H;
     });
     secs.push(sec);

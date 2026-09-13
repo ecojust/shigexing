@@ -39,6 +39,9 @@ for path in sorted(glob.glob("src/datacsv/*.csv")):
             # 过滤明显是后代/后人追述、非诗人本人行迹的杂行
             if any(k in activity for k in ["世孙", "裔孙", "后裔", "七世", "子孙", "家谱", "族谱", "后人追述", "后世"]):
                 continue
+            # 过滤卒后被追封、赐谥、入祀等"荣誉记录"：它们有年份和年岁，但会错误拉长生卒年
+            if any(k in activity for k in ["追赠", "追封", "追赐", "追认", "赐谥", "谥号", "入祀", "从祀", "祔葬", "迁葬", "修墓", "立碑", "建祠"]):
+                continue
             y = clean(r.get("年份"))
             if not y.isdigit():
                 continue
@@ -74,8 +77,14 @@ for path in sorted(glob.glob("src/datacsv/*.csv")):
         else:
             post[y] = recs[:1]
     # 出生年取最小年份
-    def place_for(recs):
-        r = next((x for x in recs if x["city"] and x["county"]), recs[0])
+    def location(recs):
+        """地点标签与经纬度必须取自同一行，避免市/县与经纬度来自不同记录"""
+        for r in recs:
+            if r["lng"] and r["lat"] and r["lng"] != "0" and r["lat"] != "0":
+                return r
+        return recs[0]
+
+    def place_for(r):
         return f"{r['city']}（{r['county']}）" if r["city"] and r["county"] else (r["city"] or r["county"] or "")
 
     def event_for(recs):
@@ -88,13 +97,14 @@ for path in sorted(glob.glob("src/datacsv/*.csv")):
     years_list = []
     for y in sorted(post):
         recs = post[y]
+        r = location(recs)
         years_list.append({
             "time": y,
             "value": year_value(recs),
             "event": event_for(recs),
-            "place": place_for(recs),
-            "lng": recs[0]["lng"],
-            "lat": recs[0]["lat"],
+            "place": place_for(r),
+            "lng": r["lng"],
+            "lat": r["lat"],
         })
     out[name] = {
         "name": name,
