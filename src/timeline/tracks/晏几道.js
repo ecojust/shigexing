@@ -5,7 +5,7 @@ export default {
  "death": 1110,
  "life": [
   {
-   "time": 1046,
+   "time": 1030,
    "value": 1,
    "event": "大约生于此年，姑系于此。",
    "place": "阜阳市",
@@ -520,138 +520,10 @@ export default {
   {
    "time": 1110,
    "value": 1,
-   "event": "本年前后，任鸿胪卿，姑系于此。",
+   "event": "本年前后，任鸿胪卿，姑系于此。约卒于本年。",
    "place": "开封市",
    "lng": "114.313904",
    "lat": "34.802941"
-  },
-  {
-   "time": 1111,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1112,
-   "value": 4,
-   "event": "年未至乞身致仕，退居京城赐第。",
-   "place": "开封市",
-   "lng": "114.313904",
-   "lat": "34.802941"
-  },
-  {
-   "time": 1113,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1114,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1115,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1116,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1117,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1118,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1119,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1120,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1121,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1122,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1123,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1124,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1125,
-   "value": 1,
-   "event": "不详",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
-  },
-  {
-   "time": 1126,
-   "value": 1,
-   "event": "死于战乱之中。",
-   "place": "",
-   "lng": "0",
-   "lat": "0"
   }
  ]
 };
