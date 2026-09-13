@@ -4,7 +4,7 @@
 
     <h2 class="timeline-title">
       <span class="title-star">✦</span>
-      <span class="title-main">唐宋诗人时间线</span>
+      <span class="title-main">诗人时间线</span>
       <span class="title-sub">跟着诗人一起旅行吧～</span>
       <span class="title-star">✦</span>
     </h2>
@@ -439,6 +439,14 @@
           </div>
         </div>
         <div v-if="videoPoet.loading" class="video-status">正在获取视频…</div>
+        <iframe
+          v-else-if="videoPoet.mode === 'iframe'"
+          class="video-iframe"
+          :src="videoPoet.iframe"
+          allow="autoplay; fullscreen; encrypted-media"
+          allowfullscreen
+          frameborder="0"
+        ></iframe>
         <video
           v-else-if="videoPoet.src"
           class="video-player"
@@ -447,6 +455,8 @@
           autoplay
           playsinline
           referrerpolicy="no-referrer"
+          @canplay="onVideoReady"
+          @playing="onVideoReady"
           @error="onVideoError"
         ></video>
         <div v-else class="video-status">
@@ -714,6 +724,13 @@ const openGraph = (poet) => {
 };
 const videoPoet = ref(null);
 const hasVideo = (poet) => !!getPoetVideo(poet?.name);
+let videoFallbackTimer = null;
+const clearFallbackTimer = () => {
+  if (videoFallbackTimer) {
+    clearTimeout(videoFallbackTimer);
+    videoFallbackTimer = null;
+  }
+};
 
 // 经 Tauri 后端请求 B 站 playurl，获取可直连播放的视频地址（有时效，播放时实时获取）
 const resolveVideoUrl = async (video) => {
@@ -731,6 +748,14 @@ const resolveVideoUrl = async (video) => {
   );
 };
 
+// 打包后 WKWebView 自定义协议下直链可能无法播放，回退到 B 站官方内嵌播放器
+const useIframeFallback = () => {
+  clearFallbackTimer();
+  if (videoPoet.value && videoPoet.value.mode !== "iframe") {
+    videoPoet.value = { ...videoPoet.value, mode: "iframe", loading: false };
+  }
+};
+
 const openVideo = async (poet) => {
   if (!poet) return;
   const video = getPoetVideo(poet.name);
@@ -738,12 +763,17 @@ const openVideo = async (poet) => {
     ElMessage.info(`暂未收录「${poet.name}」的视频`);
     return;
   }
+  clearFallbackTimer();
   videoPoet.value = {
     name: poet.name,
     ...video,
     src: "",
+    mode: "video",
     loading: true,
     error: false,
+    iframe:
+      `https://player.bilibili.com/player.html?bvid=${video.bvid}` +
+      `&cid=${video.cid}&autoplay=1&high_quality=1&danmaku=0`,
   };
   const token = video.bvid;
   const isCurrent = () =>
@@ -751,17 +781,29 @@ const openVideo = async (poet) => {
   try {
     const src = await resolveVideoUrl(video);
     if (!isCurrent()) return;
-    videoPoet.value = { ...videoPoet.value, src, loading: false, error: !src };
+    if (!src) {
+      useIframeFallback();
+      return;
+    }
+    videoPoet.value = { ...videoPoet.value, src, loading: false, error: false };
+    // 直链迟迟未就绪则回退官方播放器
+    clearFallbackTimer();
+    videoFallbackTimer = setTimeout(() => {
+      if (isCurrent() && videoPoet.value.mode === "video") useIframeFallback();
+    }, 5000);
   } catch (e) {
     if (!isCurrent()) return;
-    videoPoet.value = { ...videoPoet.value, loading: false, error: true };
+    useIframeFallback();
   }
 };
+const onVideoReady = () => {
+  clearFallbackTimer();
+};
 const onVideoError = () => {
-  if (videoPoet.value)
-    videoPoet.value = { ...videoPoet.value, src: "", error: true };
+  useIframeFallback();
 };
 const closeVideo = () => {
+  clearFallbackTimer();
   videoPoet.value = null;
 };
 const onKeydown = (e) => {
@@ -1116,6 +1158,13 @@ const hideTip = () => {
   display: block;
   width: 100%;
   max-height: 78vh;
+  background: #000;
+}
+.video-iframe {
+  display: block;
+  width: 100%;
+  height: min(78vh, 560px);
+  border: 0;
   background: #000;
 }
 .video-status {
